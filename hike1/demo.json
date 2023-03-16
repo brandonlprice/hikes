@@ -57,7 +57,7 @@
 		  }
 		}
 	  ],
-	  "map_type": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+	  "map_type": "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png",
 	  "call_to_action_text": "",
 	  "map_as_image": false,
 	  "map_subdomains": ""
