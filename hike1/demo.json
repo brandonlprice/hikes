@@ -57,7 +57,7 @@
 		  }
 		}
 	  ],
-	  "map_type": "osm:standard",
+	  "map_type": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
 	  "call_to_action_text": "",
 	  "map_as_image": false,
 	  "map_subdomains": ""
