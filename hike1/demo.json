@@ -59,7 +59,6 @@
 	  ],
 	  "map_type": "https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
 	  "call_to_action_text": "",
-	  "map_as_image": false,
-		"map_subdomains": "xyz"
+	  "map_as_image": false
 	}
   }
