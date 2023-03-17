@@ -61,6 +61,6 @@
 	  "call_to_action_text": "",
 	  "map_as_image": false,
 		"map_subdomains":"xyz",
-		calculate_zoom: false
+		"calculate_zoom": false
 	}
   }
