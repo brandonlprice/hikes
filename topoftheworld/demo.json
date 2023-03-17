@@ -31,7 +31,7 @@
 			"lat": 34.2694474,
 			"line": true,
 			"lon": -118.78148199999998,
-			"zoom": 22
+			"zoom": 23
 		  },
 		  "text": {
 			"headline": "OUTSIDE THE WALLS",
@@ -46,14 +46,14 @@
 			"credit": ""
 		  },
 		  "location": {
-			"lat": 36.9741,
+			"lat": 33.584361,
 			"line": true,
-			"lon": -122.0308,
-			"zoom": 22
+			"lon": -117.749674,
+			"zoom": 23
 		  },
 		  "text": {
-			"headline": "Everything broken",
-			"text": "Nothing works.\n\nEverything is broken."
+			"headline": "Hollyleaf, Aliso Viejo",
+			"text": "Park along this street."
 		  }
 		}
 	  ],
