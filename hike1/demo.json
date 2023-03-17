@@ -57,7 +57,7 @@
 		  }
 		}
 	  ],
-	  "map_type": "https://google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}",
+	  "map_type": "http://google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}",
 	  "call_to_action_text": "",
 	  "map_as_image": false
 	}
