@@ -57,9 +57,8 @@
 		  }
 		}
 	  ],
-	  "map_type": "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png",
+	  "map_type": "https://basemaps.cartocdn.com/rastertiles/voyager/%7Bz%7D/%7Bx%7D/%7By%7D.png",
 	  "call_to_action_text": "",
-	  "map_as_image": false,
-	  "map_subdomains": "zxyr"
+	  "map_as_image": false
 	}
   }
