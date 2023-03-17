@@ -28,14 +28,14 @@
 			"credit": ""
 		  },
 		  "location": {
-			"lat": 34.2694474,
+			"lat": 33.584347,
 			"line": true,
-			"lon": -118.78148199999998,
-			"zoom": 23
+			"lon": -117.749657,
+			"zoom": 24
 		  },
 		  "text": {
-			"headline": "OUTSIDE THE WALLS",
-			"text": "Violence.<br><br>Chaos."
+			"headline": "Starting Point: Hollyleaf, Aliso Viejo",
+			"text": "Park along Hollyeaf where it dead ends into a cul-de-sac. Better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 		  }
 		},
 		{
@@ -46,10 +46,10 @@
 			"credit": ""
 		  },
 		  "location": {
-			"lat": 33.584361,
+			"lat": 33.583712,
 			"line": true,
-			"lon": -117.749674,
-			"zoom": 23
+			"lon": -117.749794,
+			"zoom": 24
 		  },
 		  "text": {
 			"headline": "Hollyleaf, Aliso Viejo",
