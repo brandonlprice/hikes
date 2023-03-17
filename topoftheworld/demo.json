@@ -31,7 +31,7 @@
 			"lat": 34.2694474,
 			"line": true,
 			"lon": -118.78148199999998,
-			"zoom": 10
+			"zoom": 22
 		  },
 		  "text": {
 			"headline": "OUTSIDE THE WALLS",
@@ -49,7 +49,7 @@
 			"lat": 36.9741,
 			"line": true,
 			"lon": -122.0308,
-			"zoom": 15
+			"zoom": 22
 		  },
 		  "text": {
 			"headline": "Everything broken",
