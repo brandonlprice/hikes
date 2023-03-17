@@ -34,7 +34,7 @@
 			"zoom": 24
 		  },
 		  "text": {
-			"headline": "Starting Point: <small>Hollyleaf, Aliso Viejo</small>",
+			"headline": "Parking: <small>Hollyleaf, Aliso Viejo</small>",
 			"text": "Park along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 		  }
 		},
@@ -46,9 +46,9 @@
 			"credit": ""
 		  },
 		  "location": {
-			"lat": 33.584742,
+			"lat": 33.584646, 
 			"line": true,
-			"lon": -117.749732,
+			"lon": -117.749791
 			"zoom": 24
 		  },
 		  "text": {
