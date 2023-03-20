@@ -8,7 +8,7 @@
 		  "date": "",
 		  "media": {
 			"url": "images/topoftheworld.JPG",
-			"caption": "Top of the World, Laguna Beach, Summer 2021",
+			"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
 			"credit": ""
 		  },
 		  "type": "overview",
@@ -90,6 +90,24 @@
 		  "text": {
 			"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
 			"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+		  }
+		},
+		    	{
+		  "date": "",
+		  "media": {
+			"url": "images/IMG_6.JPG",
+			"caption": "<i>Views of Wood Canyon to the east.</i>",
+			"credit": ""
+		  },
+		  "location": {
+			"lat": 33.581783,
+			"line": true,
+			"lon": -117.752762,
+			"zoom": 26
+		  },
+		  "text": {
+			"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+			"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
 		  }
 		}
 	  ],
