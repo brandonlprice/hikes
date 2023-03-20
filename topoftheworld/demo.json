@@ -145,6 +145,24 @@
 			"headline": "<h6 style='color:red;'>Nearing the End</h6>",
 			"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
 		  }
+		},
+		        	{
+		  "date": "",
+		  "media": {
+			"url": "images/topoftheworld.jpeg",
+			"caption": "<i>Entering Top of the World</i>",
+			"credit": ""
+		  },
+		  "location": {
+			"lat": 33.556314,
+			"line": true,
+			"lon": -117.7603612,
+			"zoom": 26
+		  },
+		  "text": {
+			"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
+			"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+		  }
 		}
 	  ],
 	  "map_type": "http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
