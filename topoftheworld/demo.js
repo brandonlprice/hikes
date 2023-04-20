@@ -33,11 +33,11 @@ let demojs={
 				"caption": "Outside the walls, a riot ensues",
 				"credit": ""
 			},
-			"location": {
-				"lat": 33.584347,
+			"location": { 
+				"lat": 33.584388089733466,
 				"line": false,
-				"lon": -117.749657,
-				"zoom": 22
+				"lon": -117.74964942795586,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
