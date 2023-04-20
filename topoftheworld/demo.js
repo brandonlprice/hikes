@@ -34,14 +34,14 @@ let demojs={
 				"credit": ""
 			},
 			"location": { 
-				"lat": 33.584388089733466,
+				"lat": 33.5844,
 				"line": false,
-				"lon": -117.74964942795586,
+				"lon": -117.7496,
 				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "Park along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
 			{
@@ -52,10 +52,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.584646, 
+				"lat": 33.5847, 
 				"line": false,
-				"lon": -117.749791,
-				"zoom": 22
+				"lon": -117.7497,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
@@ -70,10 +70,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.583712,
+				"lat": 33.5837,
 				"line": false,
-				"lon": -117.749794,
-				"zoom": 22
+				"lon": -117.7498,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
@@ -88,10 +88,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.581783,
+				"lat": 	33.5828,
 				"line": false,
-				"lon": -117.752762,
-				"zoom": 22
+				"lon": -117.7511,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
@@ -106,10 +106,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577671,
+				"lat": 33.5776,
 				"line": false,
-				"lon": -117.754978,
-				"zoom": 22
+				"lon": -117.7550,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
@@ -124,10 +124,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.563683,
+				"lat": 33.5637,
 				"line": false,
-				"lon": -117.757591,
-				"zoom": 22
+				"lon": -117.7575,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
@@ -142,10 +142,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.561660,
+				"lat": 33.5616,
 				"line": false,
-				"lon": -117.759342,
-				"zoom": 22
+				"lon": -117.7593,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
@@ -160,10 +160,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.556314,
+				"lat": 33.5563,
 				"line": false,
-				"lon": -117.7603612,
-				"zoom": 22
+				"lon": -117.7604,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
@@ -178,10 +178,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557583,
+				"lat": 33.5576,
 				"line": false,
-				"lon": -117.760820,
-				"zoom": 22
+				"lon": -117.7609,
+				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Top of the World</h6>",
