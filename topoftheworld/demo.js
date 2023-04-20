@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://images.pexels.com/photos/4636148/pexels-photo-4636148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"url": "images/parking.jpeg",
 				"caption": "Outside the walls, a riot ensues",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://images.pexels.com/photos/946435/pexels-photo-946435.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+				"url": "images/entrance.jpeg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://images.pexels.com/photos/946435/pexels-photo-946435.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+				"url": "images/trailhead.jpeg",
 				"caption": "",
 				"credit": ""
 			},
