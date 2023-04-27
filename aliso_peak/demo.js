@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "images/IMG_3997_5_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
