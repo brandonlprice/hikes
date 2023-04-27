@@ -70,9 +70,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5130,
+				"lat": 33.51296719266104,
 				"line": false,
-				"lon": -117.7359,
+				"lon": -117.73592200176955,
 				"zoom": 19
 			},
 			"text": {
