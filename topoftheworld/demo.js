@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "images/IMG_4.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5.JPG",
+				"url": "images/IMG_5.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6.JPG",
+				"url": "images/IMG_6.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7.JPG",
+				"url": "images/IMG_7.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -173,7 +173,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/topoftheworld2.JPG",
+				"url": "images/topoftheworld2.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
