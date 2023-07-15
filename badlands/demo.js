@@ -232,9 +232,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.4985,
+				"lat": 33.498459,
 				"line": false,
-				"lon": 	-117.7330,
+				"lon": 	-117.733067,
 				"zoom": 19
 			},
 			"text": {
@@ -250,9 +250,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.4993,
+				"lat": 	33.49924,
 				"line": false,
-				"lon": -117.7330,
+				"lon": -117.733063,
 				"zoom": 19
 			},
 			"text": {
@@ -268,9 +268,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.4992,
+				"lat": 	33.499221,
 				"line": false,
-				"lon": -117.7329,
+				"lon": -117.732869,
 				"zoom": 19
 			},
 			"text": {
