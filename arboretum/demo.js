@@ -29,14 +29,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/1st entrance.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.58439031741074,
+				"lat":  33.887998,
 				"line": false,
-				"lon": -117.74963056244559,
+				"lon": -117.884893,
 				"zoom": 19
 			},
 			"text": {
@@ -47,14 +47,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "images/entrance.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.887939, 
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.884706,
 				"zoom": 19
 			},
 			"text": {
@@ -65,14 +65,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "images/1.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.887618,
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.884009,
 				"zoom": 19
 			},
 			"text": {
@@ -83,14 +83,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "images/3.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.58210336055123,
+				"lat": 	33.887763,
 				"line": false,
-				"lon": -117.75212193690419,
+				"lon": -117.88381,
 				"zoom": 19
 			},
 			"text": {
@@ -101,14 +101,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5.JPG",
+				"url": "images/6.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577675362848936,
+				"lat": 33.887671,
 				"line": false,
-				"lon": -117.754954824902,
+				"lon": -117.882511,
 				"zoom": 19
 			},
 			"text": {
@@ -119,14 +119,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6.JPG",
+				"url": "images/8.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.887528,
 				"line": false,
-				"lon": -117.7575,
+				"lon": -117.88174,
 				"zoom": 19
 			},
 			"text": {
@@ -137,14 +137,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7.JPG",
+				"url": "images/9.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5616,
+				"lat": 33.886703,
 				"line": false,
-				"lon": -117.7593,
+				"lon": -117.882753,
 				"zoom": 19
 			},
 			"text": {
@@ -155,14 +155,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "images/10.jpg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.55627577298641,
+				"lat": 33.88659,
 				"line": false,
-				"lon": -117.7603500807199,
+				"lon": -117.882981,
 				"zoom": 19
 			},
 			"text": {
@@ -173,14 +173,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/topoftheworld2.JPG",
+				"url": "images/11.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.886323,
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.883107,
 				"zoom": 19
 			},
 			"text": {
