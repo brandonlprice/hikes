@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7135_11zon.jpg",
+				"url": "images/IMG_4377_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7137_11zon.jpg",
+				"url": "images/IMG_4380_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7138_11zon.jpg",
+				"url": "images/IMG_4381_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7142_11zon.jpg",
+				"url": "images/IMG_4382_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7151_11zon.jpg",
+				"url": "images/IMG_4383_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7152_11zon.jpg",
+				"url": "images/IMG_4384_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7217_11zon.jpg",
+				"url": "images/IMG_4385_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
