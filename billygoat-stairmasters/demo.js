@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "../redrock-cyn/images/IMG_7919_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5.JPG",
+				"url": "../redrock-cyn/images/IMG_7995_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6.JPG",
+				"url": "../redrock-cyn/images/IMG_7998_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
