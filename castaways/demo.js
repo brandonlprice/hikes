@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/IMG_6468_5_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "images/IMG_6466_4_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "images/IMG_6463_3_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "images/IMG_6440_1_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5.JPG",
+				"url": "images/IMG_6442_2_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6.JPG",
+				"url": "images/IMG_6445_3_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7.JPG",
+				"url": "images/IMG_6450_6_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -155,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "images/IMG_6457_10_11zon.jpg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
@@ -173,7 +173,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/topoftheworld2.JPG",
+				"url": "images/IMG_6460_12_11zon.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
