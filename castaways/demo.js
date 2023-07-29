@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6445_3_11zon.jpg",
+				"url": "images/691EC4FD-92E3-4BC7-AB07-91E37440FA84_11zon.jpeg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
