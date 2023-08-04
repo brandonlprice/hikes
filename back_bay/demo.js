@@ -209,6 +209,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/71001D94-0992-42F7-9CAC-80B33CC61711_11zon.jpeg",
+				"caption": "<i>Entering Top of the World</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.55627577298641,
+				"line": false,
+				"lon": -117.7603500807199,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
+				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+			}
+			} 
+			{
+			"date": "",
+			"media": {
 				"url": "images/5C4687CF-0107-4572-ACC0-5DF48B341615_11zon.jpeg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
