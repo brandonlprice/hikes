@@ -155,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_3920_5_11zon.jpg",
+				"url": "images/8C4E5A4B-AF96-44BC-9FAF-FBF12365621B_11zon.jpeg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
