@@ -83,6 +83,42 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/58540859-1BC3-4373-85BC-99ED1E751D83_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/3D35B15D-B47E-42A0-8069-6C68F8CE9951_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_0029_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
@@ -101,24 +137,6 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_3901_3_11zon.jpg",
-				"caption": "",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.58373173352325,
-				"line": false,
-				"lon": -117.74977338126365,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
-			}
-			},
-			{
-			"date": "",
-			"media": {
 				"url": "images/IMG_0030_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
@@ -132,6 +150,24 @@ let demojs={
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
 				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/4EBFD48C-6A31-4B69-8A71-139C00E0289F_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
 			}
 			},
 			{
@@ -173,7 +209,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_3921_6_11zon.jpg",
+				"url": "images/5C4687CF-0107-4572-ACC0-5DF48B341615_11zon.jpeg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
