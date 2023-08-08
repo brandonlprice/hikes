@@ -1,4 +1,5 @@
-	"storymap": {
+	let demojs={
+		"storymap": {
 		"calculate_zoom": false,
 		"attribution": "",
 		"call_to_action": false,
