@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/MG_7690_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -65,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9231_11zon.jpg",
+				"url": "images/E37E6E55-54B9-413E-914F-43EB077506C8_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
