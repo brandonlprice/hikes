@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/MG_7690_11zon.jpg",
+				"url": "../salt-creek/images/IMG_7690_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
