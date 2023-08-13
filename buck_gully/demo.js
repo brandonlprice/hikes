@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/28F8AED1-54A3-4142-9F82-39AF364D20E0_11zon.jpeg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "images/3DA2932B-9A67-4D9B-A63B-45DFC6C0C8D7_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +65,97 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "images/51302AD2-BDA3-4E7D-A2F2-8447579540C2_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/06A7CD45-C99C-479D-B1BC-54D0017C63B1_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/D3B863AA-917B-4E9F-B8C0-165ACDEFD7E7_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/2B2F6C4A-5275-4EA5-9949-7D593E9DBC0D_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/155A4C5D-7A5D-430B-9C07-483C80488F38_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/4CC34410-8E41-46D6-AA52-E4B5DD08BDF4_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
@@ -354,6 +444,78 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9976_11zon.jpg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/5671C41A-E47F-4C47-AA7A-07A93B49265D_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/4DC8F012-0AD2-48ED-BD92-9CF631F87F6E_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/4DC8F012-0AD2-48ED-BD92-9CF631F87F6E_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/EF38C98F-8E3F-4AEB-BEFB-A0059262A4F6_11zon.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
