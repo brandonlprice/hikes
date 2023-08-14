@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7934_11zon.jpg",
+				"url": "images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
