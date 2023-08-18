@@ -64,7 +64,7 @@ let demojs={
 			},{
 			"date": "",
 			"media": {
-				"url": "images/DE0B7C07-A0B4-44E9-8064-D046A8C07448_11zon.jpe",
+				"url": "images/DE0B7C07-A0B4-44E9-8064-D046A8C07448_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
