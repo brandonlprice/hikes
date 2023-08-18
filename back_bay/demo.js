@@ -13,7 +13,7 @@ let demojs={
 			{
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "images/24334DB1-13C7-4878-9DD6-142A81159EDD_11zon.jpeg",
 				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
 				"credit": ""
 			},
@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/8258ADF8-2FB7-4797-A51A-52C7D9CAF63B_11zon.jpeg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -42,6 +42,41 @@ let demojs={
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/AB43BB48-5E1C-466A-AA6B-228382C5ED48_11zon.jpeg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.5847, 
+				"line": false,
+				"lon": -117.7497,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+			}
+			},{
+			"date": "",
+			"media": {
+				"url": "images/DE0B7C07-A0B4-44E9-8064-D046A8C07448_11zon.jpe",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.5847, 
+				"line": false,
+				"lon": -117.7497,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
 			}
 			},
 			{
@@ -65,7 +100,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_0023_11zon.jpg",
+				"url": "images/EEECD17B-CF63-48C7-96B7-27D8018FB350_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
