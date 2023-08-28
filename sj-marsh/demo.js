@@ -13,7 +13,7 @@ let demojs={
 			{
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_7048_11zon.jpg",
+				"url": "images/IMG_7102_11zon.jpg",
 				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7070_11zon.jpg",
+				"url": "images/IMG_7102_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -155,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7102_11zon.jpg",
+				"url": "images/IMG_7070_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
