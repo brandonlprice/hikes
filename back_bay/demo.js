@@ -52,9 +52,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.622154, 
+				"lat": 33.622093,  
 				"line": false,
-				"lon": -117.889606,
+				"lon": -117.889616,
 				"zoom": 19
 			},
 			"text": {
@@ -69,9 +69,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.622842,  
+				"lat": 33.622842,   
 				"line": false,
-				"lon": -117.888999,
+				"lon": -117.888940,
 				"zoom": 19
 			},
 			"text": {
@@ -87,9 +87,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.623396,  
+				"lat": 33.623322,   
 				"line": false,
-				"lon": -117.887165,
+				"lon": -117.887159,
 				"zoom": 19
 			},
 			"text": {
@@ -105,9 +105,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.625290, 
+				"lat": 33.625215826565075,  
 				"line": false,
-				"lon": -117.884724,
+				"lon": -117.88469161910386,
 				"zoom": 19
 			},
 			"text": {
@@ -159,9 +159,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.630819, 
+				"lat": 	33.630807,  
 				"line": false,
-				"lon": -117.885180,
+				"lon": -117.885118,
 				"zoom": 19
 			},
 			"text": {
@@ -213,9 +213,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.640733, 
+				"lat": 33.640684,  
 				"line": false,
-				"lon": -117.886145,
+				"lon": -117.886121,
 				"zoom": 19
 			},
 			"text": {
@@ -231,9 +231,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.645687, 
+				"lat": 33.645652,
 				"line": false,
-				"lon": -117.875252,
+				"lon":  -117.875329,
 				"zoom": 19
 			},
 			"text": {
@@ -249,9 +249,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.645418, 
+				"lat": 33.645331, 
 				"line": false,
-				"lon": -117.872454 ,
+				"lon": -117.872698,
 				"zoom": 19
 			},
 			"text": {
