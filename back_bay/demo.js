@@ -34,9 +34,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.58439031741074,
+				"lat":  33.620617,
 				"line": false,
-				"lon": -117.74963056244559,
+				"lon": -117.890282,
 				"zoom": 19
 			},
 			"text": {
@@ -52,9 +52,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.622154, 
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.889606,
 				"zoom": 19
 			},
 			"text": {
@@ -69,9 +69,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.622842,  
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.888999,
 				"zoom": 19
 			},
 			"text": {
@@ -87,9 +87,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.623396,  
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.887165,
 				"zoom": 19
 			},
 			"text": {
@@ -105,9 +105,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.625290, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.884724,
 				"zoom": 19
 			},
 			"text": {
@@ -123,9 +123,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.628738, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.884375,
 				"zoom": 19
 			},
 			"text": {
@@ -141,9 +141,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.629555, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.885786,
 				"zoom": 19
 			},
 			"text": {
@@ -159,9 +159,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.58210336055123,
+				"lat": 	33.630819, 
 				"line": false,
-				"lon": -117.75212193690419,
+				"lon": -117.885180,
 				"zoom": 19
 			},
 			"text": {
@@ -177,9 +177,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577675362848936,
+				"lat": 33.630828, 
 				"line": false,
-				"lon": -117.754954824902,
+				"lon": -117.885464,
 				"zoom": 19
 			},
 			"text": {
@@ -195,9 +195,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.633419, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.884568,
 				"zoom": 19
 			},
 			"text": {
@@ -213,9 +213,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.640733, 
 				"line": false,
-				"lon": -117.7575,
+				"lon": -117.886145,
 				"zoom": 19
 			},
 			"text": {
@@ -231,9 +231,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5616,
+				"lat": 33.645687, 
 				"line": false,
-				"lon": -117.7593,
+				"lon": -117.875252,
 				"zoom": 19
 			},
 			"text": {
@@ -249,9 +249,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.55627577298641,
+				"lat": 33.645460, 
 				"line": false,
-				"lon": -117.7603500807199,
+				"lon": -117.872318,
 				"zoom": 19
 			},
 			"text": {
@@ -267,9 +267,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.55627577298641,
+				"lat": 33.645071, 
 				"line": false,
-				"lon": -117.7603500807199,
+				"lon": -117.870988,
 				"zoom": 19
 			},
 			"text": {
