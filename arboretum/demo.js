@@ -196,9 +196,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.887528,
+				"lat": 33.886893792694565, 
 				"line": false,
-				"lon": -117.88174,
+				"lon": -117.88263797375889,
 				"zoom": 19
 			},
 			"text": {
@@ -214,9 +214,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886703,
+				"lat": 33.886605446402065, 
 				"line": false,
-				"lon": -117.882753,
+				"lon": -117.88298800203492,
 				"zoom": 19
 			},
 			"text": {
@@ -232,9 +232,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.88659,
+				"lat": 33.8863427052938, 
 				"line": false,
-				"lon": -117.882981,
+				"lon": -117.88311138364976,
 				"zoom": 19
 			},
 			"text": {
@@ -250,9 +250,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.885654676025624, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88312345359051,
 				"zoom": 19
 			},
 			"text": {
@@ -268,9 +268,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886031,
+				"lat": 33.88536855218125, 
 				"line": false,
-				"lon": -117.883104,
+				"lon": -117.88313015911308,
 				"zoom": 19
 			},
 			"text": {
@@ -286,9 +286,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.885303,
+				"lat": 33.885093560667606, 
 				"line": false,
-				"lon": -117.883135,
+				"lon": -117.88319050881587,
 				"zoom": 19
 			},
 			"text": {
@@ -304,9 +304,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.884815,
+				"lat": 33.884703895054294, 
 				"line": false,
-				"lon": -117.883216,
+				"lon": -117.88323074195108,
 				"zoom": 19
 			},
 			"text": {
@@ -322,9 +322,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88490429473336, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.8836826941699,
 				"zoom": 19
 			},
 			"text": {
@@ -340,9 +340,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.885001154412606, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88380205247113,
 				"zoom": 19
 			},
 			"text": {
@@ -358,9 +358,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88527781622064, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88391470524968,
 				"zoom": 19
 			},
 			"text": {
@@ -376,9 +376,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88581388069991, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.8839093408317,
 				"zoom": 19
 			},
 			"text": {
@@ -394,9 +394,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88612226933946, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88403942796904,
 				"zoom": 19
 			},
 			"text": {
@@ -412,9 +412,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88627256664772, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88415208074761,
 				"zoom": 19
 			},
 			"text": {
@@ -430,9 +430,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88654755436319, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88413062307545,
 				"zoom": 19
 			},
 			"text": {
@@ -448,9 +448,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.886971723968934, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88430362555715,
 				"zoom": 19
 			},
 			"text": {
@@ -466,9 +466,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88718993112844, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88438543293202,
 				"zoom": 19
 			},
 			"text": {
@@ -484,9 +484,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.886323,
+				"lat": 33.88731907387735, 
 				"line": false,
-				"lon": -117.883107,
+				"lon": -117.88434788200583,
 				"zoom": 19
 			},
 			"text": {
