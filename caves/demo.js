@@ -29,6 +29,78 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_1027_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.54405256845213,  
+				"line": false,
+				"lon": -117.73184676153136,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1055_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.54405256845213,  
+				"line": false,
+				"lon": -117.73184676153136,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1041_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.54405256845213,  
+				"line": false,
+				"lon": -117.73184676153136,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1037_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.54405256845213,  
+				"line": false,
+				"lon": -117.73184676153136,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/warmup2.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
