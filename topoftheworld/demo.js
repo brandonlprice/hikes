@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/IMG_1064_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "images/IMG_1066_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +65,43 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "images/IMG_1083_11zon.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.5847, 
+				"line": false,
+				"lon": -117.7497,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1069_11zon.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.58373173352325,
+				"line": false,
+				"lon": -117.74977338126365,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1073_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
