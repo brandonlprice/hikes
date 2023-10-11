@@ -27,19 +27,21 @@ let demojs={
 			}
 			},
 			{
-			"date": "Jan 2006",
+			"date": "",
 			"media": {
-				"url": "images/topoftheworld.JPG",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"url": "images/IMG_1240_11zon.jpg",
+				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
-			"type": "overview",
-			"location": {
-				"line": false
+			"location": { 
+				"lat":  33.69948507103638,  
+				"line": false,
+				"lon": -118.0105438462022,
+				"zoom": 19
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
 			{
