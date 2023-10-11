@@ -29,7 +29,25 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7802_11zon.jpg",
+				"url": "images/IMG_1238.JPG",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.69930430033801,  
+				"line": false,
+				"lon": -118.01035385488593,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1241.JPG",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -65,14 +83,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7806_11zon.jpg",
+				"url": "images/IMG_1303.JPG",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.69858961706413, 
+				"lat": 33.6987079317886,  
 				"line": false,
-				"lon": -118.00953431096218,
+				"lon": -118.00945799707517,
 				"zoom": 19
 			},
 			"text": {
@@ -83,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7807_11zon.jpg",
+				"url": "images/IMG_1304.JPG",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +119,25 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7811_11zon.jpg",
+				"url": "images/IMG_1307.JPG",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.698485789602245, 
+				"line": false,
+				"lon": -118.00959613115907,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1248.JPG",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +155,25 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7815_11zon.jpg",
+				"url": "images/IMG_1251.JPG",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69761673720464,  
+				"line": false,
+				"lon": -118.01047544987222,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1254.JPG",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -137,7 +191,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7819_11zon.jpg",
+				"url": "images/IMG_1257.JPG",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -145,6 +199,24 @@ let demojs={
 				"lat": 33.69752366926019, 
 				"line": false,
 				"lon": -118.01070723640319,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1258.JPG",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69743877196432,  
+				"line": false,
+				"lon": -118.01139947087789,
 				"zoom": 19
 			},
 			"text": {
