@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1238.JPG",
+				"url": "images/IMG_1238_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -65,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1241.JPG",
+				"url": "images/IMG_1241_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1303.JPG",
+				"url": "images/IMG_1303_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1304.JPG",
+				"url": "images/IMG_1304_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1307.JPG",
+				"url": "images/IMG_1307_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -155,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1248.JPG",
+				"url": "images/IMG_1248_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -173,7 +173,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1251.JPG",
+				"url": "images/IMG_1251_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -191,7 +191,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1254.JPG",
+				"url": "images/IMG_1254_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -209,7 +209,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1257.JPG",
+				"url": "images/IMG_1257_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -227,7 +227,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1258.JPG",
+				"url": "images/IMG_1258_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
