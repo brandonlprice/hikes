@@ -227,6 +227,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_1258_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69743877196432,  
+				"line": false,
+				"lon": -118.01139947087789,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_0836_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
@@ -325,24 +343,6 @@ let demojs={
 				"lat": 33.69736827018665,    
 				"line": false,
 				"lon": -118.01302281439317,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
-			}
-			},
-			{
-			"date": "",
-			"media": {
-				"url": "images/IMG_1258_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.69743877196432,  
-				"line": false,
-				"lon": -118.01139947087789,
 				"zoom": 19
 			},
 			"text": {
