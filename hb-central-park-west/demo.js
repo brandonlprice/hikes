@@ -227,6 +227,114 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_0836_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69773145307592,  
+				"line": false,
+				"lon": -118.01280823767112,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_0839_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.697422385099145,   
+				"line": false,
+				"lon": -118.01293698370367,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_0845_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69645165893389,   
+				"line": false,
+				"lon": -118.01302281439243,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_0850_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69569961756767,   
+				"line": false,
+				"lon": -118.01326018989012,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_0858_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69719420964406,    
+				"line": false,
+				"lon": -118.01466432630833,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_0860_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69736827018665,    
+				"line": false,
+				"lon": -118.01302281439317,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_1258_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
