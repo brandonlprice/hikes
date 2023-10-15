@@ -83,24 +83,6 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7804_11zon.jpg",
-				"caption": "",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.69892545888352,  
-				"line": false,
-				"lon": -118.0096992668167,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
-			}
-			},
-			{
-			"date": "",
-			"media": {
 				"url": "images/IMG_1303_11zon.jpg",
 				"caption": "",
 				"credit": ""
