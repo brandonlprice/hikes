@@ -227,7 +227,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9165_11zon.jpg",
+				"url": "images/pumaatrail.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
