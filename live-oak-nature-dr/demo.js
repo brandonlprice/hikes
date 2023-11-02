@@ -367,6 +367,60 @@ let demojs={
 				"headline": "<h6 style='color:red;'>Top of the World</h6>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/7FC370E5-7249-4292-86D7-9AE7CB841E10_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.656419093650804,         
+				"line": false,
+				"lon": -117.58787951427959,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/D4825A35-10EE-4E9E-89A9-8AC53B576C66_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.65732324032351,          
+				"line": false,
+				"lon": -117.58705524432138,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/334AC4D9-F49C-4999-B391-033CC5F70A80_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.656675828670245,           
+				"line": false,
+				"lon": -117.5878027829994,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
 			}
 		]
 	}
