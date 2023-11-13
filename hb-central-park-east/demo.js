@@ -65,14 +65,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7230_11zon.jpg",
+				"url": "images/4A999F01-7BCF-41AC-BABF-433693990CE9_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.70671430474202, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -118.00305804057234,
 				"zoom": 19
 			},
 			"text": {
@@ -83,14 +83,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7231_11zon.jpg",
+				"url": "images/78293D94-1689-4390-BEAB-921816021745_11zon.jpeg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.58210336055123,
+				"lat": 	33.70604268069179,
 				"line": false,
-				"lon": -117.75212193690419,
+				"lon": -118.00141116424957,
 				"zoom": 19
 			},
 			"text": {
@@ -101,14 +101,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7234_11zon.jpg",
+				"url": "images/7A5FE76B-5AC3-4F16-AAD9-BD07856D2EB1_11zon.jpeg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577675362848936,
+				"lat": 33.70558079664727,  
 				"line": false,
-				"lon": -117.754954824902,
+				"lon": -118.00094177766715,
 				"zoom": 19
 			},
 			"text": {
