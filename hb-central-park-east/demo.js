@@ -119,14 +119,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7235_11zon.jpg",
+				"url": "images/DA0B26BF-0C66-445B-898C-32C720A41A53_11zon.jpeg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.70487123081865, 
 				"line": false,
-				"lon": -117.7575,
+				"lon": -118.00110807462119,
 				"zoom": 19
 			},
 			"text": {
@@ -137,14 +137,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7238_11zon.jpg",
+				"url": "images/43CEE836-95F3-4AB6-8F0E-63259F75E677_11zon.jpeg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5616,
+				"lat": 33.70293029850821, 
 				"line": false,
-				"lon": -117.7593,
+				"lon": -118.00424196939117,
 				"zoom": 19
 			},
 			"text": {
@@ -155,14 +155,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/MG_7246_11zon.jpg",
+				"url": "images/04AB6A51-BFD2-4688-B5CF-DBD0A23A86F3_11zon.jpeg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.55627577298641,
+				"lat": 33.702661981187944, 
 				"line": false,
-				"lon": -117.7603500807199,
+				"lon": -118.0049266463619,
 				"zoom": 19
 			},
 			"text": {
