@@ -101,6 +101,42 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.577675362848936,
+				"line": false,
+				"lon": -117.754954824902,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.577675362848936,
+				"line": false,
+				"lon": -117.754954824902,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9016_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
