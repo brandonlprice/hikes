@@ -119,32 +119,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
-				"caption": "<i></i>",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.577675362848936,
-				"line": false,
-				"lon": -117.754954824902,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
-			}
-			},
-			{
-			"date": "",
-			"media": {
 				"url": "images/IMG_9016_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577675362848936,
+				"lat": 33.6923515657348, 
 				"line": false,
-				"lon": -117.754954824902,
+				"lon": -117.65422411196664,
 				"zoom": 19
 			},
 			"text": {
@@ -160,9 +142,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.69387801686585, 
 				"line": false,
-				"lon": -117.7575,
+				"lon": -117.65263624421277,
 				"zoom": 19
 			},
 			"text": {
@@ -173,14 +155,32 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.696011432319885, 
+				"line": false,
+				"lon": -117.65123613113495,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8001_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5616,
+				"lat": 33.697384957873055, 
 				"line": false,
-				"lon": -117.7593,
+				"lon": -117.65084989303905,
 				"zoom": 19
 			},
 			"text": {
