@@ -281,14 +281,32 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/CF5585E8-F42D-4D57-A2DF-100CAEB8FC11_11zon.jpeg",
+				"url": "images/8BD885CA-B2F7-40C3-9B4B-FAA8D896BD20_11zon.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.663432803664186, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84315975025507,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/2F1705BE-C72F-4259-B987-AEA2108B33AA_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.663952956922465, 
+				"line": false,
+				"lon": -117.84266890600932,
 				"zoom": 19
 			},
 			"text": {
@@ -304,9 +322,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66421861338341, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84242482499062,
 				"zoom": 19
 			},
 			"text": {
@@ -322,9 +340,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.6645054768015, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84226657465717,
 				"zoom": 19
 			},
 			"text": {
@@ -340,9 +358,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66518523880224, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84185485557155,
 				"zoom": 19
 			},
 			"text": {
@@ -358,9 +376,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66520365592814, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84154573098448,
 				"zoom": 19
 			},
 			"text": {
@@ -376,9 +394,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.6645713324703, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.8403756173033,
 				"zoom": 19
 			},
 			"text": {
@@ -394,9 +412,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.663880403550934, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84106561557091,
 				"zoom": 19
 			},
 			"text": {
@@ -412,9 +430,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66409917970245, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84246639922938,
 				"zoom": 19
 			},
 			"text": {
@@ -430,9 +448,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66291432158114, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84360902026755,
 				"zoom": 19
 			},
 			"text": {
@@ -448,9 +466,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66247899514034, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84304106251065,
 				"zoom": 19
 			},
 			"text": {
@@ -466,9 +484,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66165577565408, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84186021999342,
 				"zoom": 19
 			},
 			"text": {
@@ -484,9 +502,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66054507593428, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84286517851184,
 				"zoom": 19
 			},
 			"text": {
@@ -502,9 +520,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.65998918185819, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84223150663398,
 				"zoom": 19
 			},
 			"text": {
