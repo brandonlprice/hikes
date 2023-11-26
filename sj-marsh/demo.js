@@ -263,14 +263,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7081_11zon.jpg",
+				"url": "images/A643B9A9-C283-4A0F-8172-6731EA9FE102_11zon.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66283674433563, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.8437310607789,
 				"zoom": 19
 			},
 			"text": {
