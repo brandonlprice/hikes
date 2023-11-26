@@ -119,6 +119,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/49760101-3FFB-4074-8B41-52C3FF320C25_11zon.jpeg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.659891454392664, 
+				"line": false,
+				"lon": -117.84220761976209,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_7063_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
@@ -191,14 +209,32 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7076_11zon.jpg",
+				"url": "images/4448A77A-5A27-464C-904E-A7E2DF133159_11zon.jpeg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.66158468723672,  
+				"line": false,
+				"lon": -117.84456640821304,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/6C1568CE-0DEC-4E51-8523-C04514CB8621_11zon.jpeg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.55627577298641,
+				"lat": 33.66185035101134, 
 				"line": false,
-				"lon": -117.7603500807199,
+				"lon": -117.84469649535161,
 				"zoom": 19
 			},
 			"text": {
@@ -214,9 +250,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.66194299826776, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.84465358000814,
 				"zoom": 19
 			},
 			"text": {
