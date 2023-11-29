@@ -29,14 +29,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/IMG_1058_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.58439031741074,
+				"lat":  33.585390207630745, 
 				"line": false,
-				"lon": -117.74963056244559,
+				"lon": -117.74404138897636,
 				"zoom": 19
 			},
 			"text": {
@@ -47,14 +47,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/entrance.jpeg",
+				"url": "images/IMG_1057_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.58555108768386, 
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.74437934731137,
 				"zoom": 19
 			},
 			"text": {
@@ -65,14 +65,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "images/IMG_1059_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.58541702099331, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.74452686879937,
 				"zoom": 19
 			},
 			"text": {
@@ -83,14 +83,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_4.JPG",
+				"url": "images/IMG_2587_7_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.58210336055123,
+				"lat": 	33.58175691988274, 
 				"line": false,
-				"lon": -117.75212193690419,
+				"lon": -117.74607718561188,
 				"zoom": 19
 			},
 			"text": {
@@ -101,14 +101,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5.JPG",
+				"url": "images/IMG_2588_8_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.577675362848936,
+				"lat": 33.5797569822062, 
 				"line": false,
-				"lon": -117.754954824902,
+				"lon": -117.74699450109377,
 				"zoom": 19
 			},
 			"text": {
