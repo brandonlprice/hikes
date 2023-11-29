@@ -119,14 +119,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_6.JPG",
+				"url": "images/IMG_2593_11_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.574428947396456, 
 				"line": false,
-				"lon": -117.7575,
+				"lon": -117.74822785441631,
 				"zoom": 19
 			},
 			"text": {
