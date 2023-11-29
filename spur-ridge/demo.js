@@ -52,9 +52,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.55033395960573, 
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.7954940828926,
 				"zoom": 19
 			},
 			"text": {
@@ -70,9 +70,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.551415864499646, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.79487985703275,
 				"zoom": 19
 			},
 			"text": {
@@ -124,9 +124,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5637,
+				"lat": 33.55579779707898, 
 				"line": false,
-				"lon": -117.7575,
+				"lon": -117.7968059199372,
 				"zoom": 19
 			},
 			"text": {
@@ -142,9 +142,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5616,
+				"lat": 33.557579243703714, 
 				"line": false,
-				"lon": -117.7593,
+				"lon": -117.7967683690152,
 				"zoom": 19
 			},
 			"text": {
