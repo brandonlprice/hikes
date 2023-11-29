@@ -13,7 +13,7 @@ let demojs={
 			{
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "images/IMG_5400_2_11zon.jpg",
 				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
 				"credit": ""
 			},
@@ -34,9 +34,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.58439031741074,
+				"lat":  33.55063126126384, 
 				"line": false,
-				"lon": -117.74963056244559,
+				"lon": -117.79619145725101,
 				"zoom": 19
 			},
 			"text": {
