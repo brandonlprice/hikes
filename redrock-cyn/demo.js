@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_2188_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
