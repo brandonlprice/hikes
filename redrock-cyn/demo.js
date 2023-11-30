@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "../redrock-cyn/images/IMG_2186_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +47,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "../redrock-cyn/images/IMG_2186_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
