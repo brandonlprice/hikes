@@ -29,14 +29,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn-vista/images/IMG_2188_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.68174875838272,  
+				"lat":  33.68105075222834, 
 				"line": false,
-				"lon": -117.6664645391155,
+				"lon": -117.66449649087116,
 				"zoom": 19
 			},
 			"text": {
@@ -47,14 +47,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_2188_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.68105075222834, 
+				"lat":  33.68174875838272,  
 				"line": false,
-				"lon": -117.66449649087116,
+				"lon": -117.6664645391155,
 				"zoom": 19
 			},
 			"text": {
