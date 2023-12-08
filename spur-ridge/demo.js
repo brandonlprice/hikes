@@ -29,7 +29,25 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5373_1_11zon.jpg",
+				"url": "images/IMG_2354_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.55060781676851,  
+				"line": false,
+				"lon": -117.79685530080823,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2356_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -47,7 +65,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2690_1_11zon.jpg",
+				"url": "images/IMG_2362_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -65,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5378_11zon.jpg",
+				"url": "images/IMG_2365_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -83,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5381_11zon.jpg",
+				"url": "images/IMG_2396_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5385_11zon.jpg",
+				"url": "images/IMG_2377_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5389_11zon.jpg",
+				"url": "images/IMG_2379_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
@@ -137,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2700_4_11zon.jpg",
+				"url": "images/IMG_2393_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -155,7 +173,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2709_6_11zon.jpg",
+				"url": "images/IMG_2387_11zon.jpg",
 				"caption": "<i>Entering Top of the World</i>",
 				"credit": ""
 			},
@@ -173,7 +191,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5396_7_11zon.jpg",
+				"url": "images/IMG_2389_11zon.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
