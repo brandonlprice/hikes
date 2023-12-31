@@ -173,14 +173,32 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7152_11zon.jpg",
+				"url": "images/IMG_2294_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.70220240376296,  
+				"line": false,
+				"lon": -118.0509019170528,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2297_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.7022590958112, 
+				"lat": 33.70270893406381,  
 				"line": false,
-				"lon": -118.05087470592264,
+				"lon": -118.05059614523435,
 				"zoom": 19
 			},
 			"text": {
@@ -191,7 +209,43 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7217_11zon.jpg",
+				"url": "images/IMG_2300_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.70248802474037,  
+				"line": false,
+				"lon": -118.05084022624733,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2302_11zon.jpg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.70274463652741,   
+				"line": false,
+				"lon": -118.05099311215655,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2305_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
