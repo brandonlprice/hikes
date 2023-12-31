@@ -101,6 +101,60 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_2286_11zon.jpg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.698252927111305,   
+				"line": false,
+				"lon": -118.04468492407936,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2287_11zon.jpg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.69889310297834,    
+				"line": false,
+				"lon": -118.04538962904056,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2292_11zon.jpg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.69887111983567,     
+				"line": false,
+				"lon": -118.0487362861661,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_7151_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
