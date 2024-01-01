@@ -65,6 +65,60 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_2333_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.71138353699105,  
+				"line": false,
+				"lon":  -118.05980898517166,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2337_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.710408427670004,   
+				"line": false,
+				"lon":  -118.05932423085163,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2340_11zon.jpg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.709739640334206,    
+				"line": false,
+				"lon":  -118.05878078155214,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_4380_11zon.jpg",
 				"caption": "",
 				"credit": ""
