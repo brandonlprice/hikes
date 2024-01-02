@@ -371,7 +371,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2304_11zon(1).jpg",
+				"url": "images/IMG_2304_11zon (1).jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
@@ -389,7 +389,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2307.jpg",
+				"url": "images/IMG_2307_11zon.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
