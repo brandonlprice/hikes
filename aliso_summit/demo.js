@@ -119,6 +119,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/9.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.531888798868366,  
+				"line": false,
+				"lon": -117.73068657894417,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/5.jpg",
 				"caption": "<i></i>",
 				"credit": ""
@@ -126,7 +144,7 @@ let demojs={
 			"location": {
 				"lat": 33.528021337000034, 
 				"line": false,
-				"lon": -117.7289900966004 ,
+				"lon": -117.7289900966004,
 				"zoom": 19
 			},
 			"text": {
@@ -214,9 +232,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.51777883276726, 
+				"lat": 33.519431527530735,  
 				"line": false,
-				"lon": -117.72801471803697,
+				"lon": -117.728276619441,
 				"zoom": 19
 			},
 			"text": {
