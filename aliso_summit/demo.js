@@ -119,6 +119,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/B4EABCB2-54AC-4C4D-9981-B424F127BC3D_11zon.jpeg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.53560688996994,   
+				"line": false,
+				"lon": -117.72997670160662,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/9.jpg",
 				"caption": "<i></i>",
 				"credit": ""
