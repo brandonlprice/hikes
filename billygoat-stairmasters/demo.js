@@ -29,14 +29,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/IMG_7916_11zon.jpg",
+				"url": "images/IMG_2186_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
-				"lat":  33.58439031741074,
+				"lat":  33.68105708087083, 
 				"line": false,
-				"lon": -117.74963056244559,
+				"lon": -117.6645078103957,
 				"zoom": 19
 			},
 			"text": {
@@ -47,14 +47,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/IMG_7919_11zon.jpg",
+				"url": "../redrock-cyn/images/IMG_7916_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.5847, 
+				"lat": 33.681408970940254,   
 				"line": false,
-				"lon": -117.7497,
+				"lon": -117.6646920518005,
 				"zoom": 19
 			},
 			"text": {
@@ -65,14 +65,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/trailhead.jpeg",
+				"url": "../redrock-cyn/images/IMG_7919_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.58373173352325,
+				"lat": 33.682085886377656, 
 				"line": false,
-				"lon": -117.74977338126365,
+				"lon": -117.66402846627635,
 				"zoom": 19
 			},
 			"text": {
@@ -83,19 +83,91 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
+				"url": "images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.58210336055123,
+				"lat": 	33.68404040551888, 
 				"line": false,
-				"lon": -117.75212193690419,
+				"lon": -117.66165403027095,
 				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
 				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.68594419231217, 
+				"line": false,
+				"lon": -117.65933640235868,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_9016_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.6923515657348, 
+				"line": false,
+				"lon": -117.65422411196664,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_9019_11zon.jpg",
+				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69387801686585, 
+				"line": false,
+				"lon": -117.65263624421277,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
+				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.696011432319885, 
+				"line": false,
+				"lon": -117.65123613113495,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
 			}
 			},
 			{
