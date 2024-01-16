@@ -29,7 +29,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_2186_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
 			},
@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
+				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
@@ -101,7 +101,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
+				"url": "images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -119,7 +119,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9016_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_9016_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -137,7 +137,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9019_11zon.jpg",
+				"url": "../redrock-cyn-vista/images/IMG_9019_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
 			},
