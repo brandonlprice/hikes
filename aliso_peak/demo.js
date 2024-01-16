@@ -101,14 +101,14 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_3997_5_11zon.jpg",
+				"url": "images/IMG_2785_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.5129,
+				"lat": 	33.51285758125489, 
 				"line": false,
-				"lon": -117.7375,
+				"lon": -117.73751636652473,
 				"zoom": 19
 			},
 			"text": {
