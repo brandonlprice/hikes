@@ -101,6 +101,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_2776_11zon.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.51293789084585, 
+				"line": false,
+				"lon": -117.73735037655466,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
