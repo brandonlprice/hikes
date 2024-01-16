@@ -173,6 +173,78 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_3998_6_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.51274854401047,  
+				"line": false,
+				"lon": -117.73833023541991,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2791_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.51258249660029,   
+				"line": false,
+				"lon": -117.7385488354577,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2793_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.512267173367036,    
+				"line": false,
+				"lon": -117.73870574468314,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_2795_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.51200496221617,    
+				"line": false,
+				"lon": -117.73884253734475,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
