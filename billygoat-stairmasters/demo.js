@@ -83,6 +83,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "../redrock-cyn/images/IMG_7919_11zon.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.682085886377656, 
+				"line": false,
+				"lon": -117.66402846627635,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
@@ -281,6 +299,42 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/1DE4F54F-3ED1-4B0D-B523-288B29376AF9_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/43CE22E3-642D-455A-AA3C-B9332A07AE9D_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9095_11zon.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
@@ -318,6 +372,24 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9097_11zon.jpg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.557617567533086,
+				"line": false,
+				"lon": -117.7608647546779,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/A1A45A3C-35DB-47FC-9B29-2B829700C0A1_11zon.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
