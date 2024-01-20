@@ -83,7 +83,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/IMG_7919_11zon.jpg",
+				"url": "../redrock-cyn/images/C0EA2FD9-1FC7-4671-ABC5-BEC3E0F1DD71_11zon.jpeg",
 				"caption": "",
 				"credit": ""
 			},
