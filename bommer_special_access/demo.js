@@ -101,6 +101,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/CC3746C6-C739-43B8-8AB0-1B27B0A4B8C2_11zon.jpeg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.61727686289111, 
+				"line": false,
+				"lon": -117.80029223012933,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8928_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
@@ -137,7 +155,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "IMG_8935_11zon.jpg",
+				"url": "images/IMG_8935_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
 			},
@@ -145,6 +163,24 @@ let demojs={
 				"lat": 33.612079472169725, 
 				"line": false,
 				"lon": -117.79612240551695,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/A98095C8-6096-48BA-968D-E31E0088D6EE_11zon.jpeg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.607757760589685, 
+				"line": false,
+				"lon": -117.79296711730235,
 				"zoom": 19
 			},
 			"text": {
