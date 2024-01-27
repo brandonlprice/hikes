@@ -101,37 +101,37 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
-				"credit": ""
-			},
-			"location": {
-				"lat": 	33.68404040551888, 
-				"line": false,
-				"lon": -117.66165403027095,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
-			}
-			},
-			{
-			"date": "",
-			"media": {
 				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.68594419231217, 
+				"lat": 33.683333150453024,  
 				"line": false,
-				"lon": -117.65933640235868,
+				"lon": -117.6624719397046,
 				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
 				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
+				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.68528381561036,  
+				"line": false,
+				"lon": -117.66070704615687,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
 			}
 			},
 			{
@@ -232,9 +232,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.6979751182506,  
+				"lat": 33.69925093955339,   
 				"line": false,
-				"lon": -117.65056135946625,
+				"lon": -117.64836844884691,
 				"zoom": 19
 			},
 			"text": {
@@ -286,9 +286,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.69974967708107, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.64600810491658,
 				"zoom": 19
 			},
 			"text": {
@@ -304,9 +304,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.70004090615552, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.64534626514184,
 				"zoom": 19
 			},
 			"text": {
@@ -322,9 +322,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.69959684172514, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.64302347214374,
 				"zoom": 19
 			},
 			"text": {
@@ -358,9 +358,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.699661554773925, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.64289740831805,
 				"zoom": 19
 			},
 			"text": {
@@ -376,9 +376,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.557617567533086,
+				"lat": 33.69953011826341, 
 				"line": false,
-				"lon": -117.7608647546779,
+				"lon": -117.64199479902288,
 				"zoom": 19
 			},
 			"text": {
