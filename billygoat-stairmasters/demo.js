@@ -101,24 +101,6 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
-				"caption": "<i></i>",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.68968216202087,   
-				"line": false,
-				"lon": -117.65820796601933,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
-			}
-			},
-			{
-			"date": "",
-			"media": {
 				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
 				"caption": "<i>Views of Wood Canyon to the east.</i>",
 				"credit": ""
@@ -132,6 +114,24 @@ let demojs={
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
 				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.68968216202087,   
+				"line": false,
+				"lon": -117.65820796601933,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
 			}
 			},
 			{
