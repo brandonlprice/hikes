@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Sea View Trail</h6>",
+				"headline": "<h6 style='color:red;'>First Section</h6>",
 				"text": "This is what the start will look like. A nice, flat, and wide trail. Picnic benches can be found on both sides of the trail in this section. Other people will usually be present on this hike during the weekends. Some may bring their dogs to this section."
 			}
 			},
@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Sea View Trail</h6>",
+				"headline": "<h6 style='color:red;'>First Section Continued</h6>",
 				"text": "Not too long into the hike, this part of the trail will begin to open up and the ocean will begin to appear."
 			}
 			},
