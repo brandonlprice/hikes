@@ -112,15 +112,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean. Go right or left around the bush to continue. This is where you will start a descend before the final ascend to Aliso Peak."
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean. Go left or right around the bush to continue."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
-				"caption": "<i>Going Downhill.</i>",
+				"caption": "<i>Enjoys the Views</i>",
 				"credit": ""
 			},
 			"location": {
@@ -131,14 +131,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "The trail now changes and becomes very narrow. Continue downhill through these bushes. Take your time as it will be brief, but will be steep and rocky."
+				"text": "Enjoy the last views before starting a descend. The image taken is on the left side of the bush that you will run into."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2780_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Going Downhill</i>",
 				"credit": ""
 			},
 			"location": {
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "Enter the downhill section here once around the large bush. The trail will now change and become very narrow upon entering. Continue downhill into these bushes."
 			}
 			},
 			{
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"text": " Take your time as it will be brief, but will be steep and rocky."
 			}
 			},
 			{
