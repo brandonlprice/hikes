@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of the First Section</h6>",
-				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean as seen. Go left or right around the bush to continue."
+				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit with nice overlooking views of the ocean as seen. Go left or right around the bush to continue."
 			}
 			},
 			{
