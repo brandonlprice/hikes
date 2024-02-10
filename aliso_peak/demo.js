@@ -22,8 +22,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Sea View Trail to Aliso Peak</h4>",
+				"text": "This trail takes you to Aliso Peak which is one of the closest peaks you can hike to that overlooks the ocean in Orange County at 683 feet approximately above sea level. The trail is maintained by OC Parks and part of Aliso and Wood Canyons Wilderness Park. The hike is short although does have one brief steep and rocky section."
 			}
 			},
 			{
@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles</li><li>One Moderate Steep Section</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "Park along the end of Talavera Dr right before it runs into the gated community."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Once parked, this is where you'll start. It's on the right of the street at the end of Talavera Drive once you pass the grassy park/lawn area which also has equally nice views. Enter the trail and go left towards the ocean."
 			}
 			},
 			{
@@ -76,8 +76,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Sea View Trail</h6>",
+				"text": "This is what the start will look like. A nice, flat, and wide trail. Picnic benches can be found on both side of the trail in this section. Other people will usually be present on this hike during the weekends."
 			}
 			},
 			{
@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Sea View Trail</h6>",
+				"text": "Not too long into the hike, this part of the trail will begin to open up and the ocean will begin to appear."
 			}
 			},
 			{
@@ -113,14 +113,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean. Go right or left around the bush to continue. This is where you will start a descend before the final ascend to Aliso Peak."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Going Downhill.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "The trail now changes and becomes very narrow. Continue downhill through these bushes. Take your time as it will be brief, but will be steep and rocky."
 			}
 			},
 			{
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
 				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
 			}
 			},
