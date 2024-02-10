@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. It's on the right of the street at the end of Talavera Drive once you pass the grassy park/lawn area which also has equally nice views. Enter the trail and go left towards the ocean."
+				"text": "Once parked, this is where you'll start. It will be on the right of the street at the end of Talavera Drive once you pass the grassy park/lawn area which also has equally nice views. Enter the trail and go left towards the ocean."
 			}
 			},
 			{
