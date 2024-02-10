@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Sea View Trail</h6>",
-				"text": "This is what the start will look like. A nice, flat, and wide trail. Picnic benches can be found on both side of the trail in this section. Other people will usually be present on this hike during the weekends."
+				"text": "This is what the start will look like. A nice, flat, and wide trail. Picnic benches can be found on both sides of the trail in this section. Other people will usually be present on this hike during the weekends."
 			}
 			},
 			{
