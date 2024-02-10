@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup Section</h6>",
-				"text": "A third of a mile in, the warmup section will come to an end. A big bush will be in front of you, a picnic table will be on the right, and a summit with nice overlooking views of the ocean will be on the left. Go left or right around the bush to continue. This image was taken on the left side of the bush."
+				"text": "A third of a mile in, the warmup section will come to an end. A big bush will be in front of you, a picnic table will be on the right, and a summit with nice overlooking views of the ocean will be on the left. Going left is usually what most do since people are usually at the picnic table on the right side of the bush."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "You can enjoy views on the left side of the bush before starting the next section. The right side will have a picnic table to enjoy the views. Ocean views will continue, but you will need to focus more on footing in the next section as you go downhill."
+				"text": "Enjoy views on the left side of the bush before starting the next section. Ocean views will continue, but you will need to focus more on footing in the next section as you go downhill."
 			}
 			},
 			{
