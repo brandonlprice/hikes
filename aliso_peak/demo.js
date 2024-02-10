@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Residential Area</h6>",
-				"text": "You will end up in the residential area right next to the sidewalk once you are down the steepest hill. Follow the arrow as seen in the image to continue the hike."
+				"text": "Once you are down the steepest hill, you will end up in a residential area right next to the sidewalk. Follow the arrow as seen in the image to continue the hike."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail will begin veer back to the right leaving the residential area towards the ocean. There will be some downhill still at this point, but it will be also be brief and then flatten out. It will not be as steep as the previous section and it will be a straight shot to the peak from here."
+				"text": "The trail will begin veer back to the right leaving the residential area towards the ocean. There will be some downhill still at this point, but it will be brief and then flatten out. It will not be as steep as the previous section and it will be a straight shot to the peak from here."
 			}
 			},
 			{
