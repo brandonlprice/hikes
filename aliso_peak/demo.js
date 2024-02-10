@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "You can enjoy views on the left side of the bush before starting the next section. There will still be ocean views as you continue, but you will need to focus more on footing in the next section as you go downhill."
+				"text": "As you go around the bush, you can enjoy views on the left side before starting the next section. The right side will have a picnic table to enjoy the views. Ocean views will continue, but you will need to focus more on footing in the next section as you go downhill."
 			}
 			},
 			{
