@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
-				"text": "Another shot going downhill. Taken on a different day. Trail conditions will vary depending on when you go. This area may be dense with shrubs or the shrubs may be removed or trimmed. It depends on if any trail maintenance work was done."
+				"text": "Another shot going downhill, taken on a different day. Trail conditions will vary depending on when you go. This area may be dense with shrubs or the shrubs may be removed or trimmed. It depends on if any trail maintenance work was done."
 			}
 			},
 			{
