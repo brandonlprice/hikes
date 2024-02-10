@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
-				"text": "Not even less than a few yards down between the bushes it will begin to open up again with ocean views. Continue to be alert and watch you're footing here still. Ocean views may not be present when it is cloudy which it often is in this area."
+				"text": "Not even less than a few yards down between the bushes it will begin to open up again with ocean views. Continue to be alert and watch you're footing here still. Ocean views may not be present when it is cloudy which happens often in this area."
 			}
 			},
 			{
