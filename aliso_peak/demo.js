@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Enjoy the last views before starting a descend. The image taken is on the left side of the bush that you will run into."
+				"text": "Enjoy the views before starting a descend. There will still be ocean views as you continue, but you will need to focus more on footing as you go downhill. The image taken is on the left side of the bush that you will run into."
 			}
 			},
 			{
