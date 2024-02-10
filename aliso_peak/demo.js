@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2780_11zon.jpg",
-				"caption": "<i>Going Downhill</i>",
+				"caption": "<i>Starting Downhill</i>",
 				"credit": ""
 			},
 			"location": {
