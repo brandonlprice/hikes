@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of the First Section</h6>",
-				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit with nice overlooking views of the ocean. Go left or right around the bush to continue. This image is on the left side of the bush."
+				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit with nice overlooking views of the ocean. Go left or right around the bush to continue. This image was taken on the left side of the bush."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Enjoy views before starting the next section. There will still be ocean views as you continue, but you will need to focus more on footing in the next section as you go downhill. This image taken is also on the left side of the bush that you will run into right before the start of the  next section."
+				"text": "Enjoy views before starting the next section. There will still be ocean views as you continue, but you will need to focus more on footing in the next section as you go downhill. This image was also taken on the left side of the bush that you will run into right before the start of the  next section."
 			}
 			},
 			{
