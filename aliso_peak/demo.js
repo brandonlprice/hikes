@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup Continued</h6>",
+				"headline": "<h6 style='color:red;'>Warmup Section Continued</h6>",
 				"text": "Not too long into the hike, this part of the trail will begin to open up and the ocean will begin to appear."
 			}
 			},
