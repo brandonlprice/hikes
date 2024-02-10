@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading to the Peak</h6>",
+				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
 				"text": "The trail will begin veer right going away from the residential area. There will be some downhill at this point, but it will be also be brief and then flatten out. It is not as steep as the first steep section. It will be a straight shot to the peak from here."
 			}
 			},
