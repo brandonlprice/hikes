@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Aliso Peak, Laguna Beach, Fall 2021</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Sea View Trail to Aliso Peak</h4>",
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Seaview Trail to Aliso Peak</h4>",
 				"text": "This trail takes you to Aliso Peak which is one of the closest peaks you can hike to that overlooks the ocean in Orange County at 683' above sea level. The trail is maintained by OC Parks and part of Aliso and Wood Canyons Wilderness Park. The hike is short although does have one brief steep and rocky section."
 			}
 			},
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean. Go left or right around the bush to continue."
+				"text": "After about a third of a mile, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit as it will have nice overlooking views of the ocean as seen. Go left or right around the bush to continue."
 			}
 			},
 			{
@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"text": "Not even less than a few yards down between the bushes it will begin to open up again with ocean views. Continue to be alert and watch you're footing here still. Ocean views may not be present when it is cloudy which it often is in this area."
 			}
 			},
 			{
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"text": "Another shot going downhill. This one was taken on another day. Trail conditions can vary as there were a lot less shrubs when this was taken. It depends on when the routine trail work was done."
 			}
 			},
 			{
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"text": "You will start to see houses as the trail breaks left down the hill."
 			}
 			},
 			{
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Residential Area</h6>",
+				"text": "You will end up right next to the street once you are down the hill. Follow the arrow as seen in the image to continue the trail."
 			}
 			},
 			{
@@ -256,8 +256,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Heading to the Peak</h6>",
+				"text": "The trail will begin veer right going away from the residential area. The will be some slight downhill at this point, but it will be nothing major and eventually fairly flat. It will be a straight shot to the peak from here."
 			}
 			},
 			{
