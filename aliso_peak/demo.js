@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Seaview Park to Aliso Peak</h4>",
-				"text": "The Aliso Peak trail takes you from Seaview Park to Aliso Peak. One of the closest peaks you can hike to that overlooks the ocean in Orange County. At 683' above sea level, the trail is maintained by OC Parks and part of Aliso and Wood Canyons Wilderness Park. The hike is short although does have one brief steep and rocky section."
+				"text": "The Aliso Peak trail takes you from Seaview Park to Aliso Peak. One of the closest peaks you can hike to overlooking the ocean in Orange County. At 683' above sea level, the trail is maintained by OC Parks and part of Aliso and Wood Canyons Wilderness Park. The hike is short although does have one brief steep and rocky section."
 			}
 			},
 			{
