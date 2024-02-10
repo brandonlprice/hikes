@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, the trail starts here. This sign will be on the right side of the street at the end of Talavera Drive once you pass the Seaview Park lawn area (which also has equally nice views). Enter here and go left towards the ocean. Going right takes you to the park lawn."
+				"text": "Once parked, the trail starts here. This sign will be on the right side of the street at the end of Talavera Drive once you pass the Seaview Park lawn area (which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
 			}
 			},
 			{
