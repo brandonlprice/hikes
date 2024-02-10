@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Entering the Downhill</h6>",
 				"text": "Enter the downhill section here once around the large bush. The trail will now change and become very narrow upon entering. Continue downhill into these bushes."
 			}
 			},
@@ -184,7 +184,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
 				"text": "Not even less than a few yards down between these bushes, it will begin to open up again with ocean views. Continue to be alert and watch you're footing here still. Ocean views are not always present when it is cloudy which is often in this area."
 			}
 			},
@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
 				"text": "Another shot going downhill, taken on a different day. Trail conditions will vary depending on when you go. This area may be dense with shrubs or the shrubs may be removed or trimmed. It depends on if any trail maintenance work was done."
 			}
 			},
@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
 				"text": "Nearing the end of the first descend, the trail will break left down the hill and a neighborhood with nice houses will appear."
 			}
 			},
