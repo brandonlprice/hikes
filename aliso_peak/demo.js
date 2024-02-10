@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup Section</h6>",
-				"text": "After about a third of a mile in, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will feel somewhat like a summit with nice overlooking views of the ocean. Go left or right around the bush to continue. This image was taken on the left side of the bush."
+				"text": "After about a third of a mile in, this part of the trail will come to an end. A big bush will be in front of you, a picnic table will be on the right, and the left will be somewhat like a summit with nice overlooking views of the ocean. Go left or right around the bush to continue. This image was taken on the left side of the bush."
 			}
 			},
 			{
