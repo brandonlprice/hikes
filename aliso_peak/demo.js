@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
-				"text": "A few yards down, views will open up again of the ocean. Be alert and watch your footing. FYI-Ocean views are not always present when it is cloudy which happens often here."
+				"text": "A few yards down, views will open up again of the ocean. Be alert and watch your footing. <i>FYI-Ocean views are not always present when it is cloudy which happens often.</i>"
 			}
 			},
 			{
