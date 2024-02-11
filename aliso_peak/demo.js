@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
+				"headline": "<h6 style='color:red;'>Entering a Residential Area</h6>",
 				"text": "Nearing the end of the first descend, the trail will break left down the hill into a neighborhood with nice houses."
 			}
 			},
