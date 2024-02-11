@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The trail should now be flat. You will see signs for two trails. The Lido trail first and the Toovet trail a few feetfurther down. Goes past these. The Lido trail will take you down to Laguna Beach and the Toovet trail goes halfway around Aliso Peak but not to the summit. The Toovet dead ends at a water facility which might sometimes smell."
+				"text": "The trail should now be flat. You will see signs for two offshoot trails. The Lido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Goes past these. The Toovet dead ends at a water facility which might sometimes smell if you take it."
 			}
 			},
 			{
