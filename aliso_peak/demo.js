@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup Section</h6>",
-				"text": "A third of the way in, the warmup section will end. A big bush will be in front of you, a picnic table will be on the right, and a summit with nice overlooking views of the ocean will be on the left. Going left is what most do since people are usually at the picnic table on the right. This photo was taken on the left."
+				"text": "A third of the way in, the warmup section will end. A big bush will be in front of you, a picnic table will be on the right, and a summit with overlooking views of the ocean will be on the left. Going left is what most do since people are usually at the picnic table on the right. This photo was taken on the left."
 			}
 			},
 			{
