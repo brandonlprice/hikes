@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The peak should now look a lot closer and be directly in front of you. You will descend again briefly, but the trail will also be wider and less steep as before."
+				"text": "The peak should now look a lot closer and be directly in front of you as you descend. The trail should be wider and less steep than earlier."
 			}
 			},
 			{
