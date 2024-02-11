@@ -293,14 +293,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "The trail should now be flat. You will see signs for two trails. The Lido trail first and the Toovet trail a few feetfurther down. Goes past these. The Lido trail will take you down to Laguna Beach and the Toovet trail goes halfway around Aliso Peak but not to the summit. The Toovet dead ends at a water facility which might sometimes smell."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i>Entering the Peak</i>",
 				"credit": ""
 			},
 			"location": {
