@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Residential Area</h6>",
-				"text": "The downhill will end next to a sidewalk once fully down. Follow the arrow as seen in the image to continue the hike."
+				"text": "The downhill will end next to a sidewalk once fully down the hill. Follow the arrow as seen in the image to continue the hike."
 			}
 			},
 			{
