@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section</h6>",
-				"text": "This is what the start will look like. A nice, flat, and wide trail. Picnic benches can be found on both sides of the trail in this section. Other people will usually be present on this hike during the weekends. Some may bring their dogs to this section."
+				"text": "This beginning of the hike is a nice, flat, and wide trail. Picnic benches can be found on both sides of the trail in this section. Other people will usually be present on this hike during the weekends. Some may bring their dogs to this section."
 			}
 			},
 			{
