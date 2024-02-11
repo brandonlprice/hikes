@@ -257,14 +257,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail will veer back to the right leaving the residential area going towards the ocean. There will still be some downhill, but it will be brief then flatten out. It also will not be as steep as the previous section and is a straight shot to the peak from here."
+				"text": "The trail will veer back to the right leaving the residential area going towards the ocean. There will still be some downhill, but it will be brief then flatten out. It also will not be as steep as the previous section."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i>Descending</i>",
 				"credit": ""
 			},
 			"location": {
