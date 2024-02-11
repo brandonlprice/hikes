@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering a Residential Area</h6>",
-				"text": "Nearing the end of the first descend, the trail will break left down the hill into a neighborhood with nice houses."
+				"text": "Nearing the end of the first descend, the trail will break left down into a neighborhood with nice houses."
 			}
 			},
 			{
