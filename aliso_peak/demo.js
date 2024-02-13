@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The trail should now be flat. You will see signs for two offshoot trails. The Lido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Goes past these."
+				"text": "The trail should now be flat. You will see signs for two offshoot trails. The Lido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Go past these."
 			}
 			},
 			{
