@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
-				"text": "Views will open up again of the ocean. Be alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy which happens often.</i>"
+				"text": "Views will open up again of the ocean. Be alert and watch your footing. <br><i>Ocean views are not always present when it is cloudy which happens often.</i>"
 			}
 			},
 			{
@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The peak should now look a lot closer and be directly in front of you as you descend. The trail should be wider and less steep than earlier."
+				"text": "The peak should now look a lot closer and be directly in front of you as you descend again. The trail should be wider and less steep than earlier."
 			}
 			},
 			{
