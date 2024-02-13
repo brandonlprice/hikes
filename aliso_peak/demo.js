@@ -130,8 +130,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Enjoy the last ocean views before starting a downhill. Ocean views will continue, but you will need to focus more on footing."
+				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"text": "Enjoy the last ocean view before starting a downhill. Ocean views will continue, but you will need to focus more on footing."
 			}
 			},
 			{
