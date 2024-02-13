@@ -311,14 +311,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"text": "You will be greeted with a flight of stairs once you make it to the base of the peak. Take these to the peak summit."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4007_1_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i>Aliso Peak, reaching the summit</i>",
 				"credit": ""
 			},
 			"location": {
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Peak</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as it will be harder. The downhill will change to uphill."
 			}
 			} 
 		]
