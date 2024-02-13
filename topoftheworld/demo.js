@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you will be at the trailhead for West Ridge. Take this trail for 2 miles until reaching your destination. Be sure to not accidentally take another park trail. If you inadvertently do, you shoud know because you will be declining down the ridge."
+				"text": "Once at the top, you will be at the trailhead for West Ridge. Take this for 2 miles until reaching your destination. If you inadvertently take another trail, you will notice right away because you will be declining off the ridge."
 			}
 			},
 			{
