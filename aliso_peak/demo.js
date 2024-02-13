@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2776_11zon.jpg",
-				"caption": "Left side of bush",
+				"caption": "<i>Left side of the bush.</i>",
 				"credit": ""
 			},
 			"location": {
