@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\" in Laguna Beach. It is known for being one of the highest elevation points next to the ocean in the county. It is slightly above 1,000 feet. While not as tall as the 3,000 foot Sandstone Peak on the Malibu Coast, it still has nice views. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, another unnamed trail in Laguna Beach, or driving there."
+				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\" in Laguna Beach. At 1,083 feet, it is the highest elevation point next to the ocean in the county. And while not as tall as the peaks on the Malibu Coast, it still is very scenic. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, another unnamed trail in Laguna Beach, or driving there."
 			}
 			},
 			{
