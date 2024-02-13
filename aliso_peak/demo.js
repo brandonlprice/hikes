@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering the Downhill</h6>",
-				"text": "Enter the downhill section between these shrubs once around the large bush. The trail will now change and be very narrow. Continue downhill into the bushes."
+				"text": "Enter the downhill section between these shrubs once around the large bush. The trail will now change and be very narrow. Continue down into the bushes."
 			}
 			},
 			{
