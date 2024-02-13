@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2776_11zon.jpg",
-				"caption": "",
+				"caption": "Left side of bush",
 				"credit": ""
 			},
 			"location": {
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Enjoy the last ocean views on the left side as you go around the bush before starting the next section. Ocean views will continue after this, but you will need to focus more on footing as you go downhill."
+				"text": "Enjoy the last ocean views on the left side as you go around the bush before starting a downhill. Ocean views will continue after this, but you will need to focus more on footing."
 			}
 			},
 			{
