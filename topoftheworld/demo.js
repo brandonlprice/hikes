@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. An access route at the beginning of the cul-de-sac. It is an access route into Aliso & Wood Canyons Regional Park. It will be a steep, but short distance."
+				"text": "Once parked, you'll start at this access route at the beginning of the cul-de-sac. It will take you up to the West Ridge Trail."
 			}
 			},
 			{
