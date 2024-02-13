@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section Continued</h6>",
-				"text": "Not too long into the hike, the trail will begin to open up and the ocean will begin to appear."
+				"text": "Not long into the hike, the ocean will begin to appear."
 			}
 			},
 			{
