@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, the trail starts here. This sign will be on the right side of the street at the end of Talavera Drive once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
+				"text": "Once parked, the trail starts here. This sign is on the right side of the street at the end of Talavera Drive once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
 			}
 			},
 			{
@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section</h6>",
-				"text": "This part is a nice, flat, and wide trail. Picnic tables will be on both sides of the trail. Other people are normally present on this hike and some may bring their dogs to this section."
+				"text": "This part of the trail is flat and wide with multiple picnic tables located on both sides. Other people are normally present on this hike and some may bring their dogs to this section."
 			}
 			},
 			{
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup Section</h6>",
-				"text": "At this point, a big bush will be in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
+				"text": "At this point, a big bush is in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
 			}
 			},
 			{
@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
-				"text": " Take your time as it will be brief, but will be steep and rocky."
+				"text": " Take your time as it is brief, but is steep and rocky."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
-				"text": "Views will open up again of the ocean. Be alert and watch your footing. <br><i>Ocean views are not always present when it is cloudy which is often.</i>"
+				"text": "Views open up again of the ocean. Be alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy.</i>"
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering a Residential Area</h6>",
-				"text": "Nearing the end of the first descend, the trail will break left down into a neighborhood with nice houses."
+				"text": "Nearing the end of the first descend, the trail breaks left down into a neighborhood with nice houses."
 			}
 			},
 			{
@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Residential Area</h6>",
-				"text": "The first descend ends here. Follow the arrow as seen in the image to continue."
+				"text": "The first descend is over. Follow the arrow as seen in the image to continue."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail will veer back to the right leaving the residential area towards the peak. There will be another descend, but it will be brief then flatten out. It will not be as steep as the previous section."
+				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another descend, but it will be brief then flatten out and will not be as steep as the previous section."
 			}
 			},
 			{
@@ -275,14 +275,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The peak should now look a lot closer and be directly in front of you as you descend again. The trail should be wider and less steep than earlier."
+				"text": "The peak should now look a lot closer and be directly in front of you as you descend again. The trail is also wider and less steep than earlier."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4004_11_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The trail should now be flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Go past these."
+				"text": "The trail is now flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Go past these."
 			}
 			},
 			{
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Peak</h6>",
-				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as it will be harder going uphill rather than downhill."
+				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as the downhills on they way there are now going to be uphill."
 			}
 			} 
 		]
