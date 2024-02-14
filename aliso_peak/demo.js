@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
-				"text": "Another shot going downhill, taken on a different day. Trail conditions vary depending on if any trail maintenance work was done to remove the shrubs."
+				"text": "Another shot going downhill, taken on a different day. Trail conditions vary depending on if any trail maintenance work was done."
 			}
 			},
 			{
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Peak</h6>",
-				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as the downhills on they way there are now going to be uphill."
+				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as the downhills enountered on they way will be uphill."
 			}
 			} 
 		]
