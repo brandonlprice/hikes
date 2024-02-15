@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>No shade and intermittent steep sections</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
-				"text": "Park on Hollyeaf where it changes to a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Park on Hollyeaf where it changes to a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents."
 			}
 			},
 			{
