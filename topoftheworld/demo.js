@@ -245,7 +245,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_1202_11zon.jpg",
+				"url": "images/topoftheworld2.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
 			},
