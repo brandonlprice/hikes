@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local HOA for the homes in the area."
+				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local Home Owner's Association."
 			}
 			},
 			{
