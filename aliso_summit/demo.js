@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"headline": "<h6 style='color:red;'>Warmup</h6>",
 				"text": "The trails gains reasonable elevation from the start."
 			}
 			},
