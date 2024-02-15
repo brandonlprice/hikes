@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another descend, but it will be brief then flatten out and will not be as steep as the previous section."
+				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another brief descend that flattens out quickly. It will not be as steep as the previous section."
 			}
 			},
 			{
