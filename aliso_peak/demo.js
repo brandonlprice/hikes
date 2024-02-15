@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Warmup Section</h6>",
+				"headline": "<h6 style='color:red;'>End of Warmup</h6>",
 				"text": "At this point, a big bush is in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
 			}
 			},
