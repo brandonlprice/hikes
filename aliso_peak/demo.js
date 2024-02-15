@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The trail is now flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and then the Toovet trail a few feet down which goes to a water tank. Go past these."
+				"text": "The trail is now flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and the Toovet trail a few feet down which goes to a water tank. Go past these."
 			}
 			},
 			{
