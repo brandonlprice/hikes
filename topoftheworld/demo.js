@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "This is how it mainly looks all the way down."
+				"text": "The trail will look like this the entire way."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "If you look left is Wood Canyon wilderness as seen in the image and on the right is Laguna Canyon Road."
+				"text": "Enjoy views of both Wood Canyon wilderness as seen in the image on the left and Laguna Canyon Rd on the right the entire way."
 			}
 			},
 			{
