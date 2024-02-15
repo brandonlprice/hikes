@@ -22,8 +22,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit Trail to Sea View Park</h4>",
-				"text": "This trail has excellent ocean views and gradually increases in elevation until you reach Sea View Park at 936 feet above sea level. About 350 feet of elevation gain."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit Trail to Seaview Park</h4>",
+				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level for about 350 feet of elevation gain."
 			}
 			},
 			{
