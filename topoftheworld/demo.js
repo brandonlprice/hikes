@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Enjoy views of both Wood Canyon wilderness as seen in the image on the left and Laguna Canyon Rd on the right the entire way."
+				"text": "Enjoy views of both Wood Canyon wilderness on the left as seen in the image and Laguna Canyon Rd on the right the entire way."
 			}
 			},
 			{
