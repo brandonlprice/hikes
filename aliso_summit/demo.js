@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/0AC2072B-9A0D-49B6-81CD-9A9EA69FDAA0_11zon.jpeg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Aliso Summit Trail, Laguna Niguel, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
