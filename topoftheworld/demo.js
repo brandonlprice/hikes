@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\" in Laguna Beach. At 1,083 feet, it is the highest elevation point next to the ocean in the county. And while not as tall as the peaks off the Malibu Coast, it still is very scenic. There are four main ways to get there: this way, which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, another unnamed trail in Laguna Beach, or driving there (most popular)."
+				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\" in Laguna Beach. At 1,083 feet, it is one of the highest elevations next to the ocean in the county. And while not as tall as the peaks off the Malibu Coast, it still is very scenic. There are four main ways to get there: this way (via the West Ridge Trail), the Canyon Acres Trail, another unnamed trail, or driving there (most popular)."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, you'll start at this access route at the beginning of the cul-de-sac. It will take you up to the West Ridge Trail."
+				"text": "Once parked, start at this access route at the beginning of the cul-de-sac. It will take you up to the West Ridge Trail."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "You are now at the West Ridge trail. Take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will notice right away because you will be declining off the ridge."
+				"text": "This is the West Ridge trail entrance. Take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will notice right away because you will be declining off the ridge."
 			}
 			},
 			{
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "It will look like this the entire way down."
+				"text": "This is how it mainly looks all the way down."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "If you look left is Wood Canyon wilderness as seen in the image and on the right is Laguna Canyon Road."
 			}
 			},
 			{
