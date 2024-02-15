@@ -22,8 +22,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit Trail to Sea View Park</h4>",
+				"text": "This trail has excellent ocean views and gradually increases in elevation until you reach Sea View Park at 936 feet above sea level. About 350 feet of elevation gain."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Residential street parking on Ridgeview Drive."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local HOA for the homes in the area."
 			}
 			},
 			{
@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "The trails gains reasonable elevation from the start."
 			}
 			},
 			{
