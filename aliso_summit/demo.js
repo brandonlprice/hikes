@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "Residential street parking on Ridgeview Drive."
+				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
 			{
