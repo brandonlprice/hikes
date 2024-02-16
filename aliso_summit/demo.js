@@ -84,7 +84,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/2.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Views of Aliso Canyon on the right.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/2ACFCF1F-0A17-4350-951B-873CE897EA47_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Views of Aliso Canyon to the west.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "Keep going up as elevation continues to gradually increase. A water tank is on your left."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Continue uphill."
 			}
 			},
 			{
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"text": "Continue uphill. Views continue to get better the higher it gets in this stretch."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Continue uphill. One of a couple lone trees are on this trail."
 			}
 			},
 			{
@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "The ocean begins to appear."
 			}
 			},
 			{
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>End of Long Uphill</h6>",
+				"text": "The uphill ends. Enjoy a flat stretch next to the nice homes."
 			}
 			},
 			{
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Houses</h6>",
+				"text": "This flat stretch is the closest you get to homes since it has no grass separating them from the trail."
 			}
 			},
 			{
@@ -274,8 +274,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Short Uphill</h6>",
+				"text": "The start of another uphill. Shorter than the first."
 			}
 			},
 			{
@@ -292,8 +292,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"text": "Some more lone trees."
 			}
 			},
 			{
