@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Long Uphill</h6>",
-				"text": "The uphill ends. Enjoy a flat stretch next to the nice homes"
+				"text": "Enjoy a flat stretch next to the nice homes."
 			}
 			},
 			{
