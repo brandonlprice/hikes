@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Continue uphill."
 			}
 			},
 			{
@@ -148,8 +148,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Continue uphill."
+				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"text": "Continue uphill. Views continue to get better the higher it gets in this stretch."
 			}
 			},
 			{
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "Continue uphill. Views continue to get better the higher it gets in this stretch."
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "Continue uphill. One of a couple lone trees are on this trail."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Continue uphill. One of a couple lone trees are on this trail."
+				"text": "The ocean begins to appear."
 			}
 			},
 			{
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The ocean begins to appear."
+				"headline": "<h6 style='color:red;'>End of Long Uphill</h6>",
+				"text": "The uphill ends. Enjoy a flat stretch next to the nice homes"
 			}
 			},
 			{
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Long Uphill</h6>",
-				"text": "The uphill ends. Enjoy a flat stretch next to the nice homes."
+				"headline": "<h6 style='color:red;'>Houses</h6>",
+				"text": "This flat stretch is the closest you get to homes since it has no grass separating them from the trail"
 			}
 			},
 			{
