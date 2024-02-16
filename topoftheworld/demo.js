@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Keep going. It will be a short uphill."
+				"text": "Keep going. It is a short uphill."
 			}
 			},
 			{
