@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup</h6>",
-				"text": "The trails gains reasonable elevation from the start and veers left quickly after."
+				"text": "The trails gains reasonable elevation from the start and s left quickly after."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Canyon</h6>",
-				"text": "Continue straight after veering left. Enjoy views of Aliso Canyon on the right. Houses are on the left."
+				"text": "Continue straight after ing left. Enjoy views of Aliso Canyon on the right. Houses are on the left."
 			}
 			},
 			{
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "<h6 style='color:red;'>Veer Left Again</h6>",
 				"text": "Continue uphill. Views continue to get better the higher it gets in this stretch."
 			}
 			},
