@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Houses</h6>",
-				"text": "This flat stretch is the closest you get to homes since it has no grass separating them from the trail."
+				"headline": "<h6 style='color:red;'>Easy Walk Continued</h6>",
+				"text": "Nice clear views of the ocean looking through the canyon."
 			}
 			},
 			{
