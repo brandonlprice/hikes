@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Canyon</h6>",
-				"text": "Continue straight after ing left. Enjoy views of Aliso Canyon on the right. Houses are on the left."
+				"text": "Continue straight after veering left. Enjoy views of Aliso Canyon on the right. Houses are on the left."
 			}
 			},
 			{
