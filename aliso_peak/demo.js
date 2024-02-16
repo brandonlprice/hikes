@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section</h6>",
-				"text": "This part is flat and wide with multiple picnic tables located on both sides. People are normally present on this hike and some may bring their dogs to this section."
+				"text": "This part is flat and wide with multiple picnic tables located on both sides. People are normally present on this hike and some bring their dogs to this section."
 			}
 			},
 			{
@@ -113,14 +113,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup</h6>",
-				"text": "A big bush is in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
+				"text": "A big bush is in front of you, a picnic table is on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
-				"caption": "<i>Enjoys the Views</i>",
+				"caption": "<i>Ocean Views</i>",
 				"credit": ""
 			},
 			"location": {
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Enjoy the last ocean view before starting a downhill. Ocean views will continue, but you will need to focus more on footing."
+				"text": "Enjoy the last ocean view before starting downhill. Ocean views continue, but you will need to focus more on footing."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering Downhill</h6>",
-				"text": "Enter the downhill section between these shrubs. The trail will now change and be very narrow. Be careful as you go down."
+				"text": "Enter the downhill section between these shrubs. The trail will change and be very narrow."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
-				"text": "Views open up again of the ocean. Be alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy.</i>"
+				"text": "Views open up again of the ocean. Stay alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy.</i>"
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another short descend, but it is not as steep or narrow as the first."
+				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
 			{
