@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup</h6>",
-				"text": "The trails gains reasonable elevation from the start."
+				"text": "The trails gains reasonable elevation from the start and veers left quickly after."
 			}
 			},
 			{
