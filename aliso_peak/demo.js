@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Warmup</h6>",
-				"text": "At this point, a big bush is in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
+				"text": "A big bush is in front of you, a picnic table on the right, and a summit with ocean views on the left. Go left since people are usually at the picnic table."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
-				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another brief descend that flattens out quickly. It will not be as steep as the previous section."
+				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another short descend, but it is not as steep or narrow as the first."
 			}
 			},
 			{
