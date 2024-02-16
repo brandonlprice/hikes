@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Houses</h6>",
-				"text": "This flat stretch is the closest you get to homes since it has no grass separating them from the trail"
+				"headline": "<h6 style='color:red;'>Easy Walk</h6>",
+				"text": "This flat stretch is the closest you get to homes since no grass separates them from the trail."
 			}
 			},
 			{
