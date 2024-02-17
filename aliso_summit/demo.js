@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>No shade, Gradual Elevation Gain</li><li>Out & Back</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left Again</h6>",
-				"text": "Continue uphill. Views continue to get better the higher it gets in this stretch."
+				"text": "Views continue to get better the higher it gets in this stretch."
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Easy Walk</h6>",
-				"text": "This flat stretch is the closest you get to homes since no grass separates them from the trail."
+				"text": "Homes are closest to the trail in this section since no grass separates them."
 			}
 			},
 			{
@@ -328,8 +328,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>East Flat Section</h6>",
-				"text": "Nice flat stretch to enjoy the views."
+				"headline": "<h6 style='color:red;'>Nice Flat Section</h6>",
+				"text": "Nice flat stretch again to enjoy the views."
 			}
 			},
 			{
@@ -346,7 +346,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nice View</h6>",
+				"headline": "<h6 style='color:red;'>Clear View</h6>",
 				"text": "The clearest view of the ocean."
 			}
 			},
@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Last Stretch of Homes</h6>",
-				"text": "Last stretch of homes before going to the destination."
+				"text": "Last stretch of homes before reaching the destination."
 			}
 			},
 			{
