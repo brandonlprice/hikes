@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
-				"text": "One of a couple lone trees are on this trail."
+				"text": "One of a couple lone trees on this trail."
 			}
 			},
 			{
