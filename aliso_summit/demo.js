@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Second to Last Viewpoint</h6>",
-				"text": "A nice viewpoint before exiting the trail."
+				"text": "Nice viewpoint before exiting the trail."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Uphill</h6>",
-				"text": "The trail starts to go uphill around a maintenance area."
+				"text": "Go uphill around a maintenance area."
 			}
 			},
 			{
@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Exiting the Trail</h6>",
-				"text": "Turn right onto the sidewalk and continue the incline."
+				"text": "Turn right onto the sidewalk and continue to incline."
 			}
 			},
 			{
