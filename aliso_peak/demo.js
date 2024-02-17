@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles (Out and Back)</li><li>One moderate steep section with mainly no shade</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
-				"text": "Park at the end of Talavera Dr right before it runs into the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
+				"text": "Park at the end of Talavera Dr before it runs into the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "The trail entrance is at the end of Talavera Drive on the right side once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
+				"text": "Trail entrance is at the end of Talavera Drive on the right side once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Enjoy the last ocean view before starting downhill. Ocean views continue, but you will need to focus more on footing."
+				"text": "Enjoy the last ocean view before starting downhill. Ocean views continue, but you will need to focus on footing."
 			}
 			},
 			{
@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Residential Area</h6>",
+				"headline": "<h6 style='color:red;'>End of First Descend</h6>",
 				"text": "The first descend is over. Follow the arrow to continue."
 			}
 			},
