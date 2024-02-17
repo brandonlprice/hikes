@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>15 mph</li><li>No Shade</li><li>Multi-Use Trail</li><li><u>Entrance</u></li></ul></small>",
-				"text": "This part of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles</li><li>15 mph</li><li>One Turnout</li><li>Multi-Use Trail</li><li><u>Entrance</u></li></ul></small>",
+				"text": "This part of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
 			{
