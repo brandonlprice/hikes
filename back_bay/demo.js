@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/24334DB1-13C7-4878-9DD6-142A81159EDD_11zon.jpeg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Back Bay, Newport Beach 2021</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,15 +22,15 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Newport Beach Back Bay (Driving)</h4>",
-				"text": "Take Back Bay Drive from Back Bay to Upper Back Bay."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Newport Beach Back Bay</h4>",
+				"text": "Take A driving tour from Back Bay to Upper Back Bay on Back Bay Drive."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/8258ADF8-2FB7-4797-A51A-52C7D9CAF63B_11zon.jpeg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Start Here",
 				"credit": ""
 			},
 			"location": { 
@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>15 mph</li><li>No Shade</li><li>Multi-Use Trail</li><li><u>Entrance</u></li></ul></small>",
 				"text": "This part of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road."
 			}
 			},
