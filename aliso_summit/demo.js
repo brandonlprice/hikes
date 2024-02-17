@@ -382,8 +382,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Another Viewpoint</h6>",
-				"text": "A nice viewpoint before starting the last uphill."
+				"headline": "<h6 style='color:red;'>Second to Last Viewpoint</h6>",
+				"text": "A nice viewpoint before exiting the trail."
 			}
 			},
 			{
@@ -418,7 +418,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Leaving the Trail</h6>",
+				"headline": "<h6 style='color:red;'>Exiting the Trail</h6>",
 				"text": "Turn right onto the sidewalk and continue the incline."
 			}
 			},
@@ -437,7 +437,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Sidewalk Incline</h6>",
-				"text": "A brief walk up this sidewalk to the first intersection."
+				"text": "A brief walk on this sidewalk to the first intersection."
 			}
 			},
 			{
@@ -455,7 +455,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Talavera Street</h6>",
-				"text": "Turn here."
+				"text": "Turn right here."
 			}
 			},
 			{
@@ -508,7 +508,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Views</h6>",
+				"headline": "<h6 style='color:red;'>Final View</h6>",
 				"text": "Enjoy the view before heading back."
 			}
 			}
