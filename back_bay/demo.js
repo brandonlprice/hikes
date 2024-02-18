@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles</li><li>15 mph</li><li>One Turnout</li><li>Multi-Use Trail</li><li><u>Entrance</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles</li><li>15 mph</li><li>Multi-Use Trail</li><li>One Turnout</li><li><u>Entrance Point</u></li></ul></small>",
 				"text": "This part of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Stay on the right side of the yellow line the whole way at 15mph."
 			}
 			},{
 			"date": "",
