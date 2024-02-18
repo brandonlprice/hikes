@@ -94,7 +94,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Clear Views of Bay</h6>",
-				"text": "This stretch has the clreast views."
+				"text": "This stretch has the clearest views."
 			}
 			},
 			{
