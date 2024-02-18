@@ -183,7 +183,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Walk Around (Optional)</h6>",
+				"headline": "<h6 style='color:red;'>Walk Around</h6>",
 				"text": "Once parked, there are some walkways to enjoy views of the bay."
 			}
 			},
