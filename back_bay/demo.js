@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Newport Beach Back Bay</h4>",
-				"text": "Take a driving tour from Back Bay to Upper Back Bay on Back Bay Drive."
+				"text": "Take a driving tour from the Back Bay to the Upper Back Bay on Back Bay Drive."
 			}
 			},
 			{
@@ -58,8 +58,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Stay on the right side of the yellow line the whole way at 15mph."
+				"headline": "<h6 style='color:red;'>Starting Out</h6>",
+				"text": "Stay on the right side of the yellow line at 15mph. Hikers and bikers will be on the opposite side. Bikers can also be on the same side if going in the same direction as cars."
 			}
 			},{
 			"date": "",
@@ -75,8 +75,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"headline": "<h6 style='color:red;'>Enjoy the Ride, Stay Alert</h6>",
+				"text": "Watch out for hikers/bikers not following trail guidelines and are on the wrong side of the road."
 			}
 			},
 			{
@@ -93,8 +93,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"headline": "<h6 style='color:red;'>Clear Views of Bay</h6>",
+				"text": "This stretch has the clreast views."
 			}
 			},
 			{
@@ -111,8 +111,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Bail Out Option</h6>",
+				"text": "At this stop, you can turn right here to Jamboree Rd and exit, or continue."
 			}
 			},
 			{
@@ -129,8 +129,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Cliff Sides</h6>",
+				"text": "Most of the way is alongside cliffs. Looks nice but be careful, cliff debris in the road after rain is possible."
 			}
 			},
 			{
@@ -147,8 +147,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Blindside Turn</h6>",
+				"text": "Go slow. One of a couple blindsides. They all will have a turning barrier with these yellows signs with black arrows."
 			}
 			},
 			{
@@ -165,8 +165,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Turnout</h6>",
+				"text": "Continue straight or turn here to park and walk around."
 			}
 			},
 			{
@@ -183,8 +183,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Walk Around (Optional)</h6>",
+				"text": "Once parked, there are some walkways to enjoy views of the bay."
 			}
 			},
 			{
@@ -201,15 +201,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Continuing the Drive</h6>",
+				"text": "This part of the bay may smell and has more grass mixed into the bay water."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_0036_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i>Blindside Turn</i>",
 				"credit": ""
 			},
 			"location": {
@@ -219,8 +219,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Blindside Turn</h6>",
+				"text": "Careful here on the blinside turn."
 			}
 			},
 			{
@@ -238,7 +238,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "Views of the bay are obstructed from the vegetation in the last stretch."
 			}
 			},
 			{
@@ -255,8 +255,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Exiting the Drive</h6>",
+				"text": "Going slightly uphill."
 			}
 			},
 			{
@@ -273,8 +273,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>End of Drive</h6>",
+				"text": "Turn left for Jamboree Rd or right takes you to a shopping center."
 			}
 			} 
 		]
