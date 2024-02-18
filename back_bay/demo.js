@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles</li><li>15 mph</li><li>Multi-Use Trail</li><li>One Turnout</li><li><u>Entrance Point</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles</li><li>15 mph</li><li>Multi-Use Trail</li><li>One Turnout</li><li><u>Entrance</u></li></ul></small>",
 				"text": "This part of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
@@ -76,7 +76,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Ride, Stay Alert</h6>",
-				"text": "Watch out for hikers/bikers not following trail guidelines and are on the wrong side of the road."
+				"text": "Watch out for hikers/bikers NOT following trail guidelines and are on the wrong side of the road."
 			}
 			},
 			{
