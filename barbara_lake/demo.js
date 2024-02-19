@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This route offers free street parking. Park at one of these 4 spots at the intersection of El Toro Bl and Along Hollyeaf This area is part of the James Dilley Preserve within the Laguna Coast Wilderness."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.13 miles</li><li>Intermittent Steep Sections, No Shade</li><li>Partial Loop</li><li><u>Trail Status</u></li></ul></small>",
+				"text": "This route offers free street parking. Three parking spots are available on El Toro Bl at the Aliso Creek Rd intersection. Additional street parking is at Hummingbird Park."
 			}
 			},
 			{
