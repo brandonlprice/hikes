@@ -76,7 +76,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Ride, Stay Alert</h6>",
-				"text": "Watch out for hikers/bikers NOT following trail guidelines and are on the wrong side of the road."
+				"text": "Watch out for hikers/bikers NOT following trail guidelines on the wrong side of the road."
 			}
 			},
 			{
@@ -112,7 +112,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bail Out Option</h6>",
-				"text": "At this stop, you can turn right here to Jamboree Rd and exit, or continue."
+				"text": "At this stop, you can turn right here to Jamboree Rd and exit, or go straight to continue."
 			}
 			},
 			{
@@ -130,7 +130,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cliff Sides</h6>",
-				"text": "Most of the way is alongside cliffs. Looks nice but be careful, cliff debris in the road after rain is possible."
+				"text": "Most of the drive is alongside cliffs. Looks nice, however, be careful, cliff debris in the road after rain is possible."
 			}
 			},
 			{
