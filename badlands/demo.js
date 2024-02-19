@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keeping Left</h6>",
-				"text": "Eventually, a sign that reads End of County Trail will appear. Go past this."
+				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
 			}
 			},
 			{
@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final View</h6>",
-				"text": "Enjoy the last view looking south into Dana Point and the ocean."
+				"text": "Enjoy the last view looking south into Dana Point and of the ocean."
 			}
 			}
 		]
