@@ -238,7 +238,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "Views of the bay are obstructed from the vegetation in the last stretch."
+				"text": "Views of the bay are obstructed due to the vegetation in the last stretch."
 			}
 			},
 			{
