@@ -274,7 +274,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Drive</h6>",
-				"text": "Turn left for Jamboree Rd or right takes you to a shopping center."
+				"text": "Turn left to go to Jamboree Rd or turning right takes you to a local shopping center."
 			}
 			} 
 		]
