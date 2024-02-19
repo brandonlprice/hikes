@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles (Out and Back)</li><li>One moderate steep section with mainly no shade</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.6 miles (Out and Back)</li><li>One moderate steep section with mainly no shade</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
 				"text": "Park at the end of Talavera Dr before it runs into the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
 			}
 			},
