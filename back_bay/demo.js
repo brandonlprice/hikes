@@ -148,7 +148,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Blindside Turn</h6>",
-				"text": "Go slow. One of a couple blindsides. They all will have a turning barrier with these yellows signs with black arrows."
+				"text": "Go slow. One of a couple blindsides. Blinside sections have a turning barrier with these yellows signs with black arrows."
 			}
 			},
 			{
