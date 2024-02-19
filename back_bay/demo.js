@@ -129,7 +129,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cliff Sides</h6>",
+				"headline": "<h6 style='color:red;'>Rocky Cliffsides</h6>",
 				"text": "Most of the drive is alongside cliffs. Looks nice, however, be careful, cliff debris in the road after rain is possible."
 			}
 			},
