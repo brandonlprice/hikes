@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Coninue to Stay Left</h6>",
-				"text": "Eventually, a sign that reads End of County trail will appear staying to the far left. Go past this."
+				"headline": "<h6 style='color:red;'>Keeping Left</h6>",
+				"text": "Eventually, a sign that reads End of County Trail will appear. Go past this."
 			}
 			},
 			{
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"text": "Clear unobstructed views of the ocean."
 			}
 			},
 			{
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"text": "The trail is wide although has no barrier to prevent falls down the slope."
 			}
 			},
 			{
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"text": "The trail will veer left away from the ocean."
 			}
 			},
 			{
@@ -256,8 +256,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Narrow Section</h6>",
+				"text": "This area is the most narrow with the steepest slopes, use caution."
 			}
 			},
 			{
@@ -274,8 +274,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right here. The ocean is now more distant."
 			}
 			},
 			{
