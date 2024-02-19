@@ -75,7 +75,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Ride, Stay Alert</h6>",
+				"headline": "<h6 style='color:red;'>Enjoy the Ride</h6>",
 				"text": "Watch out for hikers/bikers NOT following trail guidelines on the wrong side of the road."
 			}
 			},
