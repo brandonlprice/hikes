@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>No Shade</li><li><u>Street Parking</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>No Shade</li><li><u>Street Parking↗</u></li></ul></small>",
 				"text": "Street parking on Isle Vista. Two ADA parking spots available directly next to park."
 			}
 			},
