@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>No Shade</li><li>Park at <u><small><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9'>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</a></small></u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>No Shade</li><li>Park at <u><font size=3><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</a></font></u></li></ul></small>",
 				"text": "Street parking on Isle Vista. Two ADA parking spots available directly next to park."
 			}
 			},
