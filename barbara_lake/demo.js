@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Barbara's Lake, Laguna Coast Wilderness</h4>",
-				"text": "This is one of the 3 natural occuring lakes in Orange County which are all located within a quarter-mile from each other in Laguna Canyon. This is the only one that cannot be seen from Laguna Canyon Road."
+				"text": "This is one of the three natural occuring lakes in Orange County which are all located within a quarter-mile from each other in Laguna Canyon. This is the only one that cannot be seen from Laguna Canyon Road."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "This route offers free street parking. Park at one of these 4 spots at the intersection of El Toro Bl and Along Hollyeaf This area is part of the James Dilley Preserve within the Laguna Coast Wilderness."
 			}
 			},
 			{
