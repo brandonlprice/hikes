@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1101_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Parking Option 1: On El Toro Bl at Aliso Creek Rd",
 				"credit": ""
 			},
 			"location": { 
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.13 miles</li><li>Intermittent Steep Sections, No Shade</li><li>Partial Loop</li><li><u>Trail Status</u></li><li>Park at the El Toro Bl/Aliso Creek Rd Intersection or at Hummingbird Park</li></ul></small>",
-				"text": "This route offers free street parking. Three parking spots are available on El Toro Bl at the Aliso Creek Rd intersection. Additional street parking is at Hummingbird Park."
+				"text": "This route offers free street parking. Three parking spots are available on <font size=4>El Toro Bl at the Aliso Creek Rd intersection</font>. Additional street parking is at <font size=4> Hummingbird Park</font>."
 			}
 			},
 			{
