@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Right</h6>",
-				"text": "The trail will split. Take the trail farthest to the right."
+				"text": "The trail will split. Take the trail farthest to the right. Now you will start descending."
 			}
 			},
 			{
