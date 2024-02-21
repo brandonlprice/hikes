@@ -148,8 +148,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "That is the end of the incline and you are now hiking along this ridge called the Ridge Top Trail."
 			}
 			},
 			{
