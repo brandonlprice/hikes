@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descending</h6>",
-				"text": "You are now going downhill."
+				"text": "Continue descending down the hill."
 			}
 			},
 			{
