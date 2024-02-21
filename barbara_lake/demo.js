@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Right</h6>",
-				"text": "Stay right here. Multiple dead end offshoot trails to cell towers in this descend. Turn around and resume the correct trail if you make a mistake."
+				"text": "Stay right. Multiple dead end offshoot trails to cell towers in this descend. Turn around and resume the correct trail if you make a mistake."
 			}
 			},
 			{
