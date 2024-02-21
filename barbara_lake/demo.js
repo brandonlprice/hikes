@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1101_11zon.jpg",
-				"caption": "Parking Option 1: On El Toro Bl at Aliso Creek Rd",
+				"caption": "First Parking Option: On El Toro Bl at Aliso Creek Rd",
 				"credit": ""
 			},
 			"location": { 
