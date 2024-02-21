@@ -66,7 +66,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1099_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Trail Entrance</h6>",
-				"text": "On El Toro Bl at Aliso Creek Rd."
+				"text": "Enter here. On El Toro Bl at Aliso Creek Rd. Next to the crosswalk."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Out</h6>",
-				"text": "Go uphill on the Woods End Trail."
+				"text": "Continue uphill on the Woods End Trail."
 			}
 			},
 			{
@@ -112,15 +112,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Gradual Incline/h6>",
+				"text": "Go straight and then it will veer left."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9833_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -130,8 +130,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Headed to the Junction</h6>",
+				"text": "The short incline is almost over."
 			}
 			},
 			{
