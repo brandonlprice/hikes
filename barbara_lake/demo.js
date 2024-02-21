@@ -275,14 +275,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Barbara's Lake</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The trail will veer left. These are the best views at the base of the lake through this vegetation."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9852_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -292,15 +292,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Dense Vegetation</h6>",
+				"text": "Views are obstrcuted from the vegetation, but the lake is still on the right."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9853_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -310,8 +310,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "You are now leaving the lake and have exited the short stretch of dense vegetation."
 			}
 			},
 			{
