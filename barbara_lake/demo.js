@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Junction</h6>",
-				"text": "Continue straight. The original trail you descended down will join in on the left."
+				"text": "Continue straight. The original trail you descended down will join in from the left."
 			}
 			},
 			{
