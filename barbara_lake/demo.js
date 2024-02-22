@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Gradual Incline</h6>",
-				"text": "Go straight and then it will veer left."
+				"text": "Continue straight and then it will veer left."
 			}
 			},
 			{
