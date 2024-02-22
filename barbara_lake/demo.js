@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Right</h6>",
-				"text": "Stay right. Multiple dead end offshoot trails to cell towers in this descend. Turn around and resume the correct trail if you make a mistake."
+				"text": "Stay right. Multiple offshoot trails that dead end into cell towers in this descend. Turn around and resume the correct trail if you make a mistake."
 			}
 			},
 			{
@@ -390,7 +390,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/FCA94AB0-D01C-4390-BB82-67A35CFE7AC2_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -400,8 +400,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
+				"text": "Take this ridge trail you took on the way in back to the Woods End trail."
 			}
 			}
 		]
