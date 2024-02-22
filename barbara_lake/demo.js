@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Barbara's Lake, Laguna Coast Wilderness</h4>",
-				"text": "This is one of three natural occuring lakes in Orange County which are all located within a quarter-mile from each other in Laguna Canyon. This is the only one that does not dry out and cannot be seen from Laguna Canyon Road."
+				"text": "This is one of three natural occuring lakes in Orange County which are all located within a quarter-mile from each other in Laguna Canyon. This is the only one that does not dry out and cannot be seen from Laguna Canyon Road. This route takes you there."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
-				"text": "Take the ridge trail you took on the way in to the Woods End trail."
+				"text": "Take the ridge trail you took on the way in to the Woods End trail which takes you back to the entrance."
 			}
 			}
 		]
