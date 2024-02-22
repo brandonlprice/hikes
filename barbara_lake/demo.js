@@ -130,7 +130,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Headed to the Junction</h6>",
+				"headline": "<h6 style='color:red;'>Heading to the Junction</h6>",
 				"text": "The first incline is almost over. This last part is the steepest."
 			}
 			},
@@ -364,7 +364,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Headed to the Junction</h6>",
+				"headline": "<h6 style='color:red;'>Heading to the Junction</h6>",
 				"text": "Almost at the junction. The trail incline increases slightly in this stretch."
 			}
 			},
