@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Dense Vegetation</h6>",
-				"text": "Views are obstrcuted from the vegetation, but the lake is still on the right."
+				"text": "Lake views are obstrcuted from the vegetation, but the lake is still on the right."
 			}
 			},
 			{
