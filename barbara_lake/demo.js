@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "You are now leaving the lake and have exited the short stretch of dense vegetation."
+				"text": "You are now leaving the lake and headed back to the ridge."
 			}
 			},
 			{
