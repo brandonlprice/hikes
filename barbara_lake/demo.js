@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "<h6 style='color:red;'>Keep Right</h6>",
 				"text": "The trail will split. Take the trail farthest to the right. You will start descending after this short uphill."
 			}
 			},
