@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Barbara's Lake</h6>",
-				"text": "The trail will veer left. These are the best views at the base of the lake through this vegetation."
+				"text": "The trail will veer left. These are the best views at the base of the lake through the vegetation."
 			}
 			},
 			{
