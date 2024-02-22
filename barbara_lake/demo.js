@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Junction</h6>",
-				"text": "Continue straight. The original trail you descended down will join in from the left."
+				"text": "The incline is over. Continue straight. The original trail you descended down will join in from the left."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
-				"text": "Take the ridge trail you took on the way in to the Woods End trail which takes you back to the entrance."
+				"text": "Take the ridge trail you took on the way in to the Woods End trail which will take you back to the entrance."
 			}
 			}
 		]
