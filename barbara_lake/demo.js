@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ridge Top</h6>",
+				"headline": "<h6 style='color:red;'>Ridge Top Trail</h6>",
 				"text": "Nice views along the ridge."
 			}
 			},
