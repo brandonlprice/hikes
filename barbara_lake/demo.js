@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Headed to the Junction</h6>",
-				"text": "The first incline is almost over. This part is the steepest."
+				"text": "The first incline is almost over. This last part is the steepest."
 			}
 			},
 			{
