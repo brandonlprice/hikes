@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "That is the end of the first incline. You will begin hiking along a ridge called the Ridge Top Trail."
+				"text": "This is the end of the first incline. You will begin hiking along a ridge called the Ridge Top Trail."
 			}
 			},
 			{
