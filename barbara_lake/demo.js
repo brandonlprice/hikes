@@ -394,14 +394,14 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.604561, 
+				"lat": 33.604537, 
 				"line": false,
-				"lon": -117.752176,
+				"lon": -117.752139,
 				"zoom": 19
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
-				"text": "Take the ridge trail you took on the way in to the Woods End trail which will take you back to the entrance."
+				"text": "Take this ridge trail you took on the way in to the Woods End trail which will take you back to the entrance."
 			}
 			}
 		]
