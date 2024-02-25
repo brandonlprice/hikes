@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Once parked, this is where you'll start. This is the Borrego Trail. This trail takes you to the Red Rock Canyon Trail, the Red Rock Vista Trail, and the Billygoat Trail which is the destination in this case."
 			}
 			},
 			{
