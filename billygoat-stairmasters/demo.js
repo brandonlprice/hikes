@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5 miles (Lollipop Loop)</li><li>Intermittent Steep Sections & Sections of Shaded Relief</li><li>Park at <a href='https://maps.app.goo.gl/8hGRbycmvGShypZM6' target='_blank'><font size=4.5><i>26701 Portola Pkwy</i></font></a><font size=4.5> or <i>26722 Portola Pkwy</i> in Lake Forest, CA</font></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><u>Check for Alerts</u></a></li></ul></small>",
-				"text": "Paid parking is at 26701 Portola Pkwy, Lake Forest, CA 92610 and free parking is across the street at 27622 Portola Pkwy which requires walking through a tunnel under the street to get to the trail entrance. The entrance is located near the tall sculpture."
+				"text": "Paid parking is at 26701 Portola Pkwy, Lake Forest, CA 92610 and free parking is across the street at 26642 Portola Pkwy which requires walking through a tunnel under the street to get to the trail entrance. The entrance is located near the tall sculpture."
 			}
 			},
 			{
