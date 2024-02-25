@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
-				"caption": "Paid Parking Lot",
+				"caption": "Paid Parking Lot, 26701 Portola Pkwy",
 				"credit": ""
 			},
 			"location": { 
