@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Borrego Cyn, Billygoat, & Mustard Trails</h4>",
-				"text": "There are three popular trails that all can be accessed from this entrance with the most popular being the Red Rock Canyon Trail to see the red rocks. Another trail, however, is the Billygoat Trail. It is equally unique and a bit more challenging."
+				"text": "There are three popular trails that all can be accessed from this entrance with the most popular being the Red Rock Canyon Trail to see the red rocks. Another trail, however, is the Billygoat Trail. It is equally unique and a bit more challenging. Stairs were built into the hills so it gives you an intense stairmaster type of workout."
 			}
 			},
 			{
