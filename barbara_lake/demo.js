@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Heading to the Junction</h6>",
-				"text": "Continue uphill to th junction. It will get more steep."
+				"text": "Continue uphill to the junction. It will get more steep."
 			}
 			},
 			{
