@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Shaded Relief Continued</h6>",
+				"text": "Shade provided by Coastal Live Oak continues and it gets greener a quarter of the way in."
 			}
 			},
 			{
@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Last Stretch of Shade</h6>",
+				"text": "The oak tree begin to become more sparse at this point and the canyon will narrow."
 			}
 			},
 			{
