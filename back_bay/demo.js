@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Newport Beach Back Bay</h4>",
-				"text": "Take a driving tour from the Back Bay to the Upper Back Bay on Back Bay Drive."
+				"text": "Take a driving tour on Back Bay Dr from the Back Bay to the Upper Back Bay."
 			}
 			},
 			{
@@ -75,7 +75,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Ride</h6>",
+				"headline": "<h6 style='color:red;'>Enjoy the Drive</h6>",
 				"text": "Watch out for hikers/bikers NOT following trail guidelines on the wrong side of the road."
 			}
 			},
