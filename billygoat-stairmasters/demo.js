@@ -455,7 +455,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Last Flight of Stairs</h6>",
-				"text": "This is the last flight of stairs that ascends out of the canyon. A good amount of energy to climb these stairs needs to be exerted."
+				"text": "This is the last flight of stairs that ascends out of the canyon. A good amount of energy to climb all these stairs needs to be exerted."
 			}
 			},
 			{
