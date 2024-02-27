@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Shaded Relief Continued</h6>",
-				"text": "Coastal Live Oaks continue to offer shade a quarter of the way in as it gets greener."
+				"text": "Coastal Live Oaks offer nice shade as it gets greener a quarter of the way in."
 			}
 			},
 			{
