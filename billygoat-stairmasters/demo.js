@@ -509,7 +509,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right at Junction</h6>",
-				"text": "A trail will beon the left. Go few feet pass this and turn right on the trail that is on the right side which is Mustard Trail."
+				"text": "You will pass a trail on your left. Go few feet pass it and turn right on the trail to the right side which is Mustard Trail."
 			}
 			},
 			{
