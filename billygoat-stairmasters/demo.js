@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ascending</h6>",
-				"text": "This should be the second highest point of the hike."
+				"text": "Views open up again. This should be the second highest point of the hike."
 			}
 			},
 			{
