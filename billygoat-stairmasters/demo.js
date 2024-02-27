@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
-				"text": "Most of the shaded parts of this hike are in the first half."
+				"text": "Most of the shaded parts on this hike are in the first half."
 			}
 			},
 			{
