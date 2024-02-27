@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Last Stretch of Shade</h6>",
-				"text": "The oak trees will begin dissipate at this point and the canyon will narrow."
+				"text": "Oak trees will begin dissipate at this point and the canyon will narrow."
 			}
 			},
 			{
