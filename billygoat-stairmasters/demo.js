@@ -491,7 +491,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Past the Water Tank</h6>",
-				"text": "Staay to the right side of the water tank when you pass it."
+				"text": "Stay to the right side of the water tank as you pass it."
 			}
 			},
 			{
