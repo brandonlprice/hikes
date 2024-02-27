@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. The Borrego Trail. This trail takes you to the Red Rock Canyon Trail, the Red Rock Vista Trail, and the Billygoat Trail which is the destination in this case."
+				"text": "Once parked, this is where you'll start. The Borrego Trail. This trail takes you to the Red Rock Canyon Trail, Red Rock Vista Trail, and the Billygoat Trail which is the destination in this case."
 			}
 			},
 			{
