@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Gaining Elevation</h6>",
-				"text": "The trail instantly starts inclining up multiple series of stairs."
+				"text": "The trail instantly inclines up multiple series of stairs."
 			}
 			},
 			{
@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nice Views</h6>",
-				"text": "Nice views looking down into the canyons as you reach the highest point of the hike."
+				"text": "Nice views looking down into the canyons as you ascend."
 			}
 			},
 			{
@@ -400,8 +400,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Descending</h6>",
+				"text": "A short distance further, are stairs that descend into the canyon. Turn right down these."
 			}
 			},
 			{
@@ -418,8 +418,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"text": "The trail veers left once at the bottom."
 			}
 			},
 			{
@@ -436,8 +436,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>In the Canyon</h6>",
+				"text": "A nice walk in the canyon."
 			}
 			},
 			{
@@ -454,8 +454,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Last Flight of Stairs</h6>",
+				"text": "This is the last flight of stairs that ascends out of the canyon. A good amount of energy to climb these stairs needs to be exerted."
 			}
 			},
 			{
