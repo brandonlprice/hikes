@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Open Wilderness</h6>",
-				"text": "Ocasionally, oak trees can still be seen."
+				"text": "Occasionally, oak trees can still be seen."
 			}
 			},
 			{
