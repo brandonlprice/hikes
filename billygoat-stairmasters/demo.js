@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Borrego Cyn Trail to the Billygoat Stairsteps Trail</h4>",
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Borrego Trail to the Billygoat Stairsteps Trail</h4>",
 				"text": "There are three popular trails that all can be accessed from the Borrego Canyon Trail with the most popular being the Red Rock Canyon Trail to see the red rocks. Another trail, however, is the Billygoat Trail. It is equally unique and a bit more challenging. Stairs were built into the hills so it gives you an intense stairmaster type of workout."
 			}
 			},
@@ -328,7 +328,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ascending</h6>",
+				"headline": "<h6 style='color:red;'>Ascending Again</h6>",
 				"text": "Views open up again. This should be the second highest point of the hike."
 			}
 			},
@@ -346,8 +346,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Stretch</h6>",
-				"text": "Enjoy another flat stretch along the a ridge on the Billygoat Trail with open views of the canyons including Santiago Canyon Rd."
+				"headline": "<h6 style='color:red;'>Flat Stretch Continued</h6>",
+				"text": "Enjoy another flat stretch along the ridge on the Billygoat Trail with open views of the canyons including Santiago Canyon Rd."
 			}
 			},
 			{
@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "The trail veers left once at the bottom."
+				"text": "The trail veers left once at the bottom of the stairs."
 			}
 			},
 			{
@@ -473,7 +473,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Once at the top, turn right. You are now on Whiting Spur Rd and no longer on the Billygoat Trail."
+				"text": "Once at the top, turn right towards the Water Tank. You are now on Whiting Spur Rd and no longer on the Billygoat Trail."
 			}
 			},
 			{
@@ -509,7 +509,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right at Junction</h6>",
-				"text": "You will pass a trail on your left. Go few feet pass it and turn right on the trail to the right side which is Mustard Trail."
+				"text": "You will pass a trail on your left. Go a few feet past it and turn right on the trail known as Mustard Trail."
 			}
 			},
 			{
