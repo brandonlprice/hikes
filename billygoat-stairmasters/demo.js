@@ -562,7 +562,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Rest of the Hike</h6>",
+				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
 				"text": "It should be flat and easy like it was on the way in."
 			}
 			}
