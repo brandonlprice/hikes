@@ -22,8 +22,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica Marsh from PCH</h4>",
-				"text": "This is a mainly flat trail that explores the southside of the Bolsa Chica State Ecological Preserve in Huntington Beach. Several birds may be seen at any given time."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica State Ecological Preserve (Southside)</h4>",
+				"text": "This is a mainly flat trail around a marsh in north Huntington Beach. Several birds may be seen at any given time."
 			}
 			},
 			{
