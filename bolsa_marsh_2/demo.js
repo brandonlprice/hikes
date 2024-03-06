@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "<h6 style='color:red;'>Go Straight</h6>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "<h6 style='color:red;'>Continue Straight</h6>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Viewpoint</h6>",
+				"headline": "<h6 style='color:red;'>Another Viewpoint</h6>",
 				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
 			}
 			},
@@ -328,7 +328,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "<h6 style='color:red;'>Hard Turn Left</h6>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
