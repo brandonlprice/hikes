@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Out</h6>",
 				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
 			}
 			},
@@ -130,7 +130,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
 				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
 			}
 			},
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
 				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
 			}
 			},
