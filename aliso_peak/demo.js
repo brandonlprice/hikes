@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering a Residential Area</h6>",
+				"headline": "<h6 style='color:red;'>Entering Residential Area</h6>",
 				"text": "Near the end of the first descend, the trail breaks left down into a neighborhood with nice houses."
 			}
 			},
@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of First Descend</h6>",
+				"headline": "<h6 style='color:red;'>End of 1st Descend</h6>",
 				"text": "The first descend is over. Follow the arrow to continue."
 			}
 			},
@@ -274,7 +274,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "<h6 style='color:red;'>2&#x1D3A;&#x1D30; Descend</h6>",
 				"text": "The peak should now look a lot closer and be directly in front of you as you descend again. The trail is also wider and less steep than earlier."
 			}
 			},
