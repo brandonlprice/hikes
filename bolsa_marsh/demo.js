@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica State Ecological Reserve (Southside)</h4>",
-				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. On the other side of the highway is Bolsa Chica State Beach."
+				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. The other side of the highway is Bolsa Chica State Beach."
 			}
 			},
 			{
