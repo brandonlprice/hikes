@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Narrow Strip</h6>",
-				"text": "Continue into the narrow strip of land with water on both sides."
+				"text": "Continue into the narrow strip of land in front of you with water on both sides."
 			}
 			},
 			{
