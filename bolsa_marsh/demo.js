@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "<h6 style='color:red;'>Stay Left</h6>",
 				"text": "Stay left as the trail veers left. There are benches to the right to rest at on the way back."
 			}
 			},
@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "<h6 style='color:red;'>Straight Away</h6>",
 				"text": "A straight away before turning."
 			}
 			},
