@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Viewpoint 2</h6>",
-				"text": "Another bench and informational sign. This is the highest point of the hike."
+				"text": "Another bench and an informational sign. This is the highest point of the hike."
 			}
 			},
 			{
