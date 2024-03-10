@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "The trail will veer left. There are benches to the right to rest at on the way back."
+				"text": "Stay left as the trail will veer left. There are benches to the right to rest at on the way back."
 			}
 			},
 			{
