@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "Turn left after crossing the bridge."
+				"text": "Cross this bridge. Turn left after you have crossed it."
 			}
 			},
 			{
