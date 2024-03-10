@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "<h6 style='color:red;'>Back Down</h6>",
 				"text": "Once back down from the little plateau, another narrow strip will be in front of you. Continue straight onto the narrow strip."
 			}
 			},
@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once you are a ways down, turn left when you see this bridge to cross it."
+				"text": "After a ways down, turn left when you see this bridge to cross it."
 			}
 			},
 			{
