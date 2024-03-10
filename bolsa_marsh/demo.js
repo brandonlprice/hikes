@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica State Ecological Reserve (Southside)</h4>",
-				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. The other side of the highway is Bolsa Chica State Beach."
+				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. Bolsa Chica State Beach is on the other side."
 			}
 			},
 			{
@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Parking</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'>18000 CA-1, Huntington Beach, CA 92648</a></li></ul></small>",
+				"text": "It is free to park. Although the parking lot small, there still should be a couple space open. If not, something should open within a couple minutes. Start at the bridge."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Out</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "You will take this long bridge which usually will have people on it bird watching."
 			}
 			},
 			{
@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "Once you have crossed the bridge, turn left."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "The trail will veer left. There are benches to the right to rest at on the way back."
 			}
 			},
 			{
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Narrow Strip</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "Continue into the narrow strip of land with water on both sides."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "Keep going."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "A few benches are also here in this stretch."
 			}
 			},
 			{
@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "A straight away before turning."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Turn here going slightly uphill towards the little plateau."
 			}
 			},
 			{
@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Hard Turn Left</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"text": "Take the hard turn left into the plateau."
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Viewpoint 1</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "A clear view of Bolsa Chica State Beach with an informational sign."
 			}
 			},
 			{
@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Viewpoint 2</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "Another bench and informational sign. This is the highest point of the hike."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "Once back down from the little plateau, another narrow strip will be in front of you. Continue straight onto the narrow strip."
 			}
 			},
 			{
@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"text": "Once you are a ways down, turn left when you see this bridge to cross it."
 			}
 			},
 			{
@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn left again once you have crossed the bridge on yet another narrow strip to go back."
 			}
 			},
 			{
@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn right here a go slightly uphill."
 			}
 			},
 			{
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn left into these shrubs. It will be the first turn possible."
 			}
 			},
 			{
@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn left here. You can go into the area straight ahead with the informational signs to check it out before continuing."
 			}
 			},
 			{
@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Take these stairs back down. A concrete bridge will be directly in front of you once at the bottom."
 			}
 			},
 			{
@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn left after crossing the bridge."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn right into the opening in the wooden board fencing. You are now on the first narrow strip you initially entered. Take it back the way you came."
 			}
 			}
 		]
