@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica State Ecological Reserve (Northside)</h4>",
-				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. The other side of the highway is Bolsa Chica State Beach. The hike begins on the northside of this reserve which has an interpretive center with live animals."
+				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. The other side of the highway is Bolsa Chica State Beach. This side of the reserve has an interpretive center with live animals."
 			}
 			},
 			{
@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.3 miles (Out & Back/Partial Loop)</li><li>Intermittent Steep Sections, No Shade</li><li>Check for Alerts</li><li>Parking</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.3 miles (Out & Back)</li><li>Mostly flat, No Shade</li><li>Park at the interpretive center:<br><a href='https://maps.app.goo.gl/N55AGvyMibYhQ2gJ9' target='_blank'>3842 Warner Ave, Huntington Beach, CA 92649</a></li></ul></small>",
+				"text": "The interpretive center parking may be full. If that's the case, you will have to park across the street in the paid city parking lot. Address: <a href='https://maps.app.goo.gl/7amBiuTZBMphQ2629' target='_blank'>3815 Warner Ave, Huntington Beach, CA 92649</a>."
 			}
 			},
 			{
