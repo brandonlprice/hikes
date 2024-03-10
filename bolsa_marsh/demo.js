@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left here. You can go into the area straight ahead with the informational signs before that."
+				"text": "Turn left here. You can go into the area straight ahead with the informational signs before turning."
 			}
 			},
 			{
