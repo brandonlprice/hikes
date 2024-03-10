@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'>18000 CA-1, Huntington Beach, CA 92648↗</a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Duration: 1 hr 15 min</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'>18000 CA-1, Huntington Beach, CA 92648↗</a></li></ul></small>",
 				"text": "It is free to park. Although the parking lot small, there still should be a couple spaces open. If not, something should open within a couple minutes. Start the hike at the bridge."
 			}
 			},
