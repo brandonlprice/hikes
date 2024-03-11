@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Take these stairs back down. A concrete bridge will be directly in front of you once you are at the bottom."
+				"text": "Take these stairs back down and turn right. A concrete bridge will be directly in front of you after turning."
 			}
 			},
 			{
