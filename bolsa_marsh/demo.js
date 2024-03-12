@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn here and go slightly uphill towards the little plateau."
+				"text": "Turn and go slightly uphill towards the little plateau."
 			}
 			},
 			{
