@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Fourth Viewpoint</h6>",
-				"text": "Take in the last viewpoint in this section."
+				"text": "Take in the last viewpoint in this stretch."
 			}
 			},
 			{
