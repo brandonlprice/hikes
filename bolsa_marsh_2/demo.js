@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "A brief straight away stretch."
+				"text": "Straight away headed south for most of the trail."
 			}
 			},
 			{
