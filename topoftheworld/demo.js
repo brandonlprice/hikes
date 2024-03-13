@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>No shade and intermittent steep sections</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://maps.app.goo.gl/Ck56mjSEaK86Hbxt5' target='_blank'><i>Park on Hollyleaf Aliso Viejo, CA 92656</i></a></li><li><u>Check for Alerts</u></li></ul></small>",
 				"text": "Park on Hollyeaf where it changes to a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents."
 			}
 			},
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you will see the West Ridge trail entrance. Take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will notice right away because you will be declining off the ridge."
+				"text": "At the top, will be the West Ridge trail entrance. Take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will know right away because you will be declining off the ridge."
 			}
 			},
 			{
