@@ -184,7 +184,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "<h6 style='color:red;'>Keep Going</h6>",
 				"text": "You will have passed the third viewpoint at this point."
 			}
 			},
