@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Once at the bottom of these stairs, turn right. You will come to a bridge a few feet down."
+				"text": "Once at the bottom of these stairs, turn right. You will see a bridge a few feet down."
 			}
 			},
 			{
