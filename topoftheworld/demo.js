@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "The trail will look like this the entire way."
+				"text": "It will look like this the entire way."
 			}
 			},
 			{
