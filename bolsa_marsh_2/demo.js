@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "You will have already passed the third viewpoint on the trail at this point. You can't miss it."
+				"text": "You will have passed the third viewpoint at this point."
 			}
 			},
 			{
