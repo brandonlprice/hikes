@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2 miles (Out & Back)</li><li>Mostly flat, No Shade</li><li>Duration: 45 minutes</li><li>Free parking at the interpretive center:<br><a href='https://maps.app.goo.gl/N55AGvyMibYhQ2gJ9' target='_blank'><i>3842 Warner Ave, Huntington Beach, CA 92649↗</i></a></li></ul></small>",
-				"text": "Interpretive center parking may be full. If so, you will have to park across the street in the paid city parking lot and take the crosswalk back to the entrance. Address: <a href='https://maps.app.goo.gl/7amBiuTZBMphQ2629' target='_blank'><i>3815 Warner Ave, Huntington Beach, CA 92649↗</i></a> (fee should be $3/hr)"
+				"text": "Interpretive center parking may be full. If so, park across the street in the paid city parking lot and take the crosswalk back to the entrance. Address: <a href='https://maps.app.goo.gl/7amBiuTZBMphQ2629' target='_blank'><i>3815 Warner Ave, Huntington Beach, CA 92649↗</i></a> (fee should be $3/hr)"
 			}
 			},
 			{
