@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "<h6 style='color:red;'>Southbound</h6>",
 				"text": "The bridge will let you out here. Continue southbound on this trail."
 			}
 			},
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue Straight</h6>",
-				"text": "The shrubs are thicker in this area."
+				"text": "Shrubs are thicker in this area."
 			}
 			},
 			{
