@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Exit Viewpoint</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Take the short downhill path to exist the viewpoint."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Go between the wooden boards again and take the same route back the way you came."
 			}
 			}
 		]
