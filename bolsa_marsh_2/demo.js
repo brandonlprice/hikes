@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final Viewpoint</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Views of the wetlands and the ocean across the street with some informational displays."
 			}
 			},
 			{
@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final Viewpoint Continued</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "More views and a bench to sit down at before leaving."
 			}
 			},
 			{
