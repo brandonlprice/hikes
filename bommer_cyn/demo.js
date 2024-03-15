@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8126_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "1 Bommer Canyon Rd",
 				"credit": ""
 			},
 			"location": { 
