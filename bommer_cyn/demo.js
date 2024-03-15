@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>No Shade</li><li>Park at</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>No Shade</li><li><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><i>Park at 1 Bommer Cayon Rd Irvine, CA 92603</i></a></li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
