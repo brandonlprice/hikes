@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Regular Access)</h4>",
-				"text": "This trail is located in south Irvine and is on former cattle grazing grounds. It has very green hilly meadows in the spring athlough can be very brown at other times of theyear."
+				"text": "This trail is in south Irvine and is on former cattle grazing grounds. It has very green hills and meadows in the spring athlough can be very brown at other times of the year."
 			}
 			},
 			{
