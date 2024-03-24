@@ -119,6 +119,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/EFCF7741-420C-4193-97DD-D7DCD1991DB2_11zon.jpeg",
+				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.622520361254146,  
+				"line": false,
+				"lon": -117.80372961510814,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8145_11zon.jpg",
 				"caption": "<i>One out of of a handful of steep inclines.</i>",
 				"credit": ""
