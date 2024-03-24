@@ -245,6 +245,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/94552ECF-1432-4AE8-9AAB-ABD16065CEDB_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.61963016081037, 
+				"line": false,
+				"lon": -117.8023991175819,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/B7770680-352A-4C93-B27A-9862D5CD5050_11zon.jpeg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
