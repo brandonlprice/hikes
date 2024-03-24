@@ -137,6 +137,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/640B7C0B-E257-49C1-A4BD-DA2E5A2178BD_11zon.jpeg",
+				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.62212079676012,  
+				"line": false,
+				"lon": -117.80541303157239,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Hard Turn</h6>",
+				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8148_11zon.jpg",
 				"caption": "<i>Nice view looking back at all the ground covered.</i>",
 				"credit": ""
