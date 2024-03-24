@@ -245,6 +245,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/B7770680-352A-4C93-B27A-9862D5CD5050_11zon.jpeg",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 333.61987505643251,  
+				"line": false,
+				"lon": -117.8024150840388,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Passing the Garden</h6>",
+				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8162_11zon.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
