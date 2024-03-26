@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bommer Canyon Rd Entrance</h6> <small style='color:red;'><ul><li>4 mile loop</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Park at 11 Bommer Canyon · Irvine, CA 92603</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Bommer Canyon Rd Entrance</h6>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
