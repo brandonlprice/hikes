@@ -83,6 +83,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/85AFAFA2-283A-4393-9E26-91042FA13FA2_11zon.jpeg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.61993625099999,  
+				"line": false,
+				"lon": -117.80200085492044,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 mile loop</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Park at 11 Bommer Canyon · Irvine, CA 92603</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8914_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
