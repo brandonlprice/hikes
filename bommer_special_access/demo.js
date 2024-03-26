@@ -29,6 +29,60 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/EDF6856D-E0CA-41AF-95D2-663D0C525F93_11zon.jpeg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.62853275964218,  
+				"line": false,
+				"lon": -117.8060386033067,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 mile loop</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Park at 11 Bommer Canyon · Irvine, CA 92603</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/AB91A9E6-8B26-4B48-837D-93F5A1AF2CB0_11zon.jpeg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.623665411719,  
+				"line": false,
+				"lon": -117.80353597443887,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 mile loop</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Park at 11 Bommer Canyon · Irvine, CA 92603</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/5C2B2D56-A240-45EE-90CE-FD6646FE2368_11zon.jpeg",
+				"caption": "Park on Hollyleaf",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.620092643145384,  
+				"line": false,
+				"lon": -117.80182239958098,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 mile loop</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Park at 11 Bommer Canyon · Irvine, CA 92603</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_8914_11zon.jpg",
 				"caption": "Park on Hollyleaf",
 				"credit": ""
