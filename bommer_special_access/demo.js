@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font size=6>Bommer Canyon Rd Entrance</font>",
+				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font color=red size=6>Enter Bommer Canyon Rd</font>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
