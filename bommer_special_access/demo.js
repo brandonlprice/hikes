@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions: Stay Straight</h6>",
+				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Stay Straight</font>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions: Turn Right</h6>",
+				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Turn Right</font>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
