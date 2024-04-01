@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Viewpoint 1</h6>",
-				"text": "A clear view of Bolsa Chica State Beach with an informational sign."
+				"text": "A clear view of Bolsa Chica State Beach with an informational display."
 			}
 			},
 			{
@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Viewpoint 2</h6>",
-				"text": "Another bench and an informational sign. This is the highest point of the hike."
+				"text": "Another bench and an informational display. This is the highest point of the hike."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Back Down</h6>",
-				"text": "Once back down from the little plateau, enter the narrow strip in front of you."
+				"text": "Once back down from the little plateau, enter the narrow land strip in front of you."
 			}
 			},
 			{
@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left again after crossing the bridge onto the other narrow land strip to head back."
+				"text": "Turn left again after crossing the bridge onto this land strip to head back the other way."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right into the opening between the wooden fence boards. You will then head back on the first narrow strip you initially entered. Take it back to the parking lot."
+				"text": "Turn right into the opening between the wooden fence boards. You then will be heading back on the first narrow strip you initially entered. Take it back to the parking lot."
 			}
 			}
 		]
