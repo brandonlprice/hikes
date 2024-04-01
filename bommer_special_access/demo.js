@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Turn Right</font>",
-				"text": "To enter the lot."
+				"text": "Enter the lot."
 			}
 			},
 			{
