@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left again once you have crossed the bridge on yet another narrow strip to go back."
+				"text": "Turn left again after crossing the bridge onto the other narrow land strip to head back."
 			}
 			},
 			{
