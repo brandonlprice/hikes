@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Back Down</h6>",
-				"text": "Once back down from the little plateau, another narrow strip will be in front of you. Continue straight onto the narrow strip."
+				"text": "Once back down from the little plateau, enter the narrow strip in front of you."
 			}
 			},
 			{
