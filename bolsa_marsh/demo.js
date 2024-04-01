@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Out</h6>",
-				"text": "Take the bridge to the other side. It usually will have people on it bird watching."
+				"text": "Take the bridge to the other side. It usually will have people bird watching on it."
 			}
 			},
 			{
