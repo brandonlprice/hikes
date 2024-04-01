@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"text": "This hike is one of Irvine's best although has not gotten much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check letsgooutside.org for the next wilderness access day or scheduled hike. The hike has excellent views."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Canyon Rd</font>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Continue on this road. It's usually closed off by the gate, but will be open if it's a wilderness access day or there's a scheduled hike offered by letsgooutside.org."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Stay Straight</font>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "You will be on this road for a half a mile."
 			}
 			},
 			{
@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Turn Right</font>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "To enter the lot."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Park Here</h6>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Park anywhere in this lot. There is no fee."
 			}
 			},
 			{
