@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
-				"text": "This hike is one of the best in Irvine's although does not get much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check letsgooutside.org for the next wilderness access day or scheduled hike. The hike has excellent views."
+				"text": "This hike is one of the best in Irvine's although does not get much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check letsgooutside.org for the next wilderness access day or scheduled hike. This hike has excellent views from it's summit."
 			}
 			},
 			{
@@ -130,7 +130,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bommer Pass</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Pass</font>",
 				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
 			}
 			},
