@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
-				"text": "This hike is one of the best in Irvine's although does not get much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check letsgooutside.org for the next wilderness access day or scheduled hike. This hike has excellent views on it's summit."
+				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check letsgooutside.org for the next wilderness access day or scheduled hike. This hike has excellent views on it's summit."
 			}
 			},
 			{
