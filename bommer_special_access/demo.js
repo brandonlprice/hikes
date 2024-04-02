@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Canyon Rd</font>",
-				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open for wilderness access days or if there's a scheduled hike offered by letsgooutside.org."
+				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open on wilderness access days or if there's a scheduled hike offered by letsgooutside.org."
 			}
 			},
 			{
