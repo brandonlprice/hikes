@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3.4 mile loop</li><li>Steep sections, Brief shade relief</li><li>Duration: 1 ½ hours</li><li>Park at <a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'>11 Bommer Canyon · Irvine, CA 92603↗</a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3.4 mile loop</li><li>Steep sections with brief shade relief</li><li>Duration: 1 ½ hours</li><li>Park at <a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'>11 Bommer Canyon · Irvine, CA 92603↗</a></li></ul></small>",
 				"text": "Walk back towards the parking entrance after parking."
 			}
 			},
