@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Pass</font>",
-				"text": "Take this trail. Shrubs here are usually not as dense as depicted. You will quickly gain modest elevation."
+				"text": "Take this trail. Shrubs are usually not as dense as depicted. You will quickly gain modest elevation."
 			}
 			},
 			{
