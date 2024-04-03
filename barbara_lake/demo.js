@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Parking Option</h6>",
+				"headline": "<h6 style='color:red;'>Additional Parking</h6>",
 				"text": "Street Parking on <a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'>Hummingbird Lane</a> next to Hummingbird Park."
 			}
 			},
