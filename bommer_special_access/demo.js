@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Incline</h6>",
-				"text": "The incline will begin to flatten and there will be nice views of looking into the canyon below."
+				"text": "The incline will begin to flatten and there will be nice views looking into the canyon below."
 			}
 			},
 			{
