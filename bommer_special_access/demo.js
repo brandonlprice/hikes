@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Hike Completed</h6>",
-				"text": "This is the end of the hike. Turn left here on Bommer Canyon Road to go back to the parking lot and watch out for cars."
+				"text": "This is the end of the hike. Turn left here on Bommer Canyon Road to get back to the parking lot. Watch out for cars."
 			}
 			}
 		]
