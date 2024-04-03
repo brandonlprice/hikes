@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Highest Point</h6>",
-				"text": "This high point is not the highest point of the hike, but will feel like it as clear views of north Orange County can be seen below."
+				"text": "This high point is not technically the highest point of the hike, but will feel like it as clear views of north Orange County can be seen below."
 			}
 			},
 				{
@@ -372,7 +372,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8989_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -383,14 +383,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Slow Descend</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it is still a ways out."
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8992_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -401,14 +401,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend Continued</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The final stretch of the descend back to the canyon floor will not be as gradual."
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8994_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -418,8 +418,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Trail</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Hike Completed</h6>",
+				"text": "This is the end of the hike. Turn left here on Bommer Canyon Road to go back to the parking lot and watch out for cars."
 			}
 			}
 		]
