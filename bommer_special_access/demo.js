@@ -346,8 +346,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>High Point</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Highest Point</h6>",
+				"text": "This high point is not the highest point of the hike, but will feel like it as clear views of north Orange County can be seen below."
 			}
 			},
 				{
