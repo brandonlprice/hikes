@@ -221,14 +221,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Savannah Section</h6>",
-				"text": "You are going deeper into the canyon."
+				"text": "You are now going deeper into the canyon."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8935_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Canopy Section</h6>",
-				"text": "The canyon begins to close in on you and there are some oak trees for brief shade."
+				"text": "The canyon begins to close in and there are some oak trees for brief shade."
 			}
 			},
 			{
