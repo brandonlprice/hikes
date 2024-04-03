@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter East Fork Trl</h6>",
-				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or schedled hike. Keep in mind, it is not as regularly maintained as a result."
+				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or scheduled hike. This means it is not as regularly maintained as a result."
 			}
 			},
 			{
