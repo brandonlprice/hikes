@@ -246,7 +246,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/A98095C8-6096-48BA-968D-E31E0088D6EE_11zon.jpeg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -264,7 +264,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8942_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i>/i>",
 				"credit": ""
 			},
 			"location": {
