@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
-				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access days) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next wilderness access day or scheduled hike. This hike has excellent views."
+				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access days) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike. This hike has excellent views."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Begin Steep Incline</h6>",
-				"text": "This the most challenging part of the hike. This is a straight uphill which lasts a good half mile. Be sure to pace yourself and take breaks when necessary."
+				"text": "This is the most challenging part of the hike. This is a straight uphill which lasts a good half mile. Be sure to pace yourself and take breaks when necessary."
 			}
 			},
 			{
