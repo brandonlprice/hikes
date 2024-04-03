@@ -124,9 +124,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 	33.69889310297834,    
+				"lat": 	33.69888497376734,    
 				"line": false,
-				"lon": -118.04538962904056,
+				"lon": -118.04541340547553,
 				"zoom": 19
 			},
 			"text": {
@@ -346,7 +346,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "<h6 style='color:red;'>Turn Left Again</h6>",
 				"text": "Turn left here. You can also go into the area straight ahead with the displays before turning."
 			}
 			},
@@ -382,7 +382,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "<h6 style='color:red;'>Concrete Bridge</h6>",
 				"text": "Cross the bridge and turn left."
 			}
 			},
