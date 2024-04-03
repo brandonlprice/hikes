@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right into the opening between the wooden fence boards. You then will be heading back on the first narrow strip you initially entered. Take it back to the parking lot."
+				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
 			}
 			}
 		]
