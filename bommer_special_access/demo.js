@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend</h6>",
-				"text": "The trail is now nearing its end."
+				"text": "This trail is now nearing its end."
 			}
 			},
 			{
