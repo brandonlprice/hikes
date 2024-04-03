@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Pass</font>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Take this trail. Shrubs here are usually not as dense as depicted. You will quickly gain modest elevation."
 			}
 			},
 			{
@@ -149,14 +149,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Incline</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "The incline will begin to flatten and there will be nice views of looking into the canyon below."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8923_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Bommer Canyon Cattle Camp</i>",
 				"credit": ""
 			},
 			"location": {
@@ -167,14 +167,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "The incline is over at this point. Bommer Canyon Cattle Camp can be seen in the distance and is next to the parking lot."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/CC3746C6-C739-43B8-8AB0-1B27B0A4B8C2_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "The trail is now nearing its end."
 			}
 			},
 			{
@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter East Fork Trl</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or schedled hike. Keep in mind, it is not as regularly maintained as a result."
 			}
 			},
 			{
