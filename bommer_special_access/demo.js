@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend</h6>",
-				"text": "Bommer Pass trail is now nearing its end."
+				"text": "The Bommer Pass trail is now nearing its end."
 			}
 			},
 			{
