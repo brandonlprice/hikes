@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "The incline is over at this point. Bommer Canyon Cattle Camp can be seen in the distance and is next to the parking lot."
+				"text": "The incline is over at this point. Bommer Canyon Cattle Camp can be seen in the distance. The parking lot will be to the right of it."
 			}
 			},
 			{
