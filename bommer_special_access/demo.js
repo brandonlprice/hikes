@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
-				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access day) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next wilderness access day or scheduled hike. This hike has excellent views."
+				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access days) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next wilderness access day or scheduled hike. This hike has excellent views."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Canyon Rd</font>",
-				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open on wilderness access days or if there's a scheduled hike offered by <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a."
+				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open on wilderness access days or during a scheduled hike offered by <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a."
 			}
 			},
 			{
