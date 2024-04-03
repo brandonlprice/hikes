@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge Section</h6>",
-				"text": "The steepest incline is over and the hike on the ridge now begins. It is now easy to see all the ground covered and most of inland Orange County can be seen from this elevation."
+				"text": "The steepest incline is over and the hike on the ridge now begins next to California State Route 73. Most of north Orange County can be seen from this elevation. Be prepared for another brief incline when the ridge bends back to the north."
 			}
 			},
 			{
