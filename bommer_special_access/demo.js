@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Begin Steep Incline</h6>",
-				"text": "This is the most challenging part of the hike. This is a straight uphill which lasts a good half mile. Be sure to pace yourself and take breaks when necessary."
+				"text": "This is the most challenging part of the hike. This part is straight uphill and lasts a good half mile. Be sure to pace yourself and take breaks when necessary."
 			}
 			},
 			{
