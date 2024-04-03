@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/EDF6856D-E0CA-41AF-95D2-663D0C525F93_11zon.jpeg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Bommer Canyon Rd",
 				"credit": ""
 			},
 			"location": { 
@@ -48,7 +48,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/AB91A9E6-8B26-4B48-837D-93F5A1AF2CB0_11zon.jpeg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Bommer Canyon Rd",
 				"credit": ""
 			},
 			"location": { 
@@ -66,7 +66,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/5C2B2D56-A240-45EE-90CE-FD6646FE2368_11zon.jpeg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -84,7 +84,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/85AFAFA2-283A-4393-9E26-91042FA13FA2_11zon.jpeg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8914_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
