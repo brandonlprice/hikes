@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Trail Split</h6>",
-				"text": "The trails briefly splits here, but quickly re-joins back together. It does not matter which way you go. The signage make the split seem more significant than it is."
+				"text": "The trails briefly splits here, but quickly re-joins back together. It does not matter which way you go. The signage makes the split seem more significant than it is."
 			}
 			},
 				{
