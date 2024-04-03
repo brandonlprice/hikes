@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8923_11zon.jpg",
-				"caption": "<i>Bommer Canyon Cattle Camp</i>",
+				"caption": "<i>Bommer Canyon Cattle Camp in the distance</i>",
 				"credit": ""
 			},
 			"location": {
