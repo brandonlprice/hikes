@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge Route Trl Entrance</h6>",
-				"text": "This trail junction is a good resting point. Take the Ridge Route Trail to start the last half of the hike. It will mostly be all downhill from this point forward."
+				"text": "This trail junction is a good resting point. Take this trail to start the last half of the hike. It will mostly be all downhill from this point forward."
 			}
 			},
 			{
