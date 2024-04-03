@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Savannah Section</h6>",
-				"text": "You are now going deeper into the canyon."
+				"text": "You are now going deeper into the canyon as you hike along the canyon floor."
 			}
 			},
 			{
