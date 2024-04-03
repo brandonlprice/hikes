@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Steep Incline Continued</h6>",
-				"text": "It will open up the higher you get as vegetation becomes less dense and trees dissipate."
+				"text": "It will open up the higher you get as vegetation becomes less dense and the trees dissipate."
 			}
 			},
 			{
