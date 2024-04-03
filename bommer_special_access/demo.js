@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Slow Descend</h6>",
-				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it is still a ways out."
+				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it's still a ways out."
 			}
 			},
 				{
