@@ -318,7 +318,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8958_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i>Trail Junction/Resting Point</i>",
 				"credit": ""
 			},
 			"location": {
