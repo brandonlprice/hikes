@@ -282,7 +282,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8948_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -293,14 +293,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End Steep Incline</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "This steep incline ends in a few hundred feet from this point."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8951_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge Section</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The steepest incline is over and the hike on the ridge now begins. It is now easy to see all the ground covered and most of inland Orange County can be seen from this elevation."
 			}
 			},
 			{
