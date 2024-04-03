@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend Continued</h6>",
-				"text": "The final stretch of the descend back to the canyon floor will not be as gradual."
+				"text": "The final stretch of the descend back to the canyon floor will accelerate."
 			}
 			},
 				{
