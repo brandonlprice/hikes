@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Away</h6>",
-				"text": "A straight away before turning."
+				"text": "A straight away on the narrow strip before turning."
 			}
 			},
 			{
@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left here. You can go into the area straight ahead with the displays before turning."
+				"text": "Turn left here. You can also go into the area straight ahead with the displays before turning."
 			}
 			},
 			{
@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Take these stairs back down and turn right. A concrete bridge will be directly in front of you after turning."
+				"text": "Take these stairs and turn right once down. A concrete bridge will be directly in front of you after turning."
 			}
 			},
 			{
