@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge Route Trl Entrance</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "This trail junction is a good resting point. Take the Ridge Route Trail to start the last half of the hike. It will mostly be all downhill from this point forward."
 			}
 			},
 			{
