@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Borrego Trail to the Billygoat Stairsteps Trail</h4>",
-				"text": "Three very popular trails are accessed via the Borrego Trail. The most popular is the Red Rock Canyon Trail. Another trail, the Billygoat Trail, is equally nice yet a bit more challenging. Stairs were built into the hilly sections for an intense stairmaster workout."
+				"text": "Three very popular trails are accessed via the Borrego Trail. The most popular is the Red Rock Canyon Trail. Another trail, the Billygoat Trail, is equally nice yet a bit more challenging. Stairs were built into its hilly sections for an intense stairmaster workout."
 			}
 			},
 			{
