@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bommer Meadow</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "The first part of the hike is wide open."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "This is the first of two bridges on this hike."
 			}
 			},
 			{
@@ -113,14 +113,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nature Loop</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Turn right here onto the Nature Loop trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/EFCF7741-420C-4193-97DD-D7DCD1991DB2_11zon.jpeg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"text": "It starts getting more green at this section."
 			}
 			},
 			{
@@ -149,14 +149,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Away</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"text": "Area fenced off for restoration."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/640B7C0B-E257-49C1-A4BD-DA2E5A2178BD_11zon.jpeg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -167,14 +167,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Hard Turn</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "The trail will do a 180 here going south further into the canyon."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8148_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -185,14 +185,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Mini Ridge</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "A nice slightly elevated path with the meadow below."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8151_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -203,14 +203,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Lone Tree</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"text": "Keep going."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8153_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -221,14 +221,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Small Valley</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The meadow will start to feel like a valley as the hills close in."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8156_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -239,14 +239,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Cross the second bridge."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/94552ECF-1432-4AE8-9AAB-ABD16065CEDB_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -257,14 +257,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Head to the left after crossing the bridge. The parking lot and trails that go further into the canyon are usually closed to the public unless there is a special hiking event offered by <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org</i></a>."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/B7770680-352A-4C93-B27A-9862D5CD5050_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
