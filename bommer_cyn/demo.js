@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "The trails veers left once past the dense strip of vegetation."
+				"text": "The trails veers left once past the vegetation."
 			}
 			}, 
 			{
