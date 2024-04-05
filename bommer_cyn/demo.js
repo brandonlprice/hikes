@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li><li>Park at <a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></a></li></ul></small>",
-				"text": "The parking lot at 1 Bommer Canyon Rd does not have a lot of spaces. You may need to park at <a href='https://maps.app.goo.gl/Tpn5Z3FfJ7aW4Ern7' target='_blank'><i>Turtle Rock Community Park</i></a> and take the Shady Canyon Connector to the Shady Canyon Trail Bikeway to get to Bommer Canyon."
+				"text": "The parking lot at 1 Bommer Canyon Rd does not have a lot of spaces. If full, park at <a href='https://maps.app.goo.gl/Tpn5Z3FfJ7aW4Ern7' target='_blank'><i>Turtle Rock Community Park</i></a> and take the Shady Canyon Connector to the Shady Canyon Trail Bikeway to get to Bommer Canyon."
 			}
 			},
 			{
@@ -84,7 +84,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8138_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
-				"text": "This is the first of two bridges on this hike."
+				"text": "The first of two bridges."
 			}
 			},
 			{
@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8145_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Hard Turn</h6>",
-				"text": "The trail will do a 180 here going south further into the canyon."
+				"text": "Trail does a 180 here going further south into the canyon."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Mini Ridge</h6>",
-				"text": "A nice slightly elevated path with the meadow below."
+				"text": "A slightly elevated path with the meadow below."
 			}
 			},
 			{
