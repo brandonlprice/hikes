@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_8153_11zon.jpg",
-				"caption": "<i>Bommer Canyon, Irvine, CA, Summer 2022</i>",
+				"caption": "<i>Bommer Canyon, Nature Loop Trl, Irvine, CA, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
