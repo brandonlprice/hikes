@@ -275,14 +275,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Passing the Garden</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Pass the nature garden on the left unless you choose to check it out first."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8162_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -293,14 +293,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Heading Back</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The trail loops back north alongside the road usually closed to the public."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8169_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -311,14 +311,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Dense Vegetation</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "This vegetation may provide some sun protection on hot days."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/35760371-07B9-49D7-9570-0D52EA860E0B_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -329,14 +329,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The trails veers left once past the dense strip of vegetation."
 			}
 			}, 
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8177_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Rejoin Bommer Meadow</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Take the original trail you started on back to the parking lot."
 			}
 			} 
 		]
