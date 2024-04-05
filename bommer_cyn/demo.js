@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": "It starts getting more green at this section."
+				"text": "It starts getting more green in this section."
 			}
 			},
 			{
