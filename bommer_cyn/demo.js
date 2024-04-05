@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Small Valley</h6>",
-				"text": "The meadow will start to feel like a valley as the hills close in."
+				"text": "The meadow will feel like a valley as the hills close in."
 			}
 			},
 			{
