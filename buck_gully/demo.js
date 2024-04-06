@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.8 mile-loop</li><li>Densely shaded sections and minor inclines</li><li>No Shade</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.8 mile-loop</li><li>Densely shaded sections and minor inclines with a stream</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
 				"text": "Start the hike at the sidewalk to the rght of the Buck Gully Reserve North Parking Lot."
 			}
 			},
