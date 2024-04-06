@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Buck Gully Loop</h4>",
-				"text": "The Buck Gully trail is located in the Newport Coast neighborhood in Newport Beach and managed by the city of Newport Beach. This trail is an out and back but can be done in a loop by taking other trails."
+				"text": "The Buck Gully trail is located in the Newport Coast neighborhood of Newport Beach and managed by the city of Newport Beach. This trail is an out and back but can be done in a loop by taking other trails."
 			}
 			},
 			{
