@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.8 mile-loop</li><li>Densely shaded sections and minor inclines with a stream</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
-				"text": "Start the hike at the sidewalk to the right of the parking lot. The hike will loop back to the starting location after going thru the Gully."
+				"text": "Start the hike at the sidewalk to the right of the parking lot. This hike loops back to this location after going thru the Gully."
 			}
 			},
 			{
