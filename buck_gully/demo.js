@@ -545,7 +545,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Views of the Gully</h6>",
-				"text": "Enjoy these nice final views of the gully from above."
+				"text": "Enjoy these nice views of the gully from above."
 			}
 			},
 			{
