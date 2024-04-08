@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "One of a two bridges that pass over the gully stream."
+				"text": "One of two bridges that pass over the gully stream."
 			}
 			},
 			{
