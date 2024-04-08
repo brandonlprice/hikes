@@ -472,8 +472,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill - Final Stretch</h6>",
-				"text": "Only a hundred or so feet more once you start seeing houses on the right."
+				"headline": "<h6 style='color:red;'>Final Stretch Uphill</h6>",
+				"text": "Only about a hundred feet more once you start seeing houses on the right."
 			}
 			},
 			{
