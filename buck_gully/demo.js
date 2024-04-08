@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Go past the offshoot walkways and go towards the trailhead sign that can be seen in the distance."
+				"text": "Go past the offshoot walkways and go towards the trailhead sign in the distance."
 			}
 			},
 			{
