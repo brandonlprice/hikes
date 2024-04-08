@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "You can hear and see the stream clearly standing on the second bridge."
+				"text": "You can hear and see the stream while standing on the second bridge."
 			}
 			},
 			{
