@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left once you see this sign that says 'To San Joaquin'. It infers to the San Joaquin Hills Rd."
+				"text": "Turn left once you see this sign that says 'To San Joaquin'. It infers to San Joaquin Hills Rd."
 			}
 			},
 			{
