@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Into The Gully</h6>",
-				"text": "The vegetation will be steadily become more dense."
+				"text": "The vegetation will steadily become more dense."
 			}
 			},
 			{
