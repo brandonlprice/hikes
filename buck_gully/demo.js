@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Pass Unpaved Walkway</h6>",
-				"text": "Continue past the 2nd walkway."
+				"text": "Continue past the 2nd walkway a few feet after passing the 1st."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge</h6>",
-				"text": "This stretch is still elevated with the gully underneath."
+				"text": "This stretch is elevated with the gully underneath."
 			}
 			},
 			{
@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The trail will be to go slightly downhill again."
+				"text": "The trail will start gradually going downhill again."
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Bobcat Trail</h6>",
-				"text": "The downhill will accelerate and the ocean views are now gone."
+				"text": "The ocean views are now gone."
 			}
 			},
 			{
@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Into The Gully</h6>",
+				"headline": "<h6 style='color:red;'>Going Into The Gully</h6>",
 				"text": "The vegetation will be steadily become more dense."
 			}
 			},
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "This is one of a few bridges that cross the stream in different locations."
+				"text": "One of a two bridges that pass over the gully stream."
 			}
 			},
 			{
@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "The Bobcat Trail dead ends after crossing the bridge and there will be sign for the Buck Gully Trail. Turn left when you reach this sign."
+				"text": "The Bobcat Trail dead ends here after crossing the bridge and you will hit the Buck Gully Trail. Turn left when you reach the sign."
 			}
 			},
 			{
@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Beginning of Gully</h6>",
+				"headline": "<h6 style='color:red;'>Beginning of Gully Trail</h6>",
 				"text": "You are now fully in the gully. The trail is enclosed by the tall vegetaion on both sides."
 			}
 			},
@@ -347,14 +347,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Dense Part of Gully</h6>",
-				"text": "."
+				"text": "Section with trees continued."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9959_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -365,14 +365,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "You can hear and see the stream clearly standing on the second bridge."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9964_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -382,15 +382,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exiting Gully</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Exiting the Gully</h6>",
+				"text": "Daylight reappears as you incline out of the gully."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9966_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -401,14 +401,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Flat Stretch</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The brief incline is followed by a flat stretch."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9968_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -419,14 +419,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Turn left once you see this sign that says 'To San Joaquin'. It infers to the San Joaquin Hills Rd."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9972_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -437,14 +437,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Heading back up to the street."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9976_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -455,14 +455,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill Continued</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "This section is also a service road for utilities."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/5671C41A-E47F-4C47-AA7A-07A93B49265D_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i>T</i>",
 				"credit": ""
 			},
 			"location": {
@@ -473,14 +473,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill - Final Stretch</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Only a hundred or so feet more once you start seeing houses on the right."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/4DC8F012-0AD2-48ED-BD92-9CF631F87F6E_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -491,14 +491,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Exit the trail and go left on the sidewalk."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/AEAA32C4-739E-4CC0-AB4E-241609D8A460_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -509,14 +509,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>San Joaquin Hills Rd</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Take this all the way back."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/A2B5B1EE-BB78-4B9A-9778-D55AE9E1AF6F_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -527,14 +527,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Crosswalk</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "You will encounter a traffic stop on the way back."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/D3097529-E672-4953-88FC-C5C54ADE56B9_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -545,14 +545,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Views of the Gully</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Enjoy these nice final views of the gully from above."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/0F67300D-5F6C-471A-BF77-ADD12F61F12A_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -563,7 +563,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Hike</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "You are now back at the parking lot."
 			}
 			}
 		]
