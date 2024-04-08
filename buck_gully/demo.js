@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Beginning of Gully Trail</h6>",
+				"headline": "<h6 style='color:red;'>Buck Gully</h6>",
 				"text": "You are now fully in the gully. The trail is enclosed by the tall vegetaion on both sides."
 			}
 			},
