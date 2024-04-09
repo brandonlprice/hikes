@@ -473,7 +473,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final Stretch Uphill</h6>",
-				"text": "Only about a hundred feet more once you start seeing houses on the right."
+				"text": "Only about a couple hundred feet more until reaching the sidewalk once you see houses on the right."
 			}
 			},
 			{
@@ -545,7 +545,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Views of the Gully</h6>",
-				"text": "Enjoy these nice views of the gully from above."
+				"text": "Enjoy nice views of the gully from above."
 			}
 			},
 			{
