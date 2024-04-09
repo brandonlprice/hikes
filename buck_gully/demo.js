@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "The Bobcat Trail dead ends into the Buck Gully Trail after crossing the bridge. Turn left at the sign."
+				"text": "The Bobcat Trail dead ends into the Buck Gully Trail after crossing the bridge. You are now fully in the gully. Turn left at the sign."
 			}
 			},
 			{
@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Buck Gully</h6>",
-				"text": "You are now fully in the gully. The trail is enclosed by the tall vegetaion on both sides."
+				"text": "The trail is enclosed by the tall vegetaion on both sides."
 			}
 			},
 			{
