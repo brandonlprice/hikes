@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend</h6>",
-				"text": "The Bommer Pass trail is now nearing its end."
+				"text": "The Bommer Pass trail is nearing its end."
 			}
 			},
 			{
@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter East Fork Trl</h6>",
-				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or scheduled hike. This means it is not as regularly maintained as a result."
+				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or scheduled hike. It is not as regularly maintained as a result."
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Savannah Section</h6>",
-				"text": "You are now going deeper into the canyon as you hike along the canyon floor."
+				"text": "Going deeper into the canyon as you hike along the canyon floor."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Begin Steep Incline</h6>",
-				"text": "This is the most challenging part of the hike. This part is straight uphill and lasts a good half mile. Be sure to pace yourself and take breaks when necessary."
+				"text": "The most challenging part of the hike. It is straight uphill and lasts a good half mile. Pace yourself and take breaks when necessary."
 			}
 			},
 			{
@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Steep Incline Continued</h6>",
-				"text": "It will open up the higher you get as vegetation becomes less dense and the trees dissipate."
+				"text": "It opens up the higher you get as vegetation becomes less dense and the trees dissipate."
 			}
 			},
 			{
@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ridge Section</h6>",
-				"text": "The steepest incline is over and the hike along the ridge now begins next to State Route 73. Most of north Orange County can be seen from this elevation. Be prepared for another brief incline when the ridge bends back to the north."
+				"text": "The steepest incline is over and the hike along the ridge now begins next to State Route 73. Be prepared for another brief incline when the ridge bends back to the north."
 			}
 			},
 			{
