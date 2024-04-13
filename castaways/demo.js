@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Here</h6> <small style='color:red;'><ul><li>.5 mile-loop with option to extend</li><li>Flat and open with ocean views</li><li>No Shade</li><li>ADA Accessible</li><li>Park at <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'>798 Dover Dr Newport Beach, CA 92663↗</a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Start Here</h6> <small style='color:red;'><ul><li>.5 mile-loop with option to extend</li><li>Flat and open with ocean views</li><li>No Shade</li><li>ADA Accessible with paved pathways</li><li>Park at <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'>798 Dover Dr Newport Beach, CA 92663↗</a></li></ul></small>",
 				"text": "Once parked, start the hike here."
 			}
 			},
@@ -76,8 +76,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"text": "Continue on this pathway for a few hundred feet."
 			}
 			},
 			{
