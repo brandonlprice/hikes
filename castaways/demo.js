@@ -23,14 +23,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Castaways Park, Newport Beach</h4>",
-				"text": "This is a nice and short trail everyone can do takes you to viewpoints that overlook both Newport Harbor and Newport Back Bay. It is also a memorial site for veterans. Several United States flags and pictures of veterans are place throughout the park each Memorial Day."
+				"text": "This is a nice and short trail everyone can do that takes you to viewpoints that overlook both Newport Harbor and Newport Back Bay. It is also a memorial site for veterans. Several United States flags and pictures of veterans are placed throughout the park each Memorial Day."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_6468_5_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Castaways Lane",
 				"credit": ""
 			},
 			"location": { 
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Turn right here into the parking lot when you see this sign for Castaways Park."
 			}
 			},
 			{
@@ -58,8 +58,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
 			{
