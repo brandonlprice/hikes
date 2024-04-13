@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Newport Harbor</h6>",
-				"text": "The path starts to loop back in the other direction. This are overlooks the harbor if you look to the right. A permanent veteran memorial can be seen in the distance."
+				"text": "The path starts to loop back in the other direction. Look to the right to see the harbor. A permanent veteran memorial can be seen in the distance."
 			}
 			},
 			{
