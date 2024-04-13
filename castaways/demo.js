@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Heading Back</h6>",
-				"text": "Turn left here to head back. An option to extend would involve going straight on the same path. It will eventually veer left running into Dover St where you would trun left and take the sidewalk back to the parking lot."
+				"text": "Turn left here to head back. An option to extend involves going straight instead. The path will eventually veer left and run into Dover Dr. You could turn left from there and take the sidewalk back to the parking lot."
 			}
 			},
 			{
