@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Castaways Park, Newport Beach</h2>",
+				"headline": "<h2 style='color: red;'>Castaways Park, Newport Beach</h2>",
 				"text": "This is a nice and short trail everyone can do that takes you to viewpoints that overlook both Newport Harbor and Newport Back Bay. It is also a memorial site for veterans. Several United States flags and pictures of veterans are placed throughout the park each Memorial Day in their honor."
 			}
 			},
