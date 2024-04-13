@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Trail Sign</h6>",
-				"text": "Go past this sign and stay to the right of it. The sign has a map showing the small networks of trails."
+				"text": "Go past this sign and onto the dirt path for a short distance."
 			}
 			},
 			{
@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right onto the paved path."
 			}
 			},
 			{
