@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Getting There</h6><font style='line-height: 1em;' color=red size=6>Castaways Lane</font>",
-				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign for Castaways Park."
+				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign."
 			}
 			},
 			{
