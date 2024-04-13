@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Pass the sign</h6>",
-				"text": "Go straight past the sign on the left back to the parking lot."
+				"text": "Go past the trail sign on the left back to the parking lot."
 			}
 			}
 		]
