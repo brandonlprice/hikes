@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Newport Harbor</h6>",
+				"text": "The path starts to loop back in the other direction. This are overlooks the harbor if you look to the right. A permanent veteran memorial can be seen in the distance."
 			}
 			},
 			{
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Newport Harbor</h6>",
-				"text": "The path starts to loop back in the other direction. This are overlooks the harbor if you look to the right. A permanent veteran memorial can be seen in the distance."
+				"headline": "<h6 style='color:red;'>Newport Back Bay</h6>",
+				"text": "The same path you were on has now looped back in the opposite direction with views of the bay to the right."
 			}
 			},
 			{
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Newport Back Bay</h6>",
-				"text": "The same path you were on has now looped back in the opposite direction with views of the bay to the right."
+				"headline": "<h6 style='color:red;'>Heading Back</h6>",
+				"text": "Turn left here to head back. An option to extend would involve going straight on the same path. It will eventually veer left running into Dover St where you would trun left and take the sidewalk back to the parking lot."
 			}
 			},
 			{
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Pass the sign</h6>",
+				"text": "Go straight past the sign back to the parking lot."
 			}
 			}
 		]
