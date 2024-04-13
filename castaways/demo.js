@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/91E9BC99-215D-42B0-B82F-8AF807FD2548.jpeg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -148,15 +148,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"text": "You will stay on this path for awhile. No need to take any of the offshoot paths."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_6445_3_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -166,15 +166,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Entering Rest Area</h6>",
+				"text": "This area overlooks Newport Harbor. There one bench to rest at."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/055C9AB3-ABE2-4413-A4DB-D18AF08816C9_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -192,7 +192,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/DB1330DA-A372-4D0B-8598-A282667A7732_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -202,15 +202,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Newport Harbor</h6>",
+				"text": "The path starts to loop back in the other direction. This are overlooks the harbor if you look to the right. A permanent veteran memorial can be seen in the distance."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/FBC64B7A-3BAC-4374-B3A1-40B4AF1BC0F6_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,15 +220,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Newport Back Bay</h6>",
+				"text": "The same path you were on has now looped back in the opposite direction with views of the bay to the right."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/E5749EF4-B5C1-479B-BA4C-EA3FB6927EF6_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
