@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Sign</h6>",
+				"headline": "<h6 style='color:red;'>Go Past Trail Sign</h6>",
 				"text": "Go past this sign and onto the dirt path for a short distance."
 			}
 			},
@@ -124,9 +124,9 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.620273919683314, 
+				"lat": 33.62026958841808,  
 				"line": false,
-				"lon": -117.90648602910406,
+				"lon": -117.9064795696432,
 				"zoom": 19
 			},
 			"text": {
