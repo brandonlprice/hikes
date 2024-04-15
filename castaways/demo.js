@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Past Trail Sign</h6>",
-				"text": "Go past this sign and onto the dirt path for a short distance."
+				"text": "Go past this sign onto the dirt path for a short distance."
 			}
 			},
 			{
