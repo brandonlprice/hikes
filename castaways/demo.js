@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h2 style='color: red;'>Castaways Park, Newport Beach</h2>",
-				"text": "This is a short hike everyone can do that takes you to viewpoints that overlook Newport Harbor and Newport Back Bay. There is also a veteran memorial statue with a flag. Each year, thousands of United States flags and pictures of veterans are placed throughout the park on Memorial Day in honor of veterans."
+				"text": "This is a short hike everyone can do that takes you to viewpoints that overlook Newport Harbor and Newport Back Bay. There is also a veteran memorial statue with a flag. Each year, thousands of United States flags and pictures of veterans are placed throughout the park on Memorial Day."
 			}
 			},
 			{
