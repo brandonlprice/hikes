@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Alternative Parking</h6>",
-				"text": "You can optionally park for free on Amwa Rd if any spots are available."
+				"text": "The hike starts here where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
 			{
