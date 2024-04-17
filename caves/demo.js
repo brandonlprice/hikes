@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_1620_5_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Dripping Cave, Aliso & Wood Canyons Wilderness Park, Summer 2021</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,8 +22,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to the Top of the World</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Hike to Cave Rock & the Dripping Cave</h4>",
+				"text": "This hike is located in Aliso & Wood Canyons Wilderness Park which is one of the greenest locations to hike in Orange County. The trails have a wide variety of landscapes. The trails taken in this particular hike a generally flat and meadow-like."
 			}
 			},
 			{
