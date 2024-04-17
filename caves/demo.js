@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Hike to Cave Rock & the Dripping Cave</h4>",
-				"text": "This hike is located in Aliso & Wood Canyons Wilderness Park which is one of the greenest locations to hike in Orange County. These trails have a wide variety of landscapes. The trails in this hike take you through a flat meadow."
+				"text": "This hike is located in Aliso & Wood Canyons Wilderness Park which is one of the greenest locations to hike in Orange County. Trails in this park have a wide variety of landscapes. The trails in this particular hike meander through a flat meadow."
 			}
 			},
 			{
