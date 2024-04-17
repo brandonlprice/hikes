@@ -48,7 +48,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1055_11zon.jpg",
-				"caption": "PAmwa Rd",
+				"caption": "Amwa Rd",
 				"credit": ""
 			},
 			"location": { 
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Alternative Parking</h6>",
-				"text": "You can optionally park for free on Amwa Rd if any spots are available."
+				"text": "You can optionally park for free on the right side of Amwa Rd if any spots are available."
 			}
 			},
 			{
