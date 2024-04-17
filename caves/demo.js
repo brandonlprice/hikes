@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5 miles (Out & Back)</li><li>Flat meadow lands with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood#block-alertsjs' target='_blank'><i>Check for alerts↗</i></a></li><li>Park at<a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Amwa Rd Laguna Niguel, CA 92656↗</i></a></li></ul></small>",
-				"text": "Turn here into this parking lot when you see this sign from Amwa Rd for paid parking."
+				"text": "From Amwa Rd, turn left here into this parking lot. It costs $3-5 dollars to park."
 			}
 			},
 			{
