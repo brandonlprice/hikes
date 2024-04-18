@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Another Short Incline</h6>",
+				"headline": "<h6 style='color:red;'>Short Incline</h6>",
 				"text": "Go up this paved road. Temporary shade relief here."
 			}
 			},
@@ -328,7 +328,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nice Flat Section</h6>",
+				"headline": "<h6 style='color:red;'>Flat Section</h6>",
 				"text": "Nice flat stretch again to enjoy the views."
 			}
 			},
@@ -382,7 +382,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second to Last Viewpoint</h6>",
+				"headline": "<h6 style='color:red;'>Last Trail Viewpoint</h6>",
 				"text": "Nice viewpoint before exiting the trail."
 			}
 			},
@@ -400,7 +400,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Uphill</h6>",
+				"headline": "<h6 style='color:red;'>Slight Uphill</h6>",
 				"text": "Go uphill around a maintenance area."
 			}
 			},
@@ -418,7 +418,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exiting the Trail</h6>",
+				"headline": "<h6 style='color:red;'>Exit the Trail</h6>",
 				"text": "Turn right onto the sidewalk and continue to incline."
 			}
 			},
@@ -508,7 +508,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final View</h6>",
+				"headline": "<h6 style='color:red;'>Destination</h6>",
 				"text": "Enjoy the view before heading back."
 			}
 			}
