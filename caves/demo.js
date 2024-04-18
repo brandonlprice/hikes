@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
-				"text": "Continue on the trail to Cave Rock through this meadow."
+				"text": "Continue through this meadow to Cave Rock."
 			}
 			},
 			{
