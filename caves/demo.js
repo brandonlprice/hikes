@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Going</h6>",
-				"text": "Enjoys iews of the meadows below at this elevation."
+				"text": "Enjoys views of the meadows below at this elevation."
 			}
 			},
 			{
@@ -257,14 +257,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Downhill</h6>",
-				"text": "The trails descends back to the meadows and deads ends into Wood Canyon Trail. Turn left on Wood Canyon."
+				"text": "The trail descends back to the meadow floor and dead ends into Wood Canyon Trail. Turn left on Wood Canyon."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_1601_7_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -274,15 +274,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"text": "Views of the meadow along Wood Canyon Trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_1604_8_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -292,8 +292,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>To Dripping Cave</h6>",
+				"text": "Take the next possible left onto the Dripping Cave Trail when you see the sign."
 			}
 			},
 			{
