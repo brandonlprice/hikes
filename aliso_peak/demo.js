@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Enter Downhill Section</h6>",
 				"text": "Enter the downhill section between these shrubs. The trail will change and be very narrow."
 			}
 			},
