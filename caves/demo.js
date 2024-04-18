@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Wood Canyon Trail</h6>",
-				"text": "Turn right on Wood Canyon Trail. There will be a trail sign and some picnic benches at the entrance."
+				"text": "Turn right at the first possible chance on Wood Canyon Trail. There will be a trail sign and some picnic benches at the entrance."
 			}
 			},
 			{
