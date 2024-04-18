@@ -228,7 +228,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1593_4_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i>Hiking over the top of Cave Rock.</i>",
 				"credit": ""
 			},
 			"location": {
