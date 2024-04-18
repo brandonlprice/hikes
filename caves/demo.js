@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Canyon Rd</h6>",
-				"text": "The hike starts here where Amwa Rd dead ends. Walk from your car to this location after parking. Head south on this road."
+				"text": "The hike starts here, where Amwa Rd dead ends. Walk from your car to this location after parking. Head south on this road."
 			}
 			},
 			{
