@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Descend</h6>",
+				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
 				"text": "The first descend is over. Follow the arrow to continue."
 			}
 			},
