@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "At the top, will be the West Ridge trail entrance. Take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will know right away because you will be declining off the ridge."
+				"text": "At the top, will be the West Ridge trail entrance. Turn left here and take this for 2 miles until reaching the destination. If you inadvertently take another trail, you would know right away because you would be declining off the ridge."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "Pretty straight forward pathway to the destination."
 			}
 			},
 			{
