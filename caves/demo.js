@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cave Rock</h6>",
-				"text": "This is Cave Rock. Two small caves crated by wind. You can climb into them although they have little room."
+				"text": "This is Cave Rock. Two small caves created by wind. You can climb into them although they have little room."
 			}
 			},
 			{
