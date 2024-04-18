@@ -184,7 +184,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
+				"headline": "<h6 style='color:red;'>Continue Downhill</h6>",
 				"text": "Views open up again of the ocean. Stay alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy.</i>"
 			}
 			},
@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill Continued</h6>",
+				"headline": "<h6 style='color:red;'>Continue Downhill</h6>",
 				"text": "Another shot going downhill on a different day. Trail conditions vary depending on when trail maintenance work was last done."
 			}
 			},
@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering Residential Area</h6>",
+				"headline": "<h6 style='color:red;'>Enter Residential Area</h6>",
 				"text": "Near the end of the first descend, the trail breaks left down into a neighborhood with nice houses."
 			}
 			},
@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of 1st Descend</h6>",
+				"headline": "<h6 style='color:red;'>End of Descend</h6>",
 				"text": "The first descend is over. Follow the arrow to continue."
 			}
 			},
