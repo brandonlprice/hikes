@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point:</h6> <small style='color:red;'><ul><li>3.4 mile loop</li><li>Steep sections with brief shade relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li><li>Park at <a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><i>11 Bommer Canyon · Irvine, CA 92603↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Starting Point:</h6> <small style='color:red;'><ul><li>3.4 mile loop</li><li>Steep sections with brief shaded relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li><li>Park at <a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><i>11 Bommer Canyon · Irvine, CA 92603↗</i></a></li></ul></small>",
 				"text": "Walk back to the parking entrance after parking."
 			}
 			},
