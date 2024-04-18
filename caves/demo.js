@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Take the stairs. Cave Rock will be to the left once at the top."
+				"text": "Take the stairs. Cave Rock will be on the left once at the top."
 			}
 			},
 			{
