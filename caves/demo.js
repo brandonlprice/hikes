@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cave Rock</h6>",
+				"headline": "<h6 style='color:red;'>To Cave Rock</h6>",
 				"text": "Turn left when you see the Cave Rock trail sign."
 			}
 			},
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Dripping Cave</h6>",
-				"text": "OYou have reached the final destination. Take the same route back."
+				"text": "You have reached the final destination. Take the same route back."
 			}
 			}
 		]
