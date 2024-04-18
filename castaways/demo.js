@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Past Trail Sign</h6>",
-				"text": "Go past this sign onto the dirt path for a short distance."
+				"headline": "<h6 style='color:red;'>Take Dirt Path</h6>",
+				"text": "Take the dirt path to the right of the trail sign for a short distance."
 			}
 			},
 			{
