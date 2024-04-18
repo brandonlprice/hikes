@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Going</h6>",
-				"text": "Enjoys the views at this elevation. Nice viewpoint to observe the meadows below."
+				"text": "Enjoys iews of the meadows below at this elevation."
 			}
 			},
 			{
