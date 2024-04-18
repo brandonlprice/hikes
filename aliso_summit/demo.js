@@ -498,7 +498,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2757_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -508,7 +508,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Destination</h6>",
+				"headline": "<h6 style='color:red;'>Final Destination</h6>",
 				"text": "Enjoy the view before heading back."
 			}
 			}
