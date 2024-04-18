@@ -203,14 +203,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cave Rock</h6>",
-				"text": "This is Cave Rock. Two small caves created by wind. You can climb into them although they have little room."
+				"text": "This is Cave Rock. Two small caves created by wind. You can climb into them although they have little room. Head back in the oppossite direction when done."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_1585_11_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i>Incline up the rock face.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Hike over the top of Cave Rock</h6>",
+				"text": "Go up this rock formation."
 			}
 			},
 			{
