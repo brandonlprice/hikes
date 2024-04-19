@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Second Half</h6>",
-				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
+				"text": "The trail veers right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
 			{
