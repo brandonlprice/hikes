@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Trail entrance is at the end of Talavera Drive on the right side once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean. Going right takes you to the park lawn."
+				"text": "Trail entrance is at the end of Talavera Drive on the right side once you pass Seaview Park (the lawn area, which also has equally nice views). Enter here and go left on the Aliso Peak trail towards the ocean."
 			}
 			},
 			{
@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Enjoy the last ocean view before starting downhill. Ocean views continue, but you will need to focus on footing."
+				"text": "Enjoy the ocean views before starting a descend downhill."
 			}
 			},
 			{
