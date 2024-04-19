@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Left Around Bush</h6>",
+				"headline": "<h6 style='color:red;'>Tall Bush</h6>",
 				"text": "A big bush is in front of you, a picnic table is to the right, and a summit with ocean views to the left. Go left since people are usually at the picnic table."
 			}
 			},
