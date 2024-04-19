@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Huntington Central Park East</h4>",
+				"headline": "<h4 style='color: red;'>Huntington Central Park East</h4>",
 				"text": "This is a walk through a semi-natural park."
 			}
 			},
