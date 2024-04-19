@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Keep going up as elevation continues to gradually increase. A water tank is on your left."
+				"text": "Keep going up as elevation continues to gradually increase. A water tank is to the left."
 			}
 			},
 			{
