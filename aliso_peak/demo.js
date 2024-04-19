@@ -274,7 +274,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>2&#x1D3A;&#x1D30; Descend</h6>",
+				"headline": "<h6 style='color:red;'>Descend</h6>",
 				"text": "The peak should now look a lot closer and be directly in front of you as you descend again. The trail is also wider and less steep than earlier."
 			}
 			},
