@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section</h6>",
-				"text": "This part is flat and wide with multiple picnic tables located on both sides. Other people are normally present on this hike and some bring their dogs to this section."
+				"text": "This part is flat and wide with multiple picnic tables located on both sides. People are normally present on this hike and some bring their dogs to this section."
 			}
 			},
 			{
