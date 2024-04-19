@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"headline": "<h6 style='color:red;'>Uphill</h6>",
 				"text": "One of a couple lone trees on this trail."
 			}
 			},
@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Long Uphill</h6>",
+				"headline": "<h6 style='color:red;'>End Uphill</h6>",
 				"text": "Enjoy a flat stretch next to the nice homes."
 			}
 			},
