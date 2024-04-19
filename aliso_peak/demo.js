@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Other Trails</h6>",
+				"headline": "<h6 style='color:red;'>Pass Trails</h6>",
 				"text": "The trail is now flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and the Toovet trail a few feet down which goes to a water tank. Go past these."
 			}
 			},
