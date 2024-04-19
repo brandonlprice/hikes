@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Downhill</h6>",
-				"text": "Views open up again of the ocean. Stay alert and watch your footing. <br><i>FYI-Ocean views are not always present when it is cloudy.</i>"
+				"headline": "<h6 style='color:red;'>Downhill Continued</h6>",
+				"text": "Views open up again. Stay alert and watch your footing."
 			}
 			},
 			{
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Downhill</h6>",
-				"text": "Another shot going downhill on a different day. Trail conditions vary depending on when trail maintenance work was last done."
+				"headline": "<h6 style='color:red;'>Downhill Continued</h6>",
+				"text": "Another shot of the downhill on a different day. Trail conditions vary depending when trail maintenance was last done."
 			}
 			},
 			{
