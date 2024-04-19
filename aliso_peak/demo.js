@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
-				"text": "The first descend is over. Follow the arrow to continue."
+				"headline": "<h6 style='color:red;'>Midpoint</h6>",
+				"text": "The first half is over. Follow the arrow to continue."
 			}
 			},
 			{
@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Headed to the Peak</h6>",
+				"headline": "<h6 style='color:red;'>Second Half</h6>",
 				"text": "The trail veers back to the right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "<h6 style='color:red;'>Pass Other Trails</h6>",
 				"text": "The trail is now flat. You will see signs for two offshoot trails. The Valido trail which takes you to Laguna Beach and the Toovet trail a few feet down which goes to a water tank. Go past these."
 			}
 			},
