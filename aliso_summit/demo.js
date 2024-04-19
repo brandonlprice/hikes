@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left Again</h6>",
+				"headline": "<h6 style='color:red;'>Veer Left</h6>",
 				"text": "Views continue to get better the higher it gets in this stretch."
 			}
 			},
