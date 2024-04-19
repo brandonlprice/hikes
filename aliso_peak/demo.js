@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
-				"text": " The downhill is brief, but take your time because it is steep and rocky."
+				"text": " Take your time because it is steep and rocky."
 			}
 			},
 			{
