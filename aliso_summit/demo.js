@@ -454,7 +454,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Talavera Street</h6>",
+				"headline": "<h6 style='color:red;'>Right On Talavera Street</h6>",
 				"text": "Turn right here."
 			}
 			},
