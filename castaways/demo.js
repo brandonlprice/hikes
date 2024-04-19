@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering Rest Area</h6>",
+				"headline": "<h6 style='color:red;'>Enter Rest Area</h6>",
 				"text": "Stay right. Another path will join in from the left. This area overlooks Newport Harbor. There is one bench to rest at."
 			}
 			},
