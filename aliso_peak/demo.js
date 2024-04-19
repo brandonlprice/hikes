@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
-				"text": "Enjoy the ocean views before starting a descend downhill."
+				"text": "Enjoy the ocean views before starting a descend."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Downhill Section</h6>",
-				"text": "Enter the downhill section between these shrubs. The trail will change and be very narrow."
+				"text": "Enter the downhill section between these shrubs. The trail will change and become very narrow."
 			}
 			},
 			{
