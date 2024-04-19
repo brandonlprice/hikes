@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Here</h6> <small style='color:red;'><ul><li>.5 mile-loop with option to extend</li><li>Flat and open with ocean views</li><li>No Shade</li><li>ADA Accessible with paved pathways</li><li>Park at <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Start Here</h6> <small style='color:red;'><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views</li><li>No Shade</li><li>ADA Accessible with paved pathways</li><li>Park at <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
 				"text": "Once parked, start the hike here."
 			}
 			},
