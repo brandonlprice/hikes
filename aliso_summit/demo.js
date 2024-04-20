@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.2 miles</li><li>No shade, Gradual Elevation Gain</li><li>Out & Back</li><li><u>Parking</u></li><li><u>Trail Status</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual Elevation Gain</li><li>Duration: 2 hrs</li><li><u>Park at</u></li><li><u>Check for Alerts</u></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
