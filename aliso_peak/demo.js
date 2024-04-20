@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Warmup Section Continued</h6>",
-				"text": "Not long into the hike, the ocean will begin to appear."
+				"text": "The ocean will begin to appear."
 			}
 			},
 			{
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Tall Bush</h6>",
-				"text": "A big bush is in front of you, a picnic table is to the right, and a summit with ocean views to the left. Go left since people are usually at the picnic table."
+				"text": "Go left around the bush. A picnic table is on the left but people are usually already there."
 			}
 			},
 			{
