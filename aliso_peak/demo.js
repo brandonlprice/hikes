@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Tall Bush</h6>",
-				"text": "Go left around the bush. A picnic table is on the left but people are usually already there."
+				"text": "Go left around the bush. A picnic table is on the right but people are usually already there."
 			}
 			},
 			{
