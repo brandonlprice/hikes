@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.3 mile-loop</li><li>Paved with lots of Trees for Shade and Ponds</li><li>Duration: 30 min</li><li>Park at <a href='https://maps.app.goo.gl/urD3Nyez1YNbf67y7' target='_blank'><i>17492 Duello Ln, Huntington Beach, CA 92647↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.3 mile-loop</li><li>Paved with lots of Trees for Shade and Ponds</li><li>Duration: 30 min</li><li>Park in the <a href='https://maps.app.goo.gl/urD3Nyez1YNbf67y7' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
