@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
-				"text": "Take this ridge trail you took on the way in to the Woods End trail which will take you back to the entrance."
+				"text": "Take this ridge trail you took on the way in back to the Woods End trail which will take you back to the entrance."
 			}
 			}
 		]
