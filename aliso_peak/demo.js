@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ocean Views</h6>",
-				"text": "Enjoy the ocean views before starting a descend."
+				"text": "Enjoy the views before starting a descend."
 			}
 			},
 			{
