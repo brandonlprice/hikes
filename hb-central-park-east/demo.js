@@ -76,15 +76,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Main Path</h6>",
+				"text": "This path takes you around the perimeter."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/78293D94-1689-4390-BEAB-921816021745_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"text": "The first pocket of trees for shade."
 			}
 			},
 			{
@@ -112,15 +112,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Bathrooms</h6>",
+				"text": "A building behind the trees in the distance is where the bathrooms are."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/DA0B26BF-0C66-445B-898C-32C720A41A53_11zon.jpeg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -130,15 +130,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Path Splits</h6>",
+				"text": "The path breaks here, but links back together no matter which way is taken. Staying right keeps you on the main path."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/B54D1B93-EB57-4C12-AAFE-01B9906931AF_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -148,8 +148,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Tree Shade</h6>",
+				"text": "Another pocket of trees for shaded relief."
 			}
 			},
 			{
@@ -166,15 +166,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Marshy Area</h6>",
+				"text": "A marshy area on the right side. The library is straight ahead"
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2254_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -184,15 +184,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Library</h6>",
+				"text": "A clear view of the library with additional public restrooms to the left of it."
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2255_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -202,15 +202,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "A short offshoot trails that leads to a pond."
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2258_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,15 +220,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>A pond/h6>",
+				"text": "A nice pond with benches to rest at."
 			}
 			},
 				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2259_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Back to Main Path</h6>",
+				"text": "The main path can be seen straight ahead."
 			}
 			},
 				{
