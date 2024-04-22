@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Left</h6>",
-				"text": "The route will be around the park perimeter."
+				"text": "This route will be around the park perimeter."
 			}
 			},
 			{
