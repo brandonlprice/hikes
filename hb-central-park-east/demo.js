@@ -76,8 +76,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Main Path</h6>",
-				"text": "This path takes you around the perimeter."
+				"headline": "<h6 style='color:red;'>Continue on Main Path</h6>",
+				"text": "This is the main path. No others are needed to do a loop around the park although an optional offshoot to a pond will be taken."
 			}
 			},
 			{
