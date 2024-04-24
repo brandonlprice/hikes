@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Central Library</h6>",
-				"text": "A clear view of the city library with additional public restrooms to the left of it."
+				"text": "A clear view of the city's main library with additional public restrooms to the left of it."
 			}
 			},
 				{
