@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Shaded Relief 2</h6>",
-				"text": "Another pocket of trees for shaded relief."
+				"text": "Entering another pocket of trees for shaded relief."
 			}
 			},
 			{
