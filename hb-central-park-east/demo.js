@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>A pond/h6>",
+				"headline": "<h6 style='color:red;'>Pond 1</h6>",
 				"text": "A nice pond with benches to rest at."
 			}
 			},
