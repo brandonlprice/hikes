@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bathrooms</h6>",
-				"text": "A building behind the trees in the distance is where the bathrooms are."
+				"text": "The building behind the trees in the distance is one of many public restrooms in the park."
 			}
 			},
 			{
