@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Library</h6>",
-				"text": "A clear view of the library with additional public restrooms to the left of it."
+				"headline": "<h6 style='color:red;'>Central Library</h6>",
+				"text": "A clear view of the city library with additional public restrooms to the left of it."
 			}
 			},
 				{
