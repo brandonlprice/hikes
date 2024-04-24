@@ -130,7 +130,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Path Splits</h6>",
+				"headline": "<h6 style='color:red;'>Path Split</h6>",
 				"text": "The path breaks here, but links back together no matter which way is taken. Staying right keeps you on the main path."
 			}
 			},
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Tree Shade</h6>",
+				"headline": "<h6 style='color:red;'>Shade Relief</h6>",
 				"text": "Another pocket of trees for shaded relief."
 			}
 			},
@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2253_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -246,7 +246,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2262_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -264,7 +264,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2265_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -282,7 +282,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2269_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -336,7 +336,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/18141409-3899-4BFA-9A04-86177B236B86_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
