@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Marshy Area</h6>",
-				"text": "A marshy area on the right side. The library is straight ahead"
+				"text": "A marshy area on the right. The library is straight ahead"
 			}
 			},
 				{
