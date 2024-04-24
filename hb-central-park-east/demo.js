@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "A short offshoot trails that leads to a pond."
+				"text": "Take the short offshoot trail to the pond."
 			}
 			},
 				{
