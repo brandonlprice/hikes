@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Pond 1</h6>",
-				"text": "A nice pond with benches to rest at."
+				"text": "A nice pond with benches to rest at. The ponds here all connect by streams and comprise Talbert Lake."
 			}
 			},
 				{
