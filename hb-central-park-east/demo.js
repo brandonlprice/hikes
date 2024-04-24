@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Path Split</h6>",
-				"text": "The path breaks here, but links back together no matter which way is taken. Staying right keeps you on the main path."
+				"text": "The path breaks here, but links back together. Staying right keeps you on the main path."
 			}
 			},
 			{
