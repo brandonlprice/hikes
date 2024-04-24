@@ -274,8 +274,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Pass Secret Garden</h6>",
+				"text": "The park's Secret Garden is on the right. It is a small, but nice garden that's free to visit when open. You can either keep going or take a detour here before continuing."
 			}
 			},
 			{
