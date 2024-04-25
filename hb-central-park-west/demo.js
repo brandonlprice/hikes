@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": "The path breaks off into two. Both lead to the lake. Take the one that breaks to the right. The other goes around the playground."
+				"text": "The path breaks off into two. Take the one that breaks to the right. The other goes to the playground."
 			}
 			},
 			{
