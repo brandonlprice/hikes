@@ -239,14 +239,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left here from the paved path onto the dirt trail. The chalklines in the image may not always be present."
+				"text": "Turn left here from the paved path onto the dirt trail. The path-defining chalklines in the image may not always be present."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_0839_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -256,8 +256,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Enter Urban Forest</h6>",
+				"text": "Go through the opening between the wood fence to enter the backside of the urban forest."
 			}
 			},
 			{
