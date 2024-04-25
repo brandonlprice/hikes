@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Pass Restaurant</h6>",
-				"text": "Pass the restaurant using the walkway on the left side."
+				"text": "Pass the restaurant using the walkway on the left side. Keep left after passing it."
 			}
 			},
 			{
