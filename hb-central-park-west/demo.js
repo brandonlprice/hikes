@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Huntington Central Park West</h4>",
-				"text": "This This is a short walk around Lake Huntington in Central Park West with an additional short trek into the adjacent urban forest which has a small summit and viewpoint. This walk is only 1.05 miles, but can be extended by visiting the vegetated sections of the urban forest."
+				"text": "This is a short walk around Lake Huntington in Central Park West with an additional short trek into the adjacent urban forest which has a small summit and viewpoint. This walk is only 1.05 miles, but can be extended by visiting the vegetated sections of the urban forest."
 			}
 			},
 			{
