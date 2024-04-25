@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Pass Secret Garden</h6>",
-				"text": "The park's Secret Garden is on the right. It is a small, but nice garden that's free to visit when open. You can either keep going or take a detour here before continuing."
+				"text": "The park's Secret Garden is on the right. A small, but nice garden that's free to visit when open. You can keep going or take a detour here before continuing."
 			}
 			},
 			{
