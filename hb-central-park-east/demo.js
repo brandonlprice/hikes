@@ -437,7 +437,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Begin Last Stretch</h6>",
-				"text": "Trees are still present but not as dense here so more daylight sneaks in."
+				"text": "Trees are still present but not as dense so more daylight sneaks in."
 			}
 			},
 			{
@@ -455,7 +455,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stream</h6>",
-				"text": "One of the park streams that connects the multiple ponds runs parallel to the path on the right with the street on the left."
+				"text": "One of the park streams that connects to multiple ponds. It runs parallel to the path."
 			}
 			},
 			{
