@@ -149,7 +149,8 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "The trail veers right after crossing the bridge. Harder to see the pathway in this image, but it is clear in-person.
+					"
 			}
 			},
 			{
