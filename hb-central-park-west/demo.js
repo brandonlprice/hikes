@@ -149,8 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
-				"text": "The trail veers right after crossing the bridge. Harder to see the pathway in this image, but it is clear in-person.
-					"
+				"text": "The trail veers right after crossing the bridge. Harder to see the pathway in this image, but it is clear in-person."
 			}
 			},
 			{
