@@ -48,7 +48,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1238_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Parking",
 				"credit": ""
 			},
 			"location": { 
@@ -58,8 +58,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li><li>Park at Kathy May's Lakeview Cafe</li></ul></small>",
+				"text": "When parking, look for stalls that do not have the Restaurant Only parking sign."
 			}
 			},
 			{
