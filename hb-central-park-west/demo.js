@@ -130,7 +130,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge</h6>",
+				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
 				"text": "Take the bridge to get to the other side of the lake."
 			}
 			},
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
 				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
 			}
 			},
