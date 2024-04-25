@@ -426,7 +426,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/EF4B14FA-D6E0-4067-94E8-D63149571951_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -436,15 +436,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Begin Last Stretch</h6>",
+				"text": "Trees are still present but not as dense here so more daylight sneaks in."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/53524CBE-DB04-4937-AE52-4EE467136D1D_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -454,8 +454,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Stream</h6>",
+				"text": "One of the park streams that connects the multiple ponds runs parallel to the path on the right with the street on the left."
 			}
 			},
 			{
