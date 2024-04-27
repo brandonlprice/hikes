@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": "Follow the trail to the right. Going left will take you into the little vegetated section of the urban forest."
+				"text": "Follow the trail to the right. Going left will takes you to the little vegetated section of the urban forest."
 			}
 			},
 			{
