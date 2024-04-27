@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
-				"text": "A bench on the left to relax and look down on the lake before continuing a little modest elevation."
+				"text": "A bench on the left to relax and look down on the lake before continuing the modest incline."
 			}
 			},
 			{
