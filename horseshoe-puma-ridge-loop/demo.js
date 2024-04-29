@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Once parked, start the hike on the Horseshoe Loop Trail at this entrance point. It is a multi-use trail also used for bikes and horseback riding. This trail loops around the entire park, but only a portion of it is taken for this hike."
 			}
 			},
 			{
