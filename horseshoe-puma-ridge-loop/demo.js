@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9134_11zon.jpg",
-				"caption": "Railroad and Pony Rides Parking Lot (park here)",
+				"caption": "Railroad & Pony Rides Lot (park here)",
 				"credit": ""
 			},
 			"location": { 
