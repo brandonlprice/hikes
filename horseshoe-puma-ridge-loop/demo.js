@@ -22,15 +22,15 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Horshoe/Puma Ridge Loop</h4>",
-				"text": "This hike is located in Orange County's oldest park, Irvine Regional Park (est. 1897). You will get nice views of the park and Santa Ana Mountains from the trails taken. "
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Horshoe - Puma Ridge Loop</h4>",
+				"text": "This hike is located in Orange County's oldest park, Irvine Regional Park (est. 1897). It has nice views of the looking down  on the park and of Santa Ana Mountains along Puma Ridge. "
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9134_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Railroad and Pony Rides Parking Lot",
 				"credit": ""
 			},
 			"location": { 
@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Mountain Views, Some Shade, Some Dry Areas, and a Ridge Summit</li><li>Check for Alerts</li><li>Park at the Railroad & Pony Rides Lot ($3/weekday-$6/weekend)</li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
