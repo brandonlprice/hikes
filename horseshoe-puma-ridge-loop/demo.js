@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9134_11zon.jpg",
-				"caption": "Railroad and Pony Rides Parking Lot",
+				"caption": "Railroad and Pony Rides Parking Lot (park here)",
 				"credit": ""
 			},
 			"location": { 
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.04 mile loop</li><li>Mountain Views, Dry Areas, Some Shade, A Steep Incline to a Ridge Summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li><li>Park at the <a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "You need to pass through a gated entrance to park. Park in this lot after entering. It's pretty close to the entrance."
 			}
 			},
 			{
