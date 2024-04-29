@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Mountain Views, Some Shade, Some Dry Areas, and a Ridge Summit</li><li>Check for Alerts</li><li>Park at the Railroad & Pony Rides Lot ($3/weekday-$6/weekend)</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.04 mile loop</li><li>Mountain Views, Some Shade, Some Dry Areas, and a Steep Incline to a Ridge Summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li><li>Park at the <a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
