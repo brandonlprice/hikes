@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "."
+				"text": "Keep straight a few hundred feet."
 			}
 			},
 			{
