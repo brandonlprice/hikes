@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.04 mile loop</li><li>Dry areas with some shade, a steep incline to a ridge summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li><li>Park at the <a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</li></ul></small>",
-				"text": "Pay at the gated entrance to park. Park in this lot after entering. It's close to the entrance."
+				"text": "Pay at the gated entrance to park. Park in the lot pictured after entering. It's close to the entrance."
 			}
 			},
 			{
