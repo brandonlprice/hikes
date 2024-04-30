@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;'>Horsehoe - Puma Ridge Loop</h4>",
-				"text": "This hike is located in Orange County's oldest park, Irvine Regional Park (est. 1897). The first half is on the Horseshoe Loop Trail and then the Puma Ridge Trail after that. It has nice bird's eye views of the park and the Santa Ana Mountains along Puma Ridge. "
+				"text": "This hike is located in Orange County's oldest park, Irvine Regional Park (est. 1897). The first half is on the Horseshoe Loop Trail and the second half is on the Puma Ridge Trail. There are nice bird's eye views of the park and the Santa Ana Mountains along Puma Ridge. "
 			}
 			},
 			{
