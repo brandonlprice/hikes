@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/D4A09283-1B48-4D37-B07A-22C011394857_11zon.jpeg",
-				"caption": "<i>Viewpoint on Puma Ridge, Irvine Regional Park, Spring 2023</i>",
+				"caption": "<i>Views from Puma Ridge, Irvine Regional Park, Spring 2023</i>",
 				"credit": ""
 			},
 			"type": "overview",
