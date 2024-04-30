@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, start the hike here on the Horseshoe Loop Trail at this entrance point. This is a multi-use trail also used for bikes and horseback riding. It trail loops around the entire park, but only a portion of it is taken in this hike."
+				"text": "Once parked, start the hike here. This is a short connector trail that connects to the Horseshoe Loop Trail."
 			}
 			},
 			{
@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Enter Horseshoe Loop</h6>",
+				"text": "Turn left onto the Horseshoe Loop Trail. There will be a sign and it is be the first possible left turn. This is a multi-use trail also used for bikes and horseback riding. It trail loops around the entire park, but only a portion of it is taken in this hike."
 			}
 			},
 			{
