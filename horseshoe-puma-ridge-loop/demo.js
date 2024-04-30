@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left on the Horseshoe Loop Trail, the first possible left turn. There will be a sign. It's a multi-use trail also used for biking and horseback riding that loops around the entire park, a portion of it will be taken."
+				"text": "Turn left on the Horseshoe Loop Trail, the first possible left turn. There will be a sign. This trail is also used for biking and horseback riding that loops around the entire park, a portion of it will be taken."
 			}
 			},
 			{
