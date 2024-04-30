@@ -130,8 +130,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Modest Incline</h6>",
+				"text": "Stay on this trail for awhile."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Watertank Lookout</h6>",
-				"text": "This is called Watertank Lookout because of the watertank that's next to it. There is also a bench further down. Views of the Santa Ana Mountains and surrounding foothills."
+				"text": "This is called Watertank Lookout because of the watertank next to it. There's also a bench further down. Views of the Santa Ana Mountains and surrounding foothills."
 			}
 			},
 			{
