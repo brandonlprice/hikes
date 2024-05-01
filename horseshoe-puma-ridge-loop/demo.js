@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Puma Ridge Trail (Midpoint)</h6>",
-				"text": "Turn right here. You now will have fully descended down to street level, and will start ascending again on this trail."
+				"headline": "<h6 style='color:red;'>Puma Ridge Trail (Midway)</h6>",
+				"text": "Turn right here. You now have fully descended down to street level, and will start ascending again on this trail."
 			}
 			},
 			{
