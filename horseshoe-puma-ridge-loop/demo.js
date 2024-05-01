@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Watertank Lookout</h6>",
-				"text": "This is called Watertank Lookout because of the watertank next to it. There's also a bench further down. Views of the Santa Ana Mountains and surrounding foothills."
+				"text": "The Watertank Lookout gets it's name from the watertank next to it. There's also a bench further down. Views of the Santa Ana Mountains and surrounding foothills."
 			}
 			},
 			{
