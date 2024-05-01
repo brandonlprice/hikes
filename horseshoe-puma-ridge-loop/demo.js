@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left Again</h6>",
-				"text": "Make another first left to continue on the Horseshoe Loop Trail. Going straight takes you to the other trail taken later on."
+				"text": "Make another first left to keep on the Horseshoe Loop Trail. Going straight takes you to the other trail taken later on."
 			}
 			},
 			{
