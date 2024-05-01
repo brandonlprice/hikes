@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Modest Incline</h6>",
-				"text": "Stay on this trail for awhile."
+				"headline": "<h6 style='color:red;'>Turn Left Again</h6>",
+				"text": "Turn left again at the first possible chance to continue on the Horseshoe Loop Trail. Going straight takes you to the other trail that is taken later on."
 			}
 			},
 			{
