@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Descend</h6>",
-				"text": "The descend has already begun once past the summit, but accelerates once past these bushes."
+				"text": "The descend has already begun once past the summit, but accelerates past these bushes."
 			}
 			},
 			{
