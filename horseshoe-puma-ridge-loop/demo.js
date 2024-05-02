@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Moderate Incline</h6>",
-				"text": "The incline here is a little steeper than the first incline at the start of the hike."
+				"text": "The incline here is a little steeper than the first incline in the beginning."
 			}
 			},
 			{
