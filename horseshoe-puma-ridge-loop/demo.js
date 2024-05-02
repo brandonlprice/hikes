@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Summit</h6>",
-				"text": "A nice summit before starting the descend."
+				"text": "A nice summit before descending."
 			}
 			},
 			{
