@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Highest Stretch</h6>",
-				"text": "The first stretch along the ridge is the highest."
+				"text": "This first stretch along the ridge is the highest."
 			}
 			},
 			{
