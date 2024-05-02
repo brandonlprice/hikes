@@ -372,7 +372,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/B0D7B409-EC19-4A3F-AE47-FD0890DEF9E8_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -382,15 +382,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Steep Section</h6>",
+				"text": "The last part of the descend is the steepest, but it is not too bad."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9194_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -400,8 +400,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Exiting</h6>",
+				"text": "Go straight here past the first trail on the right. The descend is over."
 			}
 			}
 		]
