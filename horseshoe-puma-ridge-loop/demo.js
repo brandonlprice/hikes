@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Narrow and Brushy</h6>",
-				"text": "The trail is narrow the whole way up. THe brush may or may not be as thick in the picture depending on when the trail was maintained."
+				"text": "Nearing the end of the descend at this point, however, the trail is narrow the whole way up. Brush may be less dense if trail maintenance was done."
 			}
 			},
 			{
