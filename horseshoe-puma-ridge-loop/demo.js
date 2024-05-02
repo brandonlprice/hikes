@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Exiting</h6>",
-				"text": "Go straight here past the first trail on the right. The descend is over."
+				"text": "Go straight here passing the first trail on the right. The descend is over."
 			}
 			}
 		]
