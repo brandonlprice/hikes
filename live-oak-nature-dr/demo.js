@@ -1,7 +1,7 @@
 let demojs={
 	"storymap": {
 		"calculate_zoom": false,
-		"attribution": "tt",
+		"attribution": "",
 		"call_to_action": true,
 		"show_history_line":false,
 		"zoomify": false,
