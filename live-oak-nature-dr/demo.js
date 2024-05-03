@@ -58,8 +58,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"headline": "<h6 style='color:red;'>Live Oak Canyon Road</h6>",
+				"text": "Early into the Live Oak Canyon Dr portion of the drive. The road is largely straight. It starts to get more windy at this point."
 			}
 			},
 			{
