@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Southbound</h6>",
-				"text": "."
+				"text": "After turning, the direction of the road has now changed from east to south."
 			}
 			},
 			{
