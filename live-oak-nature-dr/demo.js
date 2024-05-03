@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Live Oak Canyon Road</h6>",
-				"text": "Early into the Live Oak Canyon Dr portion of the drive. The road is largely straight. It starts to get more windy at this point."
+				"text": "Early into the Live Oak Canyon Dr portion of the drive. The road is largely straight. It starts to turn here."
 			}
 			},
 			{
