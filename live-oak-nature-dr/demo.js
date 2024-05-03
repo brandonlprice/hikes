@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.35 miles</li><li>Windy Treelined Streets Leading to a Small Summit</li><li>Duration: 25 minutes</li></ul></small>",
 				"text": "This is where you start. The stretch along Live Oak Cyn Dr is only about ten minutes but it's treelined. The second stretch is within O'Neill Regional Park that leads to a small summit. A fee is required to enter."
 			}
 			},
