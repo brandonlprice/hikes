@@ -1,8 +1,8 @@
 let demojs={
 	"storymap": {
 		"calculate_zoom": false,
-		"attribution": "",
-		"call_to_action": false,
+		"attribution": "tt",
+		"call_to_action": true,
 		"show_history_line":false,
 		"zoomify": false,
 		"map_type": "http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Dr to O'Neill Regional Park</font>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
 			}
 			},
 			{
