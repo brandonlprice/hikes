@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Dr to O'Neill Regional Park</font>",
-				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list. The stretch along Live Oak Cyn Dr is only about ten minutes but is treelined. The second stretch is within O'Neill Regional Park that leads to a small summit. A fee is required to enter."
+				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "This is where you start. The stretch along Live Oak Cyn Dr is only about ten minutes but it's treelined. The second stretch is within O'Neill Regional Park that leads to a small summit. A fee is required to enter."
 			}
 			},
 			{
