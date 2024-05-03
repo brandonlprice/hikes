@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Dr to O'Neill Regional Park</font>",
-				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
+				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list. The stretch along Live Oak Cyn Dr is only about ten minutes but is treelined. The second stretch is within O'Neill Regional Park that leads to a small summit. A fee is required to enter."
 			}
 			},
 			{
