@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Live Oak Canyon Road</h6>",
-				"text": "Early into the scenic route on Live Oak Canyon Dr, the road is largely straight. It starts to veer right here."
+				"text": "Early into the drive on Live Oak Canyon Rd, the road is straight. It starts to veer right here."
 			}
 			},
 			{
@@ -77,14 +77,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Southbound</h6>",
-				"text": "After the road veers right, you will be heading south."
+				"text": "After the road veers right, you will be heading south. Oak Trees start to appear."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7264_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"text": "The oaks have now formed a canopy."
 			}
 			},
 			{
@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"text": "Treelined section with Oak Trees continues."
 			}
 			},
 			{
