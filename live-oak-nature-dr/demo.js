@@ -274,7 +274,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trabuco Creek</h6>",
+				"headline": "<h6 style='color:red;'>Cross Trabuco Creek</h6>",
 				"text": "Cross the creek. The road to cross is usually dry but can fill with water when it rains."
 			}
 			},
@@ -364,7 +364,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Mesa</h6>",
+				"headline": "<h6 style='color:red;'>The Mesa Section</h6>",
 				"text": "The drive is in the Mesa section the rest of the way. The highest point of the park with the exception of some trails that require hiking."
 			}
 			},
