@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>O'Neill Regional Park</h6>",
-				"text": "As sign for O'Neill Regiona Park will be on the right. Turn into the park entrance on the right a few hundred feet further down."
+				"text": "As sign for O'Neill Regiona Park will be on the right. Turn into the park entrance on the right a few hundred feet down."
 			}
 			},
 			{
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Park</h6>",
+				"headline": "<h6 style='color:red;'>Entrance Fee</h6>",
 				"text": "There may be a short line on the weekends. The parking attendant will collect an entrance fee of $3 on weekdays and $5 for weekends."
 			}
 			},
@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7278_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Upone entering, take the first right immediately after passing the parking booth."
 			}
 			},
 			{
