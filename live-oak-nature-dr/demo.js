@@ -455,7 +455,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Right</h6>",
-				"text": "The road splits here for the lane in the opposite direction."
+				"text": "The road splits here for the lane going the opposite direction."
 			}
 			},
 			{
@@ -480,7 +480,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2178_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -491,7 +491,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>End of Drive</h6>",
-				"text": "The road will loop back around so you can leave the same way you came. Or you can park anywhere in the Mesa Section and rest at a table."
+				"text": "The road loops back around so you can leave the same way you came. You can park anywhere in the Mesa Section and rest at a table before heading out."
 			}
 			},
 			{
