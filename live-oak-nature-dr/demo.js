@@ -390,7 +390,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/7F99A982-2BDA-4276-B0CB-FA4D98BA31B4_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -400,15 +400,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Mesa Trail</h6>",
+				"text": "This trail runs parallel to the road. It has signs that narrate a story along the path."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2171_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -426,7 +426,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2173_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -436,15 +436,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Main Picnic Area</h6>",
+				"text": "Picnic tables are located throughout the section, although this is the main area since it has bathrooms and parking."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/7FC370E5-7249-4292-86D7-9AE7CB841E10_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -454,8 +454,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Trees</h6>",
+				"text": "A straight away sections with trees going towards the mountains."
 			}
 			},
 			{
