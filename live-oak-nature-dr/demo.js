@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Main Picnic Area</h6>",
-				"text": "Picnic tables are located throughout the section, although this is the main area since it has bathrooms and parking."
+				"text": "Picnic tables all along the road. This is the main area since it has bathrooms and parking."
 			}
 			},
 			{
