@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Picnic table are on the right."
+				"text": "Picnic tables are on the right."
 			}
 			},
 			{
