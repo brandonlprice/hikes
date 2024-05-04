@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Right</h6>",
-				"text": "A median splits the road for lanes going the opposite way."
+				"text": "A median splits the road for the lane going the opposite way."
 			}
 			},
 			{
