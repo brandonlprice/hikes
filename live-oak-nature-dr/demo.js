@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Live Oak Canyon Road</h6>",
-				"text": "Early into the drive on Live Oak Canyon Rd, the road is straight. It starts to veer right here."
+				"text": "Early in, the drive is mainly eastward. It starts veering right to the south here."
 			}
 			},
 			{
