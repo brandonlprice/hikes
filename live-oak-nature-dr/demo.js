@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_7264_11zon.jpg",
-				"caption": "<i>Live Oak Cyn Dr, Trabuco Caynon, CA, Summer 2022</i>",
+				"caption": "<i>Live Oak Cyn Rd, Trabuco Caynon, CA, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Dr to O'Neill Regional Park</font>",
+				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Rd to O'Neill Regional Park</font>",
 				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
 			}
 			},
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.35 miles</li><li>Winding Treelined Streets Leading to a Small Summit</li><li>Duration: 30 minutes</li><li><a href='https://maps.app.goo.gl/aPWj7mW7x9XfhH1FA' target='_blank'><i>Start at the Live Oak Cyn Rd/El Toro Rd Intersection↗</i></a></li></ul></small>",
-				"text": "Start here on Live Oak Canyon Dr heading east. It will be a ten minute treelined drive that takes you too O'Neill Regional Park. From there, a $3-5 fee is required to enter. Upon entering, the nature drive continues and ends at a small summit."
+				"text": "Start here on Live Oak Canyon Rd heading east. It will be a ten minute treelined drive that takes you too O'Neill Regional Park. From there, a $3-5 fee is required to enter. Upon entering, the nature drive continues and ends at a small summit."
 			}
 			},
 			{
