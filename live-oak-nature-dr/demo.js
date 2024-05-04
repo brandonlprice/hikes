@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>O'Neill Regional Park</h6>",
-				"text": "As sign for O'Neill Regiona Park will be on the right. Turn into the park entrance on the right a few hundred feet down."
+				"text": "A sign for O'Neill Regiona Park will be on the right. Turn into the park entrance on the right a few hundred feet down."
 			}
 			},
 			{
@@ -228,7 +228,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/CC6B55EB-8E77-4582-A12D-2A220585573E_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -238,15 +238,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"text": "A median splits the road for lanes going the opposite way."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/E9825AB3-DF32-44B1-ADD4-940A668B55E7_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -256,15 +256,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right here. Going straight dead ends into the playground a hundred feet ahead."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2153_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
