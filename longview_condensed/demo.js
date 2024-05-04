@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_8875_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Longview Park, Laguna Niguel, Fall 2021</i>",
 				"credit": ""
 			},
 			"type": "overview",
