@@ -490,15 +490,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>End of Drive</h6>",
+				"text": "The road will loop back around so you can leave the same way you came. Or you can park anywhere in the Mesa Section and rest at a table."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2181_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -508,8 +508,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Picnic Table</h6>",
+				"text": "One of many picnic tables to rest at."
 			}
 			}
 		]
