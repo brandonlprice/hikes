@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Mesa Section</h6>",
-				"text": "The drive is in the Mesa section the rest of the way. The highest point of the park with the exception of some trails that require hiking."
+				"text": "The drive is in this section the rest of the way. It is highest point of the park with the exception of some trails that require hiking."
 			}
 			},
 			{
