@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Mountain Views</h6>",
-				"text": "Trees are still present in this stretch, but there are gaps where the Santa Ana Mountains can easily be seen."
+				"text": "Trees are present in this stretch, but there are gaps where the Santa Ana Mountains can easily be seen."
 			}
 			},
 			{
