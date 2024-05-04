@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Southbound</h6>",
-				"text": "After the road veers right, you will be heading south. Oak Trees start to appear."
+				"text": "After the road veers right, you will be heading south. Oak trees start to appear."
 			}
 			},
 			{
@@ -202,7 +202,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering Oak Grove Day Use</h6>",
+				"headline": "<h6 style='color:red;'>Oak Grove Day Use</h6>",
 				"text": "Keep on the main road, there will be a sign saying you are entering the Oak Grove Day Use section of the park."
 			}
 			},	
