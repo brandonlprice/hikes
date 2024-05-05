@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1064_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Hollyleaf",
 				"credit": ""
 			},
 			"location": { 
