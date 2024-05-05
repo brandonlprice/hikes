@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.62 miles</li><li>Short Uphill With Shade</li><li>Enter Gated Community at <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
-				"text": "The park you start the hike at is within a private community. Press the black button pictured and the gate will open to enter the community. The button is disabled after 5pm."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>Short Uphill With Shade</li><li>Enter Gated Community at <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
+				"text": "The park you start the hike at is within a private community. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Upon entering, park on Paseo Park next to the playground at this location."
 			}
 			},
 			{
