@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "You will be at the destination after this turn."
+				"text": "You will be at the summit after this turn."
 			}
 			},
 			{
