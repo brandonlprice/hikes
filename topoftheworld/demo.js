@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, there will be some very short-lived yet very steep inclines. These inclines are not as tough on the way back. Mountain bikers are often present on the trail and use these inclines to practice their uphills. Turn right at this t-junction. Going left goes down into Mathis Canyon."
+				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice going uphill. Turn right at this t-junction. Going left goes down into Mathis Canyon."
 			}
 			},
 			{
