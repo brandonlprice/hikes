@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>More Uphill</h6>",
-				"text": "Another final uphill before the summit. It is longer but more gradual than the previous inclines."
+				"text": "A final uphill before the summit. It is more gradual than the previous inclines."
 			}
 			},
 			{
