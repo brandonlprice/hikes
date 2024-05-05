@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance about a quarter-mile away."
+				"headline": "<h6 style='color:red;'>More Uphill</h6>",
+				"text": "Another final uphill before the summit. It is longer but more gradual than the previous inclines."
 			}
 			},
 			{
