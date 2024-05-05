@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turning right here is a shortcut to the summit. Going straight also takes you there, but adds a few extra feet."
+				"text": "Turn right here for a shortcut to the summit. Going straight also takes you there, but adds a few extra feet."
 			}
 			},
 			{
