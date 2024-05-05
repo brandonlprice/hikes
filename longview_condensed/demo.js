@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Upon entering, park on Paseo Park next to the playground at this location."
+				"text": "Upon entering, park on <a href='https://maps.app.goo.gl/qU8dohakGmFaKsQb8' target='_blank'><i>Paseo Park↗</i></a> next to the playground."
 			}
 			},
 			{
