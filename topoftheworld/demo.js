@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice going uphill."
+				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice."
 			}
 			},
 			{
