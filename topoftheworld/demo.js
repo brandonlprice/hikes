@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "At the top, will be the West Ridge trail entrance. Turn left here and take this for 2 miles until reaching the destination. If you inadvertently take another trail, you would know right away because you would be declining off the ridge."
+				"text": "At the top, will be the West Ridge trail entrance. Turn right here and take this for 2 miles until reaching the destination. If you inadvertently take another trail, you would know right away because you would be declining off the ridge."
 			}
 			},
 			{
