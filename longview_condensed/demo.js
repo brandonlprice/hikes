@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.62 miles</li><li>Short Uphill With Shade</li><li>Enter Gated Community at <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
 				"text": "The park you start the hike at is within a private community. Press the black button pictured and the gate will open to enter the community. The button is disabled after 5pm."
 			}
 			},
