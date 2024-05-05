@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
-				"text": "Take the short flight of stairs behind the playground to the right."
+				"text": "Take the short flight of stairs behind the playground."
 			}
 			},
 			{
