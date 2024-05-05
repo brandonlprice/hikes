@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right at this t-junction to continue on West Ridge. Going left goes down into Mathis Canyon."
+				"text": "Turn right at this t-junction to continue on West Ridge. Going left puts you on the the Mathis Canyon Trail."
 			}
 			},
 			{
