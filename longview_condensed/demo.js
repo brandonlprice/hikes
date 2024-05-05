@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h2 style='color: red;line-height: .92em;'>Hike to Longview Park</h2><font style='line-height: 1em;' color=red size=7>(from Park Paseo St)</font>",
-				"text": "This is a short hike that start at a park and goes up a hill to a small summit with ocean views called Longview Park."
+				"text": "This is a short hike that starts at a park and goes up a hill to a small summit with ocean views called Longview Park."
 			}
 			},
 			{
