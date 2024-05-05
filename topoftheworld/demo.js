@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "You will be at the summit after this turn."
+				"text": "Turning right here is a shortcut to the summit. Going straight also takes you there, but adds a few extra feet."
 			}
 			},
 			{
