@@ -160,14 +160,32 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
+				"lat": 33.56846596221925,  
+				"line": false,
+				"lon": -117.75734207139038,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
+				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice going uphill."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_1190_11zon.jpg",
+				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"credit": ""
+			},
+			"location": {
 				"lat": 33.563708263174625, 
 				"line": false,
 				"lon": -117.75753183504601,
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice going uphill. Turn right at this t-junction. Going left goes down into Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right at this t-junction to continue on West Ridge. Going left goes down into Mathis Canyon."
 			}
 			},
 			{
