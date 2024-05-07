@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8865_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i>Nice view looking down.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -149,14 +149,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"text": "Views of the city below start to open up."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8866_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i>Entering Longview Park</i>",
 				"credit": ""
 			},
 			"location": {
@@ -167,14 +167,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"text": "Go left when the paved path end."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8874_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Longview Park</h6>",
+				"text": "You made it. Take the same zig zag path back down the hill."
 			}
 			} 
 		]
