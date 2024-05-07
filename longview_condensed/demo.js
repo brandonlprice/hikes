@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>Shaded Short Uphill to a Summit</li><li>Enter Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible</li><li>Enter Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
 				"text": "Enter the Bear Brand Reach Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
@@ -84,7 +84,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8858_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>Start of Uphill</i>",
 				"credit": ""
 			},
 			"location": {
@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"text": "The paved path zig zags back and forth until at the top."
 			}
 			},
 			{
@@ -112,15 +112,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Switchback</h6>",
+				"text": "The first turn where the zig zag switches direction."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8861_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
