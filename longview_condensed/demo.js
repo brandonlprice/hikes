@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible</li><li>Enter Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible (Use Caution, Moderate Incline/Decline)</li><li>Enter Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
 				"text": "Enter the Bear Brand Ridge Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
