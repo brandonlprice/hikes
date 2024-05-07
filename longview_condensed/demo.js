@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Go left when the paved path end."
+				"text": "Go left when the paved path ends."
 			}
 			},
 			{
