@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Longview Park</h6>",
-				"text": "You made it. Take the same zig zag path back down the hill."
+				"text": "You made it. Take the same zig zag path back down the hill after enjoying the views."
 			}
 			} 
 		]
