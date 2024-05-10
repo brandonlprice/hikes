@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Start here, on this pathway just to the left of the Amphitheater. It will have some incline."
+				"text": "Start here, this pathway is just to the left of the Amphitheater. It will have some incline."
 			}
 			},
 			{
