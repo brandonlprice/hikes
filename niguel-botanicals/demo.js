@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Optional Overlook</h6>",
-				"text": "You can take this pathway for a short detour to another overlook before turning."
+				"text": "You can take this pathway for a short detour to another overlook before turning right."
 			}
 			},
 			{
