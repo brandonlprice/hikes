@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "A nice straight away path along the top of the garden. The pathway changes here from paved to dirt."
+				"text": "A nice straight away along the top of the garden. The pathway changes here from paved to dirt."
 			}
 			},
 			{
