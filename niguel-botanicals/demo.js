@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right here. The incline will temporariily stop."
+				"text": "Turn right here. The incline will temporarily stop."
 			}
 			},
 			{
