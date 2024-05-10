@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The End</h6>",
-				"text": "Turn left when you hit the paved path to head back to the parking lot. You have completed a perimeter walk around the gardens."
+				"text": "Turn left when you get to the paved path to head back to the parking lot. You have completed the perimeter walk around the gardens."
 			}
 			}
 		]
