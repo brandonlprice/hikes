@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li><li>Park at <a href='https://maps.app.goo.gl/DpfUJrQD5zwdAvgaA' target='_blank'><i>Crown Valley Community Park↗</i></a> (next to Amphitheater)</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li><li>Park at <a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</i></a> (next to Amphitheater)</li></ul></small>",
 				"text": "This is where you park. If these spots are full, park in the stalls before these."
 			}
 			},
