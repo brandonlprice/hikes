@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Exit Detour</h6>",
-				"text": "Take the sidewalk here to exit the detour area and re-join the main path."
+				"text": "Take the sidewalk here to exit the detour area and to re-join the main path."
 			}
 			},
 			{
