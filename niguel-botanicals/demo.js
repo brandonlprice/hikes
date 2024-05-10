@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Overlook</h6>",
-				"text": "A nice clear overlook where the vegetation is shorter. The decline start after this. There are benches to rest at before continuimg."
+				"text": "A nice clear overlook where the vegetation is shorter. The decline starts after this. There are benches to rest at before continuimg."
 			}
 			},
 			{
