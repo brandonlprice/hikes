@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated with area paved and dirt paths</li><li>ADA Accessible</li><li>Park at <a href='https://maps.app.goo.gl/DpfUJrQD5zwdAvgaA' target='_blank'><i>Crown Valley Community Park↗</i></a> (next to Amphitheater)</li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
