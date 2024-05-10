@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Incline</h6>",
-				"text": "The incline picks up again here. This takes you to the top of the garden. There are no further inclines after this."
+				"text": "The incline picks up again here and takes you to the top of the garden. There are no further inclines after this."
 			}
 			},
 			{
