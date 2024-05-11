@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Trail</h6>",
-				"text": "Go straight and turn right at the dead end. You are now on the Oso Creek Trail."
+				"text": "Go straight and turn right at the dead end. You will then be on the Oso Creek Trail."
 			}
 			},
 			{
