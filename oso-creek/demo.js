@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill</h6>",
-				"text": "A long gradual uphill begins with pockets of shade. The creek is on the left running parallel to the trail."
+				"text": "The long gradual incline is almost over. There are pockets of shade of shade in this stretch. The creek is on the left running parallel to the trail."
 			}
 			},
 			{
