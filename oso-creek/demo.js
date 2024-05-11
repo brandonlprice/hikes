@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "<h6 style='color:red;'>Incline Continued</h6>",
 				"text": "The long gradual incline is almost over. There are pockets of shade of shade in this stretch. The creek is on the left running parallel to the trail."
 			}
 			},
