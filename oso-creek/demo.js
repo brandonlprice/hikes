@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left onto the trail as seen on the left side of the image. There is a sign that says it is the Oak Grove trail. This is still the Oso Creek Trail, just a section with Pak Trees."
+				"text": "Turn left again at the 3rd consecutive junction onto the trail seen on the left side of the image. There is a sign that says it is the Oak Grove trail. It actually still is the Oso Creek Trail, just a section with Pak Trees."
 			}
 			},
 			{
