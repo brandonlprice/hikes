@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_7758_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Oso Creek Trail, Summer 2021</i>",
 				"credit": ""
 			},
 			"type": "overview",
