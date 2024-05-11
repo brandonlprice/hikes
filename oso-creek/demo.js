@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Go straight. You will pass a roundabout on the right. The trail picks up on the other side."
+				"text": "Go straight. You will pass the roundabout on the right. The trail picks up on the other side."
 			}
 			},
 			{
