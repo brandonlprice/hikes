@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Oso Creek Trail</h4><font style='line-height: 1em;' color=red size=6>Oso Viejo Community Park, Mission Viejo</font>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"text": "This trail is maintained by the city and they regularly manicure it so it stays green year round. It is very nice aesthetically but not fully in wilderness. It still has had mountain lion sightings in the past."
 			}
 			},
 			{
