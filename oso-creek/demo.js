@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "The trail veers left here. It will be the only option. Nothing is on the right."
+				"text": "The trail veers left here. It will be the only option. You can't go right."
 			}
 			},
 			{
