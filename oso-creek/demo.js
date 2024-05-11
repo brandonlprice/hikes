@@ -203,7 +203,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left again at the junction. The tunnel underpass will be on the right."
+				"text": "Turn left again at the next junction. The tunnel underpass will be on the right."
 			}
 			},
 			{
