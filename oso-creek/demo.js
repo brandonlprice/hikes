@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Paved Pathway</h6>",
-				"text": "Go straight. The pathway changes back from dirt to asphalt again."
+				"text": "Go straight. The pathway changes from dirt back to asphalt again."
 			}
 			},
 			{
