@@ -77,14 +77,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Trail</h6>",
-				"text": "Go straight and turn right at the dead end. You will then be on the Oso Creek Trail."
+				"text": "Go straight and turn right at the dead end. This will take you to the Oso Creek Trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/90A87E8B-7738-469F-854E-638DF07FB707_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i>.</i>",
 				"credit": ""
 			},
 			"location": {
@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Slight Downhill</h6>",
+				"text": "Continue on this downhill ramp that takes you to the trail."
 			}
 			},
 			{
@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "You are now on the Oso Creek Trail."
 			}
 			},
 			{
