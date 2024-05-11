@@ -275,7 +275,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Going</h6>",
-				"text": "Nice greenery continues although a wild animal was growling in the bushes here."
+				"text": "Nice greenery continues. FYI-A wild animal was growling in the bushes at this part of the trail."
 			}
 			},
 			{
