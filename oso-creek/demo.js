@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Oso Creek Trail</h4><font style='line-height: 1em;' color=red size=6>Oso Viejo Community Park, Mission Viejo</font>",
-				"text": "This trail is maintained by the city and they regularly manicure it so it stays green year round. It is very nice aesthetically but not fully in wilderness. It still has had mountain lion sightings in the past."
+				"text": "This trail is maintained by the city of Mission Viejo. They regularly manicure it so it stays green year round. It is very nice aesthetically but not fully in wilderness. It has had mountain lion sightings in the past so it's best to do the trail with other people."
 			}
 			},
 			{
