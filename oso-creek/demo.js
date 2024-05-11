@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li><li>Park in the <a href='https://maps.app.goo.gl/csykxDjDPJGtoBjv7' target='_blank'><i>Baseball Parking Lot↗</i></a></li></ul></small>",
 				"text": "Park in this lot next to the baseball fields. No fee is required."
 			}
 			},
