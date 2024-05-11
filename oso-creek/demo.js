@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Going</h6>",
-				"text": "After crossing the bridge, continue on this sidewalk until it ends."
+				"text": "After crossing the bridge, continue on the sidewalk until it ends."
 			}
 			},
 			{
@@ -408,7 +408,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/20230507_170615_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
