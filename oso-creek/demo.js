@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "You are now on the Oso Creek Trail."
+				"text": "You will then be on the Oso Creek Trail."
 			}
 			},
 			{
