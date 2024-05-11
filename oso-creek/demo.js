@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue Straight</h6>",
-				"text": "A short stretch with no shade."
+				"text": "A short stretch with no shade. The trail starts to incline."
 			}
 			},
 			{
