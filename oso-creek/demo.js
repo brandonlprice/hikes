@@ -210,7 +210,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7752_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,8 +220,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Take the trail as seen on the left side of the image. There is a sign that says it is the Oak Grove trail. This is still the Oso Creek Trail, just a section with Pak Trees."
 			}
 			},
 			{
