@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, start at this access route at the beginning of the cul-de-sac. It will take you up to the West Ridge Trail."
+				"text": "Once parked, start at this access route at the beginning of the cul-de-sac."
 			}
 			},
 			{
