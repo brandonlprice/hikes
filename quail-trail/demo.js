@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_8437_11zon.jpg",
-				"caption": "<i>Views of the city along the Quail Trail, Spring 2023</i>",
+				"caption": "<i>Views of the city along Quail Trail, Spring 2023</i>",
 				"credit": ""
 			},
 			"type": "overview",
