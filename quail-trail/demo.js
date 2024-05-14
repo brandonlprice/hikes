@@ -167,8 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Top of the Hill</h6>",
-				"text": "This is the highest point of the hike. Nice views on the top of the hill."
-			}
+				"text": "The uphill is over. This is the highest point of the hike. Nice views from the top."			}
 			},
 			{
 			"date": "",
