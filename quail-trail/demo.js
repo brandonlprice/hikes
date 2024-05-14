@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill</h6>",
-				"text": "Keep going uphill. Is is moderately steep."
+				"text": "Keep going uphill. It is moderately steep."
 			}
 			},
 			{
