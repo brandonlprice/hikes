@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Quail Trail</h4><font style='line-height: 1em;' color=red size=6>Quail Hill Village, Irvine, CA</font>",
-				"text": "This is one of the few centrally located trails not far from the 405 freeway in the village of Quail Hill. The starting point is right behind the community center. It is pleasant with nice views."
+				"text": "This is one of the few centrally located trails not far from the 405 freeway in the village of Quail Hill. The starting point is at the community center. It is pleasant with nice views."
 			}
 			},
 			{
