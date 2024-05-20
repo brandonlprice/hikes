@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Redwoods Sightseeing Tour</h4>",
-				"text": "The trek to get to the Redwoods in Carbon Canyon Regional Park is short and flat. These trees have been growing here since the late 1970's from seeds that were planted around the time the park first opened. There a fee of $3 on the weekdays and $5 on the weekends to enter the park."
+				"text": "The short trek to the Redwoods in Carbon Canyon Regional Park is flat ad generally easy. These trees have been growing here since the late 1970's from seeds that were planted around the time the park first opened. There a fee of $3 on the weekdays and $5 on the weekends to enter the park."
 			}
 			},
 			{
