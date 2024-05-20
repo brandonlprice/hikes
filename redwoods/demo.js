@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.75 miles</li><li>Short and flat with little shade</li><li>Park Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li><li><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Park in Lot A (southernmost lot)</i></a></li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "This lot usually will have spaces available even on the weekends. Many people will be out on trails as this is a popular desitination people regularly use for photo backdrops."
 			}
 			},
 			{
