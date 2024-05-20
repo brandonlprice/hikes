@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_6978_11zon.jpg",
-				"caption": "<i>Redwood Grove, Carbon Canyon Regional Park, Summer 2022</i>",
+				"caption": "<i>Redwood Grove, Carbon Canyon Regional Park, Spring 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
