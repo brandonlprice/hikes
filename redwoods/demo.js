@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter the Pathway</h6>",
-				"text": "Take the pathway into the grove. People will be taking photos or lounging on the side."
+				"text": "Take the pathway into the grove. People will be taking photos or lounging on the sides."
 			}
 			},
 			{
