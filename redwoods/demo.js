@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_6955_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i>Entering the Grove</i>",
 				"credit": ""
 			},
 			"location": {
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"text": "Keep going past the post ahead to enter the grove."
 			}
 			},
 			{
