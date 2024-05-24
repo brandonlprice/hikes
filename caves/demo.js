@@ -66,7 +66,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1041_11zon.jpg",
-				"caption": "Street Parking on Amwa Rd",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
