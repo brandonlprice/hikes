@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the Hill</h6>",
+				"headline": "<h6 style='color:red;'>Hilltop</h6>",
 				"text": "The uphill is over. This is the highest point of the hike. Nice views from the top. There will be another uphill later."
 			}
 			},
