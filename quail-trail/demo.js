@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross the Street</h6>",
-				"text": "Cross the street to get to the other side and then go left."
+				"text": "Cross the street and turn left once on the other side."
 			}
 			},
 					{
