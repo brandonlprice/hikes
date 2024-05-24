@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue on Road</h6>",
-				"text": "After entering the park, you can continue walking on the road again or stay on the dirt path parallel to it. Enjoy the valley views of Aliso Canyon in the distance."
+				"text": "After entering the park, you can continue walking on the road again or stay on the dirt path parallel to it on the right. Enjoy the valley views of Aliso Canyon in the distance."
 			}
 			},
 			{
