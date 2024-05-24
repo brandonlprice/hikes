@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Go left after crossing the bridge. The parking lot here and trails to the south are usually closed to the public unless there's a special hiking event offered by <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org</i></a>."
+				"text": "Go left after crossing the bridge. The parking lot is here. Trails further south are usually closed to the public unless there's a special hiking event offered by <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org</i></a>."
 			}
 			},
 			{
