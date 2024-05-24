@@ -48,7 +48,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1055_11zon.jpg",
-				"caption": "Awma Rd",
+				"caption": "Free parking on Awma Rd",
 				"credit": ""
 			},
 			"location": { 
