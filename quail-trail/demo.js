@@ -419,7 +419,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Away</h6>",
-				"text": "The trail is in between the wildnerness area and the neighborhood."
+				"text": "The trail is in between the wildnerness and the neighborhood."
 			}
 			},
 			{
@@ -437,7 +437,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right to rejoin the original trail taken at the start of the trail back to the parking lot."
+				"text": "Turn right to rejoin the original trail taken at the start back to the parking lot."
 			}
 			}
 		]
