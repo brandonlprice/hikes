@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Mini Ridge</h6>",
-				"text": "A slightly elevated path with the meadow below."
+				"text": "A slightly elevated path with the meadow below on the left."
 			}
 			},
 			{
