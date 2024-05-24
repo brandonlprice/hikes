@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enter Wilderness Park</h6>",
-				"text": "After a half-mile, You will reach the park entrance. Take the dirt path to the right of the street to enter."
+				"text": "After a half-mile on Aliso Canyon Rd, You will reach the park entrance. Take the dirt path to the right of the street to enter."
 			}
 			},
 			{
