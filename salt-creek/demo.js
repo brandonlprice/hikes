@@ -30,7 +30,7 @@
 			"date": "",
 			"media": {
 				"url": "images/IMG_7690_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
