@@ -23,7 +23,7 @@
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Salt Creek Trail</h4><font style='line-height: 1em;' color=red size=6>Pooch Park to Chapparosa Park</font>",
-				"text": "This trail loops through a small portion of the Salt Creek Trail in Laguna Niguel starting at a dog park just off Golden Lantern Boulevard. The full extent of the trail goes to Salt Creek Beach in Dana Point and Aliso Viejo to the north."
+				"text": "This trail loops through a small portion of the Salt Creek Trail in Laguna Niguel starting at a dog park just off Golden Lantern Boulevard. The full extent of the trail goes to Salt Creek Beach in Dana Point and up through Aliso Viejo to the north."
 			}
 			},
 			{
