@@ -149,7 +149,7 @@
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Going</h6>",
-				"text": "Keep going straight on the trail. There will be a couple winds and turns."
+				"text": "Keep going on the trail. There will be a couple winds and turns."
 			}
 			},
 			{
@@ -203,7 +203,7 @@
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left here. Going straight dead ends into the playground."
+				"text": "Turn left here. Going straight dead ends into the Chapparosa Park playground."
 			}
 			},
 			{
