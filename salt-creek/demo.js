@@ -156,7 +156,7 @@
 			"date": "",
 			"media": {
 				"url": "images/IMG_7707_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -166,15 +166,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Turn left to take the trail on the left. This is still considered the Salt Creek Trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7708_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -184,15 +184,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Downhill</h6>",
+				"text": "You are now going down into the canyon."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7712_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -202,15 +202,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Turn left here. Going straight dead ends into the playground."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7717_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,15 +220,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Turn left here. You aare now at the canyon floor and will begin a modest elevation gain."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7719_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -238,15 +238,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"text": "The uphill may take longer than expected although still should be ok."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7724_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -256,15 +256,15 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right and rejoin the main trail to go back to the parking lot."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_7727_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -274,8 +274,8 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>The End</h6>",
+				"text": "One last look at the canyon before heading out."
 			}
 			} 
 		]
