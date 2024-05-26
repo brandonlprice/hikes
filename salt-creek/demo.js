@@ -221,7 +221,7 @@
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "Turn left here. You aare now at the canyon floor and will begin a modest elevation gain."
+				"text": "Turn left here. You are now at the canyon floor and will begin a modest elevation gain."
 			}
 			},
 			{
@@ -257,7 +257,7 @@
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right and rejoin the main trail to go back to the parking lot."
+				"text": "Turn right and rejoin the main trail once at the top to go back to the parking lot."
 			}
 			},
 			{
