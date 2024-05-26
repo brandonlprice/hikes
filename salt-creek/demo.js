@@ -84,7 +84,7 @@
 			"date": "",
 			"media": {
 				"url": "images/IMG_7727_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -94,8 +94,8 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>San Juan Canyon</h6>",
+				"text": "Look left once at this point and get a nice view of the canyon."
 			}
 			},
 			{
