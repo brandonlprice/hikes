@@ -102,7 +102,7 @@
 			"date": "",
 			"media": {
 				"url": "images/IMG_7699_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -112,8 +112,8 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Informational Signs</h6>",
+				"text": "Continue straight or stop here to read the signs and for a view looking into the canyon."
 			}
 			},
 			{
