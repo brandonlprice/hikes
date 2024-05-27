@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/B9E0EF65-DA74-443C-B34C-06C54E777DAD_11zon.jpeg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Boardwalk, San Joaquin Marsh, Irvine, Spring 2023</i>",
 				"credit": ""
 			},
 			"type": "overview",
