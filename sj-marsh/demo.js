@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.8em;line-height: .92em;'>San Joaquin Marsh Wildlife Sanctuary</h4><font style='line-height: 1em;' color=red size=6>Irvine Ranch Water District</font>",
-				"text": "This hike takes you through a series of short trails on a marsh which was a former duck hunting grounds in the 1940's. San Diego Creek runs through the marsh. The ponds in the marsh serve as a filter to treat the creek water before it reaches Newport Back Bay."
+				"text": "This hike takes you through a series of short trails on a marsh that used to be a duck hunting grounds in the 1940's. San Diego Creek runs through the marsh. The ponds in the marsh serve as a filter to treat the creek water before it reaches Newport Back Bay."
 			}
 			},
 			{
