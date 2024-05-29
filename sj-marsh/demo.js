@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Park at Picnic Tables</h6>",
-				"text": "Park here at the picnic tables. The Duck Club is directly behind them."
+				"text": "Park here at the picnic tables. The Duck Club is directly behind them. Bathrooms are to the right."
 			}
 			},
 			{
