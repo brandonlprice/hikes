@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li><li>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></li></ul></small>",
-				"text": "Turn left into the opening with the houses and people to park. If it's full there is additional parking to the right."
+				"text": "Turn left into the opening with the houses and people to park. If it's full there's additional parking to the right."
 			}
 			},
 			{
