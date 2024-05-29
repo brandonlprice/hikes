@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7048_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Turn left here to park",
 				"credit": ""
 			},
 			"location": { 
@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li><li>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club</i></a></li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li><li>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></li></ul></small>",
+				"text": "Turn left where the houses and people are to park."
 			}
 			},
 			{
