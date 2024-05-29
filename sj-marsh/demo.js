@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Take this trail to the lawn behind the Duck Club."
+				"text": "Take this trail that leads to the lawn behind the Duck Club."
 			}
 			},
 			{
