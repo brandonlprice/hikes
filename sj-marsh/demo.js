@@ -48,7 +48,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7053_11zon.jpg",
-				"caption": "Park Here",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
