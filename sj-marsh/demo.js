@@ -210,7 +210,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/4448A77A-5A27-464C-904E-A7E2DF133159_11zon.jpeg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -220,15 +220,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right at this dead end."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/6C1568CE-0DEC-4E51-8523-C04514CB8621_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"text": "Turn right again at the next chance."
 			}
 			},
 			{
