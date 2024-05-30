@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_9391_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
@@ -84,7 +84,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9375_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9379_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -120,7 +120,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9380_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9382_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9384_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -174,7 +174,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9387_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -192,7 +192,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9391_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -210,7 +210,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9393_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -228,7 +228,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/B5674BF1-5CD2-4470-9893-79B3A66F2B61_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -246,7 +246,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9396_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -264,7 +264,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9400_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -282,7 +282,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9404_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -300,7 +300,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9408_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i>Final Overlook</i>",
 				"credit": ""
 			},
 			"location": {
