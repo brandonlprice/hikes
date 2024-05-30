@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit to Seaview Park</h4>",
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit Trl to Seaview Park</h4>",
 				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain."
 			}
 			},
@@ -300,7 +300,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/6.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -318,7 +318,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/AAE66807-562F-415D-A22D-CD6A52D74EC3_11zon.jpeg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -336,7 +336,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/4.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -354,7 +354,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/95477EE5-161F-4FB1-BEA9-88BC305D8FF3_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -372,7 +372,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/34F18571-61BC-4B6F-8E3D-85CEFB704FCD_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -390,7 +390,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/7.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -408,7 +408,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/10.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -426,7 +426,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2732_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -444,7 +444,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2741_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -454,7 +454,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Right On Talavera</h6>",
+				"headline": "<h6 style='color:red;'>Right On Talavera Dr</h6>",
 				"text": "Turn right here."
 			}
 			},
@@ -462,7 +462,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2748_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -480,7 +480,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2751_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
