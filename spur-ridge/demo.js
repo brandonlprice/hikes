@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_5400_2_11zon.jpg",
-				"caption": "<i>Spur Ridge Scenic Overlook, Laguna Beach, Summer 2023</i>",
+				"caption": "<i>Spur Ridge Scenic Lookout, Laguna Beach, Summer 2023</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Spur Ridge Scenic Overlook</h4>",
+				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Spur Ridge Scenic Lookout</h4>",
 				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
 			}
 			},
@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.1 miles (Out & Back)</li><li>Uphill climb with ocean views to an overlook</li><li>No Shade</li><li>Park at the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, No Shade</li><li>Park at the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St↗</i></a></li></ul></small>",
 				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
 			}
 			},
@@ -228,7 +228,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_5400_2_11zon.jpg",
-				"caption": "<i>Spur Ridge Scenic Overlook</i>",
+				"caption": "<i>Spur Ridge Scenic Lookout</i>",
 				"credit": ""
 			},
 			"location": {
@@ -238,8 +238,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Scenic Overlook</h6>",
-				"text": "Enjoy the overlook :) Head back the same way you came when ready. There will be nice views on the way out too!"
+				"headline": "<h6 style='color:red;'>Scenic Lookout</h6>",
+				"text": "Enjoy the lookout :) Head back the same way you came when ready. There will be nice views on the way out too!"
 			}
 			} 
 		]
