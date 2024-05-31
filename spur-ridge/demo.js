@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go straight</h6>",
-				"text": "There is another trail on the right side. Stay on the trail pictured."
+				"text": "There is another path on the right that leads to a dead end. Stay on the trail pictured."
 			}
 			},
 			{
