@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../salt-creek/images/IMG_7690_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "Pooch Park Parking",
 				"credit": ""
 			},
 			"location": { 
