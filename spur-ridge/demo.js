@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, No Shade</li><li>Park at the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St↗</i></a></li></ul></small>",
-				"text": "Free residential parking. On the weekends, you may have to park further away from the trail entrance if a lot of spots have been taken."
+				"text": "Free residential parking on Dartmoor St. On the weekends, you may have to park further away from the trail entrance if a lot of spots have been taken."
 			}
 			},
 			{
