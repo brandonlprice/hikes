@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Minor Descension</h6>",
-				"text": "Views of the ocean appear again as the descend starts after the short ascend."
+				"text": "Clear views of the ocean appear again as the descend starts after the short ascend."
 			}
 			},
 			{
