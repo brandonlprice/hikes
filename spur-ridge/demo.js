@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Scenic Overlook</h6>",
-				"text": "Enjoy the overlook:) Head back the same way you came in when ready. There will be nice views on the way out too!"
+				"text": "Enjoy the overlook :) Head back the same way you came when ready. There will be nice views on the way out too!"
 			}
 			} 
 		]
