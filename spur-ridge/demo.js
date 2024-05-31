@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go straight</h6>",
+				"headline": "<h6 style='color:red;'>Keep Left</h6>",
 				"text": "There is another path on the right that leads to a dead end. Stay on the trail on the left."
 			}
 			},
