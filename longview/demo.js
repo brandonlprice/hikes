@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Longview Trail to Longview Park</h4>",
-				"text": "This trail travels along the edge of a mansion community in Laguna Niguel leading to small summit with an ocean view called Longview Park. Unfortunately, trail access to the park is blocked. The hike either can be ended at another summit before reaching Longview Park or taking a makeshift route to the park."
+				"text": "This trail travels along the edge of a mansion community in Laguna Niguel. It leads to a small summit with an ocean view called Longview Park. Unfortunately, trail access to the park is blocked. The hike either can be ended at another summit before reaching Longview Park or taking a makeshift route to the park."
 			}
 			},
 			{
