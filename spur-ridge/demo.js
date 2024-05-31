@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Accelerated Incline</h6>",
-				"text": "The incline increases a little in the last stretch."
+				"text": "The incline increases a little in the last stretch uphill."
 			}
 			},
 			{
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Minor Descension</h6>",
-				"text": "Clear views of the ocean appear again as a descend starts after the short ascend."
+				"text": "Clear views of the ocean appear again as a brief descend starts."
 			}
 			},
 			{
@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Scenic Lookout</h6>",
-				"text": "Enjoy the lookout :) Head back the same way you came when ready. There will be nice views on the way out too!"
+				"text": "Enjoy the lookout :) When ready, head back the same way you came. There will be nice views on the way out too!"
 			}
 			} 
 		]
