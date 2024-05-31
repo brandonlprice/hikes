@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Gradual Incline</h6>",
-				"text": "The uphill flattens or decreaes a little here. A canyon is to the left of the trail."
+				"text": "The uphill flattens or decreases a little here. A canyon is to the right of the trail."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "The long incline has ended. The trail will loop back around going in the other direction after turning."
+				"text": "The incline has ended. The trail will loop back around going in the other direction after turning."
 			}
 			},
 			{
@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Minor Ascension</h6>",
-				"text": "A short-lived ascend with partial view of the ocean still."
+				"text": "A short-lived ascend with partial views of the ocean still."
 			}
 			},
 			{
@@ -185,14 +185,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Minor Descension</h6>",
-				"text": "Clear views of the ocean appear again as the descend starts after the short ascend."
+				"text": "Clear views of the ocean appear again as a descend starts after the short ascend."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2387_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Left</h6>",
-				"text": "There is another short path on the right that leads to a dead end. Stay on the trail to the left."
+				"text": "Another path is on the right that leads to a dead end. Stay on the trail to the left."
 			}
 			},
 			{
