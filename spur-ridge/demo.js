@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "The incline has ended. The trail will loop back around going in the other direction after turning."
+				"text": "The incline has ended. The trail loops back around going in the other direction."
 			}
 			},
 			{
