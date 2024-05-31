@@ -174,7 +174,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2393_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i>Laguna Beach in the distance</i>",
 				"credit": ""
 			},
 			"location": {
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Keep Left</h6>",
-				"text": "There is another path on the right that leads to a dead end. Stay on the trail to the left."
+				"text": "There is another short path on the right that leads to a dead end. Stay on the trail to the left."
 			}
 			},
 			{
