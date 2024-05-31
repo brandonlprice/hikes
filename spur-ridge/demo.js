@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Accelerated Incline</h6>",
-				"text": "The incline increases a little in the last stretch uphill."
+				"text": "A slight increase in incline in the last stretch uphill."
 			}
 			},
 			{
