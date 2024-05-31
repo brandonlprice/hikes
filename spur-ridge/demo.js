@@ -94,8 +94,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
-				"text": "The uphill has already started before this but it becomes the focus here as it gets a little steeper here and the ocean is behind you."
+				"headline": "<h6 style='color:red;'>Head Uphill</h6>",
+				"text": "The uphill has started before this but it becomes the focus here as it gets steeper here and the ocean is now behind you."
 			}
 			},
 			{
