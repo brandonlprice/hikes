@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Spur Ridge Scenic Lookout</h4>",
-				"text": "This trail takes you to one of the most visited scenic destinations in Orange County called \"Top of the World\". It's known for being one of the highest elevation points with such a close proximity to the ocean in the county. It stands slightly above 1,000 feet. And even though it's not as tall as the 2,000 plus feet Santa Monica Mountains right off the Malibu Coast in LA County, it's still worth checking out. There are four main ways to get there: this way which starts in Aliso Viejo, the Canyon Acres Trail in Laguna Beach, and another unnamed trail in Laguna Beach, and driving there."
+				"text": "This trail is in Laguna Coast Wilderness Park in Laguna Beach. It takes you to a nice lookout of the city and beach below. It is only a little over 2 miles but a small workout is involved as you incline up a hill."
 			}
 			},
 			{
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, No Shade</li><li>Park at the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St↗</i></a></li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"text": "Free residential parking. On the weekends, you may have to park further away from the trail entrance if a lot of spots have been taken."
 			}
 			},
 			{
