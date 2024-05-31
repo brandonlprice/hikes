@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2354_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Head Uphill</h6>",
-				"text": "The uphill started before this but it becomes the focus here as it gets steeper here and the ocean is now behind you."
+				"text": "Uphill starts before this but is the focus here as it gets steeper and the ocean is now behind you."
 			}
 			},
 			{
