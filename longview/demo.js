@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_9279_11zon.jpg",
-				"caption": "<i>Longview Trl, Laguna Niguel, Summer 2022</i>",
+				"caption": "<i>Longview Trail, Laguna Niguel, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
@@ -22,7 +22,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Longview Trl to Longview Park</h4>",
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Longview Trail to Longview Park</h4>",
 				"text": "This trail travels along the edge of a mansion community in Laguna Niguel leading to small summit with an ocean view called Longview Park. Trail access to the park is blocked, however. The hike either can be ended at another summit before reaching Longview Park or a makeshift route can be taken to the park."
 			}
 			},
