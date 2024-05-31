@@ -184,15 +184,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Minor Descension</h6>",
+				"text": "Views of the ocean appear again as the descend starts after the short ascend."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2387_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
