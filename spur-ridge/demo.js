@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Gradual Incline</h6>",
-				"text": "The uphill flattens or decreases a little here. A canyon is to the right of the trail."
+				"text": "Uphill flattens or decreases a little here. A canyon is to the right of the trail."
 			}
 			},
 			{
@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Left</h6>",
-				"text": "The incline has ended. The trail loops back around going in the other direction."
+				"text": "Uphill has ended. The trail loops back around going in the other direction."
 			}
 			},
 			{
