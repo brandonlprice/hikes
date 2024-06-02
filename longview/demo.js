@@ -148,8 +148,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Modest Uphill</h6>",
-				"text": "An incline will ensue after veering left up a hill."
+				"headline": "<h6 style='color:red;'>Modest Uphill Begins</h6>",
+				"text": "An incline will ensue for about a third of mile after veering left."
 			}
 			},
 			{
@@ -166,8 +166,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill: End of 1st Stretch</h6>",
-				"text": "Almost of at the halfway point."
+				"headline": "<h6 style='color:red;'>Modest Uphill</h6>",
+				"text": "Almost at the halfway point."
 			}
 			},
 			{
@@ -184,7 +184,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill: Midpoint</h6>",
+				"headline": "<h6 style='color:red;'>Modest Uphill Midpoint</h6>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
