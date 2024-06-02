@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9234_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -112,8 +112,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Keep Straight</h6>",
+				"text": "Continue onto the gravel path."
 			}
 			},
 			{
