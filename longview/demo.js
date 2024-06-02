@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Slight Uphill</h6>",
-				"text": "You will now be on the other side of the street."
+				"text": "You will now be on the other side of the street after exiting the tunnel."
 			}
 			},
 			{
