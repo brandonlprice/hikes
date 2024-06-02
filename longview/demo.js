@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Uphill Midpoint</h6>",
-				"text": "This is the halfway point of the uphill. The direction of the trail switches going the other way."
+				"text": "This is the halfway point of the modest uphill. The direction of the trail switches going the other way."
 			}
 			},
 			{
@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Flat Section</h6>",
-				"text": "The uphill is interrupted by this brief flat section followed by the last incline as seen."
+				"text": "The modest uphill is interrupted by this brief flat section followed by the last incline as seen."
 			}
 			},
 			{
@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Neighborhood: 1st Gate</h6>",
+				"headline": "<h6 style='color:red;'>Enter Neighborhood-1st Gate</h6>",
 				"text": "Follow the trail. It will take you into the neighborhood where there is an opening in the black gate."
 			}
 			},
@@ -292,8 +292,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Once past the wall, there will be a chain link fence with a swinging gate. It is public access point into the neighborhood and the trail."
+				"headline": "<h6 style='color:red;'>Enter Neighborhood-2nd Gate</h6>",
+				"text": "Once past the wall, there will be a chain link fence with a swinging gate. Turn right and go through it. It should be open. It is public access point into the neighborhood and the trail."
 			}
 			},
 			{
