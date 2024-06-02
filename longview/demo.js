@@ -184,15 +184,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Modest Uphill Midpoint</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Uphill Midpoint</h6>",
+				"text": "This is the halfway point of the uphill. The direction of the trail switches going the other way."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9241_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Hay Cover</h6>",
+				"text": "The trail may look like it's covered in hay but still should be able to make out."
 			}
 			},
 			{
