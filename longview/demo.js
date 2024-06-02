@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Neighborhood-1<sup>st</sup> Gate</h6>",
+				"headline": "<h6 style='color:red;'>Enter Neighborhood-1<sup><small>st</small></sup> Gate</h6>",
 				"text": "Follow the trail. It will take you into the neighborhood where there is an opening in the black gate."
 			}
 			},
@@ -274,7 +274,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straddling Wall</h6>",
+				"headline": "<h6 style='color:red;'>Straddle Wall</h6>",
 				"text": "Once pass through the gate, the trail straddles a backyard wall."
 			}
 			},
@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Neighborhood-2<sup>nd</sup> Gate</h6>",
+				"headline": "<h6 style='color:red;'>Enter Neighborhood-2<sup><small>nd</small></sup> Gate</h6>",
 				"text": "Once past the wall, there will be a chain link fence with a swinging gate. Turn right and go through it. It should be open. It is public access point into the neighborhood and the trail."
 			}
 			},
