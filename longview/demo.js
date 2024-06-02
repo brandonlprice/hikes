@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "The trail is adjoined to the parking lot. It will be on the right. Begin there."
+				"text": "Start the trail here at this entrance. It is adjoined to the parking lot."
 			}
 			},
 			{
