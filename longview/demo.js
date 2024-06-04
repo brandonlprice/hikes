@@ -184,7 +184,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill Midpoint</h6>",
+				"headline": "<h6 style='color:red;'>Midpoint</h6>",
 				"text": "This is the halfway point of the modest uphill. The direction of the trail switches going the other way."
 			}
 			},
