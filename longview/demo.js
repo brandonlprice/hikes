@@ -580,7 +580,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Street</h6><font color=red><small>Optional</small></font>",
+				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
@@ -598,7 +598,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Check Gate</h6><font color=red><small>Optional</small></font>",
+				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
@@ -616,7 +616,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font color=red><small>Optional</small></font>",
+				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
@@ -634,7 +634,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Longview Park</h6><font color=red><font color=red><small>Optional</small></font>",
+				"headline": "<h6 style='color:red;'>Longview Park</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			}
