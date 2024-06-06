@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Gravel</h6>",
+				"headline": "<h6 style='color:red;'>Enter Gravel Pathway</h6>",
 				"text": "Continue onto the gravel path."
 			}
 			},
