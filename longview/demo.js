@@ -580,7 +580,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
+				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "Cross the street. This a regular residential street whereas the previous crossings were alleys."
 			}
 			},
@@ -598,7 +598,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
+				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "The gate is usually locked. but good to check if it's open."
 			}
 			},
@@ -616,7 +616,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
+				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "If it isn't open, the only way to the second summit is scrambling up the hill."
 			}
 			},
@@ -634,7 +634,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Longview Park (Summit 2)</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
+				"headline": "<h6 style='color:red;'>Longview Park (Summit 2)</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "OView from Longview Park. The second summit."
 			}
 			}
