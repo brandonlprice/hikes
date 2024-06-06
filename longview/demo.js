@@ -599,7 +599,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
-				"text": "The gate is usually locked. but good to check if it's open."
+				"text": "Once across the street, this pathway takes you to the second summit. The gate is usually locked though. Check it just in case."
 			}
 			},
 			{
