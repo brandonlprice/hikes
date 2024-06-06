@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "You are now on Longview Trail. A couple rolling hills as seen are in the beginning of the trail."
 			}
 			},
 			{
@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Another subtle rolling hill. Glimpses of the ocean may start to appear."
 			}
 			},
 			{
@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": "The first of three street crossings."
+				"text": "The trail cuts in between the bushes."
 			}
 			},
 			{
@@ -365,7 +365,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross Street</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The first of three alley crossings."
 			}
 			},
 			{
@@ -383,7 +383,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Ocean</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The ocean is in clear view although still distant."
 			}
 			},
 			{
@@ -401,7 +401,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straddling Wall</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The trails abuts the backyard wall."
 			}
 			},
 			{
@@ -418,8 +418,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Lawn</h6>",
-				"text": "Go left around the bush."
+				"headline": "<h6 style='color:red;'>Lawn 1</h6>",
+				"text": "A nicely manicured lawn with a bench."
 			}
 			},
 			{
@@ -437,7 +437,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Around Bush</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Go left around the bush."
 			}
 			},
 			{
@@ -454,8 +454,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Lawn</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Lawn 2</h6>",
+				"text": "A less manicured lawn/open space area."
 			}
 			},
 			{
@@ -473,7 +473,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Left</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "A slight decline as you go left around the tree."
 			}
 			},
 			{
@@ -491,7 +491,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross Street</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Cross the second alleyway."
 			}
 			},
 			{
@@ -509,7 +509,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Veer Right</h6>",
-				"text": ""
+				"text": "A pocket of trees in the sloping canyon."
 			}
 			},
 			{
@@ -527,7 +527,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Stay on the dirt path."
 			}
 			},
 			{
@@ -545,7 +545,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": ""
+				"text": "Another subtle rolling hill."
 			}
 			},
 			{
@@ -563,7 +563,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Summit</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "A nice view of the ocean under the tree. It is advised to end the trail here and go back although click next for an option to extend that requires scrambling up a hill"
 			}
 			},
 			{
@@ -581,7 +581,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Cross the street."
 			}
 			},
 			{
@@ -599,7 +599,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "The gate is usually locked. but good to check if it's open."
 			}
 			},
 			{
@@ -617,7 +617,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "If it isn't open, the only way to the second summit is scrambling up the hill."
 			}
 			},
 			{
@@ -635,7 +635,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Longview Park</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "OView from Longview Park. The second summit."
 			}
 			}
 		]
