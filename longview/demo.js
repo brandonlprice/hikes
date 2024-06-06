@@ -635,7 +635,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Longview Park (Summit 2)</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
-				"text": "OView from Longview Park. The second summit."
+				"text": "View of Longview Park. The second summit."
 			}
 			}
 		]
