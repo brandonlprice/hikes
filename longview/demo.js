@@ -562,8 +562,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Summit</h6>",
-				"text": "A nice view of the ocean under the tree. It is advised to end the trail here and go back although click next for an option to extend that requires scrambling up a hill"
+				"headline": "<h6 style='color:red;'>Summit 1</h6>",
+				"text": "A nice view of the ocean under the tree. You could stop here and go back or advance to the next page for an option to extend that requires scrambling up a hill."
 			}
 			},
 			{
@@ -581,7 +581,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
-				"text": "Cross the street."
+				"text": "Cross the street. This a regular residential street whereas the previous crossings were alleys."
 			}
 			},
 			{
@@ -634,7 +634,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Longview Park</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
+				"headline": "<h6 style='color:red;'>Longview Park (Summit 2)</h6><font style='line-height: 1em;' color='red' size='6'>Optional</font>",
 				"text": "OView from Longview Park. The second summit."
 			}
 			}
