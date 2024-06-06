@@ -563,7 +563,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Summit 1</h6>",
-				"text": "A nice view of the ocean under the tree. You could stop here and go back or advance to the next page for an option to extend that requires scrambling up a hill."
+				"text": "A nice view of the ocean under the tree. You could stop here and go back or advance to the next page for an optional extended route that requires scrambling up a hill."
 			}
 			},
 			{
