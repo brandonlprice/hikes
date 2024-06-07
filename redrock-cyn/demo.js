@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_7978_11zon.jpg",
-				"caption": "<i>Top of the World, Laguna Beach, Fall 2021</i>",
+				"caption": "<i>Red Rock Canyon, Whiting Ranch Wilderness, Foothill Ranch, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
