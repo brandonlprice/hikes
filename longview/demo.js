@@ -617,7 +617,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
-				"text": "If it isn't open, the only way to the second summit is scrambling up the hill."
+				"text": "If it's locked, the only way to the second summit is scrambling up the hill."
 			}
 			},
 			{
