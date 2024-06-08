@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "This trail entrance is at the end of Talavera Drive past Seaview Park on the right side. Enter here and go left on the Aliso Peak trail towards the ocean."
+				"text": "Start the trail here, at the end of Talavera Drive past Seaview Park on the right side. Enter and go left towards the ocean on the Aliso Peak Trail."
 			}
 			},
 			{
