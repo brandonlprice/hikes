@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4>",
-				"text": "The hike to Red Rock Canyon is one of the most popular hikes in Orange County due to its easy accessibility and wide ranging scenery. It goes through two different canyons, starting from Borrego Canyon and then switching to Red Rock Canyon. The first canyon is green with a lot of trees and the second is arid and rocky. Getting there is a straight shot with very few turns other than when switching between canyons."
+				"text": "The hike to Red Rock Canyon is one of the most popular hikes in Orange County due to its easy accessibility and wide ranging scenery. It goes through two different canyons, starting at Borrego Canyon and then switching to Red Rock Canyon. Borrego Canyon is green with a lot of trees and Red Rock Canyon is arid and rocky. The hike is a straight shot with very few turns other than when switching between canyons."
 			}
 			},
 			{
