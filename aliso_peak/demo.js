@@ -239,7 +239,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Midpoint</h6>",
-				"text": "The first half is over. Follow the arrow to continue."
+				"text": "The first half of the hike is over. Follow the arrow to continue."
 			}
 			},
 			{
@@ -257,7 +257,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Second Half</h6>",
-				"text": "The trail veers right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
+				"text": "Veer right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
 			{
