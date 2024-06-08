@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Alternative Parking</h6>",
-				"text": "Free parking is available here next to Outback Steakhouse across the street."
+				"text": "Free parking is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail as outlined in the map."
 			}
 			},
 			{
