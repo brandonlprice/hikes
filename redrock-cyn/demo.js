@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
-				"caption": "Parking Lot",
+				"caption": "Parking",
 				"credit": ""
 			},
 			"location": { 
