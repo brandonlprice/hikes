@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/streetparking_11zon.jpg",
-				"caption": "Park on Talavera Drive",
+				"caption": "Talavera Drive",
 				"credit": ""
 			},
 			"location": { 
