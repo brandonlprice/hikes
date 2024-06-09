@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Once parked, this is where you'll start. Hike in groups. There are signs about warning about mountain lions."
 			}
 			},
 			{
