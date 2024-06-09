@@ -95,14 +95,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Shot</h6>",
-				"text": "A straight away section. The trail has some bends and twists later on. You will be on it for 1-½ miles."
+				"text": "Go straightn. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
