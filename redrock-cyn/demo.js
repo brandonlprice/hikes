@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Shot</h6>",
-				"text": "Go straightn. The trail has some bends and twists later on. You will be on it for 1-½ miles."
+				"text": "Go straight. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
 			{
