@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start, it's the Borrego Trail. Hike in groups. There are signs about warning about mountain lions."
+				"text": "Once parked, this is where you'll start, this is the Borrego Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
 			{
@@ -95,7 +95,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Straight Shot</h6>",
-				"text": "A straight away. This trail will have some bends and twists later on. You will be on it for 1-½ miles."
+				"text": "A straight away section. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
 			{
