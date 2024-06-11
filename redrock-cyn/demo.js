@@ -120,7 +120,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -130,8 +130,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
+				"text": "Continue straight. Trees aren't as dense as earlier but there are still a few for some shade."
 			}
 			},
 			{
