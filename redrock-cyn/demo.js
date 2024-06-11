@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start, this is the Borrego Trail. Hike in groups. There are signs warning about mountain lions."
+				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
 			{
@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Oak Tree Section</h6>",
-				"text": "This is the most dense area of Oak Trees on this trail although there are oaks all throughout the Borrego Trail."
+				"text": "This is the most dense area of Oak Trees on this trail although there are oaks all throughout the Borrego Canyon Trail."
 			}
 			},
 			{
