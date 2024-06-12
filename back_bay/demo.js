@@ -155,7 +155,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_0029_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -173,7 +173,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_0030_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -184,7 +184,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Walk Around</h6>",
-				"text": "Once parked, there are some walkways to enjoy views of the bay."
+				"text": "If you choose to stop, there are some walkways to enjoy views of the bay after parking."
 			}
 			},
 			{
