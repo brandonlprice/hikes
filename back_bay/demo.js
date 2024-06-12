@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;'>Newport Beach Back Bay</h4>",
-				"text": "Take a driving tour on Back Bay Dr from the Back Bay to the Upper Back Bay."
+				"text": "Take a driving tour on Back Bay Dr from Back Bay to the Upper Back Bay."
 			}
 			},
 			{
