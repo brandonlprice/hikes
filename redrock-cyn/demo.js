@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "You will start to se the sky above more easily at this point."
+				"text": "You will start to see the sky above more easily now since there will be fewer trees."
 			}
 			},
 			{
@@ -192,7 +192,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7998_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Rest Area</h6>",
+				"text": "An optional resting area, otherwise keep going. The second trail taken in the hike is only a few hundred feet ahead."
 			}
 			},
 			{
