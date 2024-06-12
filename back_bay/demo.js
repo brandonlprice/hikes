@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li><li>Starts on <a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li><li>Start on <a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a></li></ul></small>",
 				"text": "This portion of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
