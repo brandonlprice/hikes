@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left onto Red Rock Cyn Trl</h6>",
+				"headline": "<h6 style='color:red;'>Turn Left onto Red Rock Canyon Trl</h6>",
 				"text": "Turn left when you see the sign for Red Rock Canyon trail. It's only a couple hundred few after the Cattle Pond trail."
 			}
 			},
