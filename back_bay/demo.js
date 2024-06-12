@@ -76,7 +76,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Enjoy the Drive</h6>",
-				"text": "Watch out for hikers/bikers NOT following trail guidelines on the wrong side of the road."
+				"text": "Watch out for hikers/bikers NOT following trail guidelines who are on the wrong side of the road."
 			}
 			},
 			{
