@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://maps.app.goo.gl/Ck56mjSEaK86Hbxt5' target='_blank'><i>Park on Hollyleaf Aliso Viejo, CA 92656↗</i></a></li><li><u>Check for Alerts</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://maps.app.goo.gl/Ck56mjSEaK86Hbxt5' target='_blank'><i>Park on Hollyleaf Aliso Viejo, CA 92656↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Park on Hollyeaf where it changes to a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents."
 			}
 			},
@@ -185,7 +185,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Turn Right</h6>",
-				"text": "Turn right at this t-junction to continue on West Ridge. Going left puts you on the the Mathis Canyon Trail. <a href='images/IMG_7.jpg' target='_blank'><i>A photo looking back at the incline</i></a>."
+				"text": "Turn right at this T-junction to continue on West Ridge. Going left puts you on the the Mathis Canyon Trail which goes downhill. <a href='images/IMG_7.jpg' target='_blank'><i>A photo looking back at the incline</i></a>."
 			}
 			},
 			{
