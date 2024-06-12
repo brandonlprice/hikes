@@ -227,7 +227,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/8C4E5A4B-AF96-44BC-9FAF-FBF12365621B_11zon.jpeg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -245,7 +245,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/71001D94-0992-42F7-9CAC-80B33CC61711_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -263,7 +263,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/5C4687CF-0107-4572-ACC0-5DF48B341615_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
