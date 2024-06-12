@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><u>Check for Alerts</u></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
