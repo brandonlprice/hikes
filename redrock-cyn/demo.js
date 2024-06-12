@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final Destination</h6>",
-				"text": "You have reached the end of the canyon. Head back when ready."
+				"text": "You have reached the end of the canyon which is at the red sandstone cliffs. Head back when ready after checking it out."
 			}
 			}
 		]
