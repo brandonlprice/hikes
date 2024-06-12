@@ -273,7 +273,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Drive</h6>",
+				"headline": "<h6 style='color:red;'>The End</h6>",
 				"text": "Turn left to go to Jamboree Rd or turn right to go to the local shopping center."
 			}
 			} 
