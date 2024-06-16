@@ -293,7 +293,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Last Stretch</h6>",
-				"text": "Only a few hundred feet left plus or minus upon reaching this sign. The rockbed has merged into the trail at this point."
+				"text": "Only a few hundred feet left plus or minus once reaching this sign. The rockbed has merged into the trail at this point."
 			}
 			},
 			{
@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Final Destination</h6>",
-				"text": "You have reached the end of the canyon which is at the red sandstone cliffs. Head back when ready after checking it out."
+				"text": "You have reached the end of the canyon which is at these red sandstone cliffs. Head back when ready after checking it out."
 			}
 			}
 		]
