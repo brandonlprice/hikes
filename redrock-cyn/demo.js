@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Away</h6>",
+				"headline": "<h6 style='color:red;'>Head Straight</h6>",
 				"text": "Go straight. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
