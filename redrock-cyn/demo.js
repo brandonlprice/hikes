@@ -131,7 +131,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
-				"text": "Continue straight. Trees aren't as dense as earlier but still a few for some shade."
+				"text": "Continue straight. Trees aren't as dense farther in but there are still a few for shade."
 			}
 			},
 			{
