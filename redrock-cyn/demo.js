@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn-vista/images/IMG_2186_11zon.jpg",
-				"caption": "Parking",
+				"caption": "Main Parking",
 				"credit": ""
 			},
 			"location": { 
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Alternative Parking</h6>",
-				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail as outlined."
+				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
 			{
