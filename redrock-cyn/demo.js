@@ -149,7 +149,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "You will start to see the sky above more easily now since there will be fewer trees."
+				"text": "The sky can be more easily now since there are fewer trees."
 			}
 			},
 			{
