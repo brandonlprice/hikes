@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
-				"text": "One out of a handful of wash crossings. Most are usually dry unless it has rained."
+				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
 			}
 			},
 			{
