@@ -246,7 +246,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7965_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -256,15 +256,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"text": "You will stay on this trail until you reach the destination."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/BB31717A-8705-4A48-AA71-1786C5A9184C_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -274,8 +274,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Stay on Trail</h6>",
+				"text": "There is a larger rockbed to the right of the trail that intersects with the trail occasionally. The rockbed also leads to the destination but is more challenging."
 			}
 			},
 			{
