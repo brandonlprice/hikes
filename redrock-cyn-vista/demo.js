@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_9054_11zon.jpg",
-				"caption": "<i>Vista Lookout near Red Rock Cyn, Whiting Ranch Wilderness, Foothill Ranch, Summer 2022</i>",
+				"caption": "<i>Vista Lookout, near Red Rock Cyn, Whiting Ranch Wilderness, Foothill Ranch, Summer 2022</i>",
 				"credit": ""
 			},
 			"type": "overview",
