@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4 miles</li><li>Intermittent Steep Sections</li><li>No Shade</li><li>Out & Back</li></ul></small>",
-				"text": "This is where you park. Along Hollyeaf where it dead ends into a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents. It shouldn't be full."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li>Park at <a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
 			{
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6>",
-				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route into Aliso & Wood Canyons Regional Park. It's all fairly steep and uphill, but a short distance."
+				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
 			{
@@ -76,15 +76,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"headline": "<h6 style='color:red;'>Head Straight</h6>",
+				"text": "Go straight. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -94,15 +94,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
-				"text": "Continue straight on this trail all the way down to Top of the World while enjoying the views along the way. You'll see the 133 on your right way down below and nice views of Wood Canyon on your left."
+				"headline": "<h6 style='color:red;'>Oak Tree Section</h6>",
+				"text": "This is the most dense area of oak trees on this trail although there are oaks all throughout the Borrego Canyon Trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn/images/0063699F-0437-407F-B07B-495A7AEA3021_11zon.jpeg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -112,15 +112,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
+				"text": "Once past the oak section, some trees are still present for shade although not as many."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9016_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -131,14 +131,14 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"text": "The sky can be more easily now since there are fewer trees."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_9019_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -148,15 +148,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
-				"text": "As you get closer to the destination, be aware that you'll encounter very short-lived yet very steep inclines. These inclines do not seem as tough on your legs on the way back though. Mountain bikers often will be present on the trail using these inlines to practice going uphill. Take the uphill going right to stay on the West Ridge Trail rather than taking the hard left down Mathis Canyon."
+				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
+				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "../redrock-cyn/images/IMG_7931_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -166,15 +166,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "Pretty straight forward pathway to the destination. Just watch out for one section that has several unmarked trail junctions. If you go the wrong way, you'll know right away as previously suggested because you would be declining from the ridge."
+				"headline": "<h6 style='color:red;'>Closing In</h6>",
+				"text": "The canyon begins to narrow as the hills close in on the trail."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8001_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -184,8 +184,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
-				"text": "After the last uphill you should see the Top of the World in the distance. At this point it should be fairly flat the last quarter of a mile until getting to Top of the World. There is a nice view looking back which you can check, otherwise you'll see it later on going back."
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"text": "Turn left onto the Mustard Trail."
 			}
 			},
 			{
