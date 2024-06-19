@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li>Park at <a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.75 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li>Park at <a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
