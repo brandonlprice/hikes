@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Oak Tree Section</h6>",
-				"text": "This is the most dense area of oak trees on this trail although there are oaks all throughout the Borrego Canyon Trail."
+				"text": "This is the most dense area of oak trees although oaks are all throughout the Borrego Canyon Trail."
 			}
 			},
 			{
