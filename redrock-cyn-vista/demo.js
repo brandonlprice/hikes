@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
-				"text": "Once past the oak section, some trees are still present for shade although not as many."
+				"text": "Once past the oak section, trees are still present for shade although not as many."
 			}
 			},
 			{
