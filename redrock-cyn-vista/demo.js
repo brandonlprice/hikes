@@ -192,7 +192,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/4490FC54-D62C-4A55-970D-C71017FA9426_11zon.jpeg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -202,8 +202,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
-				"text": "Keep going straight until the trail ends. You'll feel like you're leaving the park and entering back into city as you should see more people and a street in front of you. Rather than taking the street, loop around to the right for the short trek up to the Top of the World."
+				"headline": "<h6 style='color:red;'>Uphill Begins</h6>",
+				"text": "An uphill for almost a mile starts here. Mostly gradual but a few areas are steeper."
 			}
 			},
 			{
