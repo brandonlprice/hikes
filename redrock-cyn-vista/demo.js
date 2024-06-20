@@ -221,7 +221,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>1st Segment</h6>",
-				"text": "The uphill has 3 different segments with the first going to the south. This segment started when the uphill began."
+				"text": "This segment started when the uphill began. There are 3 different uphill segments with the first going southbound."
 			}
 			},
 			{
