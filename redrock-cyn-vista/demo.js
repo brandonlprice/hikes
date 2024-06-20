@@ -292,7 +292,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading North</h6>",
+				"headline": "<h6 style='color:red;'>Third Segment</h6>",
 				"text": "You will head north until reaching the lookout."
 			}
 			},
@@ -347,7 +347,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Views</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Enjoy the views while at the top before heading back."
 			}
 			}
 		]
