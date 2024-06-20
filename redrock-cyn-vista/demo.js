@@ -220,7 +220,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>1st Segment</h6>",
+				"headline": "<h6 style='color:red;'>First Segment</h6>",
 				"text": "This segment started when the uphill began. There are 3 different uphill segments with the first going southbound."
 			}
 			},
