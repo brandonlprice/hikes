@@ -23,7 +23,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4>",
-				"text": "This hike has about 700 feet of elevation gain starting at 800 feet then going to a 1500 foot lookout summit. It is Whiting Ranch Wilnderness Park next to Red Rock Canyon. Once reaching the summit, there will be 360 degree views looking into Red Rock Canyon and of the city below."
+				"text": "This hike has about 700 feet of elevation gain starting at 800 feet then going to a 1500 foot lookout summit. It is in Whiting Ranch Wilderness Park next to Red Rock Canyon. Once reaching the summit, there will be 360 degree views looking down into Red Rock Canyon and of the city below."
 			}
 			},
 			{
