@@ -130,8 +130,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
-				"text": "The sky can be more easily now since there are fewer trees."
+				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
+				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
 			}
 			},
 			{
@@ -148,8 +148,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
-				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
+				"headline": "<h6 style='color:red;'>Another Wash</h6>",
+				"text": "Another wash crossing."
 			}
 			},
 			{
@@ -167,7 +167,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Closing In</h6>",
-				"text": "The canyon begins to narrow as the hills close in on the trail."
+				"text": "The canyon begins to narrow as the hills close in on the trail. The sky can be more easily now since there are fewer trees."
 			}
 			},
 			{
