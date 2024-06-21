@@ -47,6 +47,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/IMG_2188_11zon.jpg",
+				"caption": "Alternative Parking",
+				"credit": ""
+			},
+			"location": { 
+				"lat":  33.68174875838272,  
+				"line": false,
+				"lon": -117.6664645391155,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Alternative Parking</h6>",
+				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "../redrock-cyn/images/IMG_7916_11zon.jpg",
 				"caption": "",
 				"credit": ""
