@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Segment</h6>",
+				"headline": "<h6 style='color:red;'>Start Second Segment</h6>",
 				"text": "The second segment starts after veering right here going westward."
 			}
 			},
