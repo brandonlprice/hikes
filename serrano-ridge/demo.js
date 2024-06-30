@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Left</h6>",
-				"text": "A trail split."
+				"text": "A trail split. If you go right, it is also okto do, just slightly longer. Both trails join back together after a few hundred feet."
 			}
 			},
 			{
