@@ -832,7 +832,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Exit</h6>",
-				"text": "Exit the trail here. You can now rest at one of the benches near the start of the hike."
+				"text": "Exit the trail here. You can rest at one of the benches near the start of the hike."
 			}
 			}
 		]
