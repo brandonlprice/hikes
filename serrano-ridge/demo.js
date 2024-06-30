@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain with two 400' inclines</li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><li><i>Check for Alerts↗</i></a></li><li>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><i>Nix Nature Center↗</i></a><br>(3.00 fee, pay at kiosk)</li></ul></small>",
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain with two 400' inclines</li><li>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><i>Nix Nature Center↗</i></a><br>(3.00 fee, pay at kiosk)</li><li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Start hike here after parking."
 			}
 			},
