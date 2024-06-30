@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain with two 400' inclines</li><li><i>Check for Alerts↗</i></li><li>Park at the <i>Nix Nature Center↗</i> (3.00 fee, pay at kiosk)</li></ul></small>",
-				"text": "Start the trail here after parking."
+				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain with two 400' inclines</li><li><i>Check for Alerts↗</i></li><li>Park at the <i>Nix Nature Center↗</i><br>(3.00 fee, pay at kiosk)</li></ul></small>",
+				"text": "Start the hike here after parking."
 			}
 			},
 			{
