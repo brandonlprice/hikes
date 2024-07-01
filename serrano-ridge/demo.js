@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Getting Deeper into Canyon</h6>",
+				"headline": "<h6 style='color:red;'>Deeper into Canyon</h6>",
 				"text": "After about 1/4 mile, it will start to feel more like you are in a canyon."
 			}
 			},
