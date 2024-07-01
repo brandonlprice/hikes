@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Stay Left</h6>",
-				"text": "Stay left to enter the Little Sycamore Canyon Trail at this split. If you go right on Mary's Trail, it is also ok, just takes slightly longer. It merges into the Little Sycamore Canyon Trail after a few hundred feet."
+				"text": "Stay left to enter the Little Sycamore Trail at this split. If you go right on Mary's Trail, it is also ok, just takes slightly longer. It merges into the Little Sycamore Trail after a few hundred feet."
 			}
 			},
 			{
