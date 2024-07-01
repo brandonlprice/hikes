@@ -77,7 +77,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Continue on Little Sycamore Trail</h6>",
-				"text": "Once at the top, you are now within the county park and at the trailhead for West Ridge. You'll stay on this same trail for the next 2 miles until reaching your destination. Be sure to stay on this trail and not accidentally take another park trail. This can happen since the trails have no signage at some junctions. However, since this trail is a ridge trail, if you inadvertently take the wrong trail, you would know because you would be declining off the ridge."
+				"text": "This is where Mary's Trail merges back into the Little Sycamore Trail."
 			}
 			},
 			{
