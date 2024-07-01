@@ -174,7 +174,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8614_11zon.jpg",
-				"caption": "<i>Serrano Ridge Trail</i>",
+				"caption": "<i>Serrano Ridge Trail, looking west</i>",
 				"credit": ""
 			},
 			"location": {
