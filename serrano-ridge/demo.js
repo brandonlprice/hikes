@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue on Little Sycamore Trail</h6>",
+				"headline": "<h6 style='color:red;'>Continue on Little Sycamore</h6>",
 				"text": "This is where Mary's Trail merges back into the Little Sycamore Trail."
 			}
 			},
