@@ -113,7 +113,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
-				"text": "There are a few bridge crossings at the base of the canyon so you water can travel underneath it. Water is only present after rain though."
+				"text": "There are a few bridges in the canyon for water to travel underneath. Water is only present after it rains though."
 			}
 			},
 			{
