@@ -238,7 +238,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Meanering</h6>",
+				"headline": "<h6 style='color:red;'>Trail Meandering</h6>",
 				"text": "The Serrano Ridge Trail meanders back and forth towards the end."
 			}
 			},
