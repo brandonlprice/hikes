@@ -389,7 +389,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/A1EBA71E-7040-4054-A30F-389C3BCA211B_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -399,15 +399,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Enter Flat Section</h6>",
+				"text": "A nice flat section after the decline."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/6929CB16-8885-48BB-BBDE-33794BA0E121_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -417,8 +417,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"text": "Some short lived shade in this section."
 			}
 			},
 			{
