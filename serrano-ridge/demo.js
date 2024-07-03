@@ -616,7 +616,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Mellow Incline</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"text": "Keep going."
 			}
 			},
 			{
@@ -633,15 +633,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Almost to the top</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Nearing End of Incline</h6>",
+				"text": "Almost done with the incline."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/6F4A239F-05D1-44E5-AD15-0AF3554535B9_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -651,15 +651,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Start Descend</h6>",
+				"text": "The descension back down to the parking lot starts here."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/CBB17FDC-8AD0-4051-8D69-F0C20CCB2B84_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -669,8 +669,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Semi Rocky Terrain</h6>",
+				"text": "You will encounter some rocky terrain going downhill but not like earlier in the trail."
 			}
 			},
 			{
