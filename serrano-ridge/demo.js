@@ -454,7 +454,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Go Straight</h6>",
-				"text": "Go straight here towards the cone in the photo at the Stagecoach sign. Do not turn right."
+				"text": "Go straight here towards the cone in the photo at this Stagecoach Trail sign. DO NOT TURN RIGHT."
 			}
 			},
 			{
@@ -497,7 +497,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8718_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -507,15 +507,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Straight Uphill</h6>",
+				"text": "The incline starts out just going straight up with little meandering."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/7DF81914-7248-4D24-A429-B9C50CBD1788_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -525,15 +525,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Meandering</h6>",
+				"text": "A meandering incline followed by another straight up incline."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/8AC1F0AB-E2F0-4334-8D4F-D4BA0619F27A_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -543,15 +543,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Intermittent Flat Section</h6>",
+				"text": "A brief flat section during the incline up the hill."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/42CCF666-B30D-47BE-888D-57B031970409_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -561,15 +561,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Steep Section</h6>",
+				"text": "One of the steeper sections on the climb up."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/8CF0FBC0-97F0-4465-AF38-4AD22E024772_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -579,15 +579,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Veering Right</h6>",
+				"text": "The trail veers to the right at this point heading east back towards the parking lot."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/E093E5F7-97E0-4F1A-9591-318D777EF04B_11zon.jpeg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -597,15 +597,15 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
-				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
+				"headline": "<h6 style='color:red;'>Mellow Incline</h6>",
+				"text": "The incline begins to mellow out here."
 			}
 			},
 			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8738_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -615,7 +615,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"headline": "<h6 style='color:red;'>Mellow Incline</h6>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
@@ -623,7 +623,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_8746_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -633,7 +633,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"headline": "<h6 style='color:red;'>Almost to the top</h6>",
 				"text": "Once there, soak in the 360° views. You should see the Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this point. Take the same way back."
 			}
 			},
