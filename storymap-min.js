@@ -4162,7 +4162,7 @@ var KLStoryMap;
       965: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Беларуская","lang":"be","messages":{"loading":"Загрузка","wikipedia":"Вікіпедыя","start":"Start Exploring"},"buttons":{"map_overview":"Прагляд мапы","overview":"Прагляд","backtostart":"Вярнуцца ў пачатак","collapse_toggle":"Схаваць мапу","uncollapse_toggle":"Паказаць мапу","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Беларуская","lang":"be","messages":{"loading":"Загрузка","wikipedia":"Вікіпедыя","start":"Start Exploring"},"buttons":{"map_overview":"Прагляд мапы","overview":"Прагляд","backtostart":"Вярнуцца ў пачатак","collapse_toggle":"Схаваць мапу","uncollapse_toggle":"Паказаць мапу","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       371: (t) => {
@@ -4174,13 +4174,13 @@ var KLStoryMap;
       473: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Čeština","lang":"cs","messages":{"loading":"Nahrávání","wikipedia":"Z Wikipedie, svobodné encyklopedie","start":"Prozkoumat"},"buttons":{"map_overview":"Přehledová mapa","overview":"Přehled","backtostart":"Zpět na začátek","collapse_toggle":"Skrýt mapu","uncollapse_toggle":"Zobrazit mapu","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Čeština","lang":"cs","messages":{"loading":"Nahrávání","wikipedia":"Z Wikipedie, svobodné encyklopedie","start":"Prozkoumat"},"buttons":{"map_overview":"Přehledová mapa","overview":"Přehled","backtostart":"Zpět na začátek","collapse_toggle":"Skrýt mapu","uncollapse_toggle":"Zobrazit mapu","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       997: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Deutsch","lang":"de","messages":{"loading":"Daten werden geladen","wikipedia":"von Wikipedia, der freien Enzyklopädie","start":"Explore"},"buttons":{"map_overview":"Kartenübersicht","overview":"Kartenübersicht","backtostart":"Zurück zum Anfang","collapse_toggle":"Karte ausblenden","uncollapse_toggle":"Karte anzeigen","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Deutsch","lang":"de","messages":{"loading":"Daten werden geladen","wikipedia":"von Wikipedia, der freien Enzyklopädie","start":"Explore"},"buttons":{"map_overview":"Kartenübersicht","overview":"Kartenübersicht","backtostart":"Zurück zum Anfang","collapse_toggle":"Karte ausblenden","uncollapse_toggle":"Karte anzeigen","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       879: (t) => {
@@ -4192,7 +4192,7 @@ var KLStoryMap;
       194: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"English","lang":"en","messages":{"loading":"Loading","wikipedia":"From Wikipedia, the free encyclopedia","start":"Start Exploring"},"buttons":{"map_overview":"Map Overview","overview":"Overview","backtostart":"Back To Beginning","collapse_toggle":"Hide Map","uncollapse_toggle":"Show Map","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"English","lang":"en","messages":{"loading":"Loading","wikipedia":"From Wikipedia, the free encyclopedia","start":"Start Exploring"},"buttons":{"map_overview":"Map Overview","overview":"Overview","backtostart":"Back To Beginning","collapse_toggle":"Hide Map","uncollapse_toggle":"Show Map","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       299: (t) => {
@@ -4204,7 +4204,7 @@ var KLStoryMap;
       475: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"eesti","lang":"et","messages":{"loading":"Laadib","wikipedia":"Vikipeedia, vaba entsüklopeedia","start":"Uuri"},"buttons":{"map_overview":"Kaardi ülevaade","overview":"Ülevaade","backtostart":"Tagasi algusesse","collapse_toggle":"Peida kaart","uncollapse_toggle":"Näita kaarti","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"eesti","lang":"et","messages":{"loading":"Laadib","wikipedia":"Vikipeedia, vaba entsüklopeedia","start":"Uuri"},"buttons":{"map_overview":"Kaardi ülevaade","overview":"Ülevaade","backtostart":"Tagasi algusesse","collapse_toggle":"Peida kaart","uncollapse_toggle":"Näita kaarti","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       376: (t) => {
@@ -4216,7 +4216,7 @@ var KLStoryMap;
       155: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"עברית","lang":"he","direction":"rtl","messages":{"loading":"טוען","wikipedia":"מתוך ויקיפדיה, האנציקלופדיה החופשית","start":"התחל במסע"},"buttons":{"map_overview":"המפה במלואה","overview":"תצוגה מקדימה","backtostart":"חזור להתחלה","collapse_toggle":"הסתר מפה","uncollapse_toggle":"הצג מפה","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"עברית","lang":"he","direction":"rtl","messages":{"loading":"טוען","wikipedia":"מתוך ויקיפדיה, האנציקלופדיה החופשית","start":"התחל במסע"},"buttons":{"map_overview":"המפה במלואה","overview":"תצוגה מקדימה","backtostart":"חזור להתחלה","collapse_toggle":"הסתר מפה","uncollapse_toggle":"הצג מפה","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       68: (t) => {
@@ -4234,43 +4234,43 @@ var KLStoryMap;
       130: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Italiano","lang":"it","messages":{"loading":"caricare","wikipedia":"da Wikipedia, la enciclopedia libera","start":"Explore"},"buttons":{"map_overview":"vista generale della mappa","overview":"vista generale","backtostart":"tornare all\' inizio","collapse_toggle":"nascondere mappa","uncollapse_toggle":"mostrare mappa","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Italiano","lang":"it","messages":{"loading":"caricare","wikipedia":"da Wikipedia, la enciclopedia libera","start":"Explore"},"buttons":{"map_overview":"vista generale della mappa","overview":"vista generale","backtostart":"tornare all\' inizio","collapse_toggle":"nascondere mappa","uncollapse_toggle":"mostrare mappa","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       733: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"日本語","lang":"jp","messages":{"loading":"ローディング","wikipedia":"フリー百科事典ウィキペディア（Wikipedia）から","start":"Explore"},"buttons":{"map_overview":"概観地図","overview":"概観","backtostart":"初めに戻る","collapse_toggle":"地図を隠す","uncollapse_toggle":"地図を表示","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"日本語","lang":"jp","messages":{"loading":"ローディング","wikipedia":"フリー百科事典ウィキペディア（Wikipedia）から","start":"Explore"},"buttons":{"map_overview":"概観地図","overview":"概観","backtostart":"初めに戻る","collapse_toggle":"地図を隠す","uncollapse_toggle":"地図を表示","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       873: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"한국어","lang":"ko","messages":{"loading":"불러오는중","wikipedia":"위키피디아","start":"시작하기"},"buttons":{"map_overview":"지도 전체보기","overview":"전체보기","backtostart":"되돌아가기","collapse_toggle":"숨기기","uncollapse_toggle":"보이기","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"한국어","lang":"ko","messages":{"loading":"불러오는중","wikipedia":"위키피디아","start":"시작하기"},"buttons":{"map_overview":"지도 전체보기","overview":"전체보기","backtostart":"되돌아가기","collapse_toggle":"숨기기","uncollapse_toggle":"보이기","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       351: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Nederlands","lang":"nl","messages":{"loading":"Laden","wikipedia":"Van Wikipedia, de gratis encyclopedie","start":"Start Exploring"},"buttons":{"map_overview":"Kaart overzicht","overview":"Overzicht","backtostart":"Terug naar begin","collapse_toggle":"Verberg kaart","uncollapse_toggle":"Toon kaart","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Nederlands","lang":"nl","messages":{"loading":"Laden","wikipedia":"Van Wikipedia, de gratis encyclopedie","start":"Start Exploring"},"buttons":{"map_overview":"Kaart overzicht","overview":"Overzicht","backtostart":"Terug naar begin","collapse_toggle":"Verberg kaart","uncollapse_toggle":"Toon kaart","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       697: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Norsk nynorsk","lang":"nn","messages":{"loading":"Lastar inn","wikipedia":"Frå Wikipedia, det frie oppslagsverket","start":"Utforsk"},"buttons":{"map_overview":"Sjå oversiktskart","overview":"Oversikt","backtostart":"Til starten","collapse_toggle":"Gøym kartet","uncollapse_toggle":"Vis kartet","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Norsk nynorsk","lang":"nn","messages":{"loading":"Lastar inn","wikipedia":"Frå Wikipedia, det frie oppslagsverket","start":"Utforsk"},"buttons":{"map_overview":"Sjå oversiktskart","overview":"Oversikt","backtostart":"Til starten","collapse_toggle":"Gøym kartet","uncollapse_toggle":"Vis kartet","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       161: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Norsk","lang":"no","messages":{"loading":"Laster inn","wikipedia":"fra Wikipedia, den frie encyklopedi","start":"Explore"},"buttons":{"map_overview":"Se oversiktskart","overview":"Se oversiktskart","backtostart":"Til begynnelsen","collapse_toggle":"Skjul kartet","uncollapse_toggle":"Vis kartet","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Norsk","lang":"no","messages":{"loading":"Laster inn","wikipedia":"fra Wikipedia, den frie encyklopedi","start":"Explore"},"buttons":{"map_overview":"Se oversiktskart","overview":"Se oversiktskart","backtostart":"Til begynnelsen","collapse_toggle":"Skjul kartet","uncollapse_toggle":"Vis kartet","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       314: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Polski","lang":"pl","messages":{"loading":"Wczytuję","wikipedia":"z Wikipedii, wolnej encyklopedii","start":"Explore"},"buttons":{"map_overview":"Przeglądaj mapę","overview":"Przeglądaj","backtostart":"Powrót","collapse_toggle":"Ukryj mapę","uncollapse_toggle":"Pokaż mapę","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Polski","lang":"pl","messages":{"loading":"Wczytuję","wikipedia":"z Wikipedii, wolnej encyklopedii","start":"Explore"},"buttons":{"map_overview":"Przeglądaj mapę","overview":"Przeglądaj","backtostart":"Powrót","collapse_toggle":"Ukryj mapę","uncollapse_toggle":"Pokaż mapę","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       508: (t) => {
@@ -4282,7 +4282,7 @@ var KLStoryMap;
       849: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Русский","lang":"ru","messages":{"loading":"Загрузка","wikipedia":"Из Википедии, свободной энциклопедии","start":"Начать просмотр"},"buttons":{"map_overview":"Просмотр карты","overview":"Обзор","backtostart":"К началу","collapse_toggle":"Скрыть карту","uncollapse_toggle":"Показать карту","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Русский","lang":"ru","messages":{"loading":"Загрузка","wikipedia":"Из Википедии, свободной энциклопедии","start":"Начать просмотр"},"buttons":{"map_overview":"Просмотр карты","overview":"Обзор","backtostart":"К началу","collapse_toggle":"Скрыть карту","uncollapse_toggle":"Показать карту","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       952: (t) => {
@@ -4294,13 +4294,13 @@ var KLStoryMap;
       865: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Srpski","lang":"sr","messages":{"loading":"Učitavanje","wikipedia":"Wikipedia","start":"Explore"},"buttons":{"map_overview":"Pregled mapę","backtostart":"Nazad na početak","collapse_toggle":"Sakrij mapu","uncollapse_toggle":"Prikaži mapu","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Srpski","lang":"sr","messages":{"loading":"Učitavanje","wikipedia":"Wikipedia","start":"Explore"},"buttons":{"map_overview":"Pregled mapę","backtostart":"Nazad na početak","collapse_toggle":"Sakrij mapu","uncollapse_toggle":"Prikaži mapu","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       273: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"Svenska","lang":"sv","messages":{"loading":"Laddar","wikipedia":"Från Wikipedia, den fria encyklopedin","start":"Explore"},"buttons":{"map_overview":"Översiktskarta","overview":"Översikt","backtostart":"Tillbaka till början","collapse_toggle":"Göm kartan","uncollapse_toggle":"Visa kartan","swipe_to_navigate":"Swipe to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"Svenska","lang":"sv","messages":{"loading":"Laddar","wikipedia":"Från Wikipedia, den fria encyklopedin","start":"Explore"},"buttons":{"map_overview":"Översiktskarta","overview":"Översikt","backtostart":"Tillbaka till början","collapse_toggle":"Göm kartan","uncollapse_toggle":"Visa kartan","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       830: (t) => {
