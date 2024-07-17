@@ -756,27 +756,53 @@
                             }
                         </style>
                         <div class="masonry css-fniu6p">
-                            <style data-emotion-css="wmspej">
-                                .css-wmspej {
-                                    display: -webkit-box;
-                                    display: -webkit-flex;
-                                    display: -ms-flexbox;
-                                    display: flex;
-                                    -webkit-flex-direction: column;
-                                    -ms-flex-direction: column;
-                                    flex-direction: column;
-                                    -webkit-box-pack: start;
-                                    -webkit-justify-content: flex-start;
-                                    -ms-flex-pack: start;
-                                    justify-content: flex-start;
-                                    -webkit-align-content: stretch;
-                                    -ms-flex-line-pack: stretch;
-                                    align-content: stretch;
-                                    -webkit-flex-basis: 235px;
-                                    -ms-flex-preferred-size: 235px;
-                                    flex-basis: 235px;
-                                }
-                            </style>
+                                          <style data-emotion-css="wmspej">
+                /* ADDED GRID LAYOUT FOR ALL DEVICES */
+                .css-wmspej {
+                  /* display: -webkit-box;
+                  display: -webkit-flex;
+                  display: -ms-flexbox;
+                  display: flex;
+                  -webkit-flex-direction: column;
+                  -ms-flex-direction: column;
+                  flex-direction: column;
+                  -webkit-box-pack: start;
+                  -webkit-justify-content: flex-start;
+                  -ms-flex-pack: start;
+                  justify-content: flex-start;
+                  -webkit-align-content: stretch;
+                  -ms-flex-line-pack: stretch;
+                  align-content: stretch;
+                  -webkit-flex-basis: 235px;
+                  -ms-flex-preferred-size: 235px;
+                  flex-basis: 235px; */
+                  width: 80%;
+                  margin: 0 auto;
+                  display: grid;
+                  grid-template-columns: 1fr;
+                }
+                .css-wmspej > div {
+                  grid-column: span 1;
+                }
+                @media (min-width: 767px) {
+                  .css-wmspej {
+                    width: 80%;
+                    grid-template-columns: repeat(2, 1fr);
+                  }
+                }
+                @media (min-width: 968px) {
+                  .css-wmspej {
+                    width: 100%;
+                    grid-template-columns: repeat(3, 1fr);
+                  }
+                }
+                @media (min-width: 1345px) {
+                  .css-wmspej {
+                    width: 100%;
+                    grid-template-columns: repeat(4, 1fr);
+                  }
+                }
+              </style>
                             <div class="column css-wmspej">
                                 <div>
                                     <style data-emotion-css="1x73dxx">
