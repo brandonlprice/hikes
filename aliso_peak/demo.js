@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Tall Bush</h6>",
+				"headline": "<h6 style='color:red;'>Go Left</h6>",
 				"text": "Go left around the bush. A picnic table is on the right but people are usually already there."
 			}
 			},
@@ -256,7 +256,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Half</h6>",
+				"headline": "<h6 style='color:red;'>Start Second Half</h6>",
 				"text": "Veer right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
