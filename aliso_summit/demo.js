@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li></ul></small>",
 				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local Home Owner's Association."
 			}
 			},
