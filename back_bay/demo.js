@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li><li>Start on <a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li><li>Start on <a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a></li></ul></small>",
 				"text": "This portion of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Out</h6>",
+				"headline": "<h6 style='color:red;'>Beginning of Drive</h6>",
 				"text": "Stay on the right side of the yellow line at 15mph. Hikers and bikers will be on the opposite side. Bikers can also be on the same side if going in the same direction as cars."
 			}
 			},{
