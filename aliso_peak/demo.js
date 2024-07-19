@@ -310,7 +310,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
+				"headline": "<h6 style='color:red;'>Enter Summit</h6>",
 				"text": "You will be greeted with a flight of stairs once you make it to the base of the peak. Take these to the peak summit."
 			}
 			},
