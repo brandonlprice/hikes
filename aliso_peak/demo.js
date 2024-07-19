@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup Section</h6>",
+				"headline": "<h6 style='color:red;'>Warmup</h6>",
 				"text": "This part is flat and wide with multiple picnic tables located on both sides. People are normally present on this hike and some bring their dogs to this section."
 			}
 			},
@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup Section Continued</h6>",
+				"headline": "<h6 style='color:red;'>Warmup Continued</h6>",
 				"text": "The ocean will begin to appear."
 			}
 			},
@@ -138,7 +138,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2780_11zon.jpg",
-				"caption": "<i>Starting Downhill</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Section</h6>",
+				"headline": "<h6 style='color:red;'>Head Downhill</h6>",
 				"text": "Enter the downhill section between these shrubs. The trail will become very narrow."
 			}
 			},
@@ -166,7 +166,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Downhill</h6>",
+				"headline": "<h6 style='color:red;'>Downhill</h6>",
 				"text": " Take your time because it is steep and rocky."
 			}
 			},
