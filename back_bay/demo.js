@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Beginning of Drive</h6>",
+				"headline": "<h6 style='color:red;'>Beginning</h6>",
 				"text": "Stay on the right side of the yellow line at 15mph. Hikers and bikers will be on the opposite side. Bikers can also be on the same side if going in the same direction as cars."
 			}
 			},{
