@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park Entrance</h6>",
+				"headline": "<h6 style='color:red;'>Badlands Park</h6>",
 				"text": "Once at the top, you are now within Badlands Park. Turn left."
 			}
 			},
