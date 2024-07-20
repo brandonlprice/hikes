@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>Ocean Views, No Shade</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Start Here</h6><small style='color:red;'><ul><li>1.5 miles</li><li>Out & Back</li><li>Ocean Views, No Shade</li></ul></small>",
 				"text": "Once parked, go up these stairs."
 			}
 			},
