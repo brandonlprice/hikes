@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3.2 miles (Out & Back)</li><li>Hillside trail, Pockets of shade, Ocean view</li><li>Park in the <a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'>Park in the <a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
 				"text": "Park here. It is a free public parking lot for a dog park but also can be used by hikers and cyclists to access the nearby trails."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>3.2 miles (Out & Back)</li><li>Hillside trail, Pockets of shade, Ocean view</li></ul></small>",
 				"text": "Start the trail here at this entrance. It is adjoined to the parking lot."
 			}
 			},
