@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><ul><li>Park at<a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></small>",
 				"text": "From Awma Rd, turn left into this parking lot. It costs $3-5 dollars to park."
 			}
 			},
