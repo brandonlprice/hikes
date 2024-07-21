@@ -6901,10 +6901,10 @@ var KLStoryMap;
           st.addListener(this._el.button_backtostart, "click", this._onButtonBackToStart, this),
           (this._el.button_collapse_toggle = I.create("span", "vco-menubar-button", this._el.container)),
           st.addListener(this._el.button_collapse_toggle, "click", this._onButtonCollapseMap, this),
-          this.options.map_as_image ? (this._el.button_overview.innerHTML = R.buttons.overview) : (this._el.button_overview.innerHTML = R.buttons.map_overview),
+          this.options.map_as_image ? (this._el.button_overview.innerHTML = R.buttons.overview) : (this._el.button_overview.innerHTML = R.buttons.map_overview + " <span class='vco-icon-goback'></span>"),
           b
             ? ((this._el.button_backtostart.innerHTML = "<span class='vco-icon-goback'></span>"), (this._el.button_collapse_toggle.innerHTML = "<span class='vco-icon-arrow-up'></span>"), this._el.container.setAttribute("ontouchstart", " "))
-            : ((this._el.button_backtostart.innerHTML = R.buttons.backtostart + " <span class='vco-icon-goback'></span>"), (this._el.button_collapse_toggle.innerHTML = R.buttons.collapse_toggle + "<span class='vco-icon-arrow-up'></span>")),
+            : ((this._el.button_backtostart.innerHTML = R.buttons.backtostart /*+ " <span class='vco-icon-goback'></span>"*/), (this._el.button_collapse_toggle.innerHTML = R.buttons.collapse_toggle + "<span class='vco-icon-arrow-up'></span>")),
           "landscape" == this.options.layout && (this._el.button_collapse_toggle.style.display = "none");
       }
       _initEvents() {}
