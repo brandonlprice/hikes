@@ -148,7 +148,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entrance Fee</h6>",
+				"headline": "<h6 style='color:red;'>Enter Park</h6>",
 				"text": "There may be a short line on the weekends. The parking attendant will collect an entrance fee of $3 on weekdays and $5 for weekends."
 			}
 			},
