@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5 miles (Lollipop Loop)</li><li>Intermittent Steep Sections/Sections of Shaded Relief</li><li>Park at <a href='https://maps.app.goo.gl/8hGRbycmvGShypZM6' target='_blank'><font size=4.5><i>26701 Portola Pkwy</i></font></a><font size=4.5> or <i>26642 Portola Pkwy</i> in Lake Forest, CA</font></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><u>Check for Alerts</u></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li>Park at <a href='https://maps.app.goo.gl/8hGRbycmvGShypZM6' target='_blank'><font size=4.5><i>26701 Portola Pkwy</i></font></a><font size=4.5> or <i>26642 Portola Pkwy</i> in Lake Forest, CA</font></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><u>Check for Alerts</u></a></li></ul></small>",
 				"text": "Paid parking is at 26701 Portola Pkwy, Lake Forest, CA 92610 and free parking is across the street at 26642 Portola Pkwy which requires walking through a tunnel under the street to get to the trail entrance. The entrance is located near the tall sculpture."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><i><li>5 miles (Lollipop Loop)</li><li>Intermittent Steep Sections/Sections of Shaded Relief</li></i></ul></small>",
 				"text": "Once parked, this is where you'll start. The Borrego Trail. This trail takes you to the Red Rock Canyon Trail, Red Rock Vista Trail, and the Billygoat Trail which is the destination in this case."
 			}
 			},
