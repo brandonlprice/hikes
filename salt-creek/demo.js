@@ -40,7 +40,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.25 mile loop</li><li>Unshaded multi-use trail with modest hills</li><li>Park at <a href='https://maps.app.goo.gl/5xpqAzdpGaa5eRt66'><i>Pooch Park Parking↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/5xpqAzdpGaa5eRt66'><i>Pooch Park Parking↗</i></a></small>",
 				"text": "Park at in the free public parking lot off Golden Lantern Boulevard. It has a sign that says Pooch Park Parking. The lot is used by people using the trails and for the dog park nearby."
 			}
 			},
@@ -58,7 +58,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.25 mile loop</li><li>Unshaded multi-use trail with modest hills</li></ul></small>",
 				"text": "Once parked, start the trail here. It looks like a bike trail but is intended for both cycling and hiking."
 			}
 			},
