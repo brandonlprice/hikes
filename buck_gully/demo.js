@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Walkway</h6>",
+				"headline": "<h6 style='color:red;'>Pass 1<sup>st</sup> Walkway</h6>",
 				"text": "Continue past the 1st walkway."
 			}
 			},
@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Unpaved Walkway</h6>",
+				"headline": "<h6 style='color:red;'>Pass 2<sup>nd</sup> Walkway</h6>",
 				"text": "Continue past the 2nd walkway a few feet after passing the 1st."
 			}
 			},
