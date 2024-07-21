@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>2.04 mile loop</li><li>Dry areas with some shade, a steep incline to a ridge summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li><li>Park at the <a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park in</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</small>",
 				"text": "Pay at the gated entrance. Park in the lot pictured after entering. It's close to the entrance."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>2.04 mile loop</li><li>Dry areas with some shade, a steep incline to a ridge summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li></small>",
 				"text": "Once parked, start the hike here. This is a short connector trail that connects to the Horseshoe Loop Trail."
 			}
 			},
