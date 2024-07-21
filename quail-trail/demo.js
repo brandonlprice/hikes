@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Park at <a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></li><li>Duration: 1 ½ hours</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
 				"text": "Park on the right side of the community center."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Duration: 1 ½ hours</li></ul></small>",
 				"text": "Once parked, this is where you'll start."
 			}
 			},
