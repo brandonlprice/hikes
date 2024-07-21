@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.75 miles (ADA Accessible)</li><li>Short Distance, Flat, No shade until reaching the Redwoods</li><li>Park Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li><li>Park in <a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Lot A↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Carbon Cyn Regional Park Lot A↗</i></a><li>Park Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li></small>",
 				"text": "There is usually parking available even on the weekends. Many people come here to use the Redwoods as a photo backdrop."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>.75 miles (ADA Accessible)</li><li>Short Distance, Flat, No shade until reaching the Redwoods</li></ul></small>",
 				"text": "Once parked, this is where you'll start. It's on the right side of the parking lot and will have a sign that says to Redwood Grove."
 			}
 			},
