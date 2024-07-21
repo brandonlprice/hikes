@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Here</h6><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Start Here</h6><small style='color:red;'><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
 				"text": "Head down this path next to the parking lot."
 			}
 			},
