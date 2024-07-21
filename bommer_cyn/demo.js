@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></u></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></u></a></small>",
 				"text": "The parking lot at 1 Bommer Canyon Rd does not have a lot of spaces. If full, park at <a href='https://maps.app.goo.gl/Tpn5Z3FfJ7aW4Ern7' target='_blank'><i>Turtle Rock Community Park</i></a> and take the Shady Canyon Connector to the Shady Canyon Trail Bikeway to get to Bommer Canyon."
 			}
 			},
