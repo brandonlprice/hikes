@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park Here</h6><small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park Here</h6><small style='color:red;'><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></small>",
 				"text": "Park anywhere in this lot. There is no fee. Park rangers will be present on Wilderness Access Days to guide traffic, answers questions, and handout maps."
 			}
 			},
