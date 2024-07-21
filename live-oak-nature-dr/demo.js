@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>5.35 miles</li><li>Winding Treelined Streets Leading to a Small Summit</li><li>Duration: 30 minutes</li><li><a href='https://maps.app.goo.gl/aPWj7mW7x9XfhH1FA' target='_blank'><i>Start at the Live Oak Cyn Rd/El Toro Rd Intersection↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/aPWj7mW7x9XfhH1FA' target='_blank'><i>Live Oak Cyn Rd/El Toro Rd Intersection↗</i></a><ul><li>5.35 miles</li><li>Winding Treelined Streets Leading to a Small Summit</li><li>Duration: 30 minutes</li></ul></small>",
 				"text": "Start here on Live Oak Canyon Rd heading east. It will be a ten minute treelined drive that takes you too O'Neill Regional Park. From there, a $3-5 fee is required to enter. Upon entering, the nature drive continues and ends at a small summit."
 			}
 			},
