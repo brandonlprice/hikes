@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><ul><li><font size=4><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'>El Toro Bl/Aliso Creek Rd Intersection</a> or <a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'>Hummingbird Park</a></font></li></ul></small>",
+				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'><i>El Toro Bl/Aliso Creek Rd Intersection</i></a></li></ul></small>",
 				"text": "This route offers free street parking. Three spots on El Toro Bl at the Aliso Creek Rd intersection and additional street parking at Hummingbird Park."
 			}
 			},
