@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2328_11zon.jpg",
-				"caption": "Start Here",
+				"caption": "Enter trail here (on eastside of parking lot)",
 				"credit": ""
 			},
 			"location": { 
