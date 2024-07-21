@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li><li>Park at <a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</i></a> (next to Amphitheater)</li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><li><a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</i></a> (next to Amphitheater)</li></small>",
 				"text": "This is where you park. If these spots are full, park in the stalls before these."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li></ul></small>",
 				"text": "Start here, this pathway is just to the left of the Amphitheater. It will have some incline."
 			}
 			},
