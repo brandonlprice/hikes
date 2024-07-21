@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li><li>Park in the <a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Baseball Parking Lot↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at the</h6> <small style='color:red;'><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
 				"text": "Park in the lot next to the baseball fields. No fee is required."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li></ul></small>",
 				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route."
 			}
 			},
