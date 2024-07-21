@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li><li>Park at <a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
 				"text": "When parking, look for stalls that do not have the Restaurant Only parking sign."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Here</h6>",
+				"headline": "<h6 style='color:red;'>Start Here</h6><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
 				"text": "Head down this path next to the parking lot."
 			}
 			},
