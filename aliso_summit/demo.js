@@ -418,7 +418,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit the Trail</h6>",
+				"headline": "<h6 style='color:red;'>Exit Trail</h6>",
 				"text": "Turn right onto the sidewalk and continue to incline."
 			}
 			},
@@ -436,7 +436,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Sidewalk Incline</h6>",
+				"headline": "<h6 style='color:red;'>Sidewalk</h6>",
 				"text": "A brief walk on this sidewalk to the first intersection."
 			}
 			},
