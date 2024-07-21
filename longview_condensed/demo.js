@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible (Use Your Own Discretion, Moderate Incline/Decline)</li><li>Enter Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Pacific Crest↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Getting There</h6> <small style='color:red;'><li>Enter Bear Brand Ridge Gated Community on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></li></small>",
 				"text": "Enter the Bear Brand Ridge Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Parking</h6>",
 				"text": "Upon entering the community, park on <a href='https://maps.app.goo.gl/qU8dohakGmFaKsQb8' target='_blank'><i>Park Paseo</i></a> next to the playground."
 			}
 			},
@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
+				"headline": "<h6 style='color:red;'>Take the Stairs</h6><small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible (Use Your Own Discretion, Moderate Incline/Decline)</li></ul></small>",
 				"text": "Take the short flight of stairs behind the playground."
 			}
 			},
