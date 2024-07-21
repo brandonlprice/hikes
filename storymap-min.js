@@ -4192,7 +4192,7 @@ var KLStoryMap;
       194: (t) => {
         "use strict";
         t.exports = JSON.parse(
-          '{"name":"English","lang":"en","messages":{"loading":"Loading","wikipedia":"From Wikipedia, the free encyclopedia","start":"Start Exploring"},"buttons":{"map_overview":"Map Overview","overview":"Overview","backtostart":"Restart","collapse_toggle":"Hide Map","uncollapse_toggle":"Show Map","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
+          '{"name":"English","lang":"en","messages":{"loading":"Loading","wikipedia":"From Wikipedia, the free encyclopedia","start":"Start Exploring"},"buttons":{"map_overview":"Back to Main","overview":"Overview","backtostart":"Restart","collapse_toggle":"Hide Map","uncollapse_toggle":"Show Map","swipe_to_navigate":"Swipe Right to Navigate<br><span class=\'vco-button\'>OK</span>"}}'
         );
       },
       299: (t) => {
