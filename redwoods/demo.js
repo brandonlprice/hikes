@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Carbon Cyn Regional Park Lot A↗</i></a><li>Park Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li></small>",
+				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Carbon Cyn Regional Park Lot A↗</i></a><li>Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li></small>",
 				"text": "There is usually parking available even on the weekends. Many people come here to use the Redwoods as a photo backdrop."
 			}
 			},
