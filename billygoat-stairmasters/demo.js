@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/8hGRbycmvGShypZM6' target='_blank'><i>26701 Portola Pkwy</i></a> or <i>26642 Portola Pkwy</i> in Lake Forest, CA</font></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><u>Check for Alerts</u></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/8hGRbycmvGShypZM6' target='_blank'><i>26701 Portola Pkwy</i></a> or <a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a> in Lake Forest, CA</font></li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><u>Check for Alerts</u></a></li></ul></small>",
 				"text": "Paid parking is at 26701 Portola Pkwy, Lake Forest, CA 92610 and free parking is across the street at 26642 Portola Pkwy which requires walking through a tunnel under the street to get to the trail entrance. The entrance is located near the tall sculpture."
 			}
 			},
