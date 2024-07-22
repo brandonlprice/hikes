@@ -349,6 +349,22 @@ let demojs={
 				"headline": "<h6 style='color:red;'>Rejoin Bommer Meadow</h6>",
 				"text": "Take the original trail you started on back to the parking lot."
 			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "images/IMG_8177_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"type": "overview",
+			"location": {
+				"line": false
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Overview</h6>",
+				"text": "Bommer Canyon (Regular Access)"
+			}
 			} 
 		]
 	}
