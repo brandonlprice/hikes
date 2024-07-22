@@ -509,7 +509,23 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>The End</h6>",
-				"text": "Back at the parking lot. Bathrooms on the right."
+				"text": "Back at the parking lot. Bathrooms are on the right."
+			}
+			},
+			{
+			"date": "Jan 2006",
+			"media": {
+				"url": "images/IMG_7231_11zon.jpg",
+				"caption": "<i>Huntington Central Park East, Summer 2021</i>",
+				"credit": ""
+			},
+			"type": "overview",
+			"location": {
+				"line": false
+			},
+			"text": {
+				"headline": "<h4 style='color: red;'>Overview</h4>",
+				"text": "Huntington Central Park East: a walk through a semi-natural park."
 			}
 			}
 		]
