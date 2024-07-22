@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Northbound</h6>",
-				"text": "This is the beginning of the walk back."
+				"text": "This is the first stretch of the walk back next to the lake."
 			}
 			},
 			{
