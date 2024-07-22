@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "<h6 style='color:red;'>Turn Right</h6>",
 				"text": "The path breaks off into two. Take the one that breaks to the right. The other runs into the playground."
 			}
 			},
