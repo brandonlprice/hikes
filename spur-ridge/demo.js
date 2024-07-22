@@ -40,7 +40,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'>the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St, Laguna Beach↗</i></a></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'>End of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St, Laguna Beach↗</i></a></small>",
 				"text": "Free residential parking on Dartmoor St. On the weekends, you may have to park further away from the trail entrance if a lot of spots have been taken."
 			}
 			},
@@ -59,7 +59,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, No Shade</li></ul></small>",
-				"text": "Start the trail here at the end of the street."
+				"text": "Start the trail here at the end of the street. This area is part of Laguna Coast Wilderness Park."
 			}
 			},
 			{
