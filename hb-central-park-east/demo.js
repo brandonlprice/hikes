@@ -112,7 +112,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bathrooms</h6>",
+				"headline": "<h6 style='color:red;'>Veer Right</h6>",
 				"text": "The building in the distance behind the trees is one of many public restrooms in the park."
 			}
 			},
