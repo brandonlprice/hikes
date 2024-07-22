@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Park at the</h6> <small style='color:red;'><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
-				"text": "Park in the lot next to the baseball fields. No fee is required."
+				"text": "Park next to the baseball fields. No fee is required."
 			}
 			},
 			{
