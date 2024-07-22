@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>To Park</h6> <small style='color:red;'>Turn Left</small>",
-				"text": "From Riparian View, turn left at the stop sign. Then turn left here into this opening with the houses. If it's full there's additional parking to the right."
+				"text": "Enter Riparian View from Campus Dr (not Michelson Dr) and go all the way down to the stop sign then turn left. Then turn left again here into this opening with the houses. If it's full there's additional parking to the right."
 			}
 			},
 			{
