@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/28F8AED1-54A3-4142-9F82-39AF364D20E0_11zon.jpeg",
-				"caption": "Start the hike by taking this sidewalk.",
+				"caption": "Begin on this sidewalk.",
 				"credit": ""
 			},
 			"location": { 
