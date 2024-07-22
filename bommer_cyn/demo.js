@@ -363,7 +363,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Overview</h6>",
-				"text": "Bommer Canyon (Regular Access)"
+				"text": "Bommer Canyon Meadow, Irvine, CA (Regular Access)"
 			}
 			} 
 		]
