@@ -40,8 +40,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Rundown:</h6> <small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li><li>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></li></ul></small>",
-				"text": "Turn left into this opening with the houses. If it's full there's additional parking to the right."
+				"headline": "<h6 style='color:red;'>To Park</h6> <small style='color:red;'>Turn Left</small>",
+				"text": "From Riparian View, turn left at the first chance. Then turn left into this opening with the houses. If it's full there's additional parking to the right."
 			}
 			},
 			{
@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at Picnic Tables</h6>",
+				"headline": "<h6 style='color:red;'>Park at Picnic Tables</h6><small style='color:red;'>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></small>",
 				"text": "Park here at the picnic tables. The Duck Club is directly behind them. Bathrooms are to the right."
 			}
 			},
@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li></ul></small>",
 				"text": "Take this trail that leads to the lawn behind the Duck Club."
 			}
 			},
