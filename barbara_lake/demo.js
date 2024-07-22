@@ -58,8 +58,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Parking Option</h6>",
-				"text": "Street Parking on <a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'>Hummingbird Lane</a> next to Hummingbird Park."
+				"headline": "<h6 style='color:red;'>Second Parking Option</h6><small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</i></a></li></ul></small>",
+				"text": "next to Hummingbird Park."
 			}
 			},
 			{
