@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>To Park</h6> <small style='color:red;'>Turn Left</small>",
-				"text": "From Riparian View, turn left at the first chance. Then turn left into this opening with the houses. If it's full there's additional parking to the right."
+				"text": "From Riparian View, turn left at the stop sign. Then turn left here into this opening with the houses. If it's full there's additional parking to the right."
 			}
 			},
 			{
