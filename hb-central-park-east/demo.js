@@ -30,7 +30,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7225_11zon.jpg",
-				"caption": "Start Here",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -41,7 +41,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li><li>Park in the <a href='https://maps.app.goo.gl/HrQyGx7XbmZ6fFgp6' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li></ul></small>",
-				"text": "From the parking lot, start the trail here."
+				"text": "From the parking lot, start the trail here on this sidewalk."
 			}
 			},
 			{
