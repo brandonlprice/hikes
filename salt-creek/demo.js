@@ -277,7 +277,23 @@
 				"headline": "<h6 style='color:red;'>The End</h6>",
 				"text": "One last look at the canyon before heading out."
 			}
-			} 
+			},
+			{
+			"date": "Jan 2006",
+			"media": {
+				"url": "images/IMG_7727_11zon.jpg",
+				"caption": "<i>View of San Juan Canyon from Salt Creek Trail</i>",
+				"credit": ""
+			},
+			"type": "overview",
+			"location": {
+				"line": false
+			},
+			"text": {
+				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Overview</h4>",
+				"text": "Salt Creek Trail: Pooch Park to Chapparosa Park"
+			}
+			}
 		]
 	}
   }
