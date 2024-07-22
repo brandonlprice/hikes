@@ -94,7 +94,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"headline": "<h6 style='color:red;'>West Ridge Trail</h6>",
 				"text": "At the top will be the West Ridge trail entrance. Turn right here and take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will know right away because you will be declining off the ridge."
 			}
 			},
