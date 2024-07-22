@@ -311,7 +311,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Shaded Relief 3 (Midpoint)</h6>",
-				"text": "This is not technically the midpoint, but it's where you begin looping back. Shaded Relief will mostly be continious majority of the way back."
+				"text": "This is where you start the loop back. Shaded Relief will mostly be continious majority of the way back."
 			}
 			},
 			{
