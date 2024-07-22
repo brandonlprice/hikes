@@ -41,7 +41,7 @@
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/5xpqAzdpGaa5eRt66'><i>Pooch Park Parking↗</i></a></small>",
-				"text": "Park at in the free public parking lot off Golden Lantern Boulevard. It has a sign that says Pooch Park Parking. The lot is used by people using the trails and for the dog park nearby."
+				"text": "Park in the free public parking lot off Golden Lantern Boulevard. It has a sign that says Pooch Park Parking. The lot is used by people using the trails and for the dog park nearby."
 			}
 			},
 			{
