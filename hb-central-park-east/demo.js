@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Left</h6>",
+				"headline": "<h6 style='color:red;'>Turn Left</h6>",
 				"text": "This route will be around the park perimeter."
 			}
 			},
