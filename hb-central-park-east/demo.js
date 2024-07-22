@@ -382,7 +382,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Restaurant</h6>",
+				"headline": "<h6 style='color:red;'>Approach Restaurant</h6>",
 				"text": "Approaching the Park Bench Cafe. Go towards the restaurant, but stay on the left side of it."
 			}
 			},
@@ -525,7 +525,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='color: red;'>Overview</h4>",
-				"text": "Huntington Central Park East: a walk through a semi-natural park."
+				"text": "Huntington Central Park East - a walk through a semi-natural park."
 			}
 			}
 		]
