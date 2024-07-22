@@ -76,7 +76,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Aliso Canyon Rd</h6><small style='color:red;'><ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'>Aliso Canyon Rd<ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
 				"text": "Start the hike here by turning left onto Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
