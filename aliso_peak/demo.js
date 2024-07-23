@@ -58,7 +58,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.6 miles (Out and Back)</li><li>Very little shade and one moderately steep section</li><li>Duration: 30-45 minutes</li><li></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.6 miles (Out and Back)</li><li>Very little shade and one moderately steep section</li><li>Duration: 30-45 minutes</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Start the trail here, at the end of Talavera Drive past Seaview Park on the right side. Enter and go left towards the ocean on the Aliso Peak Trail."
 			}
 			},
