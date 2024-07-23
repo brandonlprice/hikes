@@ -8540,7 +8540,7 @@ var KLStoryMap;
         this.current_slide != t.current_marker && ((this.current_slide = t.current_marker), this._storyslider.goTo(this.current_slide), this.fire("change", { current_slide: this.current_slide }, this));
       }
       _onOverview(t) {
-        this._map.markerOverview();
+        location.href = "www.yoursite.com";//this._map.markerOverview();
       }
       _onBackToStart(t) {
         (this.current_slide = 0), this._map.goTo(this.current_slide), this._storyslider.goTo(this.current_slide), this.fire("change", { current_slide: this.current_slide }, this);
