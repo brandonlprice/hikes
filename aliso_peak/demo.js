@@ -102,7 +102,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2776_11zon.jpg",
-				"caption": "<i>Left side of the bush.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -120,7 +120,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
-				"caption": "<i>Ocean Views</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -300,7 +300,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
-				"caption": "<i>Entering the Peak</i>",
+				"caption": "<i>Stairs</i>",
 				"credit": ""
 			},
 			"location": {
