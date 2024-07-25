@@ -14,7 +14,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "<i>Aliso Peak, Laguna Beach, Fall 2021</i>",
+				"caption": "Aliso Peak, Laguna Beach, Fall 2021",
 				"credit": ""
 			},
 			"type": "overview",
@@ -156,7 +156,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2779_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -174,7 +174,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2786_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -192,7 +192,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_3998_6_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -210,7 +210,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2791_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -228,7 +228,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2793_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -246,7 +246,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2795_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -264,7 +264,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "<i>Descending</i>",
+				"caption": "Descend",
 				"credit": ""
 			},
 			"location": {
@@ -300,7 +300,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
-				"caption": "<i>Stairs</i>",
+				"caption": "Stairs",
 				"credit": ""
 			},
 			"location": {
@@ -318,7 +318,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4007_1_11zon.jpg",
-				"caption": "<i>Aliso Peak, reaching the summit</i>",
+				"caption": "View from the summit",
 				"credit": ""
 			},
 			"location": {
