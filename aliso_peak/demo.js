@@ -329,7 +329,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Aliso Peak</h6>",
-				"text": "Enjoy views on the peak summit. Remember to pace yourself on the way back as the downhills enountered on the way will be uphill!"
+				"text": "Enjoy views from the peak summit. Remember to pace yourself on the way back as the downhills enountered on the way will be uphill!"
 			}
 			} 
 		]
