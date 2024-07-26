@@ -11,10 +11,15 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    			"url": "images/IMG_4003_10_11zon.jpg",
+                    			"color":"#cdbfe3",
+                    			"opacity": 25
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "Aliso Peak, Laguna Beach, Fall 2021",
+				"url": "",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
