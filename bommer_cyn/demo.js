@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/IMG_8153_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_8153_11zon.jpg",
+				"url": "",
 				"caption": "<i>Bommer Canyon, Nature Loop Trl, Irvine, CA, Summer 2022</i>",
 				"credit": ""
 			},
