@@ -11,10 +11,15 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/IMG_9096_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_9096_11zon.jpg",
-				"caption": "<i>Billygoat Trail, Whiting Ranch Wilderness Park, Foothill Ranch, CA, Summer 2023</i>",
+				"url": "",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
