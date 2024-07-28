@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    			"url": "images/24334DB1-13C7-4878-9DD6-142A81159EDD_11zon.jpeg",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/24334DB1-13C7-4878-9DD6-142A81159EDD_11zon.jpeg",
+				"url": "",
 				"caption": "<i>Back Bay, Newport Beach 2021</i>",
 				"credit": ""
 			},
