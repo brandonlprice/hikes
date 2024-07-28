@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/0AC2072B-9A0D-49B6-81CD-9A9EA69FDAA0_11zon.jpeg",
+				"url": "",
 				"caption": "<i>Aliso Summit Trail, Laguna Niguel, Summer 2022</i>",
 				"credit": ""
 			},
