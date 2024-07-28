@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/topoftheworld.JPG",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "",
 				"caption": "<i></i>",
 				"credit": ""
 			},
