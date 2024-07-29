@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/B9E0EF65-DA74-443C-B34C-06C54E777DAD_11zon.jpeg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/B9E0EF65-DA74-443C-B34C-06C54E777DAD_11zon.jpeg",
+				"url": "",
 				"caption": "<i>Boardwalk, San Joaquin Marsh, Irvine, CA, Spring 2023</i>",
 				"credit": ""
 			},
