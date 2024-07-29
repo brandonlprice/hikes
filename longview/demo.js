@@ -12,9 +12,14 @@ let demojs={
 		"slides": [
 			{
 			"date": "Jan 2006",
+			"background": {         
+                    		"url": "images/IMG_9279_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"media": {
-				"url": "images/IMG_9279_11zon.jpg",
-				"caption": "<i>Longview Trail, Laguna Niguel, Summer 2022</i>",
+				"url": "",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
