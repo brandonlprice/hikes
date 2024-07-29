@@ -11,10 +11,15 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/IMG_7264_11zon.jpg",
+                    		"color": "#292929",
+                    		"opacity": 99					
+                	},	
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_7264_11zon.jpg",
-				"caption": "<i>Live Oak Cyn Rd, Trabuco Caynon, CA, Summer 2022</i>",
+				"url": "",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
