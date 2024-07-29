@@ -11,10 +11,15 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/D4A09283-1B48-4D37-B07A-22C011394857_11zon.jpeg",
+                    		"color": "#292929",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/D4A09283-1B48-4D37-B07A-22C011394857_11zon.jpeg",
-				"caption": "<i>Views from Puma Ridge, Irvine Regional Park, Spring 2023</i>",
+				"url": "",
+				"caption": "",
 				"credit": ""
 			},
 			"type": "overview",
