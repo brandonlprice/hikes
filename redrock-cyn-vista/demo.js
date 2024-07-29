@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/IMG_9054_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_9054_11zon.jpg",
+				"url": "",
 				"caption": "<i>Vista Lookout, near Red Rock Cyn, Whiting Ranch Wilderness, Foothill Ranch, Summer 2022</i>",
 				"credit": ""
 			},
