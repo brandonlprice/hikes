@@ -2,7 +2,7 @@ let demojs={
 	"storymap": {
 		"calculate_zoom": false,
 		"attribution": "",
-		"call_to_action": true,
+		"call_to_action": false,
 		"show_history_line":false,
 		"zoomify": false,
 		"map_type": "http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
