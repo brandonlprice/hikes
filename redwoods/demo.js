@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "images/IMG_6978_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},	
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/IMG_6978_11zon.jpg",
+				"url": "",
 				"caption": "<i>Redwood Grove, Carbon Canyon Regional Park, Spring 2022</i>",
 				"credit": ""
 			},
