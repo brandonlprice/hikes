@@ -11,9 +11,14 @@ let demojs={
 		"map_subdomains":"xyz",
 		"slides": [
 			{
+			"background": {         
+                    		"url": "",
+                    		"color": "#292929",
+                    		"opacity": 99					
+                	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "images/topoftheworld.JPG",
+				"url": "",
 				"caption": "<i>Lake Huntington, Huntington Central Park West, Summer 2022</i>",
 				"credit": ""
 			},
