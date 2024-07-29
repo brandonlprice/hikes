@@ -13,7 +13,7 @@ let demojs={
 			{
 			"background": {         
                     		"url": "images/IMG_9959_11zon.jpg",
-                    		"color": "#464646",
+                    		"color": "#404040",
                     		"opacity": 99					
                 	},
 			"date": "Jan 2006",
