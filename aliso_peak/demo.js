@@ -78,6 +78,11 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#ffffff",
+                    			"opacity": .1
+                	},
 			"date": "",
 			"media": {
 				"url": "images/IMG_3993_3_11zon.jpg",
