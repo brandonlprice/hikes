@@ -34,7 +34,7 @@ let demojs={
 			{
 			"background": {         
                     			"url": "",
-                    			"color": "#a1a1a1",
+                    			"color": "#dbdbdb",
                     			"opacity": .1
                 	},
 			"date": "",
