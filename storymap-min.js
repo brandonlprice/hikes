@@ -8361,7 +8361,7 @@ var KLStoryMap;
             calculate_zoom: !0,
             line_follows_path: !0,
             line_color: "#641818",
-            line_color_inactive: "#CCC",
+            line_color_inactive: "#641818",
             line_join: "miter",
             line_weight: 3,
             line_opacity: 0.8,
