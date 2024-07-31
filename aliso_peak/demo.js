@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6><small style='color:red;'><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'><i>22710, 22740 Talavera Dr, Laguna Niguel, CA 92677↗</i></a><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></small>",
+				"headline": "<h6 style='color:red;'>Parking</h6><small style='color:red;'><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'><i>22710, 22740 Talavera Dr, Laguna Niguel, CA 92677↗</i></a><br><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></small>",
 				"text": "Park at the end of Talavera Dr before reaching the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
 			}
 			},
