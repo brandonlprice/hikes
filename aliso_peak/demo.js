@@ -269,7 +269,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
-				"caption": "Descend",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
