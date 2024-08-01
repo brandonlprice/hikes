@@ -32,10 +32,6 @@ let demojs={
 			}
 			},
 			{
-			"background": {
-                    			"color": "#c7c7c7",
-                    			"opacity": 99
-                	},
 			"date": "",
 			"media": {
 				"url": "images/streetparking_11zon.jpg",
