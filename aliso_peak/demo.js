@@ -33,7 +33,7 @@ let demojs={
 			},
 			{
 			"background": {
-                    			"color": "#641818",
+                    			"color": "#c7c7c7",
                     			"opacity": 99
                 	},
 			"date": "",
