@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ocean Views</h6>",
+				"headline": "<h6 style='color:red;'>Clear Ocean Views</h6>",
 				"text": "Enjoy the views before starting a descend."
 			}
 			},
@@ -172,7 +172,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h6 style='color:red;'>Downhill</h6>",
-				"text": " Take your time. It is steep and rocky here."
+				"text": " Take your time here. It's steep and rocky."
 			}
 			},
 			{
