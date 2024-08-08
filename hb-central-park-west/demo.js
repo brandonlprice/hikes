@@ -35,7 +35,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1240_11zon.jpg",
-				"caption": "Park Here",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
+				"headline": "<h6 style='color:red;'>Park Here</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
 				"text": "When parking, look for stalls that do not have the Restaurant Only parking sign."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "<h6 style='color:red;'>Slight Right</h6>",
 				"text": "The path breaks off into two. Take the one that breaks to the right. The other runs into the playground."
 			}
 			},
