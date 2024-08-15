@@ -96,14 +96,19 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup</h6>",
+				"headline": "<h6 style='color:red;'>Go Straight</h6>",
 				"text": "This part is flat and wide with multiple picnic tables located on both sides. People are normally present on this hike and some bring their dogs to this section."
 			}
 			},
 			{
+			"background": {         
+                    			"url": "images/IMG_2771_11zon.jpg",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			"date": "",
 			"media": {
-				"url": "images/IMG_2771_11zon.jpg",
+				"url": "",
 				"caption": "",
 				"credit": ""
 			},
@@ -114,7 +119,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup Continued</h6>",
+				"headline": "<h6 style='color:red;'>Keep Going</h6>",
 				"text": "The ocean will begin to appear."
 			}
 			},
