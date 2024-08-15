@@ -55,9 +55,14 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "images/6296FA42-546F-402D-9D05-94FD9EC76A54_11zon.jpeg",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			"date": "",
 			"media": {
-				"url": "images/6296FA42-546F-402D-9D05-94FD9EC76A54_11zon.jpeg",
+				"url": "",
 				"caption": "",
 				"credit": ""
 			},
