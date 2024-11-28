@@ -9,7 +9,7 @@ let demojs={
 		"call_to_action_text": "",
 		"map_as_image": false,
 		"map_subdomains":"xyz",
-		line_weight: 3,
+		"line_weight": 3,
 		"slides": [
 			{
 			"background": {         
