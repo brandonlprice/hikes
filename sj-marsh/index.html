@@ -129,7 +129,8 @@
         // certain settings must be passed within a separate options object
         let storymap_options = {
             line_opacity: 1,
-            line_data: linePath
+            line_data: linePath,
+            line_weight: 5
         };
         const storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
         window.onresize = function(event) {
