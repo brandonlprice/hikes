@@ -444,6 +444,20 @@
         <link as="fetch" rel="preload" href="/time-machine/page-data/index/page-data.json" crossorigin="anonymous" />
         <link as="fetch" rel="preload" href="/time-machine/page-data/app-data.json" crossorigin="anonymous" />-->
     </head>
+    <script>
+    function openFullPagePopup() {
+  const popup = window.open('', '_blank', `popup,width=${screen.width},height=${screen.height},left=0,top=0,menubar=no,toolbar=no,location=no,status=no,scrollbars=no,resizable=no`);
+  
+  if (popup) {
+    popup.document.body.innerHTML = `
+      <iframe src="https://brandonlprice.github.io/hikes/redrock-cyn/" style="width: 100vw; height: 100vh; border: none;"></iframe>
+    `;
+    popup.document.title = "Your Popup Title";
+  } else {
+    alert('Popup blocked! Please allow popups for this site.');
+  }
+}
+    </script>
     <body>
         <div id="___gatsby">
             <div style="outline: none;" tabindex="-1" id="gatsby-focus-wrapper">
@@ -973,7 +987,7 @@
                                             <img src="aliso_summit/images/0AC2072B-9A0D-49B6-81CD-9A9EA69FDAA0_11zon.jpeg" alt="person" class="css-138xf3e" />
                                             <h2 class="css-11npz47">Aliso Summit<br><small>Laguna Niguel</small></h2>
                                             <p class="css-cbq4e1">400' of elevation gain with distant yet continual views of the ocean.</p>
-                                            <button class="css-covvu9">Tour</button>
+                                            <button onclick="onclick="openFullPagePopup()" class="css-covvu9">Tour</button>
                                         </div>
                                     </a>
                                 </div>
