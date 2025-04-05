@@ -34,7 +34,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://www.dropbox.com/scl/fi/wn5vewlryebwss6vd8o21/bommer_canyon_hilltop.mp4?rlkey=w4h4dcqggpcma239mgn9iuyxk&e=2&st=elx8v0qd&raw=1",
+				"url": "images/IMG_9425_11zon.jpg",
 				"caption": "Park on Isle Vista",
 				"credit": ""
 			},
