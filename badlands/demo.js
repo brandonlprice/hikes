@@ -70,7 +70,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9427_11zon.jpg",
+				"url": "images/badlands_start_11zon.png",
 				"caption": "",
 				"credit": ""
 			},
