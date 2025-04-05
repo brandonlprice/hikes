@@ -178,7 +178,25 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9387_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/h31n7qsrnq6hycce3vjvq/badlands_2.mp4?rlkey=ahz9cppflnj0ndbqzou265qlt&st=hsdw348t&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.501710,
+				"line": false,
+				"lon": -117.733048,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "<h6 style='color:red;'>Keeping Left</h6>",
+				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
+			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "https://www.dropbox.com/scl/fi/gl87uu7fn867qbm9te3vy/badlands_3.mp4?rlkey=daj7hkyhlzxm4to5chyj7zruf&st=buoxosym&raw=1",
 				"caption": "",
 				"credit": ""
 			},
