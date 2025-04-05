@@ -12,7 +12,7 @@ let demojs={
 		"slides": [
 			{
 			"background": {         
-                    		"url": "https://www.dropbox.com/scl/fi/i0bm3ewj691f3c8pydz37/badlands.mp4?rlkey=lvg59pkuo7hgte3x938pjlhaq&st=vu0eenod&dl=0",
+                    		"url": "https://www.dropbox.com/scl/fi/i0bm3ewj691f3c8pydz37/badlands.mp4?rlkey=lvg59pkuo7hgte3x938pjlhaq&st=vu0eenod&raw=1",
                     		"color": "#464646",
                     		"opacity": 99					
                 	},
@@ -196,7 +196,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://www.dropbox.com/scl/fi/i0bm3ewj691f3c8pydz37/badlands.mp4?rlkey=lvg59pkuo7hgte3x938pjlhaq&st=vu0eenod&dl=0",
+				"url": "https://www.dropbox.com/scl/fi/i0bm3ewj691f3c8pydz37/badlands.mp4?rlkey=lvg59pkuo7hgte3x938pjlhaq&st=vu0eenod&raw=1",
 				"caption": "",
 				"credit": ""
 			},
