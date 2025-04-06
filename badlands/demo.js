@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Keeping Left",
+				"headline": "End of County Trail",
 				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "HOA-Managed Trail",
+				"headline": "Clear Ocean View",
 				"text": "This latter half of the trail is maintained by the local Home Owners Association."
 			}
 			}, 
