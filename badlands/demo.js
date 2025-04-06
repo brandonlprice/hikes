@@ -208,7 +208,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Clear Ocean View",
-				"text": "This latter half of the trail is maintained by the local Home Owners Association."
+				"text": "Laguna Beach and the ocean are unobstructed the rest of the way, except if there are clouds."
 			}
 			}, 
 			{
@@ -226,7 +226,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Enjoy the View",
-				"text": "Clear unobstructed views of the ocean."
+				"text": "Clear unobstructed views of the ocean continued."
 			}
 			},
 			{
@@ -244,7 +244,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Enjoy the View",
-				"text": "The trail is nice and wide, although use caution. No barriers exist to prevent falling down the slope."
+				"text": "Use caution. No barriers exist to prevent falling down the slope."
 			}
 			},
 			{
