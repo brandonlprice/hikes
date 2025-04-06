@@ -280,7 +280,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Narrow Section",
-				"text": "This area is the most narrow with the steepest slopes, use utmost caution."
+				"text": "This area is the most narrow with the steepest slope, use utmost caution."
 			}
 			},
 			{
