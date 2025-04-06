@@ -136,7 +136,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Badlands Trail",
-				"text": "Once at the bottom, there will be a sign to let you know you are on the Badlands Trail. Follow the pathway."
+				"text": "Once at the bottom, there will be a sign to let you know you are on the Badlands Trail. Follow the path."
 			}
 			},
 			{
