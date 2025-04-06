@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Badlands Park, Laguna Niguel</h4>",
+				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Badlands Park</h4><small>Laguna Niguel, CA</small>",
 				"text": "This trail offers some of the best oceanside views in Orange County without requiring much effort."
 			}
 			},
