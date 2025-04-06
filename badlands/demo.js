@@ -20,7 +20,7 @@ let demojs={
 			"media": {
 				"url": "https://en.wikipedia.org/wiki/Badlands",
 				"caption": "",
-				"credit": "wikipedia"
+				"credit": ""
 			},
 			"type": "overview",
 			"location": {
@@ -136,7 +136,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Badlands Trail",
-				"text": "Once at the bottom, will be what is known as the Badlands. Follow the pathway."
+				"text": "Once at the bottom, there will be a sign to let you know you are on the Badlands Trail. Follow the pathway."
 			}
 			},
 			{
@@ -154,7 +154,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Keep Left",
-				"text": "Stay as far left as possible. Note that people will be on the right taking photos or relaxing."
+				"text": "Stay as far left as possible to stay on the trail. People may be to the right taking photos or relaxing."
 			}
 			},
 			{
