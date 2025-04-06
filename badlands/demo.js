@@ -35,7 +35,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9425_11zon.jpg",
-				"caption": "Park on Isle Vista",
+				"caption": "",
 				"credit": "PARK ON ISLE VISTA"
 			},
 			"location": { 
