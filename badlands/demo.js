@@ -334,7 +334,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Final View",
-				"text": "Enjoy the last view looking south into Dana Point and of the ocean."
+				"text": "This is the final view. A sign that reads <i>End of Trail</i> will be on the right. Enjoy the last view looking south into Dana Point and of the ocean before heading back."
 			}
 			}
 		]
