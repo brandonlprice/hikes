@@ -118,7 +118,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Long Flight of Stairs",
-				"text": "Take these stairs on the right side of the trail"
+				"text": "Take these stairs on the right side of the trail down into the \"Badlands\""
 			}
 			},
 			{
