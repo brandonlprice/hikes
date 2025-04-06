@@ -244,7 +244,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Enjoy the View",
-				"text": "The trail is wide although has no barrier to prevent falls down the slope."
+				"text": "The trail is nice and wide, although use caution. No barriers exist to prevent falling down the slope."
 			}
 			},
 			{
