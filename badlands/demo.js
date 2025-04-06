@@ -172,7 +172,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "End of County Trail",
-				"text": "Eventually, a sign that reads <i>End of County Trail</i> will appear. Continue past this."
+				"text": "Eventually, a sign that reads <i>End of County Trail</i> will appear. Continue past this. The trail switches from being county maintained to being managed by the local home owners association here."
 			}
 			},
 			{
