@@ -136,7 +136,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Badlands Trail",
-				"text": "Once at the bottom, there will be a sign to let you know you are on the Badlands Trail. Follow the path."
+				"text": "A sign to let you know you are on the Badlands Trail. Follow the path."
 			}
 			},
 			{
@@ -323,8 +323,8 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9408_11zon.jpg",
-				"caption": "<i>Final Overlook</i>",
-				"credit": ""
+				"caption": "",
+				"credit": "FINAL OVERLOOK"
 			},
 			"location": {
 				"lat": 	33.4986,
