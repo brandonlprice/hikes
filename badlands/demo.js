@@ -18,9 +18,9 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
+				"url": "https://en.wikipedia.org/wiki/Badlands",
 				"caption": "",
-				"credit": ""
+				"credit": "wikipedia"
 			},
 			"type": "overview",
 			"location": {
