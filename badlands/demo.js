@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Badlands Park</h6>",
+				"headline": "Badlands Park",
 				"text": "Once at the top, you are now within Badlands Park. Turn left."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "The ocean is to the right."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Long Flight of Stairs</h6>",
+				"headline": "Long Flight of Stairs",
 				"text": "Turn right down these stairs."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Badlands</h6>",
+				"headline": "The Badlands",
 				"text": "Once at the bottom, will be what is known as the Badlands. Follow the pathway."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Left</h6>",
+				"headline": "Keep Left",
 				"text": "Stay as far left as possible. Note that people will be on the right taking photos or relaxing."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keeping Left</h6>",
+				"headline": "Keeping Left",
 				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keeping Left</h6>",
+				"headline": "Keeping Left",
 				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
 			}
 			},
@@ -207,8 +207,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ocean Trail</h6>",
-				"text": "You will now be on a trail maintained by the local HOA with ocean views."
+				"headline": "HOA-Managed Trail",
+				"text": "This latter half of the trail is maintained by the local Home Owners Association."
 			}
 			}, 
 			{
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"headline": "Enjoy the View",
 				"text": "Clear unobstructed views of the ocean."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"headline": "Enjoy the View",
 				"text": "The trail is wide although has no barrier to prevent falls down the slope."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "The trail will veer left away from the ocean."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Narrow Section</h6>",
+				"headline": "Narrow Section",
 				"text": "This area is the most narrow with the steepest slopes, use caution."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here. The ocean is now more distant."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Summit Homes</h6>",
+				"headline": "Summit Homes",
 				"text": "Walk alongside nice summit homes."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final View</h6>",
+				"headline": "Final View",
 				"text": "Enjoy the last view looking south into Dana Point and of the ocean."
 			}
 			}
