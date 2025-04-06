@@ -36,7 +36,7 @@ let demojs={
 			"media": {
 				"url": "images/IMG_9425_11zon.jpg",
 				"caption": "Park on Isle Vista",
-				"credit": ""
+				"credit": "PARK ON ISLE VISTA"
 			},
 			"location": { 
 				"lat":  33.503905,
