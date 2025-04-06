@@ -190,7 +190,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "End of County Trail",
-				"text": "Eventually, a sign that reads End of County Trail will appear. Continue past this."
+				"text": "Keep going towards the sign seen in the distance."
 			}
 			},
 			{
