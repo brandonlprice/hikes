@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Keeping Left",
+				"headline": "End of County Trail",
 				"text": "Eventually, a sign that reads <i>End of County Trail</i> will appear. Continue past this."
 			}
 			},
