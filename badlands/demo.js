@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "The Badlands",
+				"headline": "Badlands Trail",
 				"text": "Once at the bottom, will be what is known as the Badlands. Follow the pathway."
 			}
 			},
