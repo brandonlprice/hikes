@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking<br><small><u><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'><i>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</i></a></u></small>",
+				"headline": "Parking<br><small><u><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</a></u></small>",
 				"text": "Street parking on Isle Vista. Head towards Badlands Park after parking. Two ADA parking spots available directly next to park."
 			}
 			},
