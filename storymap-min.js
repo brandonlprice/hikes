@@ -8360,7 +8360,7 @@ var KLStoryMap;
             zoom_distance: 100,
             calculate_zoom: !0,
             line_follows_path: !0,
-            line_color: "#EFBF04",
+            line_color: "white",
             line_color_inactive: "white",
             line_join: "miter",
             line_weight: 3,
