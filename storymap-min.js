@@ -8338,7 +8338,7 @@ var KLStoryMap;
             menubar_height: 0,
             skinny_size: 650,
             relative_date: !1,
-            duration: 1500,
+            duration: 1300,
             ease: U.mirror,
             dragging: !0,
             trackResize: !0,
