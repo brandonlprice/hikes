@@ -298,7 +298,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Turn Right",
-				"text": "Turn right here. The ocean is now more distant."
+				"text": "Turn right here where this railing is. The ocean is now more distant."
 			}
 			},
 			{
