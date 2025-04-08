@@ -8339,7 +8339,7 @@ var KLStoryMap;
             skinny_size: 650,
             relative_date: !1,
             duration: 1e3,
-            ease: U.easeInOutQuint,
+            ease: U.easeInSpline,
             dragging: !0,
             trackResize: !0,
             map_type: "stamen:toner-lite",
