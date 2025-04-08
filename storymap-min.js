@@ -8353,7 +8353,7 @@ var KLStoryMap;
             map_height: 300,
             storyslider_height: 600,
             slide_padding_lr: 45,
-            slide_default_fade: "50%",
+            slide_default_fade: "0%",
             menubar_default_y: 0,
             path_gfx: "gfx",
             map_popup: !1,
