@@ -42,7 +42,7 @@ let demojs={
 				"lat":  33.503905,
 				"line": false,
 				"lon": -117.732192,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Parking<br><small><u><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</a></u></small>",
