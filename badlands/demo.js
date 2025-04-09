@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.5033779, 
 				"line": false,
 				"lon": -117.732076,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Start Here<small><ul><li>1.5 miles</li><li>Out & Back</li><li>Ocean Views, No Shade</li></ul></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.5031,
 				"line": false,
 				"lon": -117.7321,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Badlands Park",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.5028,
 				"line": false,
 				"lon": -117.7319,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.501969,
 				"line": false,
 				"lon": -117.731846,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Long Flight of Stairs",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 	33.50216,
 				"line": false,
 				"lon": 	-117.732149,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Badlands Trail",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 	33.502076,
 				"line": false,
 				"lon": 	-117.732775,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Left",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.501710,
 				"line": false,
 				"lon": -117.733048,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "End of County Trail",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.501710,
 				"line": false,
 				"lon": -117.733048,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "End of County Trail",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.501545,
 				"line": false,
 				"lon": 	-117.733045,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Clear Ocean View",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 	33.500861,
 				"line": false,
 				"lon": 	-117.73337,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the View",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.4995,
 				"line": false,
 				"lon": 	-117.7336,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the View",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.498170742455144, 
 				"line": false,
 				"lon": 	-117.7330402423234,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Left",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.498459,
 				"line": false,
 				"lon": 	-117.733064,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Narrow Section",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 	33.49924,
 				"line": false,
 				"lon": -117.733059,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 	33.499355,
 				"line": false,
 				"lon":	-117.731895,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Summit Homes",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 	33.4986,
 				"line": false,
 				"lon":	-117.7310,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Final View",
