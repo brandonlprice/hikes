@@ -33,13 +33,13 @@ let demojs={
 			},
 			{
 			"background": {         
-                    			"url": "images/streetparking_11zon.jpg",
+                    			"url": "",
                     			"color": "#464646",
                     			"opacity": 99
                 	},
 			"date": "",
 			"media": {
-				"url": "",
+				"url": "images/streetparking_11zon.jpg",
 				"caption": "Talavera Drive",
 				"credit": ""
 			},
