@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Aliso Summit Trl to Seaview Park",
+				"headline": "Aliso Summit Trail<small>Laguna Niguel, CA</small>",
 				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain."
 			}
 			},
