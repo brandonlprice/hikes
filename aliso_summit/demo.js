@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li></ul></small>",
 				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local Home Owner's Association."
 			}
 			},
