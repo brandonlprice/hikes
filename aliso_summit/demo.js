@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Aliso Summit Trl to Seaview Park</h4>",
+				"headline": "Aliso Summit Trl to Seaview Park",
 				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><ul><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Parking<small><ul><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'><i>Ridgview Dr near Highlands Ave↗</i></a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
