@@ -152,7 +152,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
@@ -176,7 +175,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2780_11zon.jpg",
@@ -200,7 +198,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2779_11zon.jpg",
@@ -224,7 +221,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2786_11zon.jpg",
@@ -248,7 +244,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_3998_6_11zon.jpg",
@@ -272,7 +267,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2791_11zon.jpg",
@@ -296,7 +290,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2793_11zon.jpg",
@@ -320,7 +313,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2795_11zon.jpg",
@@ -344,7 +336,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
@@ -368,7 +359,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4004_11_11zon.jpg",
@@ -392,7 +382,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
@@ -416,7 +405,6 @@ let demojs={
                     			"color": "#464646",
                     			"opacity": 99
                 	},
-			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4007_1_11zon.jpg",
