@@ -50,7 +50,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking<small><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'>22710, 22740 Talavera Dr, Laguna Niguel, CA 92677↗</a><br><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</a></small>",
+				"headline": "Parking<br><small><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'>22710, 22740 Talavera Dr, Laguna Niguel, CA 92677↗</a><br><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</a></small>",
 				"text": "Park at the end of Talavera Dr before reaching the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
 			}
 			},
@@ -147,6 +147,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2785_11zon.jpg",
@@ -164,6 +170,12 @@ let demojs={
 				"text": "Enjoy the views before starting a descend."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
@@ -183,6 +195,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2779_11zon.jpg",
@@ -200,6 +218,12 @@ let demojs={
 				"text": " Take your time here. It's steep and rocky."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
@@ -219,6 +243,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_3998_6_11zon.jpg",
@@ -236,6 +266,12 @@ let demojs={
 				"text": "Another shot on a different day. Trail conditions vary depending when trail maintenance was last done."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
@@ -255,6 +291,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_2793_11zon.jpg",
@@ -272,6 +314,12 @@ let demojs={
 				"text": "The first half of the hike is over. Follow the arrow to continue."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
@@ -291,6 +339,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4003_10_11zon.jpg",
@@ -308,6 +362,12 @@ let demojs={
 				"text": "The peak can be seen in the distance. The trail is wider and less steep than earlier."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
@@ -327,6 +387,12 @@ let demojs={
 			}
 			},
 			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
@@ -344,6 +410,12 @@ let demojs={
 				"text": "You will be greeted with a flight of stairs once you make it to the base of the peak. Take these to the peak summit."
 			}
 			},
+			{
+			"background": {         
+                    			"url": "",
+                    			"color": "#464646",
+                    			"opacity": 99
+                	},
 			{
 			"date": "",
 			"media": {
