@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warmup</h6>",
+				"headline": "Warmup",
 				"text": "The trail gains reasonable elevation from the start and veers left quickly."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "Uphill",
 				"text": "Continue straight after veering left. Enjoy views of Aliso Canyon on the right. Houses are on the left."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "Keep going up as elevation continues to gradually increase. A water tank is to the left."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Continue uphill."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "Views continue to get better the higher it gets in this stretch."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "Uphill",
 				"text": "One of a couple lone trees on this trail."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"headline": "Continue Uphill",
 				"text": "The ocean begins to appear."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Uphill</h6>",
+				"headline": "End of Uphill",
 				"text": "Enjoy a flat stretch next to the nice homes."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Easy Walk</h6>",
+				"headline": "Easy Walk",
 				"text": "Homes are closest to the trail in this section since no grass separates them."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Easy Walk Continued</h6>",
+				"headline": "Easy Walk Continued",
 				"text": "Nice clear views of the ocean looking through the canyon."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Short Uphill</h6>",
+				"headline": "Short Uphill",
 				"text": "More lone trees as you incline again."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mid Summit</h6>",
+				"headline": "Mid Summit",
 				"text": "A nice summit to stop at before continuing."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Short Incline</h6>",
+				"headline": "Short Incline",
 				"text": "Go up this paved road. Temporary shade relief here."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Short Decline</h6>",
+				"headline": "Short Decline",
 				"text": "Decline down the paved road. The destination can be seen in the distance."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Section</h6>",
+				"headline": "Flat Section",
 				"text": "Nice flat stretch again to enjoy the views."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Clear View</h6>",
+				"headline": "Clear View",
 				"text": "The clearest view of the ocean."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Stretch of Homes</h6>",
+				"headline": "Last Stretch of Homes",
 				"text": "Last stretch of homes before reaching the destination."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Trail Viewpoint</h6>",
+				"headline": "Last Trail Viewpoint",
 				"text": "Nice viewpoint before exiting the trail."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slight Uphill</h6>",
+				"headline": "Slight Uphill",
 				"text": "Go uphill around a maintenance area."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit Trail</h6>",
+				"headline": "Exit Trail",
 				"text": "Turn right onto the sidewalk and continue to incline."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Sidewalk</h6>",
+				"headline": "Sidewalk",
 				"text": "A brief walk on this sidewalk to the first intersection."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Right On Talavera Dr</h6>",
+				"headline": "Right On Talavera Dr",
 				"text": "Turn right here."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Street</h6>",
+				"headline": "Cross the Street",
 				"text": "Destination is straight ahead."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Seaview Park</h6>",
+				"headline": "Seaview Park",
 				"text": "You made it! You can rest on one of the benches."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Destination</h6>",
+				"headline": "Final Destination",
 				"text": "Enjoy the view before heading back."
 			}
 			}
