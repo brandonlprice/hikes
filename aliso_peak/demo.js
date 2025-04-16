@@ -185,7 +185,7 @@ let demojs={
 				"lat": 	33.5128503, 
 				"line": false,
 				"lon": -117.7376443,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Head Downhill",
@@ -205,10 +205,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.51283395687226,
+				"lat": 33.5128614,
 				"line": false,
-				"lon": -117.73772291179705,
-				"zoom": 19
+				"lon": -117.7377234,
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Downhill",
