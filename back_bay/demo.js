@@ -29,7 +29,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;'>Newport Beach Back Bay</h4>",
+				"headline": "Newport Beach Back Bay",
 				"text": "Take a driving tour on Back Bay Dr from Back Bay to the Upper Back Bay."
 			}
 			},
@@ -47,7 +47,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li></ul></small>",
+				"headline": "Starting Point<small><a href='https://maps.app.goo.gl/N3rbX7ftCbgL3HYE8' target='_blank'><i>Back Bay Dr at Shellmaker Rd↗</i></a><ul><li>2.9 miles (One Way)</li><li>15 mph, Multi-Use Roadway</li><li>One Turnout Area</li></ul></small>",
 				"text": "This portion of Back Bay Dr is part of the Mountains to Sea Trail which means hikers and bikers will also be sharing the same road. Stay on the right side the entire way as indicated on the sign."
 			}
 			},
@@ -65,7 +65,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Beginning</h6>",
+				"headline": "Beginning",
 				"text": "Stay on the right side of the yellow line at 15mph. Hikers and bikers will be on the opposite side. Bikers can also be on the same side if going in the same direction as cars."
 			}
 			},{
@@ -82,7 +82,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Drive</h6>",
+				"headline": "Enjoy the Drive",
 				"text": "Watch out for hikers/bikers NOT following trail guidelines who are on the wrong side of the road."
 			}
 			},
@@ -100,7 +100,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Clear Views of Bay</h6>",
+				"headline": "Clear Views of Bay",
 				"text": "This stretch has the clearest views."
 			}
 			},
@@ -118,7 +118,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bail Out Option</h6>",
+				"headline": "Bail Out Option",
 				"text": "At this stop, you can turn right here to Jamboree Rd and exit, or go straight to continue."
 			}
 			},
@@ -136,7 +136,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Rocky Cliffsides</h6>",
+				"headline": "Rocky Cliffsides",
 				"text": "Most of the drive is alongside cliffs. Looks nice, however, be careful, cliff debris in the road after rain is possible."
 			}
 			},
@@ -154,7 +154,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Blindside Turn</h6>",
+				"headline": "Blindside Turn",
 				"text": "Go slow. One of a couple blindsides. Blinside sections have a turning barrier and yellows signs with black arrows."
 			}
 			},
@@ -172,7 +172,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turnout</h6>",
+				"headline": "Turnout",
 				"text": "Continue straight or turn here to park and walk around."
 			}
 			},
@@ -190,7 +190,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Walk Around</h6>",
+				"headline": "Walk Around",
 				"text": "If you choose to stop, there are some walkways to enjoy views of the bay after parking."
 			}
 			},
@@ -208,7 +208,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continuing the Drive</h6>",
+				"headline": "Continuing the Drive",
 				"text": "This part of the bay may smell and has more grass mixed into the bay water."
 			}
 			},
@@ -226,7 +226,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Blindside Turn</h6>",
+				"headline": "Blindside Turn",
 				"text": "Careful here on the blinside turn."
 			}
 			},
@@ -244,7 +244,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"headline": "Nearing the End",
 				"text": "Views of the bay are obstructed due to the vegetation in the last stretch."
 			}
 			},
@@ -262,7 +262,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exiting the Drive</h6>",
+				"headline": "Exiting the Drive",
 				"text": "Going slightly uphill."
 			}
 			},
@@ -280,7 +280,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The End</h6>",
+				"headline": "The End",
 				"text": "Turn left to go to Jamboree Rd or turn right to go to the local shopping center."
 			}
 			} 
