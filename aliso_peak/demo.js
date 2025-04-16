@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Seaview Park to Aliso Peak<small>Laguna Niguel, CA</small>",
-				"text": "The Aliso Peak Trail takes you from Seaview Park to Aliso Peak. At 683 feet, it is one of the closest peaks to the ocean in Orange County. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park."
+				"text": "The Aliso Peak Trail takes you from Seaview Park to Aliso Peak. At 683 feet, it is one of the highest elevation points in proximity to the Orange County coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park."
 			}
 			},
 			{
