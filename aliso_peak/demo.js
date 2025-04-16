@@ -231,7 +231,7 @@ let demojs={
 				"lat": 33.51285141497422, 
 				"line": false,
 				"lon": -117.73789370590464,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Downhill Continued",
@@ -254,7 +254,7 @@ let demojs={
 				"lat": 33.51274854401047,  
 				"line": false,
 				"lon": -117.73833023541991,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Downhill Continued",
@@ -277,7 +277,7 @@ let demojs={
 				"lat": 33.51256768714805,    
 				"line": false,
 				"lon": -117.7385448230922,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Residential Area",
@@ -300,7 +300,7 @@ let demojs={
 				"lat": 33.512267173367036,    
 				"line": false,
 				"lon": -117.73870574468314,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Midpoint",
@@ -323,7 +323,7 @@ let demojs={
 				"lat": 33.51200496221617,    
 				"line": false,
 				"lon": -117.73884253734475,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Start Second Half",
@@ -343,10 +343,10 @@ let demojs={
 				"credit": ""
 			},
 			"location": {
-				"lat": 33.511417167925785,
+				"lat":  33.5114511,
 				"line": false,
-				"lon": -117.74034781060891,
-				"zoom": 19
+				"lon": -117.7403513‎,
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -369,7 +369,7 @@ let demojs={
 				"lat": 	33.510565222459945,
 				"line": false,
 				"lon": -117.74250175272192,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Trails",
@@ -392,7 +392,7 @@ let demojs={
 				"lat": 33.50922620215873,
 				"line": false,
 				"lon": -117.74424009866709,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Summit",
@@ -415,7 +415,7 @@ let demojs={
 				"lat": 33.5092,
 				"line": false,
 				"lon": 	-117.7444,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Aliso Peak",
