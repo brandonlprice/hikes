@@ -345,7 +345,7 @@ let demojs={
 			"location": {
 				"lat":  33.5114511,
 				"line": false,
-				"lon": -117.7403513‎,
+				"lon": -117.7403513,
 				"zoom": 20
 			},
 			"text": {
