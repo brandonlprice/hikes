@@ -385,7 +385,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4006_13_11zon.jpg",
-				"caption": "Stairs",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -408,7 +408,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4007_1_11zon.jpg",
-				"caption": "View from the summit",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
