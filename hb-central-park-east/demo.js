@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;'>Huntington Central Park East</h4>",
+				"headline": "Huntington Central Park East",
 				"text": "This is a walk through a semi-natural park."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li><li>Park in the <a href='https://maps.app.goo.gl/HrQyGx7XbmZ6fFgp6' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small><ul><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li><li>Park in the <a href='https://maps.app.goo.gl/HrQyGx7XbmZ6fFgp6' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li></ul></small>",
 				"text": "From the parking lot, start the trail here on this sidewalk."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "This route will be around the park perimeter."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue on Main Path</h6>",
+				"headline": "Continue on Main Path",
 				"text": "This is the only path needed to loop around the park although an optional offshoot to a pond will also be taken."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"headline": "Shaded Relief",
 				"text": "The first pocket of trees for shade."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "The building in the distance behind the trees is one of many public restrooms in the park."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Path Split</h6>",
+				"headline": "Path Split",
 				"text": "The path breaks here, but links back together. Staying right keeps you on the main path."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief 2</h6>",
+				"headline": "Shaded Relief 2",
 				"text": "Entering another pocket of trees for shaded relief."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Marshy Area</h6>",
+				"headline": "Marshy Area",
 				"text": "A marshy area on the right. The library is straight ahead"
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Central Library</h6>",
+				"headline": "Central Library",
 				"text": "A clear view of the city's main library with additional public restrooms to the left of it."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Take the short offshoot trail to the pond."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pond 1</h6>",
+				"headline": "Pond 1",
 				"text": "A nice pond with benches to rest at. The ponds here all connect by streams and comprise Talbert Lake. Keep going when done."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Back to Main Path</h6>",
+				"headline": "Back to Main Path",
 				"text": "The main path can be seen straight ahead."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right to re-join and continue on the main path."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Secret Garden</h6>",
+				"headline": "Pass Secret Garden",
 				"text": "The park's Secret Garden is on the right. A small, but nice garden that's free to visit when open. You can keep going or take a detour here before continuing."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pond 2</h6>",
+				"headline": "Pond 2",
 				"text": "The second pond. Usually duck families are present here."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief 3 (Midpoint)</h6>",
+				"headline": "Shaded Relief 3 (Midpoint)",
 				"text": "This is where you start the loop back. Shaded Relief will mostly be continious majority of the way back."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Northbound</h6>",
+				"headline": "Northbound",
 				"text": "This is the first stretch of the walk back next to the lake."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Keep straight. The path runs parallel to Goldenwest Blvd."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Maintenance Area</h6>",
+				"headline": "Pass Maintenance Area",
 				"text": "Trees on the left serve as a barrier from the street, but still can be partially be seen in certain areas."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Approach Restaurant</h6>",
+				"headline": "Approach Restaurant",
 				"text": "Approaching the Park Bench Cafe. Go towards the restaurant, but stay on the left side of it."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Restaurant</h6>",
+				"headline": "Pass Restaurant",
 				"text": "Pass the restaurant using the walkway on the left side. Keep left after passing it."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Left</h6>",
+				"headline": "Stay Left",
 				"text": "Stay on the path that runs parallel to the street."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Begin Last Stretch</h6>",
+				"headline": "Begin Last Stretch",
 				"text": "Trees are still present but not as dense so more daylight sneaks in."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stream</h6>",
+				"headline": "Stream",
 				"text": "One of the park streams that connects to multiple ponds. It runs parallel to the path."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right onto the dirt path that follows the same route as the stream."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Benches</h6>",
+				"headline": "Benches",
 				"text": "The last benches to relax at before completing the loop."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The End</h6>",
+				"headline": "The End",
 				"text": "Back at the parking lot. Bathrooms are on the right."
 			}
 			},
