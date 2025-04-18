@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>2 miles (Out & Back)</li><li>Mostly flat, No Shade</li><li>Duration: 45 minutes</li><li>Park free at the interpretive center:<br><a href='https://maps.app.goo.gl/N55AGvyMibYhQ2gJ9' target='_blank'><i>3842 Warner Ave, Huntington Beach, CA 92649↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small><ul><li>2 miles (Out & Back)</li><li>Mostly flat, No Shade</li><li>Duration: 45 minutes</li><li>Park free at the interpretive center:<br><a href='https://maps.app.goo.gl/N55AGvyMibYhQ2gJ9' target='_blank'><i>3842 Warner Ave, Huntington Beach, CA 92649↗</i></a></li></ul></small>",
 				"text": "Interpretive center parking may be full. If so, park across the street in the paid city lot and take the crosswalk back to the entrance. <a href='https://maps.app.goo.gl/7amBiuTZBMphQ2629' target='_blank'><i>3815 Warner Ave, Huntington Beach, CA 92649↗</i></a> (should be $3/hr)"
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "Cross the Bridge",
 				"text": "A few feet after entering the trail from the parking lot, you will cross this bridge."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go South</h6>",
+				"headline": "Go South",
 				"text": "The bridge will let you out here. Continue southbound on this trail."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Straight</h6>",
+				"headline": "Continue Straight",
 				"text": "Shrubs are thicker in this area."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Take the short turn into the first viewpoint."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "Continue on the trail when ready."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Straight away headed south for most of the trail."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Viewpoint</h6>",
+				"headline": "Second Viewpoint",
 				"text": "Keep going after spending time at the second viewpoint."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "You will have passed the third viewpoint at this point."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Fourth Viewpoint</h6>",
+				"headline": "Fourth Viewpoint",
 				"text": "Take in the last viewpoint in this stretch."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
+				"headline": "Take the Stairs",
 				"text": "Once at the bottom of these stairs, turn right. You will see a bridge a few feet down."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "Cross the Bridge",
 				"text": "Once you have crossed the bridge, turn left."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight a little bit further until you get to the opening between the wooden fence board."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Enter the final section of the hike."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Take the left here. It will be slight uphill to the final viewpoint."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Headed Upwards</h6>",
+				"headline": "Headed Upwards",
 				"text": "Continue on the short uphill."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hard Turn Left</h6>",
+				"headline": "Hard Turn Left",
 				"text": "Enter the final viewpoint."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Viewpoint</h6>",
+				"headline": "Final Viewpoint",
 				"text": "Views of the wetlands and the ocean across the street with some informational displays."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Viewpoint Continued</h6>",
+				"headline": "Final Viewpoint Continued",
 				"text": "More views and a bench to sit down at before leaving."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit Viewpoint</h6>",
+				"headline": "Exit Viewpoint",
 				"text": "Take the short downhill path to exist the viewpoint."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
+				"headline": "Enjoy the Hike Back",
 				"text": "Go between the wooden boards again and take the same route back the way you came."
 			}
 			}
