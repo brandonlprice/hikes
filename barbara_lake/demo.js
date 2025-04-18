@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Barbara's Lake, Laguna Coast Wilderness</h4>",
+				"headline": "Barbara's Lake, Laguna Coast Wilderness",
 				"text": "This hike takes you to one of the only three natural occuring lakes in Orange County. These lakes are all located within a quarter-mile from each other in Laguna Canyon. This lake does not dry out and cannot be seen from Laguna Canyon Road."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'><i>El Toro Bl/Aliso Creek Rd Intersection</i></a></li></ul></small>",
+				"headline": "First Parking Option<br> <small><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'><i>El Toro Bl/Aliso Creek Rd Intersection</i></a></li></ul></small>",
 				"text": "This route offers free street parking. Three spots on El Toro Bl at the Aliso Creek Rd intersection and additional street parking at Hummingbird Park."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Second Parking Option</h6><small style='color:red;'><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</i></a></li></ul></small>",
+				"headline": "Second Parking Option<br><small><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</i></a></li></ul></small>",
 				"text": "next to Hummingbird Park."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Entrance</h6><small style='color: red;'><ul><li>2.13 miles (Partial Loop)</li><li>Intermittent Steep Sections, No Shade</li><li><u>Check for Alerts</u></li></ul></small>",
+				"headline": "Trail Entrance<br><small><ul><li>2.13 miles (Partial Loop)</li><li>Intermittent Steep Sections, No Shade</li><li><u>Check for Alerts</u></li></ul></small>",
 				"text": "Enter here. On El Toro Bl at Aliso Creek Rd. Next to the crosswalk."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Out</h6>",
+				"headline": "Starting Out",
 				"text": "Continue uphill on the Woods End Trail."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Gradual Incline</h6>",
+				"headline": "Gradual Incline",
 				"text": "Keep going straight and then it will veer left."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading to the Junction</h6>",
+				"headline": "Heading to the Junction",
 				"text": "Continue uphill to the junction. It will get more steep."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "This is the end of the first incline. You will begin hiking along a ridge called the Ridge Top Trail."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ridge Top Trail</h6>",
+				"headline": "Ridge Top Trail",
 				"text": "Nice views along the ridge."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right at the junction."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Right</h6>",
+				"headline": "Keep Right",
 				"text": "The trail will split. Take the trail farthest to the right. You will start descending after this short uphill."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left at the cell tower."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descending</h6>",
+				"headline": "Descending",
 				"text": "Continue descending down the hill."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "Stay Right",
 				"text": "Stay right. Multiple offshoot trails that dead end into cell towers on the descend. Turn around and resume the correct trail if you make a mistake."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Barbara's Lake</h6>",
+				"headline": "Barbara's Lake",
 				"text": "The trail will veer left. These are the best views at the base of the lake through the vegetation."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Dense Vegetation</h6>",
+				"headline": "Dense Vegetation",
 				"text": "Lake views are obstrcuted from the vegetation, but the lake is still on the right."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "You are now leaving the lake and headed back to the ridge."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Continue past the trail on the right called the 'Lake Trail'."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Gradual Incline</h6>",
+				"headline": "Gradual Incline",
 				"text": "The trail starts to incline back up to the ridge."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading to the Junction</h6>",
+				"headline": "Heading to the Junction",
 				"text": "Almost at the junction. The trail incline increases slightly in this stretch."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Junction</h6>",
+				"headline": "Junction",
 				"text": "The incline is over. Continue straight. The original trail you descended down will join in from the left."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
+				"headline": "Enjoy the Hike Back",
 				"text": "Take this ridge trail you took on the way in back to the Woods End trail which will take you back to the entrance."
 			}
 			}
