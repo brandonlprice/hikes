@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hike to Cave Rock & Dripping Cave</h6>",
+				"headline": "Hike to Cave Rock & Dripping Cave",
 				"text": "This hike is located in Aliso & Wood Canyons Wilderness Park which is one of the greenest locations to hike in Orange County. Trails in this park have a wide variety of landscapes. The trails for this particular hike meander through a valley and a meadow."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Parking Option</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></small>",
+				"headline": "First Parking Option <small><a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></small>",
 				"text": "From Awma Rd, turn left into this parking lot. It costs $3-5 dollars to park."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Alternative Parking Option (Free)</h6>",
+				"headline": "Alternative Parking Option (Free)",
 				"text": "You can optionally park for free on the right side of Awma Rd if any spots are available."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'>Aliso Canyon Rd<ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small>Aliso Canyon Rd<ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
 				"text": "Start the hike here by turning left onto Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Wilderness Park</h6>",
+				"headline": "Enter Wilderness Park",
 				"text": "After a half-mile on Aliso Canyon Rd, You will reach the park entrance. Take the dirt path to the right of the street to enter."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue on Road</h6>",
+				"headline": "Continue on Road",
 				"text": "After entering the park, you can continue walking on the road again or stay on the dirt path parallel to it on the right. Enjoy the valley views of Aliso Canyon in the distance."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Wood Canyon Trail</h6>",
+				"headline": "Wood Canyon Trail",
 				"text": "Turn right at the first possible chance on Wood Canyon Trail. There will be a trail sign and some picnic benches at the entrance."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>To Cave Rock</h6>",
+				"headline": "To Cave Rock",
 				"text": "Turn left when you see the Cave Rock trail sign."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
+				"headline": "Follow the Trail",
 				"text": "Continue through this meadow to Cave Rock."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
+				"headline": "Take the Stairs",
 				"text": "Take the stairs. Cave Rock will be on the left once at the top."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cave Rock</h6>",
+				"headline": "Cave Rock",
 				"text": "This is Cave Rock. Two small caves created by wind. You can climb into them although they have little room. Head back in the oppossite direction when done."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hike over the top of Cave Rock</h6>",
+				"headline": "Hike over the top of Cave Rock",
 				"text": "Go up this rock formation."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "Enjoys views of the meadows below at this elevation."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Downhill</h6>",
+				"headline": "Downhill",
 				"text": "The trail descends back to the meadow floor and dead ends into Wood Canyon Trail. Turn left on Wood Canyon."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "Views of the meadow along Wood Canyon Trail."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>To Dripping Cave</h6>",
+				"headline": "To Dripping Cave",
 				"text": "Take the next possible left onto the Dripping Cave Trail when you see the sign."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "Cross the Bridge",
 				"text": "Cross the bridge. More trees begin to pop up."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Dripping Cave</h6>",
+				"headline": "Dripping Cave",
 				"text": "You have reached the final destination. Take the same route back."
 			}
 			}
