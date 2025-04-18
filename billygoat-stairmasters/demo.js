@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><i><li>5 miles (Lollipop Loop)</li><li>Intermittent Steep Sections/Sections of Shaded Relief</li></i></ul></small>",
+				"headline": "Starting Point<small><ul><i><li>5 miles (Lollipop Loop)</li><li>Intermittent Steep Sections/Sections of Shaded Relief</li></i></ul></small>",
 				"text": "Once parked, this is where you'll start. The Borrego Trail. This trail takes you to the Red Rock Canyon Trail, Red Rock Vista Trail, and the Billygoat Trail which is the destination in this case."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"headline": "Shaded Relief",
 				"text": "Most of the shaded parts on this hike are in the first half."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief Continued</h6>",
+				"headline": "Shaded Relief Continued",
 				"text": "Coastal Live Oaks offer nice shade as it gets greener a quarter of the way in."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Stretch of Shade</h6>",
+				"headline": "Last Stretch of Shade",
 				"text": "Oak trees will begin dissipate at this point and the canyon will narrow."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Open Wilderness</h6>",
+				"headline": "Open Wilderness",
 				"text": "Occasionally, oak trees can still be seen."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Washout Area</h6>",
+				"headline": "Washout Area",
 				"text": "Multiple rockbeds and eroded areas in this stretch."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Washout Area 2</h6>",
+				"headline": "Washout Area 2",
 				"text": "These areas can also be sandy from rain and occasionally still wet when crossing."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Meadows</h6>",
+				"headline": "Meadows",
 				"text": "A stretch of the canyon that is grassy."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "Stay Right",
 				"text": "Stay to the right of this bulletin boad."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Go straight past this trail sign. A sign for the Red Rock Cyn Trail is a few feet down from this. Go past that too."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "You should start to see more hills appear in front of you."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "When you see the sign for the Billygoat Trail, turn left and continue onto it."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Gaining Elevation</h6>",
+				"headline": "Gaining Elevation",
 				"text": "The trail instantly inclines up multiple series of stairs."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nice Views</h6>",
+				"headline": "Nice Views",
 				"text": "Nice views looking down into the canyons as you ascend."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Stretch</h6>",
+				"headline": "Flat Stretch",
 				"text": "Once at the top, enjoy this flat stretch. Views are obstructed by vegetation."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ascending Again</h6>",
+				"headline": "Ascending Again",
 				"text": "Views open up again. This should be the second highest point of the hike."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Stretch Continued</h6>",
+				"headline": "Flat Stretch Continued",
 				"text": "Enjoy another flat stretch along the ridge on the Billygoat Trail with open views of the canyons including Santiago Canyon Rd."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Stretch</h6>",
+				"headline": "Flat Stretch",
 				"text": "Enjoy last stretch along the ridge."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Highest Point</h6>",
+				"headline": "Highest Point",
 				"text": "This should be the highest point of the hike."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descending</h6>",
+				"headline": "Descending",
 				"text": "A short distance further, are stairs that descend into the canyon. Turn right down these."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "The trail veers left once at the bottom of the stairs."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>In the Canyon</h6>",
+				"headline": "In the Canyon",
 				"text": "A nice walk in the canyon."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Flight of Stairs</h6>",
+				"headline": "Last Flight of Stairs",
 				"text": "This is the last flight of stairs that ascends out of the canyon. A good amount of energy to climb all these stairs needs to be exerted."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Once at the top, turn right towards the Water Tank. You are now on Whiting Spur Rd and no longer on the Billygoat Trail."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Past the Water Tank</h6>",
+				"headline": "Go Past the Water Tank",
 				"text": "Stay to the right side of the water tank as you pass it."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right at Junction</h6>",
+				"headline": "Turn Right at Junction",
 				"text": "You will pass a trail on your left. Go a few feet past it and turn right on the trail known as Mustard Trail."
 			}
 			},
@@ -531,7 +531,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descending</h6>",
+				"headline": "Descending",
 				"text": "You are now descending back down to where you started the Billygoat trail."
 			}
 			},
@@ -549,7 +549,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Warm Down</h6>",
+				"headline": "Warm Down",
 				"text": "Once you pass the Billygoat trail sign, keep going on the same path back to the lot."
 			}
 			},
@@ -567,7 +567,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Hike Back</h6>",
+				"headline": "Enjoy the Hike Back",
 				"text": "It should be flat and easy like it was on the way in."
 			}
 			}
