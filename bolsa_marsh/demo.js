@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bolsa Chica State Ecological Reserve (Southside)</h4>",
+				"headline": "Bolsa Chica State Ecological Reserve (Southside)<small>Huntington Beach, CA</small>",
 				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. Bolsa Chica State Beach is on the other side."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Duration: 1 hr 15 min</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'><i>18000 CA-1, Huntington Beach, CA 92648↗</i></a></li></ul></small>",
+				"headline": "Starting Point <small style='color:red;'><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Duration: 1 hr 15 min</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'><i>18000 CA-1, Huntington Beach, CA 92648↗</i></a></li></ul></small>",
 				"text": "It's free to park. The parking lot is small, but there still should be a couple spaces open. If not, something should open within a couple minutes. Start the hike at the bridge in the picture."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Out</h6>",
+				"headline": "Starting Out",
 				"text": "From the parking lot, take the bridge to the other side. It usually has people bird watching on it."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Once you have crossed the bridge, turn left."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Left</h6>",
+				"headline": "Stay Left",
 				"text": "Stay left as the trail veers left. There are benches to the right to rest at on the way back."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Narrow Strip</h6>",
+				"headline": "Enter Narrow Strip",
 				"text": "Continue into the narrow strip of land in front of you with water on both sides."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"headline": "Enjoy the View",
 				"text": "Keep going on the narrow strip of land."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the View</h6>",
+				"headline": "Enjoy the View",
 				"text": "A few benches are also here in this stretch."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Away</h6>",
+				"headline": "Straight Away",
 				"text": "A straight away on the narrow strip before turning."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn and go slightly uphill towards the little plateau."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hard Turn Left</h6>",
+				"headline": "Hard Turn Left",
 				"text": "Take the hard turn left into the plateau."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Viewpoint 1</h6>",
+				"headline": "Viewpoint 1",
 				"text": "A clear view of Bolsa Chica State Beach with an informational display."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Viewpoint 2</h6>",
+				"headline": "Viewpoint 2",
 				"text": "Another bench and an informational display. This is the highest point of the hike."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Back Down</h6>",
+				"headline": "Back Down",
 				"text": "Once back down from the little plateau, enter the narrow land strip in front of you."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "After a ways down, turn left when you see this bridge to cross it."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left again after crossing the bridge onto this land strip and head back the other way."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here and go slightly uphill."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left into these shrubs. It will be the first turn possible."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left Again</h6>",
+				"headline": "Turn Left Again",
 				"text": "Turn left here. You can also go into the area straight ahead with the displays before turning."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take the Stairs</h6>",
+				"headline": "Take the Stairs",
 				"text": "Take these stairs and turn right once down. A concrete bridge will then be in front of you."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Concrete Bridge</h6>",
+				"headline": "Concrete Bridge",
 				"text": "Cross the bridge and turn left."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
 			}
 			}
