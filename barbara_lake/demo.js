@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "First Parking Option<br> <small><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'>El Toro Bl/Aliso Creek Rd Intersection</a></li></ul></small>",
+				"headline": "First Parking Option:<br><small><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'>El Toro Bl/Aliso Creek Rd Intersection↗</a></li></ul></small>",
 				"text": "This route offers free street parking. Three spots on El Toro Bl at the Aliso Creek Rd intersection and additional street parking at Hummingbird Park."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Second Parking Option<br><small><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</a></li></ul></small>",
+				"headline": "Second Parking Option:<br><small><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'>Street Parking on Hummingbird Lane↗</a></li></ul></small>",
 				"text": "next to Hummingbird Park."
 			}
 			},
