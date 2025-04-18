@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h2 style='color: red;'>Castaways Park, Newport Beach</h2>",
+				"headline": "Castaways Park, Newport Beach",
 				"text": "This is a short hike everyone can do that takes you to viewpoints that overlook Newport Harbor and Newport Back Bay. There is also a veteran memorial statue with a flag. Each year, thousands of United States flags and pictures of veterans are placed throughout the park on Memorial Day."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Getting There</h6><font style='line-height: 1em;' color=red size=6>Castaways Lane</font>",
+				"headline": "Getting There<font style='line-height: 1em;' size=6>Castaways Lane</font>",
 				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views, Unshaded</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
+				"headline": "Starting Point <small><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views, Unshaded</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
 				"text": "Once parked, start the hike here."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Continue on this pathway for a few hundred feet."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take Dirt Path</h6>",
+				"headline": "Take Dirt Path",
 				"text": "Take the dirt path to the right of the trail sign for a short distance."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Once you hit the paved path, go right."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "The path you are on will dead end here. Take a left at the dead end."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "You will stay on this path for awhile. No need to take any of the offshoot paths."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Rest Area</h6>",
+				"headline": "Enter Rest Area",
 				"text": "Stay right. Another path will join in from the left. This area overlooks Newport Harbor. There is one bench to rest at."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Newport Harbor</h6>",
+				"headline": "Newport Harbor",
 				"text": "The path starts to loop back in the other direction. Look to the right to see the harbor. A permanent veteran memorial can be seen in the distance."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Newport Back Bay</h6>",
+				"headline": "Newport Back Bay",
 				"text": "The same path you were on has now looped back in the opposite direction with views of the bay to the right."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading Back</h6>",
+				"headline": "Heading Back",
 				"text": "Turn left here to head back. (An option to extend involves going straight. The path will eventually veer left and run into Dover Dr. Turn left on Dover Dr and take the sidewalk back to the parking lot.)"
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass the sign</h6>",
+				"headline": "Pass the sign",
 				"text": "Go past the trail sign in the distance on the left back to the parking lot."
 			}
 			}
