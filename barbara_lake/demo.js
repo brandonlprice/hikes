@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "First Parking Option<br> <small><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'><i>El Toro Bl/Aliso Creek Rd Intersection</i></a></li></ul></small>",
+				"headline": "First Parking Option<br> <small><ul><li><a href='https://maps.app.goo.gl/ijumYUUbs33kkBWN6' target='_blank'>El Toro Bl/Aliso Creek Rd Intersection</a></li></ul></small>",
 				"text": "This route offers free street parking. Three spots on El Toro Bl at the Aliso Creek Rd intersection and additional street parking at Hummingbird Park."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Second Parking Option<br><small><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</i></a></li></ul></small>",
+				"headline": "Second Parking Option<br><small><ul><li><a href='https://maps.app.goo.gl/yXop7Y6PJQZTLonJ9' target='_blank'><i>Street Parking on Hummingbird Lane</a></li></ul></small>",
 				"text": "next to Hummingbird Park."
 			}
 			},
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.604537, 
 				"line": false,
 				"lon": -117.752139,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.604836, 
 				"line": false,
 				"lon": -117.752204,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Right",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.606537, 
 				"line": false,
 				"lon": -117.751298,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.607852, 
 				"line": false,
 				"lon": -117.752936,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descending",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.608729, 
 				"line": false,
 				"lon": -117.754066,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Right",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.61036991511398,  
 				"line": false,
 				"lon": -117.75588006177605,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Barbara's Lake",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.608842, 
 				"line": false,
 				"lon": -117.756897,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Dense Vegetation",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.607788, 
 				"line": false,
 				"lon": -117.758143,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.607719, 
 				"line": false,
 				"lon": -117.758040,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.607783, 
 				"line": false,
 				"lon": -117.755054,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Gradual Incline",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.606661, 
 				"line": false,
 				"lon": -117.752444,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Heading to the Junction",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.604870, 
 				"line": false,
 				"lon": -117.752262,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Junction",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.604537, 
 				"line": false,
 				"lon": -117.752139,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the Hike Back",
