@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;'>Buck Gully Loop</h4>",
+				"headline": "Buck Gully Loop",
 				"text": "The Buck Gully trail is located in the Newport Coast neighborhood of Newport Beach and is managed by the city of Newport Beach. This trail is a single-track, but can be done in a loop by taking other trails like in this example."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point:</h6> <small style='color:red;'><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
+				"headline": "Starting Point:<small><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
 				"text": "Start the hike on this sidewalk to the right of the parking lot. This hike loops back to this location after going thru the gully."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass 1<sup>st</sup> Walkway</h6>",
+				"headline": "Pass 1<sup>st</sup> Walkway",
 				"text": "Continue past the 1st walkway."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass 2<sup>nd</sup> Walkway</h6>",
+				"headline": "Pass 2<sup>nd</sup> Walkway",
 				"text": "Continue past the 2nd walkway a few feet after passing the 1st."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here onto the 3rd walkway. It will be paved."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go past the offshoot walkways and go towards the trailhead sign in the distance."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Go around this sign and turn left."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Downhill</h6>",
+				"headline": "Downhill",
 				"text": "Head down this trail whch also serves as a service road for utilities."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "The trail will wind right. You should have a clear view of the ocean at this point."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ridge</h6>",
+				"headline": "Ridge",
 				"text": "This stretch is elevated with the gully underneath."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "The trail will start gradually going downhill again."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Bobcat Trail</h6>",
+				"headline": "Enter Bobcat Trail",
 				"text": "The ocean views are now gone."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Going Into The Gully</h6>",
+				"headline": "Going Into The Gully",
 				"text": "The vegetation will steadily become more dense."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "Cross the Bridge",
 				"text": "One of two bridges that pass over the gully stream."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "The Bobcat Trail dead ends into the Buck Gully Trail after crossing the bridge. You are now fully in the gully. Turn left at the sign."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Buck Gully</h6>",
+				"headline": "Buck Gully",
 				"text": "The trail is enclosed by the tall vegetaion on both sides."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slight Uphill</h6>",
+				"headline": "Slight Uphill",
 				"text": "A brief section of daylight where the vegetation isn't as tall."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Dense Part of Gully</h6>",
+				"headline": "Dense Part of Gully",
 				"text": "Section of  gully with some trees."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Dense Part of Gully</h6>",
+				"headline": "Dense Part of Gully",
 				"text": "Section with trees continued."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Bridge</h6>",
+				"headline": "Cross the Bridge",
 				"text": "You can hear and see the stream while standing on the second bridge."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exiting the Gully</h6>",
+				"headline": "Exiting the Gully",
 				"text": "Daylight reappears as you incline out of the gully."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Stretch</h6>",
+				"headline": "Flat Stretch",
 				"text": "The brief incline is followed by a flat stretch."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left once you see this sign that says 'To San Joaquin'. It infers to San Joaquin Hills Rd."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "Uphill",
 				"text": "Heading back up to the street."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill Continued</h6>",
+				"headline": "Uphill Continued",
 				"text": "This section is also a service road for utilities."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Stretch Uphill</h6>",
+				"headline": "Final Stretch Uphill",
 				"text": "Only about a couple hundred feet more until reaching the sidewalk once you see houses on the right."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Exit the trail and go left on the sidewalk."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>San Joaquin Hills Rd</h6>",
+				"headline": "San Joaquin Hills Rd",
 				"text": "Take this all the way back."
 			}
 			},
@@ -531,7 +531,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Crosswalk</h6>",
+				"headline": "Crosswalk",
 				"text": "You will encounter a traffic stop on the way back."
 			}
 			},
@@ -549,7 +549,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Views of the Gully</h6>",
+				"headline": "Views of the Gully",
 				"text": "Enjoy nice views of the gully from above."
 			}
 			},
@@ -567,7 +567,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Hike</h6>",
+				"headline": "End of Hike",
 				"text": "You are now back at the parking lot."
 			}
 			}
