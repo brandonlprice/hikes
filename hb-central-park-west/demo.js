@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Huntington Central Park West</h4>",
+				"headline": "Huntington Central Park West",
 				"text": "This is a short walk around Lake Huntington in Central Park West with an additional short trek into the adjacent urban forest which has a small summit and viewpoint. This walk is only 1.05 miles, but can be extended by visiting the vegetated sections of the urban forest."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park Here</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
+				"headline": "Park Here<small><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
 				"text": "When parking, look for stalls that do not have the Restaurant Only parking sign."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Here</h6><small style='color:red;'><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
+				"headline": "Start Here<small><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
 				"text": "Head down this path next to the parking lot."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slight Right</h6>",
+				"headline": "Slight Right",
 				"text": "The path breaks off into two. Take the one that breaks to the right. The other runs into the playground."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right towards the lake when the fencing ends."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter</h6>",
+				"headline": "Enter",
 				"text": "Go through the opening in the fence."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "Take the bridge to get to the other side of the lake."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
+				"headline": "Follow the Trail",
 				"text": "The trail veers right after crossing the bridge. Harder to see the pathway in this image, but it is clear in-person."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "Follow the path into the little inlet in the lake."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Lake Inlet</h6>",
+				"headline": "Lake Inlet",
 				"text": "A clear view of the lake from the south looking north."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "The path will naturally veer right along the lake perimeter."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Continue on the path heading westbound."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here from the paved path onto the dirt trail. The path-defining chalklines in the image may not always be present."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Urban Forest</h6>",
+				"headline": "Enter Urban Forest",
 				"text": "Go through the opening between the wood fence to enter the backside of the urban forest."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"headline": "Continue Uphill",
 				"text": "A bench on the left to relax and look down on the lake before continuing the modest incline."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "Follow the trail to the right. Going left will takes you to the little vegetated section of the urban forest."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "Veer right. A dog park is on the other side of the fence."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit Urban Forest</h6>",
+				"headline": "Exit Urban Forest",
 				"text": "Exit where you entered."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left to continue on the original pathway."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here when you see the bathrooms in the distance."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Bathrooms</h6>",
+				"headline": "Pass Bathrooms",
 				"text": "Keep going past the bathrooms."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Go right at the path split."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue to Sidewalk</h6>",
+				"headline": "Continue to Sidewalk",
 				"text": ""
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Keep going. This is the northside of Lake Huntington. Peoplema be fishing here."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The End</h6>",
+				"headline": "The End",
 				"text": "Follow the short pathway back into the parking lot."
 			}
 			}
