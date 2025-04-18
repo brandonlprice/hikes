@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;'>Horsehoe - Puma Ridge Loop</h4>",
+				"headline": "Horsehoe - Puma Ridge Loop",
 				"text": "This hike is located in Orange County's oldest park, Irvine Regional Park (est. 1897). The first half is on the Horseshoe Loop Trail and the second half is on the Puma Ridge Trail. There are nice bird's eye views of the park and the Santa Ana Mountains along Puma Ridge. "
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</small>",
+				"headline": "Park at<small><a href='https://maps.app.goo.gl/xZPw9xQTwkvG6Hd56' target='_blank'><i>Railroad & Pony Rides Lot↗</i></a> ($3/weekday-$6/weekend)</small>",
 				"text": "Pay at the gated entrance. Park in the lot pictured after entering. It's close to the entrance."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>2.04 mile loop</li><li>Dry areas with some shade, a steep incline to a ridge summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li></small>",
+				"headline": "Starting Point<small><ul><li>2.04 mile loop</li><li>Dry areas with some shade, a steep incline to a ridge summit</li><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li></small>",
 				"text": "Once parked, start the hike here. This is a short connector trail that connects to the Horseshoe Loop Trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Keep straight a few hundred feet."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left on the Horseshoe Loop Trail, the first possible left turn. There will be a sign."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left Again</h6>",
+				"headline": "Turn Left Again",
 				"text": "Turn left to stay on the Horseshoe Loop Trail. There will be a sign. Going straight takes you to the other trail taken later on."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Modest Incline</h6>",
+				"headline": "Modest Incline",
 				"text": "Stay on this trail for awhile."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"headline": "Shaded Relief",
 				"text": "Enjoy pockets of shade on this trail. The one taken later will have none."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mountain Views</h6>",
+				"headline": "Mountain Views",
 				"text": "Nice views of the Santiago Foothiils."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Watertank Lookout</h6>",
+				"headline": "Watertank Lookout",
 				"text": "The Watertank Lookout gets it's name from the watertank next to it. There's also a bench further down. Views of the Santa Ana Mountains and surrounding foothills."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "You will lose the modest elevation gained in the beginning in this descend."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend Continued</h6>",
+				"headline": "Descend Continued",
 				"text": "Some shade pockets on the way down."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Puma Ridge Trail (Midway)</h6>",
+				"headline": "Puma Ridge Trail (Midway)",
 				"text": "Turn right here. You now have fully descended down to street level, and will start ascending again on this trail."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Moderate Incline</h6>",
+				"headline": "Moderate Incline",
 				"text": "The incline here is a little steeper than the incline in the beginning."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Switchback</h6>",
+				"headline": "Switchback",
 				"text": "Halfway into the ascend, the trail will start winding back and forth up the hill to make the incline less steep."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Narrow and Brushy</h6>",
+				"headline": "Narrow and Brushy",
 				"text": "Nearing the end of the ascend at this point, the trail is narrow the whole way up. It may be less dense than depicted if trail maintenance was done."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Highest Stretch</h6>",
+				"headline": "Highest Stretch",
 				"text": "The first stretch along the ridge has the highest elevation."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Straight</h6>",
+				"headline": "Keep Straight",
 				"text": "Enjoy being on top."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Summit</h6>",
+				"headline": "Summit",
 				"text": "A nice summit before descending."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "The descend has already begun once past the summit, but accelerates past these bushes."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Section</h6>",
+				"headline": "Steep Section",
 				"text": "The last part of the descend is the steepest, but it is not too bad."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exiting</h6>",
+				"headline": "Exiting",
 				"text": "Go straight here passing the first trail on the right. The descend is over."
 			}
 			}
