@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Special Access)</h4>",
+				"headline": "Bommer Canyon (Special Access)<small>Irvine, CA</small>",
 				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access days) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike. This hike has excellent views."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions:</h6><font style='line-height: 1em;' color=red size=6>Enter Bommer Canyon Rd</font>",
+				"headline": "Parking Directions:<font style='line-height: 1em;' size=6>Enter Bommer Canyon Rd</font>",
 				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open on wilderness access days or during a scheduled hike."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Stay Straight</font>",
+				"headline": "Parking Directions<font style='line-height: 1em;' size=6>Stay Straight</font>",
 				"text": "You will be on this road for a half a mile."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking Directions</h6><font style='line-height: 1em;' color=red size=6>Turn Right</font>",
+				"headline": "Parking Directions<font style='line-height: 1em;' size=6>Turn Right</font>",
 				"text": "Enter the lot."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park Here</h6><small style='color:red;'><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></small>",
+				"headline": "Park Here<small><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></small>",
 				"text": "Park anywhere in this lot. There is no fee. Park rangers will be present on Wilderness Access Days to guide traffic, answers questions, and handout maps."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point:</h6> <small style='color:red;'><ul><li>3.4 mile loop</li><li>Steep sections with brief shaded relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li></ul></small>",
+				"headline": "Starting Point: <small><ul><li>3.4 mile loop</li><li>Steep sections with brief shaded relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li></ul></small>",
 				"text": "Walk back to the parking entrance after parking."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Bommer Pass</h6>",
+				"headline": "Enter Bommer Pass",
 				"text": "Take this trail. Shrubs are usually not as dense as depicted. You will quickly gain modest elevation."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Incline</h6>",
+				"headline": "Incline",
 				"text": "The incline will begin to flatten and there will be nice views looking into the canyon below."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "The incline is over at this point. Bommer Canyon Cattle Camp can be seen in the distance. The parking lot will be to the right of it."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "The Bommer Pass trail is nearing its end."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter East Fork Trl</h6>",
+				"headline": "Enter East Fork Trl",
 				"text": "Turn left here to take the East Fork Trl. This trail is closed normally to wildlife, but will be open during a Wilderness Access Day or scheduled hike. It is not as regularly maintained as a result."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Savannah Section</h6>",
+				"headline": "Savannah Section",
 				"text": "Going deeper into the canyon as you hike along the canyon floor."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Canopy Section</h6>",
+				"headline": "Canopy Section",
 				"text": "The canyon begins to close in and there are some oak trees for brief shade."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Begin Steep Incline</h6>",
+				"headline": "Begin Steep Incline",
 				"text": "The most challenging part of the hike. It is straight uphill and lasts a good half mile. Pace yourself and take breaks when necessary."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Incline Continued</h6>",
+				"headline": "Steep Incline Continued",
 				"text": "It opens up the higher you get. The vegetation becomes less dense and the trees dissipate."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End Steep Incline</h6>",
+				"headline": "End Steep Incline",
 				"text": "This steep incline ends in a few hundred feet from this point."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ridge Section</h6>",
+				"headline": "Ridge Section",
 				"text": "The steepest incline is over and the hike along the ridge now begins next to State Route 73. Be prepared for another brief incline when the ridge bends back to the north."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ridge Route Trl Entrance</h6>",
+				"headline": "Ridge Route Trl Entrance",
 				"text": "This trail junction is a good resting point. When ready, take this trail to start the last half of the hike. It will mostly be all downhill from this point forward."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Highest Point</h6>",
+				"headline": "Highest Point",
 				"text": "This high point is not technically the highest point of the hike, but will feel like it as clear views of north Orange County can be seen below."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Split</h6>",
+				"headline": "Trail Split",
 				"text": "The trails briefly splits here, but quickly re-joins back together. It does not matter which way you go. The signage makes the split seem more significant than it is."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slow Descend</h6>",
+				"headline": "Slow Descend",
 				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it's still a ways out."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend Continued</h6>",
+				"headline": "Descend Continued",
 				"text": "The final stretch of the descend back to the canyon floor will accelerate."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hike Completed</h6>",
+				"headline": "Hike Completed",
 				"text": "This is the end of the hike. Turn left here on Bommer Canyon Road to get back to the parking lot. Watch out for cars."
 			}
 			}
