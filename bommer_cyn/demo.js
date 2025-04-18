@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Bommer Canyon (Regular Access)</h4>",
+				"headline": "Bommer Canyon (Regular Access)<small>Irvine, CA</small>",
 				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring athlough can be very brown at other times of the year."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></u></a></small>",
+				"headline": "Parking<small><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></u></a></small>",
 				"text": "The parking lot at 1 Bommer Canyon Rd does not have a lot of spaces. If full, park at <a href='https://maps.app.goo.gl/Tpn5Z3FfJ7aW4Ern7' target='_blank'><i>Turtle Rock Community Park</i></a> and take the Shady Canyon Connector to the Shady Canyon Trail Bikeway to get to Bommer Canyon."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><i><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></i></ul></small>",
+				"headline": "Starting Point<small><ul><i><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></i></ul></small>",
 				"text": "Once parked, you'll start behind the bathrooms at this entrance."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bommer Meadow</h6>",
+				"headline": "Bommer Meadow",
 				"text": "The first part of the hike is wide open."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "The first of two bridges."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nature Loop</h6>",
+				"headline": "Nature Loop",
 				"text": "Turn right here onto the Nature Loop trail."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "It starts getting more green in this section."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Away</h6>",
+				"headline": "Straight Away",
 				"text": "Area fenced off for restoration."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hard Turn</h6>",
+				"headline": "Hard Turn",
 				"text": "Trail does a 180 here going further south into the canyon."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mini Ridge</h6>",
+				"headline": "Mini Ridge",
 				"text": "A slightly elevated path with the meadow below on the left."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Lone Tree</h6>",
+				"headline": "Lone Tree",
 				"text": "Keep going."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Small Valley</h6>",
+				"headline": "Small Valley",
 				"text": "The meadow will feel like a valley as the hills close in."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "Cross the second bridge."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Go left after crossing the bridge. The parking lot is here. Trails further south are usually closed to the public unless there's a special hiking event offered by <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org</i></a>."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Passing the Garden</h6>",
+				"headline": "Passing the Garden",
 				"text": "Pass the nature garden on the left unless you choose to check it out first."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Heading Back</h6>",
+				"headline": "Heading Back",
 				"text": "The trail loops back north alongside the road usually closed to the public."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Dense Vegetation</h6>",
+				"headline": "Dense Vegetation",
 				"text": "This vegetation may provide some sun protection on hot days."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "The trails veers left once past the vegetation."
 			}
 			}, 
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Rejoin Bommer Meadow</h6>",
+				"headline": "Rejoin Bommer Meadow",
 				"text": "Take the original trail you started on back to the parking lot."
 			}
 			},
@@ -367,7 +367,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Overview</h6>",
+				"headline": "Overview",
 				"text": "Bommer Canyon Meadow, Irvine, CA (Regular Access)"
 			}
 			} 
