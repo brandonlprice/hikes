@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Turn Right",
+				"headline": "Head Back",
 				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
 			}
 			}
