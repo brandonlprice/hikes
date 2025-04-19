@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Bommer Canyon (Special Access)<small>Irvine, CA</small>",
-				"text": "This hike is one of the best in Irvine although does not get much attention because it can only be accessed on wilderness access days (open access days) or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike. This hike has excellent views."
+				"text": "This is a nice hike that goes through the East Fork and Ridge Route trails in Bommer Canyon although does not get much attention since the East Fork trail can only be accessed on wilderness access days or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike."
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking Directions:<font style='line-height: 1em;' size=6>Enter Bommer Canyon Rd</font>",
+				"headline": "Parking Directions:<br><font style='line-height: 1em;' size=6>Enter Bommer Canyon Rd</font>",
 				"text": "After passing the first parking lot on the right, continue onto this road. It's usually closed off by the gate, but will be open on wilderness access days or during a scheduled hike."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking Directions<font style='line-height: 1em;' size=6>Stay Straight</font>",
+				"headline": "Parking Directions<br><font style='line-height: 1em;' size=6>Stay Straight</font>",
 				"text": "You will be on this road for a half a mile."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking Directions<font style='line-height: 1em;' size=6>Turn Right</font>",
+				"headline": "Parking Directions<br><font style='line-height: 1em;' size=6>Turn Right</font>",
 				"text": "Enter the lot."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Park Here<small><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></small>",
+				"headline": "Park Here<br><small><a href='https://maps.app.goo.gl/m1DT2ZTa5PXGGjrY7' target='_blank'><u><i>11 Bommer Canyon · Irvine, CA 92603↗</i></u></a></small>",
 				"text": "Park anywhere in this lot. There is no fee. Park rangers will be present on Wilderness Access Days to guide traffic, answers questions, and handout maps."
 			}
 			},
