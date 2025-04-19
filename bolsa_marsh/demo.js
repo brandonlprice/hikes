@@ -35,7 +35,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7135_11zon.jpg",
-				"caption": "View of trail entrance from the parking lot.",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -89,7 +89,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7142_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -107,7 +107,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2286_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -125,7 +125,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2287_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -143,7 +143,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2292_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -161,7 +161,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7151_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -179,7 +179,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2294_11zon.jpg",
-				"caption": "<i></i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -197,7 +197,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2297_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -215,7 +215,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2300_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -233,7 +233,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2302_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -251,7 +251,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2305_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -269,7 +269,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7156_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -287,7 +287,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7168_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -305,7 +305,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7174_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -323,7 +323,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7176_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -341,7 +341,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7184_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -359,7 +359,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7192_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
@@ -395,7 +395,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_7199_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "",
 				"credit": ""
 			},
 			"location": {
