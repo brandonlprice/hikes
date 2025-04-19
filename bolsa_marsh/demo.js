@@ -12,13 +12,13 @@ let demojs={
 		"slides": [
 			{
 			"background": {         
-                    		"url": "images/topoftheworld.JPG",
+                    		"url": "",
                     		"color": "#464646",
                     		"opacity": 99					
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
+				"url": "https://www.dropbox.com/scl/fi/yvl54m4u44pga67bz3fza/bolsa_chica_north_2.mp4?rlkey=w19q56p6jquomz0r3f3uo3gsj&st=lrjpfn0j&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
