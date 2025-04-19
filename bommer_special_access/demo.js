@@ -231,8 +231,13 @@ let demojs={
 			},
 			{
 			"date": "",
+			"background": {         
+                    		"url": "images/IMG_8935_11zon.jpg",
+                    		"color": "#464646",
+                    		"opacity": 99					
+                	},
 			"media": {
-				"url": "images/IMG_8935_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/2wflc6cd2hfascxt8vv6c/bommer_canyon_special_access.mp4?rlkey=gay6rftc8e695x1kyrbb4gsc8&st=t41kfpcy&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
