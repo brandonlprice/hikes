@@ -71,7 +71,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2333_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -89,7 +89,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2337_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -107,7 +107,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2340_11zon.jpg",
-				"caption": "Park on Hollyleaf",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -125,7 +125,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4382_11zon.jpg",
-				"caption": "<i>Views of Wood Canyon to the east.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -161,7 +161,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2346_11zon.jpg",
-				"caption": "<i>One out of of a handful of steep inclines.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -179,7 +179,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4385_11zon.jpg",
-				"caption": "<i>Nice view looking back at all the ground covered.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -197,7 +197,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_4396_11zon.jpg",
-				"caption": "<i>Entering Top of the World</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -215,7 +215,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_7192_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -233,7 +233,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_7195_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -251,7 +251,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_7199_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -269,7 +269,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2310_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -287,7 +287,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2311_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -305,7 +305,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2315_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -323,7 +323,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_7210_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -341,7 +341,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_2300_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -359,7 +359,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "../bolsa_marsh/images/IMG_2302_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -377,7 +377,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2304_11zon (1).jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -395,7 +395,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_2307_11zon.jpg",
-				"caption": "<i>Top of the World, reaching the summit</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
