@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.62823291585866,  
 				"line": false,
 				"lon": -117.80579008814554,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point<small><ul><i><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></i></ul></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.62649982877502, 
 				"line": false,
 				"lon": -117.80579947587711,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Bommer Meadow",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.62466201486592, 
 				"line": false,
 				"lon": -117.8050156002923,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Bridge Crossing",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.623753222302426, 
 				"line": false,
 				"lon": -117.80381828293868,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Nature Loop",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.622520361254146,  
 				"line": false,
 				"lon": -117.80372961510814,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.62217424444829, 
 				"line": false,
 				"lon": -117.80471902221613,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Straight Away",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.62212079676012,  
 				"line": false,
 				"lon": -117.80541303157239,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Hard Turn",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.62173536171226, 
 				"line": false,
 				"lon": -117.8046626958268,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Mini Ridge",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.62046002056443, 
 				"line": false,
 				"lon": -117.80372258156711,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Lone Tree",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.620020012319706, 
 				"line": false,
 				"lon": -117.80312042564319,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Small Valley",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.619485075419114, 
 				"line": false,
 				"lon": -117.8026885899921,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Bridge Crossing",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.61963016081037, 
 				"line": false,
 				"lon": -117.8023991175819,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.61987505643251,  
 				"line": false,
 				"lon": -117.8024150840388,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Passing the Garden",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.62013727362419, 
 				"line": false,
 				"lon": -117.80183028310736,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Heading Back",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.62197700051754,  
 				"line": false,
 				"lon": -117.8028073478938,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Dense Vegetation",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.62371923903202,  
 				"line": false,
 				"lon": -117.8036169541328,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Left",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.623753222302426, 
 				"line": false,
 				"lon": -117.80381828293868,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Rejoin Bommer Meadow",
