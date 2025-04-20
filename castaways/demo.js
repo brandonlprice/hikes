@@ -35,17 +35,17 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_6468_5_11zon.jpg",
-				"caption": "Castaways Lane",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
 				"lat": 33.62192368235754, 
 				"line": false,
 				"lon": -117.9059037182933,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Getting There<font style='line-height: 1em;' size=6>Castaways Lane</font>",
+				"headline": "Getting There<br><font style='line-height: 1em;' size=6>Castaways Lane</font>",
 				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign."
 			}
 			},
@@ -60,10 +60,10 @@ let demojs={
 				"lat": 33.621374797799, 
 				"line": false,
 				"lon": -117.90644150120042,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point <small><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views, Unshaded</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
+				"headline": "Starting Point <small><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
 				"text": "Once parked, start the hike here."
 			}
 			},
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.621071597613565,   
 				"line": false,
 				"lon": -117.90633622449629,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -96,7 +96,7 @@ let demojs={
 				"lat":  33.62073656854489,  
 				"line": false,
 				"lon": -117.90636572879542,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Take Dirt Path",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.620475244963, 
 				"line": false,
 				"lon": -117.90640462082716,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.62026958841808,  
 				"line": false,
 				"lon": -117.9064795696432,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.62011061905886, 
 				"line": false,
 				"lon": -117.90625441712183,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.618954191968314, 
 				"line": false,
 				"lon": -117.90595535081673,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Rest Area",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.618525343989546, 
 				"line": false,
 				"lon": -117.90604118150512,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Newport Harbor",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.61910549004932,  
 				"line": false,
 				"lon": -117.90557246894416,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Newport Back Bay",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.61986101974898,  
 				"line": false,
 				"lon": -117.90516946357602,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Heading Back",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.62062489188625, 
 				"line": false,
 				"lon": -117.90612969440221,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass the sign",
