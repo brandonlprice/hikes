@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "First Parking Option <small><a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></small>",
+				"headline": "First Parking Option <br><small><a href='https://maps.app.goo.gl/DkDRVpEBpesLT4vs6' target='_blank'><i>2829 Awma Rd Laguna Niguel, CA 92656↗</i></a></small>",
 				"text": "From Awma Rd, turn left into this parking lot. It costs $3-5 dollars to park."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Alternative Parking<small>(Free Option)</small>",
+				"headline": "Alternative Parking<br><small>(Free Option)</small>",
 				"text": "You can optionally park for free on the right side of Awma Rd if any spots are available."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small>Aliso Canyon Rd</small><small><ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point<br><small>Aliso Canyon Rd<ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
 				"text": "Start the hike here by turning left onto Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
