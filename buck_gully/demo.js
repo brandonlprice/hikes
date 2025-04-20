@@ -35,7 +35,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/28F8AED1-54A3-4142-9F82-39AF364D20E0_11zon.jpeg",
-				"caption": "Begin on this sidewalk.",
+				"caption": "Begin on this sidewalk",
 				"credit": ""
 			},
 			"location": { 
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point:<small><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park at the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
+				"headline": "Starting Point:<small><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
 				"text": "Start the hike on this sidewalk to the right of the parking lot. This hike loops back to this location after going thru the gully."
 			}
 			},
@@ -215,7 +215,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_9935_11zon.jpg",
-				"caption": "<i>Bobcat Trail Entrance</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -280,7 +280,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Turn Left",
-				"text": "The Bobcat Trail dead ends into the Buck Gully Trail after crossing the bridge. You are now fully in the gully. Turn left at the sign."
+				"text": "The Bobcat Trail dead ends into the Buck Gully Trail after crossing the bridge. Turn left once reaching this sign. You are now fully in the gully."
 			}
 			},
 			{
