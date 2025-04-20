@@ -53,7 +53,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1055_11zon.jpg",
-				"caption": "Free parking on Awma Rd",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -107,7 +107,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/warmup2.jpg",
-				"caption": "Valley views",
+				"caption": "",
 				"credit": ""
 			},
 			"location": { 
@@ -161,7 +161,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1540_3_11zon.jpg",
-				"caption": "<i>Trail to Cave Rock.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -215,7 +215,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1585_11_11zon.jpg",
-				"caption": "<i>Incline up the rock face.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
@@ -233,7 +233,7 @@ let demojs={
 			"date": "",
 			"media": {
 				"url": "images/IMG_1593_4_11zon.jpg",
-				"caption": "<i>Hiking over the top of Cave Rock.</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"location": {
