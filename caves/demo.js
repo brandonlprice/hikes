@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Hike to Cave Rock & Dripping Cave<small>Aliso and Wood Canyons Wilderness Park</small>",
+				"headline": "Hike to Cave Rock & Dripping Cave<small>Aliso & Wood Canyons Wilderness Park</small>",
 				"text": "This hike is one of the greenest locations to hike in Orange County. The trails taken meander through a valley and a meadow."
 			}
 			},
