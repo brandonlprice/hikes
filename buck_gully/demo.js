@@ -42,7 +42,7 @@ let demojs={
 				"lat":  33.60588350840576,  
 				"line": false,
 				"lon": -117.84190908023875,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point:<small><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.606026478935945,  
 				"line": false,
 				"lon": -117.84244283983209,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass 1<sup>st</sup> Walkway",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.60605775370782, 
 				"line": false,
 				"lon": -117.8426761920161,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass 2<sup>nd</sup> Walkway",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 33.606341460048746, 
 				"line": false,
 				"lon": -117.84403070756701,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.606240934288536, 
 				"line": false,
 				"lon": -117.84419700452632,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.60606892326917, 
 				"line": false,
 				"lon": -117.84467711993993,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.60569139138115, 
 				"line": false,
 				"lon": -117.84471198865718,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Downhill",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.60526917920369, 
 				"line": false,
 				"lon": -117.84463956901405,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 	33.60587233881516, 
 				"line": false,
 				"lon": -117.84581705877306,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Ridge",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.606484429819204, 
 				"line": false,
 				"lon": -117.84825786897542,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.60643975179131, 
 				"line": false,
 				"lon": -117.84885600158503,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Bobcat Trail",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.6057539411505, 
 				"line": false,
 				"lon": -117.84945681640454,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Going Into The Gully",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.605074826873924, 
 				"line": false,
 				"lon": -117.84942194768738,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Bridge",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.60496145446609, 
 				"line": false,
 				"lon": -117.84929856607361,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.604450439121386,  
 				"line": false,
 				"lon": -117.84812912292597,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Buck Gully",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.60391875654513,  
 				"line": false,
 				"lon": -117.84753099031637,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Slight Uphill",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.602971549189085,  
 				"line": false,
 				"lon": -117.84589752502548,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Dense Part of Gully",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.60275429320877, 
 				"line": false,
 				"lon": -117.84465968556614,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Dense Part of Gully",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.602631423253506, 
 				"line": false,
 				"lon": -117.8429014975566,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Bridge",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.60350491309892, 
 				"line": false,
 				"lon": -117.83936232276162,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exiting the Gully",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.60421866613126, 
 				"line": false,
 				"lon": -117.83734530158276,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Flat Stretch",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.60345464859659, 
 				"line": false,
 				"lon": -117.83634215540506,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.604775478780624, 
 				"line": false,
 				"lon": -117.8341963881921,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill",
@@ -456,7 +456,7 @@ let demojs={
 				"lat": 33.60639283988873, 
 				"line": false,
 				"lon": -117.83308327145068,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill Continued",
@@ -474,7 +474,7 @@ let demojs={
 				"lat": 33.60775997782232, 
 				"line": false,
 				"lon": -117.83186286634981,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Final Stretch Uphill",
@@ -492,7 +492,7 @@ let demojs={
 				"lat": 33.60841673245174, 
 				"line": false,
 				"lon": -117.8318360442594,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -510,7 +510,7 @@ let demojs={
 				"lat": 33.60796102568624, 
 				"line": false,
 				"lon": -117.83326834387347,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "San Joaquin Hills Rd",
@@ -528,7 +528,7 @@ let demojs={
 				"lat": 33.60654697907437, 
 				"line": false,
 				"lon": -117.83630728668666,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Crosswalk",
@@ -546,7 +546,7 @@ let demojs={
 				"lat": 33.606062221579116, 
 				"line": false,
 				"lon": -117.83827334589459,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Views of the Gully",
@@ -564,7 +564,7 @@ let demojs={
 				"lat": 33.60597286505848, 
 				"line": false,
 				"lon": -117.84092068619252,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "End of Hike",
