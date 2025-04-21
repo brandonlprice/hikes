@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.7070068384032,  
 				"line": false,
 				"lon": -118.00442412376839,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.70671430474202, 
 				"line": false,
 				"lon": -118.00305804057234,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Continue on Main Path",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.70604268069179,
 				"line": false,
 				"lon": -118.00141116424957,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Shaded Relief",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.70558079664727,  
 				"line": false,
 				"lon": -118.00094177766715,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.70487123081865, 
 				"line": false,
 				"lon": -118.00110807462119,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Path Split",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.70403332468917,   
 				"line": false,
 				"lon": -118.00247864252773,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Shaded Relief 2",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.7035698847736,    
 				"line": false,
 				"lon": -118.00324566587138,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Marshy Area",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.70341034080307,     
 				"line": false,
 				"lon": -118.00330199225175,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Central Library",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.70337463861617,      
 				"line": false,
 				"lon": -118.00337575299744,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.70361177980544,       
 				"line": false,
 				"lon": -118.00398109529857,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pond 1",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.70321459306547,       
 				"line": false,
 				"lon": -118.00421712968604, 
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Back to Main Path",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.70304946994689,        
 				"line": false,
 				"lon": -118.00420237754123, 
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.70283525569991,         
 				"line": false,
 				"lon": -118.00455642913082, 
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Secret Garden",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.70242132977724,  
 				"line": false,
 				"lon": -118.00518004271983,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pond 2",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.70154575955665, 
 				"line": false,
 				"lon": -118.00517618013399,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Shaded Relief 3 (Midpoint)",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.702381024222, 
 				"line": false,
 				"lon": -118.00607469018065,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Northbound",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.70381804218084, 
 				"line": false,
 				"lon": -118.00613638099132,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.704607945533425, 
 				"line": false,
 				"lon": -118.0061176055324,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Maintenance Area",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.704899694724716, 
 				"line": false,
 				"lon": -118.00602372821824,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Approach Restaurant",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.705243879397806, 
 				"line": false,
 				"lon": -118.00599288281447,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Restaurant",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.7054592033081, 
 				"line": false,
 				"lon": -118.00588090058709,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Left",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.70563324710536, 
 				"line": false,
 				"lon": -118.00595600243815,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Begin Last Stretch",
@@ -456,7 +456,7 @@ let demojs={
 				"lat": 33.70643429030705, 
 				"line": false,
 				"lon": -118.00621349449507,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stream",
@@ -474,7 +474,7 @@ let demojs={
 				"lat": 33.70684038735639, 
 				"line": false,
 				"lon": -118.00620813007613,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -492,7 +492,7 @@ let demojs={
 				"lat": 33.707181775136355, 
 				"line": false,
 				"lon": -118.00562609073033,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Benches",
@@ -510,7 +510,7 @@ let demojs={
 				"lat": 33.7073848221314, 
 				"line": false,
 				"lon": -118.00510842439185,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "The End",
