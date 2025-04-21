@@ -257,7 +257,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Continue the Downhill",
+				"headline": "Continue Downhill",
 				"text": "Another shot on a different day. Trail conditions vary depending when trail maintenance was last done."
 			}
 			},
