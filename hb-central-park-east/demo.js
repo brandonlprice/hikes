@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Shaded Relief 2",
+				"headline": "Shaded Relief",
 				"text": "Entering another pocket of trees for shaded relief."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Shaded Relief 3 (Midpoint)",
+				"headline": "Shaded Relief<small>(Midpoint)</small>",
 				"text": "This is where you start the loop back. Shaded Relief will mostly be continious majority of the way back."
 			}
 			},
