@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "The End",
+				"headline": "End of Hike",
 				"text": "Back at the parking lot. Bathrooms are on the right."
 			}
 			},
