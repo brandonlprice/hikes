@@ -211,7 +211,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Downhill",
+				"headline": "Narrow Section",
 				"text": " Take your time here. It's steep and rocky."
 			}
 			},
@@ -234,7 +234,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Downhill Continued",
+				"headline": "Steep Slope",
 				"text": "Views open up again. Stay alert and watch your footing."
 			}
 			},
@@ -257,7 +257,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Downhill Continued",
+				"headline": "Continue the Downhill",
 				"text": "Another shot on a different day. Trail conditions vary depending when trail maintenance was last done."
 			}
 			},
@@ -326,7 +326,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Start Second Half",
+				"headline": "Second Half",
 				"text": "Veer right leaving the residential area towards the peak. There will be another short descend, but not as steep or narrow as the first."
 			}
 			},
