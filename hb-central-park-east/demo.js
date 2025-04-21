@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Huntington Central Park East",
+				"headline": "Central Park East<small>Huntington Beach, CA</small>",
 				"text": "This is a walk through a semi-natural park."
 			}
 			},
