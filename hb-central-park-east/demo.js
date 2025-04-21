@@ -63,8 +63,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Turn Left",
-				"text": "This route will be around the park perimeter."
+				"headline": "Keep Left",
+				"text": "Keep left at this junction. This route will be around the park perimeter."
 			}
 			},
 			{
