@@ -82,7 +82,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Continue on Main Path",
-				"text": "This is the only path needed to loop around the park although an optional offshoot to a pond will also be taken."
+				"text": "Staying on this path loops you around the park although a brief optional offshoot path to a pond will also be taken."
 			}
 			},
 			{
