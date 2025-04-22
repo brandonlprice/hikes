@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Longview Trail to Longview Park</h4>",
+				"headline": "Longview Trail to Longview Park<small>Laguna Niguel, CA</small>",
 				"text": "This trail travels along the edge of a mansion community in Laguna Niguel. It leads to a small summit with an ocean view called Longview Park. Unfortunately, trail access to the park is blocked. The alternatives, are either to end the hike at another summit before reaching the park, take a makeshift route to the park, or take a different route altogther."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park in the</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
+				"headline": "Park in the <small style='color:red;'><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
 				"text": "Park here. It is a free public parking lot for a dog park but also can be used by hikers and cyclists to access the nearby trails."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>3.2 miles (Out & Back)</li><li>Hillside trail, Pockets of shade, Ocean view</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>3.2 miles (Out & Back)</li><li>Hillside trail, Pockets of shade, Ocean view</li></ul></small>",
 				"text": "Start the trail here at this entrance. It is adjoined to the parking lot."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right into the tunnel. It goes under Golden Lantern Boulevard."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slight Uphill</h6>",
+				"headline": "Slight Uphill",
 				"text": "You will now be on the other side of the street after exiting the tunnel."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Gravel Pathway</h6>",
+				"headline": "Enter Gravel Pathway",
 				"text": "Continue onto the gravel path."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer left</h6>",
+				"headline": "Veer left",
 				"text": "The path will naturally veer left away from the street and change to dirt."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Modest Uphill Begins</h6>",
+				"headline": "Modest Uphill Begins",
 				"text": "An incline will ensue for about a third of mile after veering left."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill Continued</h6>",
+				"headline": "Uphill Continued",
 				"text": "Almost at the halfway point."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill Midpoint</h6>",
+				"headline": "Uphill Midpoint",
 				"text": "This is the halfway point of the modest uphill. The direction of the trail switches going the other way."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hay Cover</h6>",
+				"headline": "Hay Cover",
 				"text": "The trail may look like it's covered in hay but still should be able to make out."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Flat Section</h6>",
+				"headline": "Flat Section",
 				"text": "The modest uphill is interrupted by this brief flat section followed by the last incline as seen."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Fence</h6>",
+				"headline": "Pass Fence",
 				"text": "Pass the fence. The uphill is over a few feet after passing it."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Neighborhood-1<sup><small>st</small></sup> Gate</h6>",
+				"headline": "Enter Neighborhood-1<sup><small>st</small></sup> Gate",
 				"text": "Follow the trail. It will take you into the neighborhood where there is an opening in the black gate."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straddle Wall</h6>",
+				"headline": "Straddle Wall",
 				"text": "After passing through the gate, the trail straddles a backyard wall."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Neighborhood-2<sup><small>nd</small></sup> Gate</h6>",
+				"headline": "Enter Neighborhood-2<sup><small>nd</small></sup> Gate",
 				"text": "Once past the wall, there will be a chain link fence with a swinging gate. Turn right and go through it. It should be open. It is a public access point into the neighborhood and the trail."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "You are now on Longview Trail. A couple rolling hills as seen are in the beginning of the trail."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Another subtle rolling hill. Glimpses of the ocean may start to appear."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "The trail cuts in between the bushes."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Street</h6>",
+				"headline": "Cross Street",
 				"text": "The first of three alley crossings."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ocean</h6>",
+				"headline": "Ocean",
 				"text": "The ocean is in clear view although still distant."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straddling Wall</h6>",
+				"headline": "Straddling Wall",
 				"text": "The trails abuts the backyard wall."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Lawn 1</h6>",
+				"headline": "Lawn 1",
 				"text": "A nicely manicured lawn with a bench."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Around Bush</h6>",
+				"headline": "Go Around Bush",
 				"text": "Go left around the bush."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Lawn 2</h6>",
+				"headline": "Lawn 2",
 				"text": "A less manicured lawn/open space area."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "A slight decline as you go left around the tree."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Street</h6>",
+				"headline": "Cross Street",
 				"text": "Cross the second alleyway."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "A pocket of trees in the sloping canyon."
 			}
 			},
@@ -531,7 +531,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Stay on the dirt path."
 			}
 			},
@@ -549,7 +549,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Another subtle rolling hill."
 			}
 			},
@@ -567,7 +567,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Summit 1</h6>",
+				"headline": "Summit 1",
 				"text": "A nice view of the ocean under the tree. You could stop here and go back or advance to the next page for an optional extended route that requires scrambling up a hill."
 			}
 			},
@@ -585,7 +585,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Street</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Cross Street<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "Cross the street. This a regular residential street whereas the previous crossings were alleys."
 			}
 			},
@@ -603,7 +603,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Check Gate</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Check Gate<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "Once across the street, this pathway on the left takes you to the second summit. The gate is usually locked though. Check it just in case."
 			}
 			},
@@ -621,7 +621,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Scramble Uphill</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Scramble Uphill<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "If it's locked, the only way to the second summit is scrambling up the hill."
 			}
 			},
@@ -639,7 +639,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Longview Park (Summit 2)</h6><font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Longview Park (Summit 2)<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
 				"text": "View of Longview Park. The second summit."
 			}
 			}
