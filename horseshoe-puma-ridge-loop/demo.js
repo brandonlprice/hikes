@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Puma Ridge Trail (Midway)",
+				"headline": "Puma Ridge Trail",
 				"text": "Turn right here. You now have fully descended down to street level, and will start ascending again on this trail."
 			}
 			},
