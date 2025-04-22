@@ -286,7 +286,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9181_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/ylbqysc7tfhhijprdtix0/puma_ridge_uphill.mp4?rlkey=ob2usmz3mlmy77a4891rngco7&st=gcn925tk&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
