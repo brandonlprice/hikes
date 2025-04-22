@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.7958059132267, 
 				"line": false,
 				"lon": -117.75690069520302,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.79559415956, 
 				"line": false,
 				"lon": -117.75727352225563,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left Again",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.79526649758403, 
 				"line": false,
 				"lon": -117.75598606192935,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Modest Incline",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.793844385498765, 
 				"line": false,
 				"lon": -117.75280227982876,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Shaded Relief",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.79294830900749, 
 				"line": false,
 				"lon": -117.75053581321112,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Mountain Views",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.79261172064375, 
 				"line": false,
 				"lon": -117.74968823516268,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Watertank Lookout",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.79228181817319, 
 				"line": false,
 				"lon": -117.74974724376017,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -222,7 +222,7 @@ let demojs={
 				"lat":33.7917825039173, 
 				"line": false,
 				"lon": -117.74891307675746,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend Continued",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.79207897210184, 
 				"line": false,
 				"lon": -117.74626841866966,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Puma Ridge Trail",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.79101833539378, 
 				"line": false,
 				"lon": -117.74744795382924,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Moderate Incline",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.79125462049457, 
 				"line": false,
 				"lon": -117.74848060429878,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Switchback",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.79111195786544, 
 				"line": false,
 				"lon": -117.74981902659748,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Narrow and Brushy",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.79192892114217, 
 				"line": false,
 				"lon": -117.75133983911074,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Highest Stretch",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.7927982595681, 
 				"line": false,
 				"lon": -117.75312619031477,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Straight",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.79317481563148,  
 				"line": false,
 				"lon": -117.75346679793773,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Summit",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.794131842705845,   
 				"line": false,
 				"lon": -117.75553123113235,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.79505222635084,    
 				"line": false,
 				"lon": -117.75671767040383,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Steep Section",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.79547197714519,  
 				"line": false,
 				"lon": -117.75748477996224,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exiting",
