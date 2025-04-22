@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h2 style='color: red;line-height: .92em;'>Hike to Longview Park</h2><font style='line-height: 1em;' color=red size=7>(from Park Paseo St)</font>",
+				"headline": "Hike to Longview Park<font style='line-height: 1em;' size=7>(from Park Paseo St)</font>",
 				"text": "This is a short hike that starts at a park and goes up a hill to a small summit with ocean views called Longview Park."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Getting There</h6> <small style='color:red;'>Enter Bear Brand Ridge Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
+				"headline": "Getting There <small style='color:red;'>Enter Bear Brand Ridge Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
 				"text": "Enter the Bear Brand Ridge Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6>",
+				"headline": "Parking",
 				"text": "Upon entering the community, park on <a href='https://maps.app.goo.gl/qU8dohakGmFaKsQb8' target='_blank'><i>Park Paseo</i></a> next to the playground."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take the Stairs</h6><small style='color:red;'><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible (Use Your Own Discretion, Moderate Incline/Decline)</li></ul></small>",
+				"headline": "Take the Stairs<small><ul><li>Half-Mile Round Trip</li><li>A Paved Shaded Short Uphill to a Summit</li><li>ADA Accessible (Use Your Own Discretion, Moderate Incline/Decline)</li></ul></small>",
 				"text": "Take the short flight of stairs behind the playground."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Uphill</h6>",
+				"headline": "Continue Uphill",
 				"text": "The paved path zig zags back and forth until at the top."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Switchback</h6>",
+				"headline": "Switchback",
 				"text": "The first turn where the zig zag switches direction."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Halfway</h6>",
+				"headline": "Halfway",
 				"text": "Halfway up the hill, the length of the zig zags get smaller."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing the End</h6>",
+				"headline": "Nearing the End",
 				"text": "Views of the city below start to open up."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
+				"headline": "Entering the Summit",
 				"text": "Go left when the paved path ends."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Longview Park</h6>",
+				"headline": "Longview Park",
 				"text": "You made it. Take the same zig zag path back down the hill after enjoying the views."
 			}
 			} 
