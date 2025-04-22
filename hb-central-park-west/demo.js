@@ -42,10 +42,10 @@ let demojs={
 				"lat":  33.69948507103638,  
 				"line": false,
 				"lon": -118.0105438462022,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Park Here<small><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
+				"headline": "Park Here<br><small><a href='https://maps.app.goo.gl/WDGu9dhij3owiFgh7'><i>Kathy May's Lakeview Cafe↗</i></a></small>",
 				"text": "When parking, look for stalls that do not have the Restaurant Only parking sign."
 			}
 			},
@@ -60,7 +60,7 @@ let demojs={
 				"lat":  33.69930430033801,  
 				"line": false,
 				"lon": -118.01035385488593,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Start Here<small><ul><li>1.06 mile-loop</li><li>Paved lakeview walk with some tree shade</li></ul></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat":  33.69915167717672, 
 				"line": false,
 				"lon": -118.00994603004627,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Slight Right",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 33.6987079317886,  
 				"line": false,
 				"lon": -118.00945799707517,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 	33.698485789602245, 
 				"line": false,
 				"lon": -118.00959613115907,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 	33.698363183002584,  
 				"line": false,
 				"lon": -118.0096372595549,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Bridge Crossing",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.697561258519166,  
 				"line": false,
 				"lon": -118.01006262566574,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Follow the Trail",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.69761673720464,  
 				"line": false,
 				"lon": -118.01047544987222,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.69791474560732, 
 				"line": false,
 				"lon": -118.01052752839925,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Lake Inlet",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.69752366926019, 
 				"line": false,
 				"lon": -118.01070723640319,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.69743877196432,  
 				"line": false,
 				"lon": -118.01139947087789,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.69773145307592,  
 				"line": false,
 				"lon": -118.01280823767112,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.697422385099145,   
 				"line": false,
 				"lon": -118.01293698370367,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Urban Forest",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.69645165893389,   
 				"line": false,
 				"lon": -118.01302281439243,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Continue Uphill",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.69569961756767,   
 				"line": false,
 				"lon": -118.01326018989012,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.69719420964406,    
 				"line": false,
 				"lon": -118.01466432630833,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.69736827018665,    
 				"line": false,
 				"lon": -118.01302281439317,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exit Urban Forest",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.69780114827692,     
 				"line": false,
 				"lon": -118.01292553577724,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.69803783498806,     
 				"line": false,
 				"lon": -118.01327892992575,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.698318448895655,        
 				"line": false,
 				"lon": -118.01322729739603,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Bathrooms",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.69862839276503, 
 				"line": false,
 				"lon": -118.01307763909912,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.69901890620252, 
 				"line": false,
 				"lon": -118.01276784395826,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Continue to Sidewalk",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.699407555399056,  
 				"line": false,
 				"lon": -118.01217019352853,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -456,7 +456,7 @@ let demojs={
 				"lat": 33.7001092526118,   
 				"line": false,
 				"lon": -118.01087168436209,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "The End",
