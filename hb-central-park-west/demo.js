@@ -441,8 +441,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Continue to Sidewalk",
-				"text": ""
+				"headline": "Continue onto Sidewalk",
+				"text": "Keep straight on the paved path and then continue onto the sidewalk after running into it."
 			}
 			},
 			{
