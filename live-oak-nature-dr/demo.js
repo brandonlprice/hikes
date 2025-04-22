@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h2 style='color: red;font-size:.9em;line-height: .92em;'>Nature Drive: </h2><font style='line-height: 1em;' color=red size=7>Live Oak Canyon Rd to O'Neill Regional Park</font>",
+				"headline": "Nature Drive: <font style='line-height: 1em;' size=7>Live Oak Canyon Rd to O'Neill Regional Park</font>",
 				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/aPWj7mW7x9XfhH1FA' target='_blank'><i>Live Oak Cyn Rd/El Toro Rd Intersection↗</i></a><ul><li>5.35 miles</li><li>Winding Treelined Streets Leading to a Small Summit</li><li>Duration: 30 minutes</li></ul></small>",
+				"headline": "Starting Point <small style='color:red;'><a href='https://maps.app.goo.gl/aPWj7mW7x9XfhH1FA' target='_blank'><i>Live Oak Cyn Rd/El Toro Rd Intersection↗</i></a><ul><li>5.35 miles</li><li>Winding Treelined Streets Leading to a Small Summit</li><li>Duration: 30 minutes</li></ul></small>",
 				"text": "Start here on Live Oak Canyon Rd heading east. It will be a ten minute treelined drive that takes you too O'Neill Regional Park. From there, a $3-5 fee is required to enter. Upon entering the park, the nature drive continues and ends at a small summit."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Live Oak Canyon Road</h6>",
+				"headline": "Live Oak Canyon Road",
 				"text": "Early in, the drive is mainly eastward. It starts veering right to the south here."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Southbound</h6>",
+				"headline": "Southbound",
 				"text": "After the road veers right, you will be heading south. Oak trees start to appear."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "The oaks have now formed a canopy."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "Treelined section with oaks continues."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>O'Neill Regional Park</h6>",
+				"headline": "O'Neill Regional Park",
 				"text": "A sign for O'Neill Regiona Park will be on the right. Turn into the park entrance on the right a few hundred feet down."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Park</h6>",
+				"headline": "Enter Park",
 				"text": "There may be a short line on the weekends. The parking attendant will collect an entrance fee of $3 on weekdays and $5 for weekends."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Upone entering, take the first right immediately after passing the parking booth."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep on Main Road</h6>",
+				"headline": "Keep on Main Road",
 				"text": "Avoid turning on the side streets within the park. The main road will start veering left."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Oak Grove Day Use</h6>",
+				"headline": "Oak Grove Day Use",
 				"text": "Keep on the main road, there will be a sign saying you are entering the Oak Grove Day Use section of the park."
 			}
 			},	
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Roundabout</h6>",
+				"headline": "Roundabout",
 				"text": "Continue on the roundabout."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "Stay Right",
 				"text": "A median splits the road for the lane going the opposite way."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here. Going straight dead ends into the playground a hundred feet ahead."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Trabuco Creek</h6>",
+				"headline": "Cross Trabuco Creek",
 				"text": "Cross the creek. The road to cross is usually dry but can fill with water when it rains."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Featherly Day Use</h6>",
+				"headline": "Featherly Day Use",
 				"text": "Keep going."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "Picnic tables are on the right."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Mesa Day Use</h6>",
+				"headline": "Enter Mesa Day Use",
 				"text": "Keep going. You will see a sign to let you know that you are entering the Mesa Day Use section. It will be a slight uphill."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left once at the top towards the mountains."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The Mesa Section</h6>",
+				"headline": "The Mesa Section",
 				"text": "The drive is in this section the rest of the way. It is highest point of the park with the exception of some trails which requires hiking."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mountain Views</h6>",
+				"headline": "Mountain Views",
 				"text": "Trees are present in this stretch, but there are gaps where the Santa Ana Mountains can easily be seen."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mesa Trail</h6>",
+				"headline": "Mesa Trail",
 				"text": "This trail runs parallel to the road. It has signs that narrate a story along the path."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Main Picnic Area</h6>",
+				"headline": "Main Picnic Area",
 				"text": "Picnic tables are all along the road. This is the main area since it has bathrooms and parking."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trees</h6>",
+				"headline": "Trees",
 				"text": "A straight away section. Trees are more dense in this stretch."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "Stay Right",
 				"text": "The road splits here for the lane going the opposite direction."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Loop Around</h6>",
+				"headline": "Loop Around",
 				"text": "The road loops back around. Clear views of the mountains at this point."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>End of Drive</h6>",
+				"headline": "End of Drive",
 				"text": "The road loops back around so you can leave the same way you came. You can park anywhere in the Mesa Section and rest at a table before heading out."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Picnic Table</h6>",
+				"headline": "Picnic Table",
 				"text": "One of many picnic tables to rest at."
 			}
 			}
