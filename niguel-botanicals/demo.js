@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Niguel Botanical Preserve</h4>",
+				"headline": "Niguel Botanical Preserve<small>Laguna Niguel, CA</small>",
 				"text": "This preserve is located within Laguna Niguel's Crown Valley Park and is adjacent to the Community Center. It originally started as a community vegetable garden in 1981. It now contains plants from various regions around the world that grow well in a SoCal climate and remains a volunteer effort."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</a> (next to Amphitheater)</li></small>",
+				"headline": "Park at <small><a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</a> (next to Amphitheater)</li></small>",
 				"text": "This is where you park. If these spots are full, park in the stalls before these."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li></ul></small>",
+				"headline": "Starting Point<small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li></ul></small>",
 				"text": "Start here, this pathway is just to the left of the Amphitheater. It will have some incline."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here. The incline will temporarily stop."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Stairs</h6>",
+				"headline": "Pass Stairs",
 				"text": "Go past these stairs."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Incline</h6>",
+				"headline": "Incline",
 				"text": "The incline picks up again here and takes you to the top of the garden. There are no further inclines after this."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right again. The incline is over."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Sidewalk</h6>",
+				"headline": "Enter Sidewalk",
 				"text": "Take the sidewalk on the left side of the main path for a short detour."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit Detour</h6>",
+				"headline": "Exit Detour",
 				"text": "Take the sidewalk here to exit the detour area and to re-join the main path."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here to continue on the main path."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "A nice straight away along the top of the garden. The pathway changes here from paved to dirt."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Overlook</h6>",
+				"headline": "Overlook",
 				"text": "A nice clear overlook where the vegetation is shorter. The decline starts after this. There are benches to rest at before continuimg."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Go left. The decline has already started."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Keep straight a short distance."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Optional Overlook</h6>",
+				"headline": "Optional Overlook",
 				"text": "You can take this pathway for a short detour to another overlook before turning right."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Section</h6>",
+				"headline": "Shaded Section",
 				"text": "There are other areas with some shade, but this short section has the most."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right up these stairs or keep straight on the sidewalk if unable to take the stairs."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Benches</h6>",
+				"headline": "Pass Benches",
 				"text": "Continue past these benches. The sidewalk is running parallel to this pathway."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Take Stairs</h6>",
+				"headline": "Take Stairs",
 				"text": "Take the short flight of stairs down to re-join the sidewalk."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The End</h6>",
+				"headline": "The End",
 				"text": "Turn left when you get to the paved path to head back to the parking lot. You have completed the perimeter walk around the gardens."
 			}
 			}
