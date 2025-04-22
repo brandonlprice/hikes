@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "https://en.wikipedia.org/wiki/Irvine_Park_(Orange,_California)",
+				"url": "https://www.dropbox.com/scl/fi/fh8m53zr145xtysk2a8vw/puma_ridge.mp4?rlkey=9doyrmzvj1mqwh7wm6g1s2jcd&st=g5a7wzfz&raw=1",
 				"caption": "",
 				"credit": ""
 			},
