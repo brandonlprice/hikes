@@ -304,6 +304,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/ob623m7co3v0ni8ndu7y9/central_park_west_2.mp4?rlkey=zqj5y9vwy4ho1sr0pkgwtjhfn&st=fch5h2ou&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.695870,    
+				"line": false,
+				"lon": -118.014485,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Veer Right",
+				"text": "Veer right followed by a downhill."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_0858_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
