@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Park in the <br><small style='color:red;'><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
+				"headline": "Park in the <br><small><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
 				"text": "Park here. It is a free public parking lot for a dog park but also can be used by hikers and cyclists to access the nearby trails."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Enter Neighborhood-1<sup><small>st</small></sup> Gate",
+				"headline": "Enter Neighborhood<small>1<sup>st</sup> Gate</small>",
 				"text": "Follow the trail. It will take you into the neighborhood where there is an opening in the black gate."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Enter Neighborhood-2<sup><small>nd</small></sup> Gate",
+				"headline": "Enter Neighborhood<small>2<sup>nd</sup> Gate</small>",
 				"text": "Once past the wall, there will be a chain link fence with a swinging gate. Turn right and go through it. It should be open. It is a public access point into the neighborhood and the trail."
 			}
 			},
@@ -585,7 +585,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Cross Street<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Cross Street<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
 				"text": "Cross the street. This a regular residential street whereas the previous crossings were alleys."
 			}
 			},
@@ -603,7 +603,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Check Gate<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Check Gate<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
 				"text": "Once across the street, this pathway on the left takes you to the second summit. The gate is usually locked though. Check it just in case."
 			}
 			},
@@ -621,7 +621,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Scramble Uphill<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Scramble Uphill<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
 				"text": "If it's locked, the only way to the second summit is scrambling up the hill."
 			}
 			},
@@ -639,7 +639,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Longview Park (Summit 2)<font style='line-height: 1em;' color='red' size='6'>Extended Option</font>",
+				"headline": "Longview Park (Summit 2)<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
 				"text": "View of Longview Park. The second summit."
 			}
 			}
