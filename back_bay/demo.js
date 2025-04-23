@@ -12,7 +12,7 @@ let demojs={
 		"slides": [
 			{
 			"background": {         
-                    			"url": "images/24334DB1-13C7-4878-9DD6-142A81159EDD_11zon.jpeg",
+                    			"url": "images/back_bay_intro.gif",
                     			"color": "#464646",
                     			"opacity": 99,
 					"caption": "<i>Back Bay, Newport Beach 2021</i>"
