@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Nature Drive: <font style='line-height: 1em;' size=7>Live Oak Canyon Rd to O'Neill Regional Park</font>",
+				"headline": "<small>Nature Drive:</small> <font style='line-height: 1em;' size=7>Live Oak Canyon Rd to O'Neill Regional Park</font>",
 				"text": "As a result of development, there are very few official scenic drives in Orange County recognized by the state and or county. This drive, however, should be on the list."
 			}
 			},
