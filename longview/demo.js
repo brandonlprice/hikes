@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Park in the <small style='color:red;'><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
+				"headline": "Park in the <br><small style='color:red;'><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
 				"text": "Park here. It is a free public parking lot for a dog park but also can be used by hikers and cyclists to access the nearby trails."
 			}
 			},
