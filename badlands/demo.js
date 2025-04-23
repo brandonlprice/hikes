@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "https://en.wikipedia.org/wiki/Badlands",
+				"url": "https://www.dropbox.com/scl/fi/i0bm3ewj691f3c8pydz37/badlands.mp4?rlkey=lvg59pkuo7hgte3x938pjlhaq&st=x41vb86n&raw=1",
 				"caption": "",
 				"credit": ""
 			},
