@@ -42,7 +42,7 @@ let demojs={
 				"lat":  33.50654184346388, 
 				"line": false,
 				"lon": -117.68705462808632,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Park in the <br><small><a href='https://maps.app.goo.gl/3uKY3ZWjnizcK67M8' target='_blank'><i>Pooch Park Parking Lot↗</i></a></small>",
@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.50651947859117,    
 				"line": false,
 				"lon": -117.6869151532177,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point<small><ul><li>3.2 miles (Out & Back)</li><li>Hillside trail, Pockets of shade, Ocean view</li></ul></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.50662635213745,   
 				"line": false,
 				"lon": -117.68624476195777,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.50603639592975, 
 				"line": false,
 				"lon": -117.68607025737903,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Slight Uphill",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.505846293217154, 
 				"line": false,
 				"lon": -117.68659597034531,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Gravel Pathway",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.505325745106575, 
 				"line": false,
 				"lon": -117.68698489065233,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer left",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.505270950386176, 
 				"line": false,
 				"lon": -117.68614938254414,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Modest Uphill Begins",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.50514570518051, 
 				"line": false,
 				"lon": -117.68490483756133,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill Continued",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.504987738919944, 
 				"line": false,
 				"lon": -117.68421565464271,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill Midpoint",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.504807989534456, 
 				"line": false,
 				"lon": -117.68480559582773,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Hay Cover",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.50454407837953, 
 				"line": false,
 				"lon": -117.6853313087944,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Flat Section",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.504130317737356, 
 				"line": false,
 				"lon": -117.68719007964157,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Fence",
@@ -258,10 +258,10 @@ let demojs={
 				"lat": 33.50395586670857, 
 				"line": false,
 				"lon": -117.687041217041,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Enter Neighborhood<small>1<sup>st</sup> Gate</small>",
+				"headline": "Enter Neighborhood<br><small>1<sup>st</sup> Gate</small>",
 				"text": "Follow the trail. It will take you into the neighborhood where there is an opening in the black gate."
 			}
 			},
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.50359997435057, 
 				"line": false,
 				"lon": -117.68684876854479,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Straddle Wall",
@@ -294,10 +294,10 @@ let demojs={
 				"lat": 33.503344446645414, 
 				"line": false,
 				"lon": -117.68653427953784,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Enter Neighborhood<small>2<sup>nd</sup> Gate</small>",
+				"headline": "Enter Neighborhood<br><small>2<sup>nd</sup> Gate</small>",
 				"text": "Once past the wall, there will be a chain link fence with a swinging gate. Turn right and go through it. It should be open. It is a public access point into the neighborhood and the trail."
 			}
 			},
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.50282024904286, 
 				"line": false,
 				"lon": -117.68677031393084,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.50184509327388, 
 				"line": false,
 				"lon": -117.68660669918093,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.50066862927307, 
 				"line": false,
 				"lon": -117.68657183046362,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.5006194232066, 
 				"line": false,
 				"lon": -117.68684541578283,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross Street",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.50041588870877, 
 				"line": false,
 				"lon": -117.68703317041373,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Ocean",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.50016538407492, 
 				"line": false,
 				"lon": -117.68729870910587,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Straddling Wall",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.49981870235181, 
 				"line": false,
 				"lon": -117.68733894224178,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Lawn 1",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.4985068037295, 
 				"line": false,
 				"lon": -117.68769878096829,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Around Bush",
@@ -456,7 +456,7 @@ let demojs={
 				"lat": 33.49759543301856, 
 				"line": false,
 				"lon": -117.68826966877022,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Lawn 2",
@@ -474,7 +474,7 @@ let demojs={
 				"lat": 33.497180800387724, 
 				"line": false,
 				"lon": -117.68849162156657,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Left",
@@ -492,7 +492,7 @@ let demojs={
 				"lat": 33.49692581291518, 
 				"line": false,
 				"lon": -117.68823144729205,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross Street",
@@ -510,7 +510,7 @@ let demojs={
 				"lat": 33.49651755198612, 
 				"line": false,
 				"lon": -117.68858469442182,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -528,7 +528,7 @@ let demojs={
 				"lat": 33.49607691189496, 
 				"line": false,
 				"lon": -117.68879390672552,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -546,7 +546,7 @@ let demojs={
 				"lat": 33.49527391226264, 
 				"line": false,
 				"lon": -117.6884934993159,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -564,7 +564,7 @@ let demojs={
 				"lat": 33.494466431574985, 
 				"line": false,
 				"lon": -117.68816090539825,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Summit 1",
@@ -582,7 +582,7 @@ let demojs={
 				"lat": 33.49411077980483, 
 				"line": false,
 				"lon": -117.68853105024185,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross Street<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
@@ -600,7 +600,7 @@ let demojs={
 				"lat": 33.49413538468737, 
 				"line": false,
 				"lon": -117.6892793865568,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Check Gate<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
@@ -618,7 +618,7 @@ let demojs={
 				"lat": 33.49435682835295, 
 				"line": false,
 				"lon": -117.68952078536849,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Scramble Uphill<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
@@ -636,7 +636,7 @@ let demojs={
 				"lat": 33.49384459920669, 
 				"line": false,
 				"lon": -117.69023693517498,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Longview Park (Summit 2)<br><font style='line-height: 1em;' size='6'>Extended Option</font>",
