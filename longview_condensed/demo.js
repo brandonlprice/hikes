@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Getting There <br><small>Enter Bear Brand Ridge Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
+				"headline": "Getting There <br><small>Enter Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
 				"text": "Enter the Bear Brand Ridge Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
