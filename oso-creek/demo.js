@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Oso Creek Trail<br><font style='line-height: 1em;' size=6>Oso Viejo Community Park,<br>Mission Viejo</font>",
+				"headline": "Oso Creek Trail<br><font style='line-height: 1em;' size=6>Oso Viejo Community Park,<br>Mission Viejo, CA</font>",
 				"text": "This trail is maintained by the city of Mission Viejo and they regularly manicure it so it stays green year round. It's very nice aesthetically but not fully in wilderness. Its had mountain lion sightings in the past so it's best to do the trail with other people."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Park at the <small style='color:red;'><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
+				"headline": "Park at the <small><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
 				"text": "Park next to the baseball fields. No fee is required."
 			}
 			},
