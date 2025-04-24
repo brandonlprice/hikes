@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Hike to Longview Park<br><font style='line-height: 1em;' size=7>(from Park Paseo St)</font>",
+				"headline": "Hike to Longview Park<br><font style='line-height: 1em;' size=6>(from Park Paseo St)</font><small>Laguna Niguel, CA</small>",
 				"text": "This is a short hike that starts at a park and goes up a hill to a small summit with ocean views called Longview Park."
 			}
 			},
