@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Oso Creek Trail</h4><font style='line-height: 1em;' color=red size=6>Oso Viejo Community Park, Mission Viejo</font>",
+				"headline": "Oso Creek Trail<font style='line-height: 1em;' size=6>Oso Viejo Community Park, Mission Viejo</font>",
 				"text": "This trail is maintained by the city of Mission Viejo and they regularly manicure it so it stays green year round. It's very nice aesthetically but not fully in wilderness. Its had mountain lion sightings in the past so it's best to do the trail with other people."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at the</h6> <small style='color:red;'><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
+				"headline": "Park at the <small style='color:red;'><li><a href='https://maps.app.goo.gl/WqL4FMoRoeKaXXQ4A' target='_blank'><i>Oso Viejo Park Baseball Parking Lot↗</i></a></li></small>",
 				"text": "Park next to the baseball fields. No fee is required."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li></ul></small>",
+				"headline": "Starting Point<small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li></ul></small>",
 				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight until the access route dead ends and then turn right. This will take you down to the Oso Creek Trail."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Slight Downhill</h6>",
+				"headline": "Slight Downhill",
 				"text": "Continue on this downhill ramp that takes you to the trail."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "You will then be on the Oso Creek Trail."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue Straight</h6>",
+				"headline": "Continue Straight",
 				"text": "A short stretch with no shade. The trail starts to incline."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Incline Continued</h6>",
+				"headline": "Incline Continued",
 				"text": "The long gradual incline is almost over. There are pockets of shade throughout this stretch. The creek is on the left running parallel to the trail."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left and go towards the bridge when you see it on the left. The uphill is over."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left at this junction."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left again at this junction. The tunnel underpass is on the right."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left again onto the trail seen on the left side of the image. There is a sign that says it is the Oak Grove trail. It actually still is the Oso Creek Trail, just a section with oak trees."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Continue  straight, the path isn't as defined here. This stretch is a gradual descend."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Lush Greenery</h6>",
+				"headline": "Lush Greenery",
 				"text": "Continue straight. This section is the greenest. Oso Creek is now on the left side of the trail."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "Nice greenery continues. FYI-A wild animal was growling in the bushes at this part of the trail."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "The trail veers left here. It will be the only option. You can't go right."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight. You will pass the roundabout on the right. The trail picks up on the other side."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Paved Pathway</h6>",
+				"headline": "Paved Pathway",
 				"text": "Go straight. The pathway changes from dirt back to asphalt again."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left and cross this bridge when you reach it."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "After crossing the bridge, continue on the sidewalk until it ends."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left at the dead end."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "A nice green lawn will be on the left."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "That's the end of the trail. Turn right to take the ramp back up to the parking lot."
 			}
 			}
