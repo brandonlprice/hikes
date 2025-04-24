@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Quail Trail<font style='line-height: 1em;' size=6>Quail Hill Village, Irvine, CA</font>",
+				"headline": "Quail Trail<br><font style='line-height: 1em;' size=6>Quail Hill Village, Irvine, CA</font>",
 				"text": "This is one of two centrally located trails just off the 405 freeway in the village of Quail Hill. The starting point is at the community center. It is a pleasant hike with nice views."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Park at <small><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
+				"headline": "Park at<br><small><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
 				"text": "Park on the right side of the community center."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point <small style='color:red;'><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Duration: 1 ½ hours</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Duration: 1 ½ hours</li></ul></small>",
 				"text": "Once parked, this is where you'll start."
 			}
 			},
