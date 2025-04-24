@@ -42,10 +42,10 @@ let demojs={
 				"lat":  33.53099988441858, 
 				"line": false,
 				"lon": -117.70923071926177,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "Park at <small><a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</a> (next to Amphitheater)</li></small>",
+				"headline": "Park at <br><small><a href='https://maps.app.goo.gl/y87byG5aAuMmiTHy9' target='_blank'><i>Crown Valley Community Park↗</a> (next to Amphitheater)</li></small>",
 				"text": "This is where you park. If these spots are full, park in the stalls before these."
 			}
 			},
@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.53105801662413,  
 				"line": false,
 				"lon": -117.70938762848925,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point<small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li></ul></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.53031794602147, 
 				"line": false,
 				"lon": -117.7099059651057,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.5303347150625,
 				"line": false,
 				"lon":  -117.7100709209572,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Stairs",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.53057171716154, 
 				"line": false,
 				"lon": -117.7103619406301,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Incline",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.53004293327758, 
 				"line": false,
 				"lon": -117.71077768303122,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.53001386684003, 
 				"line": false,
 				"lon": -117.71104590393416,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Sidewalk",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.53042191402331, 
 				"line": false,
 				"lon": -117.71129266716261,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exit Detour",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.530590722018474, 
 				"line": false,
 				"lon": -117.71122829414743,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.530901244819,  
 				"line": false,
 				"lon": -117.71112625285353,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.53205493949637,  
 				"line": false,
 				"lon": -117.71079231783126,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Overlook",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.53234336075989, 
 				"line": false,
 				"lon": -117.71054823681025,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.53270023524595, 
 				"line": false,
 				"lon": -117.710681123507946,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.53310715184807, 
 				"line": false,
 				"lon": -117.71058590508838,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Optional Overlook",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.53263875042605, 
 				"line": false,
 				"lon": -117.71025733448694,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Shaded Section",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.53209209256908, 
 				"line": false,
 				"lon": -117.70949558712562,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.53156543911644,  
 				"line": false,
 				"lon": -117.70968695809403,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pass Benches",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.531521030197496,  
 				"line": false,
 				"lon": -117.70970879913693,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Take Stairs",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.53043285702766, 
 				"line": false,
 				"lon": -117.70980009228504,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "The End",
