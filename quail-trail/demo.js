@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Quail Trail</h4><font style='line-height: 1em;' color=red size=6>Quail Hill Village, Irvine, CA</font>",
+				"headline": "Quail Trail<font style='line-height: 1em;' size=6>Quail Hill Village, Irvine, CA</font>",
 				"text": "This is one of two centrally located trails just off the 405 freeway in the village of Quail Hill. The starting point is at the community center. It is a pleasant hike with nice views."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
+				"headline": "Park at <small><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
 				"text": "Park on the right side of the community center."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Duration: 1 ½ hours</li></ul></small>",
+				"headline": "Starting Point <small style='color:red;'><ul><li>3 mile loop</li><li>Moderate incline with no shade, hillside views</li><li>Duration: 1 ½ hours</li></ul></small>",
 				"text": "Once parked, this is where you'll start."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "The dirt path will begin to veer left and loop around the back of the community center."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Headed West</h6>",
+				"headline": "Headed West",
 				"text": "The hike now is headed westward."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go past the trail coming in on the left."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Entrance</h6>",
+				"headline": "Trail Entrance",
 				"text": "This is the official trail. Enter here to continue."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "Uphill",
 				"text": "Keep going uphill. It is moderately steep."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Hilltop</h6>",
+				"headline": "Hilltop",
 				"text": "The uphill is over. This is the highest point of the hike. Nice views from the top. There will be another uphill later."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "A gradual descend has begun."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "Take this bridge to cross over a ditch. The descend is over."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "Descending down the hill."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left onto the service road. It's blocked for cars as indicated on the gate sign. Pedestrian access may or may not be allowed."
 			}
 			}, 
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "The descend continues down the service road with nice views of the city below."
 			}
 			}, 
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left at the junction."
 			}
 			}, 
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend</h6>",
+				"headline": "Descend",
 				"text": "The descend continues."
 			}
 			}, 
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit Service Rd</h6>",
+				"headline": "Exit Service Rd",
 				"text": "Go around this gate to exit the service road."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Street</h6>",
+				"headline": "Cross the Street",
 				"text": "Cross the street and turn left once on the other side."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Sidewalk</h6>",
+				"headline": "Sidewalk",
 				"text": "Keep going on this sidewalk. It will be a gradual descend."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross the Street</h6>",
+				"headline": "Cross the Street",
 				"text": "Cross the street and enter the pathway on the other side."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Paved Trail</h6>",
+				"headline": "Paved Trail",
 				"text": "Stay on the paved trail."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "The trail will veer right."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Away</h6>",
+				"headline": "Straight Away",
 				"text": "The trail is in between the wildnerness and the neighborhood."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right to rejoin the original trail taken at the start back to the parking lot."
 			}
 			}
