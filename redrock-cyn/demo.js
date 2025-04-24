@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4>",
+				"headline": "<h4 style='font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4>",
 				"text": "The hike to Red Rock Canyon is one of the most popular hikes in Orange County due to its easy accessibility and wide ranging scenery. It goes through two different canyons, starting at Borrego Canyon and then switching to Red Rock Canyon. Borrego Canyon is green with a lot of trees whereas Red Rock Canyon is arid and rocky. The hike is a straight shot with very few turns other than when switching between canyons."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Main Parking Lot</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Main Parking Lot <small style='color:red;'><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Alternative Parking</h6><small style='color:red;'><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small><ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Head Straight</h6>",
+				"headline": "Head Straight",
 				"text": "Go straight. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Oak Tree Section</h6>",
+				"headline": "Oak Tree Section",
 				"text": "This is the most dense area of oak trees although oaks are all throughout the Borrego Canyon Trail."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
+				"headline": "Intermittent Shade Relief",
 				"text": "Continue straight. Trees aren't as dense farther in but there are still a few for shade."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "The sky can be more easily seen now that there are fewer trees."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
+				"headline": "Cross Wash",
 				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Closing In</h6>",
+				"headline": "Closing In",
 				"text": "The canyon begins to narrow as the hills close in on the trail."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Rest Area</h6>",
+				"headline": "Rest Area",
 				"text": "An optional resting area, otherwise keep going. The second trail taken in the hike is only a few hundred feet ahead."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pass Cattle Pond Trail</h6>",
+				"headline": "Pass Cattle Pond Trail",
 				"text": "Keep going straight past this trail."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left onto Red Rock Canyon Trl</h6>",
+				"headline": "Turn Left onto Red Rock Canyon Trl",
 				"text": "Turn left when you see the sign for Red Rock Canyon trail. It's only a couple few feet after the Cattle Pond trail."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "You will stay on this trail until you reach the destination."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay on Trail</h6>",
+				"headline": "Stay on Trail",
 				"text": "There is a larger rockbed to the right of the trail that intersects with the trail occasionally. The rockbed also leads to the destination but is more challenging."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Stretch</h6>",
+				"headline": "Last Stretch",
 				"text": "Only a few hundred feet left plus or minus once reaching this sign. The rockbed has merged into the trail at this point."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Final Destination</h6>",
+				"headline": "Final Destination",
 				"text": "You have reached the end of the canyon which is at these red sandstone cliffs. Head back when ready after checking it out."
 			}
 			}
