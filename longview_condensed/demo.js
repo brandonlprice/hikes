@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Hike to Longview Park<font style='line-height: 1em;' size=7>(from Park Paseo St)</font>",
+				"headline": "Hike to Longview Park<br><font style='line-height: 1em;' size=7>(from Park Paseo St)</font>",
 				"text": "This is a short hike that starts at a park and goes up a hill to a small summit with ocean views called Longview Park."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Getting There <small style='color:red;'>Enter Bear Brand Ridge Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
+				"headline": "Getting There <br><small>Enter Bear Brand Ridge Gated Community<br>on <a href='https://maps.app.goo.gl/6F8ea4r3xo7hpz9H6' target='_blank'><i>Camino del Avion and Pacific Crest↗</i></a></small>",
 				"text": "Enter the Bear Brand Ridge Community from Pacific Cest. Press the black button pictured and the gate will open to enter into the community. The button is disabled after 5pm."
 			}
 			},
