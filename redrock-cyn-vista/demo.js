@@ -408,6 +408,24 @@ let demojs={
 				"headline": "Views",
 				"text": "Enjoy the views while at the top before heading back."
 			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "https://www.dropbox.com/scl/fi/kkuhro7cze37ssta4brr2/red_rock_vista_downhill.mp4?rlkey=me3c6l8u9jlt8ax5i6pjev5jm&st=mayfs4ek&raw=1",
+				"caption": "<i>Vista Lookout, facing south</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.700279437625106,
+				"line": false,
+				"lon":  -117.65590830628771,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Views",
+				"text": "Enjoy the views while at the top before heading back."
+			}
 			}
 		]
 	}
