@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4>",
+				"headline": "<h4 style='font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4><small>Fothill Ranch, CA</small>",
 				"text": "The hike to Red Rock Canyon is one of the most popular hikes in Orange County due to its easy accessibility and wide ranging scenery. It goes through two different canyons, starting at Borrego Canyon and then switching to Red Rock Canyon. Borrego Canyon is green with a lot of trees whereas Red Rock Canyon is arid and rocky. The hike is a straight shot with very few turns other than when switching between canyons."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Main Parking Lot <small style='color:red;'><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Alternative Parking<br><small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
