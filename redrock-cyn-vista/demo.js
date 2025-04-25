@@ -268,6 +268,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/6qvee06py9xiycd3vokuz/red_rock_vista_false_summit.mp4?rlkey=1adlph58ll6qrp3c0n6bn4eq2&st=wy6sp66a&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.69630499672682, 
+				"line": false,
+				"lon": -117.65242408433858,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Start Second Segment",
+				"text": "The second segment starts after veering right here going westward."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9034_11zon.jpg",
 				"caption": "",
 				"credit": ""
