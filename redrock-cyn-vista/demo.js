@@ -304,6 +304,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/irgsthjxzejaloubwgly6/red_rock_vista_uphill.mp4?rlkey=2qq5ohyutlxx9dxt78f5x7dc5&st=iazumlq5&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.6965627621342, 
+				"line": false,
+				"lon": -117.65442525397148,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Brown Brush",
+				"text": "Still on the second uphill segment. The vegetation is now disturbed looing and no longer green."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9040_11zon.jpg",
 				"caption": "",
 				"credit": ""
