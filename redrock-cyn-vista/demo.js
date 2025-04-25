@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4><small>Foothill Ranch, CA</small>",
+				"headline": "<h4 style='font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4><small>Foothill Ranch, CA</small>",
 				"text": "This hike has about 700 feet of elevation gain starting at 800 feet then going to a 1500 foot lookout summit. It is in Whiting Ranch Wilderness Park next to Red Rock Canyon. Once reaching the summit, there will be 360 degree views looking down into Red Rock Canyon and of the city below."
 			}
 			},
