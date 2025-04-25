@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4>",
+				"headline": "<h4 style='color: red;font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4><small>Foothill Ranch, CA</small>",
 				"text": "This hike has about 700 feet of elevation gain starting at 800 feet then going to a 1500 foot lookout summit. It is in Whiting Ranch Wilderness Park next to Red Rock Canyon. Once reaching the summit, there will be 360 degree views looking down into Red Rock Canyon and of the city below."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Main Parking Lot</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Alternative Parking</h6><small style='color:red;'><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small><ul><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Head Straight</h6>",
+				"headline": "Head Straight",
 				"text": "Go straight. The trail has some bends and twists later on. You will be on it for 1-½ miles."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Oak Tree Section</h6>",
+				"headline": "Oak Tree Section",
 				"text": "This is the most dense area of oak trees although oaks are all throughout the Borrego Canyon Trail."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Intermittent Shade Relief</h6>",
+				"headline": "Intermittent Shade Relief",
 				"text": "Once past the oak section, trees are still present for shade although not as many."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Cross Wash</h6>",
+				"headline": "Cross Wash",
 				"text": "One out of a handful of washes. Most are usually dry unless it has rained."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Another Wash</h6>",
+				"headline": "Another Wash",
 				"text": "Another wash crossing."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Closing In</h6>",
+				"headline": "Closing In",
 				"text": "The canyon begins to narrow as the hills close in on the trail. The sky can be more easily now since there are fewer trees."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left onto the Mustard Trail."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill Begins</h6>",
+				"headline": "Uphill Begins",
 				"text": "An uphill for almost a mile starts here. Mostly gradual but a few areas are steeper."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>First Segment</h6>",
+				"headline": "First Segment",
 				"text": "The frst segment started when the uphill began. There are 3 different uphill segments with the first going southbound."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Second Segment</h6>",
+				"headline": "Start Second Segment",
 				"text": "The second segment starts after veering right here going westward."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Brown Brush</h6>",
+				"headline": "Brown Brush",
 				"text": "Still on the second uphill segment. The vegetation is now disturbed looing and no longer green."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here onto the Vista Lookout trail. There will be a sign. This is the start of the third and final uphill segment."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Third Segment</h6>",
+				"headline": "Third Segment",
 				"text": "You will head north until reaching the lookout."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Stretch</h6>",
+				"headline": "Last Stretch",
 				"text": "The last stretch is a more gradual incline."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Vista Lookout</h6>",
+				"headline": "Vista Lookout",
 				"text": "Once there, you can rest at this lone bench."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Views</h6>",
+				"headline": "Views",
 				"text": "Enjoy the views while at the top before heading back."
 			}
 			}
