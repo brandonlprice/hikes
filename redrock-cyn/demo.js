@@ -106,6 +106,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/wtk2f1guwpf8px747wbnf/borrego_canyon.mp4?rlkey=gr2lecwe1u8g41ij7rchyak6t&st=p28v78j4&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.68399953462631,  
+				"line": false,
+				"lon": -117.66165947119887,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Oak Tree Section",
+				"text": "This is the most dense area of oak trees although oaks are all throughout the Borrego Canyon Trail."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "../redrock-cyn-vista/images/72E18995-658E-42E8-86DA-826B616626D0_11zon.jpeg",
 				"caption": "",
 				"credit": ""
