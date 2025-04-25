@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
+				"url": "https://www.dropbox.com/scl/fi/7546puau6lfpd756ekd35/red_rock_vista.mp4?rlkey=udzfu68e06vpovordceidr5na&st=28op6371&raw=1",
 				"caption": "<i>Vista Lookout, near Red Rock Cyn, Whiting Ranch Wilderness, Foothill Ranch, Summer 2022</i>",
 				"credit": ""
 			},
