@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "https://www.dropbox.com/scl/fi/fh8m53zr145xtysk2a8vw/puma_ridge.mp4?rlkey=9doyrmzvj1mqwh7wm6g1s2jcd&st=g5a7wzfz&raw=1",
+				"url": "https://www.dropbox.com/scl/fi/ylbqysc7tfhhijprdtix0/puma_ridge_uphill.mp4?rlkey=ob2usmz3mlmy77a4891rngco7&st=gcn925tk&raw=1",
 				"caption": "",
 				"credit": ""
 			},
@@ -304,7 +304,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9184_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/fh8m53zr145xtysk2a8vw/puma_ridge.mp4?rlkey=9doyrmzvj1mqwh7wm6g1s2jcd&st=g5a7wzfz&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
