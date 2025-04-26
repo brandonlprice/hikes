@@ -13,7 +13,7 @@ let demojs={
 		"slides": [
 			{
 			"background": {         
-                    		"url": "images/IMG_6978_11zon.jpg",
+                    		"url": "images/IMG_6967_11zon.jpg",
                     		"color": "#464646",
                     		"opacity": 99					
                 	},	
