@@ -28,7 +28,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Hike to Redwood Grove</h4><small>Carbon Canyon Regional Park</small>",
+				"headline": "<h4 style='font-size:.9em;line-height: .92em;'>Hike to Redwood Grove</h4><small>Carbon Canyon Regional Park</small>",
 				"text": "This short trek to the Redwoods in Carbon Canyon Regional Park is flat and generally easy whereas the second option involves almost no trek at all to get there. The trees have been growing here since the late 1970's from seeds that were planted shortly after the park first opened. There is a fee of $3 on the weekdays and $5 on the weekends to enter the park."
 			}
 			},
@@ -46,7 +46,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Carbon Cyn Regional Park Lot A↗</i></a><ul><li>Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li></ul></small>",
+				"headline": "Park at <small><a href='https://maps.app.goo.gl/GKRWQQ7n7eWdW44j9' target='_blank'><i>Carbon Cyn Regional Park Lot A↗</i></a><ul><li>Entrance Fee of $3 (weekdays)/$5 (weekends)</li><li><a href='https://www.ocparks.com/parks-trails/carbon-canyon-regional-park' target='_blank'><i>Check for Alerts</i></a></li></ul></small>",
 				"text": "There is usually parking available even on the weekends. Many people come here to use the Redwoods as a photo backdrop."
 			}
 			},
@@ -64,7 +64,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>.75 miles (ADA Accessible)</li><li>Short Distance, Flat, No shade until reaching the Redwoods</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>.75 miles (ADA Accessible)</li><li>Short Distance, Flat, No shade until reaching the Redwoods</li></ul></small>",
 				"text": "Once parked, this is where you'll start. It's on the right side of the parking lot and will have a sign that says to Redwood Grove."
 			}
 			},
@@ -82,7 +82,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here. There will be another sign telling you to turn left for the Redwood Grove. It can be seen in the distance."
 			}
 			},
@@ -100,7 +100,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight after crossing the wash."
 			}
 			},
@@ -118,7 +118,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "The path will dead end. Follow the sign that say Redwoods by turning right."
 			}
 			},
@@ -136,7 +136,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Stay on this path the rest of the way to get there. There are no others needed to be taken."
 			}
 			},
@@ -154,7 +154,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Left</h6>",
+				"headline": "Veer Left",
 				"text": "The path veers left here."
 			}
 			},
@@ -172,7 +172,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Keep going past the post ahead to enter the grove."
 			}
 			},
@@ -190,7 +190,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter the Pathway</h6>",
+				"headline": "Enter the Pathway",
 				"text": "Take the pathway into the grove. People will be taking photos or lounging on the sides."
 			}
 			},
@@ -208,7 +208,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Last Stretch</h6>",
+				"headline": "Last Stretch",
 				"text": "This the last short stretch of the grove."
 			}
 			},
@@ -226,7 +226,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right towards the sidewalk on the right."
 			}
 			},
@@ -244,7 +244,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight on the sidewalk outside the grove."
 			}
 			}
