@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.8em;line-height: .92em;'>San Joaquin Marsh Wildlife Sanctuary</h4><font style='line-height: 1em;' color=red size=6>Irvine Ranch Water District</font>",
+				"headline": "<h4 style='font-size:.8em;line-height: .92em;'>San Joaquin Marsh Wildlife Sanctuary</h4><font style='line-height: 1em;' size=6>Irvine Ranch Water District</font>",
 				"text": "This hike takes you through a series of short trails on a marsh that used to be a duck hunting grounds in the 1940's. San Diego Creek runs through the marsh. The ponds on the marsh serve as a filter to treat the creek water before it reaches Newport Back Bay. The Irvine Ranch Water District made the land open to the public in 2009."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>To Park</h6> <small style='color:red;'>Turn Left</small>",
+				"headline": "To Park <br><small style='color:red;'>Turn Left</small>",
 				"text": "Enter Riparian View from Campus Dr (not Michelson Dr) and go all the way down to the stop sign then turn left. Then turn left again here into this opening with the houses. If it's full there's additional parking to the right."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at Picnic Tables</h6><small style='color:red;'>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></small>",
+				"headline": "Park at Picnic Tables<br><small>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></small>",
 				"text": "Park here at the picnic tables. The Duck Club is directly behind them. Bathrooms are to the right."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li></ul></small>",
 				"text": "Take this trail that leads to the lawn behind the Duck Club."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go past the gardens on the right. Head towards the information board seen in the distance."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Here</h6>",
+				"headline": "Enter Here",
 				"text": "Go through this opening and cross the trail to the pond."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "Enjoy views of the pond."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left taking the path on the left."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoys the Views</h6>",
+				"headline": "Enjoys the Views",
 				"text": "Enjoys views of the pond. It's the same pond seen earlier, at another viewpoint."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left onto the main trail."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go past the trail on the right."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veer Right</h6>",
+				"headline": "Veer Right",
 				"text": "Turn right at this dead end."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right again at the next chance."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Split</h6>",
+				"headline": "Trail Split",
 				"text": "Stay on the trail to the right."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Keep going straight passing the trail on the right."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Pond</h6>",
+				"headline": "Pond",
 				"text": "A view of another pond. Continue straight."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Split</h6>",
+				"headline": "Trail Split",
 				"text": "Another trail split. This time stay to the left."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Boardwalk</h6>",
+				"headline": "Enter Boardwalk",
 				"text": "Take this bridge. It's called the Boardwalk on maps."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "The boardwalk is a little over 500 feet."
 			}
 			},
@@ -369,7 +369,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right after crossing the boardwalk."
 			}
 			},
@@ -387,7 +387,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Right</h6>",
+				"headline": "Stay Right",
 				"text": "Stay on the trail to the right."
 			}
 			},
@@ -405,7 +405,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veering Right</h6>",
+				"headline": "Veering Right",
 				"text": "The trail will naturally veer right."
 			}
 			},
@@ -423,7 +423,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right when you get to the pond."
 			}
 			},
@@ -441,7 +441,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veering Left</h6>",
+				"headline": "Veering Left",
 				"text": "The trail will naturally veer left."
 			}
 			},
@@ -459,7 +459,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here."
 			}
 			},
@@ -477,7 +477,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Intersection</h6>",
+				"headline": "Intersection",
 				"text": "Go past the 4-way trail intersection."
 			}
 			},
@@ -495,7 +495,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right when you get to this Information Board."
 			}
 			},
@@ -513,7 +513,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left parallel with the brick wall."
 			}
 			},
@@ -531,7 +531,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left to exit going back to the Duck Club lawn and then to the parking lot."
 			}
 			}
