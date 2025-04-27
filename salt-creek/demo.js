@@ -27,7 +27,7 @@
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:1.25em;line-height: .92em;'>Salt Creek Trail</h4><font style='line-height: 1em;' color=red size=6>Pooch Park to Chapparosa Park</font>",
+				"headline": "Salt Creek Trail<small>Pooch Park to Chapparosa Park<br>Laguna Niguel, CA</small>",
 				"text": "<b>This trail</b> loops through a small portion of the Salt Creek Trail in Laguna Niguel starting at a dog park parking lot just off Golden Lantern Boulevard. The full extent of the trail goes to Salt Creek Beach in Dana Point and up through Aliso Viejo to the north."
 			}
 			},
@@ -45,7 +45,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Park at</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/5xpqAzdpGaa5eRt66'><i>Pooch Park Parking↗</i></a></small>",
+				"headline": "Park at <small><a href='https://maps.app.goo.gl/5xpqAzdpGaa5eRt66'><i>Pooch Park Parking↗</i></a></small>",
 				"text": "Park in the free public parking lot off Golden Lantern Boulevard. It has a sign that says Pooch Park Parking. The lot is used by people using the trails and for the dog park nearby."
 			}
 			},
@@ -63,7 +63,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>1.25 mile loop</li><li>Unshaded multi-use trail with modest hills</li></ul></small>",
+				"headline": "Starting Point<small><ul><li>1.25 mile loop</li><li>Unshaded multi-use trail with modest hills</li></ul></small>",
 				"text": "Once parked, start the trail here. It looks like a bike trail but is intended for both cycling and hiking."
 			}
 			},
@@ -81,7 +81,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "A tunnel will be on the right a few feet ahead. Go straight past it."
 			}
 			},
@@ -99,7 +99,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>San Juan Canyon</h6>",
+				"headline": "San Juan Canyon",
 				"text": "Look left once at this point and get a nice view of the canyon."
 			}
 			},
@@ -117,7 +117,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Informational Signs</h6>",
+				"headline": "Informational Signs",
 				"text": "Continue straight or stop here to read the signs and for a view looking into the canyon."
 			}
 			},
@@ -135,7 +135,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "There will be another trail coming in on the left. Go past it. It will be taken on the loop back."
 			}
 			},
@@ -153,7 +153,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Keep Going</h6>",
+				"headline": "Keep Going",
 				"text": "Keep going on the trail. There will be a couple winds and turns."
 			}
 			},
@@ -171,7 +171,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left to take the trail on the left. This is still considered the Salt Creek Trail."
 			}
 			},
@@ -189,7 +189,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Downhill</h6>",
+				"headline": "Downhill",
 				"text": "You are now going down into the canyon."
 			}
 			},
@@ -207,7 +207,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here. Going straight dead ends into the Chapparosa Park playground."
 			}
 			},
@@ -225,7 +225,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left here. You are now at the canyon floor and will begin a modest elevation gain."
 			}
 			},
@@ -243,7 +243,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Uphill</h6>",
+				"headline": "Uphill",
 				"text": "The uphill may take longer than expected although still should be ok."
 			}
 			},
@@ -261,7 +261,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right and rejoin the main trail once at the top to go back to the parking lot."
 			}
 			},
@@ -279,7 +279,7 @@
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The End</h6>",
+				"headline": "The End",
 				"text": "One last look at the canyon before heading out."
 			}
 			},
