@@ -42,10 +42,10 @@ let demojs={
 				"lat":  33.660844733475315, 
 				"line": false,
 				"lon": -117.84074849805563,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
-				"headline": "To Park <br><small style='color:red;'>Turn Left</small>",
+				"headline": "To Park <br><small>Turn Left</small>",
 				"text": "Enter Riparian View from Campus Dr (not Michelson Dr) and go all the way down to the stop sign then turn left. Then turn left again here into this opening with the houses. If it's full there's additional parking to the right."
 			}
 			},
@@ -60,7 +60,7 @@ let demojs={
 				"lat":  33.66052548661836, 
 				"line": false,
 				"lon": -117.84117631039452,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Park at Picnic Tables<br><small>Park at the <a href='https://maps.app.goo.gl/TdMhCnGB6eHf1pzE6' target='_blank'><i>The Duck Club↗</i></a></small>",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.66046186035651,  
 				"line": false,
 				"lon": -117.84142709693293,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point<small><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li></ul></small>",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 33.660239726191264, 
 				"line": false,
 				"lon": -117.8418870957785,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 	33.6599238258702, 
 				"line": false,
 				"lon": -117.8421124013317,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Here",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 	33.659891454392664, 
 				"line": false,
 				"lon": -117.84220761976209,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the Views",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.66040269905384, 
 				"line": false,
 				"lon": -117.84283257446104,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.66051655662007, 
 				"line": false,
 				"lon": -117.84318126162674,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoys the Views",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.66073757381853, 
 				"line": false,
 				"lon": -117.84334219416476,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.66121644248576, 
 				"line": false,
 				"lon": -117.84392825684719,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.66158468723672,  
 				"line": false,
 				"lon": -117.84456640821304,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.66185035101134, 
 				"line": false,
 				"lon": -117.84469649535161,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.661937633369924,  
 				"line": false,
 				"lon": -117.84463613830401,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Trail Split",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.66283674433563, 
 				"line": false,
 				"lon": -117.8437310607789,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.66342692737172,  
 				"line": false,
 				"lon": -117.84314788183468,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Pond",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.663952956922465, 
 				"line": false,
 				"lon": -117.84266890600932,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Trail Split",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.66421861338341, 
 				"line": false,
 				"lon": -117.84242482499062,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enter Boardwalk",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.6645054768015, 
 				"line": false,
 				"lon": -117.84226657465717,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Going",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.66518523880224, 
 				"line": false,
 				"lon": -117.84185485557155,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.66520365592814, 
 				"line": false,
 				"lon": -117.84154573098448,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Right",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.6645713324703, 
 				"line": false,
 				"lon": -117.8403756173033,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veering Right",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.663880403550934, 
 				"line": false,
 				"lon": -117.84106561557091,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.66409917970245, 
 				"line": false,
 				"lon": -117.84246639922938,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veering Left",
@@ -456,7 +456,7 @@ let demojs={
 				"lat": 33.66291432158114, 
 				"line": false,
 				"lon": -117.84360902026755,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -474,7 +474,7 @@ let demojs={
 				"lat": 33.66247899514034, 
 				"line": false,
 				"lon": -117.84304106251065,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Intersection",
@@ -492,7 +492,7 @@ let demojs={
 				"lat": 33.66165577565408, 
 				"line": false,
 				"lon": -117.84186021999342,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -510,7 +510,7 @@ let demojs={
 				"lat": 33.66054063380994,  
 				"line": false,
 				"lon": -117.84285850856445,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -528,7 +528,7 @@ let demojs={
 				"lat": 33.65998918185819, 
 				"line": false,
 				"lon": -117.84223150663398,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
