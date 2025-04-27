@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Bommer Canyon (Regular Access)<small>Irvine, CA</small>",
-				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring athlough can be very brown at other times of the year."
+				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring although can be very brown at other times of the year."
 			}
 			},
 			{
