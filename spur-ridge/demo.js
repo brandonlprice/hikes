@@ -18,8 +18,8 @@ let demojs={
                 	},	
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
-				"caption": "<i>Spur Ridge Scenic Lookout, Laguna Beach, Summer 2023</i>",
+				"url": "https://www.dropbox.com/scl/fi/a14vj1pcz0pszgrnrcohy/spur_ridge_2.mp4?rlkey=5uz3wqx98zpi2rs46t4zvzbdq&st=121nrffa&raw=1",
+				"caption": "<i>Spur Ridge Scenic Lookout Hike, Laguna Beach, Summer 2023</i>",
 				"credit": ""
 			},
 			"type": "overview",
