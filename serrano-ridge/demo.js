@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>Laguna Coast Wilderness, North Loop</h4>",
+				"headline": "Laguna Coast Wilderness, North Loop<small>Laguna Beach, CA</small>",
 				"text": "This hike is comprised of 4 different trails that loop around the northside of Laguna Coast Wilderness Park. The park itself is the largest preserve in coastal Orange County although this part is farthest from the ocean. There is about 875' of total elevation gain on this hike with mostly exposed and unshaded trails."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6> <small style='color:red;'><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain, two 400' inclines</li><li>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><i>Nix Nature Center Parking Lot↗</i></a><br>(3.00 fee, pay at kiosk)</li><li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point <small><ul><li>4.8 mile loop</li><li>Hilly hike on even terrain, two 400' inclines</li><li>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><i>Nix Nature Center Parking Lot↗</i></a><br>(3.00 fee, pay at kiosk)</li><li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Start hike here after parking."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Left</h6>",
+				"headline": "Stay Left",
 				"text": "Stay left to enter the Little Sycamore Trail at this split. If you go right on Mary's Trail, it just takes slightly longer. It will merge back into the Little Sycamore Trail after a few hundred feet."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continue on Little Sycamore</h6>",
+				"headline": "Continue on Little Sycamore",
 				"text": "This is where Mary's Trail merges back into the Little Sycamore Trail."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Deeper into Canyon</h6>",
+				"headline": "Deeper into Canyon",
 				"text": "After about 1/4 mile, it will start to feel more like you are in a canyon."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "There are a few bridges in the canyon for water to travel underneath. Water is only present after it rains though."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Bridge Crossing</h6>",
+				"headline": "Bridge Crossing",
 				"text": "Another bridge crossing."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ascending</h6>",
+				"headline": "Ascending",
 				"text": "The trail begins to ascend out of the canyon up a hill."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Approaching the ridge</h6>",
+				"headline": "Approaching the ridge",
 				"text": "Nearing the end of the first ascend."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "You made it to the top. The first of two 400' inclines. Turn left heading west on the Serrano Ridge Trail."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Coasting Along</h6>",
+				"headline": "Coasting Along",
 				"text": "Continue the easy coast on the ridge."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Rolling Inclines</h6>",
+				"headline": "Rolling Inclines",
 				"text": "There are a few manageable rolling hills on the ridge further in."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Trail Meandering</h6>",
+				"headline": "Trail Meandering",
 				"text": "The Serrano Ridge Trail meanders back and forth towards the end."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nice Views</h6>",
+				"headline": "Nice Views",
 				"text": "Enjoy the views while on the top."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Away</h6>",
+				"headline": "Straight Away",
 				"text": "A short straight away section."
 			}
 			},
@@ -297,7 +297,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Descend After Turn</h6>",
+				"headline": "Descend After Turn",
 				"text": "The descend starts after turning right."
 			}
 			},
@@ -315,7 +315,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Left</h6>",
+				"headline": "Turn Left",
 				"text": "Turn left onto the Camarillo Trail. There will be signs."
 			}
 			},
@@ -333,7 +333,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Continued Descend</h6>",
+				"headline": "Continued Descend",
 				"text": "The descend continues on the Camarillo Trail."
 			}
 			},
@@ -351,7 +351,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Switch Back</h6>",
+				"headline": "Switch Back",
 				"text": "After turning left here, the trail will switch back and forth as you continue the descend."
 			}
 			},{
@@ -368,7 +368,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Rocky Terrain</h6>",
+				"headline": "Rocky Terrain",
 				"text": "The terrain going down will also become rocky."
 			}
 			},
@@ -386,7 +386,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Almost at Ground Level</h6>",
+				"headline": "Almost at Ground Level",
 				"text": "The switch backs are over at this point. A little more declining before reaching the ground floor."
 			}
 			},
@@ -404,7 +404,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enter Flat Section</h6>",
+				"headline": "Enter Flat Section",
 				"text": "A nice flat section after the decline."
 			}
 			},
@@ -422,7 +422,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Shaded Relief</h6>",
+				"headline": "Shaded Relief",
 				"text": "Some short lived shade in this section."
 			}
 			},
@@ -440,7 +440,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Meadow Land</h6>",
+				"headline": "Meadow Land",
 				"text": "Once past the trees is a nice meadow."
 			}
 			},
@@ -458,7 +458,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Straight</h6>",
+				"headline": "Go Straight",
 				"text": "Go straight here towards the cone in the photo at this Stagecoach Trail sign. DO NOT TURN RIGHT."
 			}
 			},
@@ -476,7 +476,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Go Past Fence</h6>",
+				"headline": "Go Past Fence",
 				"text": "Go around or step over the small fence barrier seen in the distance. It's purpose is not known."
 			}
 			},
@@ -494,7 +494,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Follow the Signs</h6>",
+				"headline": "Follow the Signs",
 				"text": "Go left as the sign indicates on the Stagecoach Trail towards the Nix Center. The second 400' incline begins here."
 			}
 			},
@@ -512,7 +512,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Straight Uphill</h6>",
+				"headline": "Straight Uphill",
 				"text": "The incline starts out just going straight up with little meandering."
 			}
 			},
@@ -530,7 +530,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Meandering</h6>",
+				"headline": "Meandering",
 				"text": "A meandering incline followed by another straight up incline."
 			}
 			},
@@ -548,7 +548,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Intermittent Flat Section</h6>",
+				"headline": "Intermittent Flat Section",
 				"text": "A brief flat section during the incline up the hill."
 			}
 			},
@@ -566,7 +566,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Section</h6>",
+				"headline": "Steep Section",
 				"text": "One of the steeper sections on the climb up."
 			}
 			},
@@ -584,7 +584,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Veering Right</h6>",
+				"headline": "Veering Right",
 				"text": "The trail veers to the right at this point heading east back towards the parking lot."
 			}
 			},
@@ -602,7 +602,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mellow Incline</h6>",
+				"headline": "Mellow Incline",
 				"text": "The incline begins to mellow out here."
 			}
 			},
@@ -620,7 +620,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Mellow Incline</h6>",
+				"headline": "Mellow Incline",
 				"text": "Keep going."
 			}
 			},
@@ -638,7 +638,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing End of Incline</h6>",
+				"headline": "Nearing End of Incline",
 				"text": "Almost done with the incline."
 			}
 			},
@@ -656,7 +656,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Start Descend</h6>",
+				"headline": "Start Descend",
 				"text": "The descension back down to the parking lot starts here."
 			}
 			},
@@ -674,7 +674,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Semi Rocky Terrain</h6>",
+				"headline": "Semi Rocky Terrain",
 				"text": "You will encounter some rocky terrain going downhill but not like earlier in the trail."
 			}
 			},
@@ -692,7 +692,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Switch Back</h6>",
+				"headline": "Switch Back",
 				"text": "A series of switch backs that meander back and forth down the hill starts here."
 			}
 			},
@@ -710,7 +710,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Watch Footing</h6>",
+				"headline": "Watch Footing",
 				"text": "Watch your footing as you go down."
 			}
 			},
@@ -728,7 +728,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Semi Straight Away</h6>",
+				"headline": "Semi Straight Away",
 				"text": "The first series of switch backs down the hill ends here."
 			}
 			},
@@ -746,7 +746,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Another Switch Back</h6>",
+				"headline": "Another Switch Back",
 				"text": "The second series of switch backs starts here."
 			}
 			},
@@ -764,7 +764,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Glimpse of Parking Lot</h6>",
+				"headline": "Glimpse of Parking Lot",
 				"text": "The parking lot will come into view."
 			}
 			},
@@ -782,7 +782,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>State Route 133</h6>",
+				"headline": "State Route 133",
 				"text": "Highway 133 will also appear."
 			}
 			},
@@ -800,7 +800,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Nearing End of Hike</h6>",
+				"headline": "Nearing End of Hike",
 				"text": "The Nix Nature Center and the parking lot are now both in plain view."
 			}
 			},
@@ -818,7 +818,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Ground Floor</h6>",
+				"headline": "Ground Floor",
 				"text": "The decline is now over and the final few hundred feet left will be flat."
 			}
 			},
@@ -836,7 +836,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Exit</h6>",
+				"headline": "Exit",
 				"text": "Exit the trail here. You can rest at one of the benches near the start of the hike."
 			}
 			}
