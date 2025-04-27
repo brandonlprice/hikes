@@ -19,7 +19,7 @@
 			"date": "Jan 2006",
 			"media": {
 				"url": "https://en.wikipedia.org/wiki/Salt_Creek_(Orange_County)",
-				"caption": "<i>View of San Juan Canyon from Salt Creek Trail</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"type": "overview",
