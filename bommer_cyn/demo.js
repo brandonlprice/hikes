@@ -19,7 +19,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "https://en.wikipedia.org/wiki/Bommer_Canyon",
-				"caption": "<i>Bommer Canyon, Nature Loop Trl, Irvine, CA, Summer 2022</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"type": "overview",
