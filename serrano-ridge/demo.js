@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Laguna Coast Wilderness, North Loop<small>Laguna Beach, CA</small>",
+				"headline": "Laguna Coast Wilderness, North Loop<small>Laguna Coast Wilderness Park</small>",
 				"text": "This hike is comprised of 4 different trails that loop around the northside of Laguna Coast Wilderness Park. The park itself is the largest preserve in coastal Orange County although this part is farthest from the ocean. There is about 875' of total elevation gain on this hike with mostly exposed and unshaded trails."
 			}
 			},
