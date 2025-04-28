@@ -232,7 +232,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_5400_2_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/lit761hbkrbmo5218h99l/spur_ridge.mp4?rlkey=8o9wc27ze4om7bkoxzqidxbdg&st=8wggfdlb&raw=1",
 				"caption": "<i>Spur Ridge Scenic Lookout</i>",
 				"credit": ""
 			},
