@@ -246,6 +246,24 @@ let demojs={
 				"headline": "Scenic Lookout",
 				"text": "Enjoy the lookout :) When ready, head back the same way you came. There will be nice views on the way out too!"
 			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "https://www.dropbox.com/scl/fi/sspu40vlmkt6eeo779jey/IMG_2398.mp4?rlkey=djpzheoq7zd3695adwwff6u65&st=7ws18t13&raw=1",
+				"caption": "<i>Spur Ridge Scenic Lookout</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.55375702322952, 
+				"line": false,
+				"lon": -117.79926148228665,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Scenic Lookout",
+				"text": "Enjoy the lookout :) When ready, head back the same way you came. There will be nice views on the way out too!"
+			}
 			} 
 		]
 	}
