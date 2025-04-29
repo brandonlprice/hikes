@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking <small>At the end of <a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St, Laguna Beach↗</i></a></small>",
+				"headline": "Parking <small>At the end of <u><a href='https://maps.app.goo.gl/apAV2ZDUqDbNwuGN8' target='_blank'><i>Dartmoor St, Laguna Beach↗</i></a></u></small>",
 				"text": "Free residential parking on Dartmoor St. On the weekends, you may have to park further away from the trail entrance if a lot of spots have been taken."
 			}
 			},
