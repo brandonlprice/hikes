@@ -96,7 +96,7 @@ let demojs={
 				"lat": 33.551415864499646, 
 				"line": false,
 				"lon": -117.79487985703275,
-				"zoom": 20
+				"zoom": 19
 			},
 			"text": {
 				"headline": "Head Uphill",
