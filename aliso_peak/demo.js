@@ -162,7 +162,7 @@ let demojs={
 				"lat": 	33.512853,   
 				"line": false,
 				"lon": -117.737487,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Clear Ocean Views",
