@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.55292750982752, 
 				"line": false,
 				"lon": -117.79595815170714,
-				"zoom": 20
+				"zoom": 19
 			},
 			"text": {
 				"headline": "Gradual Incline",
