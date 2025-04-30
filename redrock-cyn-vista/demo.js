@@ -298,7 +298,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Brown Brush",
-				"text": "Still on the second uphill segment. The vegetation is now disturbed looing and no longer green."
+				"text": "Still on the second uphill segment. The vegetation is now disturbed looking and no longer green."
 			}
 			},
 			{
@@ -316,7 +316,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Brown Brush",
-				"text": "Still on the second uphill segment. The vegetation is now disturbed looing and no longer green."
+				"text": "Still on the second uphill segment. The vegetation is now disturbed looking and no longer green."
 			}
 			},
 			{
@@ -423,8 +423,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Views",
-				"text": "Enjoy the views while at the top before heading back."
+				"headline": "Leaving the vista",
+				"text": "Enjoy the views while heading back downhill."
 			}
 			}
 		]
