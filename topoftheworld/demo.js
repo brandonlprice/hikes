@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "<h4 style='color: red;font-size:.9em;line-height: .92em;'>West Ridge Trail to Top of the World</h4>",
+				"headline": "West Ridge Trail to Top of the World<small>Laguna Beach, CA</small>",
 				"text": "This trail takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are four ways to get there: via the West Ridge Trail (like in this example), the Canyon Acres Trail, an unnamed trail off Park Ave, or driving there (most popular)."
 			}
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Parking</h6> <small style='color:red;'><a href='https://maps.app.goo.gl/Ck56mjSEaK86Hbxt5' target='_blank'><i>Park on Hollyleaf Aliso Viejo, CA 92656↗</i></a></small>",
+				"headline": "Parking <small><a href='https://maps.app.goo.gl/Ck56mjSEaK86Hbxt5' target='_blank'><i>Park on Hollyleaf Aliso Viejo, CA 92656↗</i></a></small>",
 				"text": "Park on Hollyeaf where it changes to a cul-de-sac. It's better to park on the side with no houses out of courtesy to residents."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Starting Point</h6><small style='color:red;'><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Point<small><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Once parked, start at this access route at the beginning of the cul-de-sac."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Short Uphill</h6>",
+				"headline": "Short Uphill",
 				"text": "Keep going. It is a short uphill."
 			}
 			},
@@ -99,7 +99,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>West Ridge Trail</h6>",
+				"headline": "West Ridge Trail",
 				"text": "At the top will be the West Ridge trail entrance. Turn right here and take this for 2 miles until reaching the destination. If you inadvertently take another trail, you will know right away because you will be declining off the ridge."
 			}
 			},
@@ -117,7 +117,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>The West Ridge Trail</h6>",
+				"headline": "The West Ridge Trail",
 				"text": "It will look like this the entire way."
 			}
 			},
@@ -135,7 +135,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Enjoy the Views</h6>",
+				"headline": "Enjoy the Views",
 				"text": "Wood Canyon wilderness on the left (as pictured), Laguna Canyon Rd on the right."
 			}
 			},
@@ -153,7 +153,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Stay Straight</h6>",
+				"headline": "Stay Straight",
 				"text": "A fairly straight forward pathway to the destination."
 			}
 			},
@@ -171,7 +171,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Steep Inclines</h6>",
+				"headline": "Steep Inclines",
 				"text": "You will encounter a few rolling inclines further into the hike. They are not as steep on the way back. Mountain bikers use the inclines to practice."
 			}
 			},
@@ -189,7 +189,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right at this T-junction to continue on West Ridge. Going left puts you on the the Mathis Canyon Trail which goes downhill. <a href='images/IMG_7.jpg' target='_blank'><i>A photo looking back at the incline</i></a>."
 			}
 			},
@@ -207,7 +207,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>More Uphill</h6>",
+				"headline": "More Uphill",
 				"text": "A final uphill before the summit. It is more gradual than the previous inclines."
 			}
 			},
@@ -225,7 +225,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Entering the Summit</h6>",
+				"headline": "Entering the Summit",
 				"text": "Turn right here. You'll feel like you're leaving the park and entering back into the city."
 			}
 			},
@@ -243,7 +243,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Follow the Trail</h6>",
+				"headline": "Follow the Trail",
 				"text": "The trail loops around in the opposite direction."
 			}
 			},
@@ -261,7 +261,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Turn Right</h6>",
+				"headline": "Turn Right",
 				"text": "Turn right here for a shortcut to the summit. Going straight also takes you there, but adds a few extra feet."
 			}
 			},
@@ -279,7 +279,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "<h6 style='color:red;'>Top of the World</h6>",
+				"headline": "Top of the World",
 				"text": "Soak in the 360° views. Santa Ana Mountains to the north and the ocean to the south. Elevation is 1,036 feet. Nothing within several miles is taller than this summit. Take the same way back."
 			}
 			} 
