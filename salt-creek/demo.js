@@ -5,7 +5,7 @@
 		"call_to_action": false,
 		"show_history_line":false,
 		"zoomify": false,
-		"map_type": "http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
+		"map_type": "https://mt1.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}",
 		"call_to_action_text": "",
 		"map_as_image": false,
 		"map_subdomains":"xyz",
