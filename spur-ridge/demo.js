@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.55579779707898, 
 				"line": false,
 				"lon": -117.7968059199372,
-				"zoom": 20
+				"zoom": 19
 			},
 			"text": {
 				"headline": "Accelerated Incline",
