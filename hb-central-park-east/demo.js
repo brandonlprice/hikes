@@ -225,8 +225,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Pond 1",
-				"text": "A nice pond with benches to rest at. The ponds here all connect by streams and comprise Talbert Lake. Keep going when done."
+				"headline": "Talbert Lake",
+				"text": "A nice place to view the lake. Keep going when done."
 			}
 			},
 				{
@@ -297,8 +297,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Pond 2",
-				"text": "The second pond. Usually duck families are present here."
+				"headline": "View 2 of Talbert Lake",
+				"text": "The second view. Usually duck families are present here."
 			}
 			},
 			{
