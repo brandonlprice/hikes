@@ -394,7 +394,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9054_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/87typ4dp4qailwwsbjgkz/red_rock_vista_2.mp4?rlkey=a0d37suw7a7mysqewg7yu2mka&st=ezexy9hy&raw=1",
 				"caption": "<i>Vista Lookout, facing south</i>",
 				"credit": ""
 			},
