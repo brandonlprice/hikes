@@ -408,6 +408,24 @@ let demojs={
 				"headline": "Enjoy the Hike Back",
 				"text": "Take this ridge trail you took on the way in back to the Woods End trail which will take you back to the entrance."
 			}
+			},
+			{
+			"date": "",
+			"media": {
+				"url": "https://www.dropbox.com/scl/fi/fn5j4vo6mjqzrer80wu0i/barbaras_lake-end.mp4?rlkey=i7vd4m0sr92yq7suoyzsbnh44&st=sxlk2f1d&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.604537, 
+				"line": false,
+				"lon": -117.752139,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Enjoy the Hike Back",
+				"text": "Take this ridge trail you took on the way in back to the Woods End trail which will take you back to the entrance."
+			}
 			}
 		]
 	}
