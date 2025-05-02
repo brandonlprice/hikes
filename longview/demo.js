@@ -628,7 +628,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9302_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/rhsrjwea2kmqpf5ova5o1/longview_summit.mp4?rlkey=nyqsiyp9r6x5niihg8j9alerm&st=o4yuy753&raw=1",
 				"caption": "",
 				"credit": ""
 			},
