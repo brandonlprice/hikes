@@ -106,6 +106,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/w4ihp1hnuzzjoad84ko1z/IMG_9376.JPG?rlkey=xy1l0xl67m71q592uupg4dbtk&st=ovojthk8&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.5019941,
+				"line": false,
+				"lon": -117.7318337,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Turn Right",
+				"text": "Take these stairs down into the \"Badlands\""
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9379_11zon.jpg",
 				"caption": "",
 				"credit": ""
