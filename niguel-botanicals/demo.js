@@ -286,6 +286,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/xlfu79v43xkcwhx0owmdy/IMG_9344.JPG?rlkey=l5bhg6z4uz2r7fhp0g8es1i9b&st=ovslyl9g&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.53310715184807, 
+				"line": false,
+				"lon": -117.71058590508838,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "South African Overlook",
+				"text": "You can take this pathway for a short detour to another overlook before turning right."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9349_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
