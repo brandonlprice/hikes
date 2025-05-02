@@ -250,6 +250,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/zubmjequ4ulw3m2v7axaw/badlands_4.mp4?rlkey=mqvx8652bq1o0d6d7g1rbdhy0&st=gqpakky9&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.4995,
+				"line": false,
+				"lon": 	-117.7336,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Enjoy the View",
+				"text": "Use caution. No barriers exist to prevent falling down the slope."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/B5674BF1-5CD2-4470-9893-79B3A66F2B61_11zon.jpeg",
 				"caption": "",
 				"credit": ""
