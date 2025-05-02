@@ -381,7 +381,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://www.dropbox.com/scl/fi/3lfsiu7vezjcqtgif4h41/bommer_special_3.mp4?rlkey=ml6ck0dz8jjpbiybb574a9cq5&st=5cdqwhep&raw=1",
+				"url": "https://www.dropbox.com/scl/fi/jxoe7u10mjivf93smq3s1/bommer_special_4.mp4?rlkey=6gdoptz7etqlweirazkge30rt&st=597045l9&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
@@ -397,24 +397,6 @@ let demojs={
 			}
 			},	
 			{
-			"date": "",
-			"media": {
-				"url": "images/IMG_8989_11zon.jpg",
-				"caption": "<i></i>",
-				"credit": ""
-			},
-			"location": {
-				"lat": 33.61932983345523, 
-				"line": false,
-				"lon": -117.79742595027012,
-				"zoom": 19
-			},
-			"text": {
-				"headline": "Slow Descend",
-				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it's still a ways out."
-			}
-			},
-				{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8992_11zon.jpg",
