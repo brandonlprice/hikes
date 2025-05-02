@@ -322,6 +322,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/dzzlwdttr4409c23fym6e/badlands_5.mp4?rlkey=39nznjxjjgqun50xbko76mr5j&st=mud099au&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 	33.49924,
+				"line": false,
+				"lon": -117.733059,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Turn Right",
+				"text": "Turn right here where this railing is. The ocean is now more distant."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9404_11zon.jpg",
 				"caption": "",
 				"credit": ""
