@@ -378,7 +378,25 @@ let demojs={
 				"text": "The trails briefly splits here, but quickly re-joins back together. It does not matter which way you go. The signage makes the split seem more significant than it is."
 			}
 			},
-				{
+			{
+			"date": "",
+			"media": {
+				"url": "https://www.dropbox.com/scl/fi/3lfsiu7vezjcqtgif4h41/bommer_special_3.mp4?rlkey=ml6ck0dz8jjpbiybb574a9cq5&st=f8i95nyo&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.61932983345523, 
+				"line": false,
+				"lon": -117.79742595027012,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Slow Descend",
+				"text": "Views of the county are now out of view and the Cattle Camp will appear even though it's still a ways out."
+			}
+			},	
+			{
 			"date": "",
 			"media": {
 				"url": "images/IMG_8989_11zon.jpg",
