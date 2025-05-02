@@ -18,7 +18,7 @@ let demojs={
                 	},	
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
+				"url": "https://www.dropbox.com/scl/fi/rhsrjwea2kmqpf5ova5o1/longview_summit.mp4?rlkey=nyqsiyp9r6x5niihg8j9alerm&st=o4yuy753&raw=1",
 				"caption": "<i>Longview Park, Laguna Niguel, Fall 2021</i>",
 				"credit": ""
 			},
