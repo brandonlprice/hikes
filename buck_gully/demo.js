@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Buck Gully Loop",
-				"text": "The Buck Gully trail is located in the Newport Coast neighborhood of Newport Beach and is managed by the city of Newport Beach. The Buck Gully trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example."
+				"text": "The Buck Gully trail is in the Newport Coast community of Newport Beach and is managed by the city. The trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example."
 			}
 			},
 			{
@@ -250,7 +250,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9942_11zon.jpg",
+				"url": "https://www.dropbox.com/scl/fi/jcb7o6h9neepoyritapch/buck_gully.mp4?rlkey=cknwxbzgwu3ws82xkwffvwt44&st=ria2wnkq&raw=1",
 				"caption": "<i></i>",
 				"credit": ""
 			},
