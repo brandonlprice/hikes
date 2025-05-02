@@ -297,8 +297,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "View 2 of Talbert Lake",
-				"text": "The second view. Usually duck families are present here."
+				"headline": "View No. 2 of Lake",
+				"text": "The second view of Talbert Lake. Usually duck families are present here."
 			}
 			},
 			{
