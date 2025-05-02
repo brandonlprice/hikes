@@ -250,7 +250,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "https://www.dropbox.com/scl/fi/jcb7o6h9neepoyritapch/buck_gully.mp4?rlkey=cknwxbzgwu3ws82xkwffvwt44&st=ria2wnkq&raw=1",
+				"url": "images/IMG_9942_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
 			},
