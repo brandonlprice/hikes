@@ -322,6 +322,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/rjr6nr0ptj9eusomnhgfj/red_rock_vista_cityview.mp4?rlkey=zg16xoxave0k504ivhth25y8u&st=5dko9zxt&raw=1",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.6965627621342, 
+				"line": false,
+				"lon": -117.65442525397148,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Brown Brush",
+				"text": "Still on the second uphill segment. The vegetation is now disturbed looking and no longer green."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9040_11zon.jpg",
 				"caption": "",
 				"credit": ""
