@@ -232,6 +232,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/smoz0mfl4iyanqc8hel0k/IMG_9070.mp4?rlkey=ei67dcjnlpclm3mt4tphhdwdg&st=hlhibhtz&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.6979751182506,  
+				"line": false,
+				"lon": -117.65056135946625,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Stay Straight",
+				"text": "Go straight past this trail sign. A sign for the Red Rock Cyn Trail is a few feet down from this. Go past that too."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9069_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
