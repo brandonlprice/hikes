@@ -322,6 +322,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/ans29p597h4imv8n7tg3k/IMG_9086.mp4?rlkey=ebuwlt5x7hr5f73az4a0niy8m&st=ga262xd3&raw=1",
+				"caption": "<i>Top of the World, reaching the summit</i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.70004090615552, 
+				"line": false,
+				"lon": -117.64534626514184,
+				"zoom": 19
+			},
+			"text": {
+				"headline": "Flat Stretch",
+				"text": "Once at the top, enjoy this flat stretch. Views are obstructed by vegetation."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9086 - frame at 0m11s.jpg",
 				"caption": "<i>Top of the World, reaching the summit</i>",
 				"credit": ""
