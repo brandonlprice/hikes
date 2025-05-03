@@ -394,6 +394,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "https://www.dropbox.com/scl/fi/c4opumecip2rdclqtzqp8/puma_ridge_3.mp4?rlkey=4cpzti5urbhz1maj4yag2x289&st=0awo8m9x&raw=1",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.79505222635084,    
+				"line": false,
+				"lon": -117.75671767040383,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Steep Section",
+				"text": "The last part of the descend is the steepest, but it is not too bad."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9194_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
