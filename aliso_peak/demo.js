@@ -139,7 +139,7 @@ let demojs={
 				"lat": 33.51293789084585, 
 				"line": false,
 				"lon": -117.73735037655466,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Left",
