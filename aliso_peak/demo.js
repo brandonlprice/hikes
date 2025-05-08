@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Seaview Park to Aliso Peak<small>Laguna Niguel, CA</small>",
-				"text": "This hike takes you from Seaview Park to Aliso Peak. At 683 feet, this peak is one of the highest elevation points in proximity to the coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park."
+				"text": "This hike takes you from Seaview Park to Aliso Peak. At 683 feet, this peak is one of the highest elevation points in proximity to the coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park.<br>1.6 miles (Out & Back) | Steep Sections, No Shade | 30-45 minutes"
 			}
 			},
 			{
@@ -50,7 +50,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking<br><small><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'>22710, 22740 Talavera Dr, Laguna Niguel, CA 92677↗</a><br><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</a></small>",
+				"headline": "Parking<br><small><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'>22740 Talavera Dr, Laguna Niguel, CA 92677↗</a><br><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</a></small>",
 				"text": "Park at the end of Talavera Dr before reaching the gated community. The trail starts at Seaview Park in Laguna Niguel and ends in Laguna Beach at Aliso Peak."
 			}
 			},
@@ -73,7 +73,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>1.6 miles (Out & Back)</li><li>Very little shade, one moderately steep section</li><li>Duration: 30-45 minutes</li></ul></small>",
+				"headline": "Starting Point",
 				"text": "Start the trail here, at the end of Talavera Drive past Seaview Park on the right side. Enter and go left towards the ocean on the Aliso Peak Trail."
 			}
 			},
