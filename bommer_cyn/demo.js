@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Bommer Canyon (Regular Access)<small>Irvine, CA</small>",
-				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring although can be very brown at other times of the year."
+				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring although can be very brown at other times of the year.<ul><i><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></i></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking<br><small><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u><i>1 Bommer Cayon Rd Irvine, CA 92603↗</i></u></a></small>",
+				"headline": "Parking<br><small><a href='https://maps.app.goo.gl/jvdegXJgNYUBLkk48' target='_blank'><u>1 Bommer Cayon Rd Irvine, CA 92603↗</u></a></small>",
 				"text": "The parking lot at 1 Bommer Canyon Rd does not have a lot of spaces. If full, park at <a href='https://maps.app.goo.gl/Tpn5Z3FfJ7aW4Ern7' target='_blank'><i>Turtle Rock Community Park</i></a> and take the Shady Canyon Connector to the Shady Canyon Trail Bikeway to get to Bommer Canyon."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><i><ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></i></ul></small>",
+				"headline": "Start Here",
 				"text": "Once parked, you'll start behind the bathrooms at this entrance."
 			}
 			},
