@@ -27,8 +27,8 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Bolsa Chica State Ecological Reserve (Southside)<small>Huntington Beach, CA</small>",
-				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. Bolsa Chica State Beach is on the other side."
+				"headline": "Bolsa Chica State Ecological Reserve <small>(Southside)</small><small>Huntington Beach, CA</small>",
+				"text": "This reserve is a state protected marsh/wetlands in north Huntington Beach off Pacific Coast Highway. Bolsa Chica State Beach is on the other side.<ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Duration: 1 hr 15 min</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'><i>18000 CA-1, Huntington Beach, CA 92648↗</i></a></li></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point <small><ul><li>2.9 miles (Out & Back)</li><li>Flat, No Shade</li><li>Duration: 1 hr 15 min</li><li>Park at <a href='https://maps.app.goo.gl/VxUbQYgLZext5o2k8' target='_blank'><i>18000 CA-1, Huntington Beach, CA 92648↗</i></a></li></ul></small>",
+				"headline": "Starting Here",
 				"text": "It's free to park. The parking lot is small, but there still should be a couple spaces open. If not, something should open within a couple minutes. Start the hike at the bridge in the picture."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Out",
+				"headline": "The Beginning",
 				"text": "From the parking lot, take the bridge to the other side. It usually has people bird watching on it."
 			}
 			},
