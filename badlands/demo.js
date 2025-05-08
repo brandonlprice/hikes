@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Badlands Trail<small>Laguna Niguel, CA</small>",
-				"text": "This trail offers some of the best oceanside views in Orange County without requiring much effort"
+				"text": "This trail offers some of the best oceanside views in Orange County without requiring much effort<ul><li>1.5 miles</li><li>Out & Back</li><li>Ocean Views, No Shade</li></ul>"
 			}
 			},
 			{
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Start Here<small><ul><li>1.5 miles</li><li>Out & Back</li><li>Ocean Views, No Shade</li></ul></small>",
+				"headline": "Start Here",
 				"text": "Once parked, go up these stairs."
 			}
 			},
