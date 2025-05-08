@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Aliso Summit Trail<small>Laguna Niguel, CA</small>",
-				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain.<hr><b>5.2 miles (Out & Back)</b> | <b>No Shade, Gradual Elevation Gain, Ocean Views | 2 hours</b> | <b>30-45 minutes</b>"
+				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain.<hr><b>5.2 miles (Out & Back)</b> | <b>No Shade, Gradual Elevation Gain, Ocean Views | 2 hours</b>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Parking<small><ul><li>Park on <a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'>Ridgview Dr near Highlands Ave↗</a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Parking<small><ul><li><a href='https://maps.app.goo.gl/Dqnk1bjsEKhx2tfx5' target='_blank'>Ridgview Dr near Highlands Ave↗</a></li><li><a href='https://www.ocparks.com/alisowood' target='_blank'>Check for Alerts↗</i></a></li></ul></small>",
 				"text": "Residential street parking is on Ridgeview Drive."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>5.2 miles (Out & Back)</li><li>No shade, Gradual elevation gain, Ocean views</li><li>Duration: 2 hrs</li></ul></small>",
+				"headline": "Start Here",
 				"text": "Start the trail at this entrance on Highland Drive. The trail is managed by the local Home Owner's Association."
 			}
 			},
