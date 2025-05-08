@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Seaview Park to Aliso Peak<small>Laguna Niguel, CA</small>",
-				"text": "This hike takes you from Seaview Park to Aliso Peak. At 683 feet, this peak is one of the highest elevation points in proximity to the coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park.<hr><b>1.6 miles (Out & Back)</b> | <b>Steep Sections, No Shade, Ocean View</b> | <b>30-45 minutes</b>"
+				"text": "This hike takes you from Seaview Park to Aliso Peak. At 683 feet, this peak is one of the highest elevation points in proximity to the coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park.<hr><ul><li><b>1.6 miles (Out & Back)</b></li> <li><b>Steep Sections, No Shade, Ocean View</b></li> <li><b>30-45 minutes</b></li></ul>"
 			}
 			},
 			{
