@@ -46,7 +46,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Getting There<br><font style='line-height: 1em;' size=6>Castaways Lane</font>",
-				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign.<br> Parking address <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</a>"
+				"text": "From Castaways Lane, turn right here into the parking lot when you see this sign. Parking address <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</a>"
 			}
 			},
 			{
