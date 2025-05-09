@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Buck Gully Loop",
-				"text": "The Buck Gully trail is in the Newport Coast community of Newport Beach and is managed by the city. The trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example."
+				"text": "The Buck Gully trail is in the Newport Coast community of Newport Beach and is managed by the city. The trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example.<ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point:<small><ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a></li></ul></small>",
+				"headline": "Start Here",
 				"text": "Start the hike on this sidewalk to the right of the parking lot."
 			}
 			},
