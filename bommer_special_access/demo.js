@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Bommer Canyon <small>(Special Access)</small><small>Irvine, CA</small>",
-				"text": "This is a nice hike that goes through the East Fork and Ridge Route trails in Bommer Canyon. It does not get much attention since the East Fork trail can only be accessed on wilderness access days or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike.<ul><li>3.4 mile loop</li><li>Steep sections with brief shaded relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li></ul>"
+				"text": "This is a nice hike that goes through the East Fork and Ridge Route trails in Bommer Canyon. It does not get much attention since the East Fork trail can only be accessed on wilderness access days or via a scheduled hike. Check <a href='https://letsgooutside.org/' target='_blank'><i>letsgooutside.org</i></a> for the next Bommer Canyon wilderness access day or scheduled hike.<ul><b><li>3.4 mile loop</li><li>Steep sections with brief shaded relief</li><li>Duration: 1 ½ hours</li><li>Check for alerts on <a href='https://letsgooutside.org' target='_blank'><i>letsgooutside.org↗</i></a></li></b></ul>"
 			}
 			},
 			{
