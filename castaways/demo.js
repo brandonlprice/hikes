@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Castaways Park<small>Newport Beach, CA</small>",
-				"text": "This is a short hike everyone can do that takes you to viewpoints overlooking Newport Harbor and Newport Back Bay. There is also a veteran memorial statue with a flag. Each year, thousands of United States flags and pictures of veterans are placed throughout the park on Memorial Day."
+				"text": "This is a short hike everyone can do that takes you to viewpoints overlooking Newport Harbor and Newport Back Bay. There is also a veteran memorial statue with a flag. Each year, thousands of United States flags and pictures of veterans are placed throughout the park on Memorial Day. <ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul>"
 			}
 			},
 			{
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point <small><ul><li>.5 mile-loop with option to extend 1 mile</li><li>Flat and open with ocean views</li><li>ADA Accessible with paved pathways</li><li>Parking: <a href='https://maps.app.goo.gl/VZaywRQzbwzkgw527' target='_blank'><i>798 Dover Dr Newport Beach, CA 92663↗</i></a></li></ul></small>",
+				"headline": "Start Here",
 				"text": "Once parked, start the hike here."
 			}
 			},
