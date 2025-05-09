@@ -27,7 +27,7 @@ let demojs={
 				"line": false
 			},
 			"text": {
-				"headline": "Bommer Canyon (Regular Access)<small>Irvine, CA</small>",
+				"headline": "Bommer Canyon <small>(Regular Access)</small><small>Irvine, CA</small>",
 				"text": "This trail in south Irvine is on former cattle grazing grounds. It has very green hills and meadows in the spring although can be very brown at other times of the year.<ul><li>1.8 miles (Partial Loop)</li><li>Duration: 45 minutes</li><li>Mostly flat, No Shade</li></ul>"
 			}
 			},
