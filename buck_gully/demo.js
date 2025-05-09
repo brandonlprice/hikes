@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Buck Gully Loop",
-				"text": "The Buck Gully trail is in the Newport Coast community of Newport Beach and is managed by the city. The trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example.<ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>1 hours</li></ul>"
+				"text": "The Buck Gully trail is in the Newport Coast community of Newport Beach and is managed by the city. The trail is a single-track, but can be hiked in a loop by connecting to other trails like in this example.<ul><li>2.8 mile-loop</li><li>Densely shaded sections, minor inclines, stream crossings</li><li>1 hour</li></ul>"
 			}
 			},
 			{
