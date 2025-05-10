@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Hike to Cave Rock & Dripping Cave<small>Aliso & Wood Canyons Wilderness Park</small>",
-				"text": "This hike is one of the greenest locations to hike in Orange County. The trails taken meander through a valley and a meadow."
+				"text": "This hike is one of the greenest locations to hike in Orange County. The trails taken meander through a valley and a meadow.<ul><b><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></b></ul>"
 			}
 			},
 			{
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point<br><small>Aliso Canyon Rd<ul><li>5 miles (Out & Back)</li><li>Flat meadows with no shade</li><li>Duration: 2 hours</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for alerts↗</i></a></li></ul></small>",
+				"headline": "Start Here<br><small>Aliso Canyon Rd</small>",
 				"text": "Start the hike here by turning left onto Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
