@@ -64,7 +64,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Alternative Parking<br><small>(Free Option)</small>",
-				"text": "You can optionally park for free on the right side of Awma Rd if any spots are available."
+				"text": "Optionally park for free on the right side of Awma Rd if any spots are available."
 			}
 			},
 			{
@@ -82,7 +82,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Start Here<br><small>Aliso Canyon Rd</small>",
-				"text": "Start the hike here by turning left onto Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
+				"text": "Start the hike heading south on Aliso Canyon Rd, where Amwa Rd dead ends. Walk from your car to this location after parking."
 			}
 			},
 			{
