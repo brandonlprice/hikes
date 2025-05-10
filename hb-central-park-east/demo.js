@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Central Park East<small>Huntington Beach, CA</small>",
-				"text": "This is a walk through a semi-natural park."
+				"text": "This is a walk through a semi-natural park.<ul><b><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li></b></ul>"
 			}
 			},
 			{
@@ -45,8 +45,8 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li><li>Parking: <a href='https://maps.app.goo.gl/HrQyGx7XbmZ6fFgp6' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li></ul></small>",
-				"text": "From the parking lot, start the trail here on this sidewalk."
+				"headline": "Start Here",
+				"text": "From the parking lot, start the trail here on this sidewalk.<li>Parking: <a href='https://maps.app.goo.gl/HrQyGx7XbmZ6fFgp6' target='_blank'><i>Slater Ave Parking Lot↗</i></a></li>"
 			}
 			},
 			{
