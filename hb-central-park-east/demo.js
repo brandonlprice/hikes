@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Central Park East<small>Huntington Beach, CA</small>",
-				"text": "This is a walk through a semi-natural park.<ul><b><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li></b></ul>"
+				"text": "This is a walk through a semi-natural park.<ul><font size='3.5'><b><li>1.3 mile-loop</li><li>Paved path with ponds and lots of trees for shade</li><li>Duration: 30 min</li><li>ADA Accessible</li></b></font></ul>"
 			}
 			},
 			{
