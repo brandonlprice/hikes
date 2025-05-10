@@ -46,7 +46,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Start Here",
-				"text": "Start the hike on this sidewalk to the right of the parking lot.<br>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><i>Buck Gully North Parking Lot↗</i></a>"
+				"text": "From the parking lot, start the hike to the right of it on this sidewalk.<br>Park in the <a href='https://maps.app.goo.gl/3dJd9KRpUkzEA8W46' target='_blank'><b>Buck Gully North Parking Lot↗</b></a>"
 			}
 			},
 			{
