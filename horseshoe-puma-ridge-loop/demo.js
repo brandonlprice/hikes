@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><li><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></li></small>",
+				"headline": "Starting Point<small><a href='https://www.ocparks.com/irvinepark' target='_blank'><i>Check for Alerts↗</i></a></small>",
 				"text": "Once parked, start the hike here. This is a short connector trail that connects to the Horseshoe Loop Trail."
 			}
 			},
