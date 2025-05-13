@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Laguna Coast Wilderness, North Loop<small>Laguna Coast Wilderness Park</small>",
-				"text": "This hike is comprised of 4 different trails that loop around the northside of Laguna Coast Wilderness Park. The park itself is the largest preserve in coastal Orange County although this part is farthest from the ocean. There is about 875' of total elevation gain on this hike with mostly exposed and unshaded trails.<ul><font size='5'><li>4.8 mile loop</li><li>Hilly hike on even terrain (Two 400' inclines)</li><li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><i>Check for Alerts↗</i></a></li></font></ul>"
+				"text": "This hike is comprised of 4 different trails that loop around the northside of Laguna Coast Wilderness Park. The park itself is the largest preserve in coastal Orange County although this part is farthest from the ocean. There is about 875' of total elevation gain on this hike with mostly exposed and unshaded trails.<ul><font size='5'><li>4.8 mile loop</li><li>Hilly hike on even terrain (Two 400' inclines)</li><li><a href='https://www.ocparks.com/lagunacoast' target='_blank'><u>Check for Alerts↗</u></a></li></font></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point <br><small>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><i>Nix Nature Center Parking Lot↗</i></a><br>(3.00 fee, pay at kiosk)</small>",
+				"headline": "Start Here<br><small>Park at <a href='https://maps.app.goo.gl/bvm1iEv9ybPQ3Bzb7' target='_blank'><u>Nix Nature Center Parking Lot↗</u></a><br>(3.00 fee, pay at kiosk)</small>",
 				"text": "Start hike here after parking."
 			}
 			},
