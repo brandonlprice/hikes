@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.492789587489376,  
 				"line": false,
 				"lon": -117.69260463772973,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Take the Stairs",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 	33.49313543753258,  
 				"line": false,
 				"lon": -117.6924444835901,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Continue Uphill",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 33.49321682332421, 
 				"line": false,
 				"lon": -117.69222376404902,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Switchback",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 33.493846060733425, 
 				"line": false,
 				"lon": -117.69171270915136,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Halfway",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.49382523929823, 
 				"line": false,
 				"lon": -117.69125280438607,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Nearing the End",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.493632872946684, 
 				"line": false,
 				"lon": -117.6908048754811,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Entering the Summit",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.493578329418625, 
 				"line": false,
 				"lon": -117.69025043661775,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Longview Park",
