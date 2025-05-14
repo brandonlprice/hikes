@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Longview Trail to Longview Park<small>Laguna Niguel, CA</small>",
-				"text": "This trail travels along the edge of a mansion community in Laguna Niguel. It leads to a small summit with an ocean view called Longview Park. Unfortunately, trail access to the park is blocked. The alternatives, are either to end the hike at another summit before reaching the park, take a makeshift route to the park, or take a different route altogther<br><font size='4'>•  3.2 miles   •  Hillside trail, Pockets of shade, Ocean view</font>"
+				"text": "This trail travels along the edge of a mansion community in Laguna Niguel. It leads to a small summit with an ocean view called Longview Park. Unfortunately, trail access to the park is blocked. The alternatives, are either to end the hike at another summit before reaching the park, take a makeshift route to the park, or take a different route altogther<br><font style='line-height:2em;' size='4'>•  3.2 miles   •  Hillside trail, Pockets of shade, Ocean view</font>"
 			}
 			},
 			{
