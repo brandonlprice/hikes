@@ -19,7 +19,7 @@ let demojs={
 			"date": "Jan 2006",
 			"media": {
 				"url": "https://en.wikipedia.org/wiki/Quail_Hill,_Irvine,_California",
-				"caption": "<i>Views of the city along Quail Trail, Spring 2023</i>",
+				"caption": "<i></i>",
 				"credit": ""
 			},
 			"type": "overview",
