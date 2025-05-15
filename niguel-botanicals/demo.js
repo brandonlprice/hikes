@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Niguel Botanical Preserve<small>Laguna Niguel, CA</small>",
-				"text": "This preserve is in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world. It remains a volunteer effort."
+				"text": "This preserve is in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world. It remains a volunteer effort.<ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li></ul>"
 			}
 			},
 			{
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point<small style='color:red;'><ul><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li><li>ADA Accessible</li></ul></small>",
+				"headline": "Starting Point",
 				"text": "Start here, this pathway is just to the left of the Amphitheater. It will have some incline."
 			}
 			},
