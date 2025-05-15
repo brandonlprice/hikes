@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Niguel Botanical Preserve<small>Laguna Niguel, CA</small>",
-				"text": "This preserve is located in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world that grow well in a SoCal climate. It remains a volunteer effort."
+				"text": "This preserve is located in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world. It remains a volunteer effort."
 			}
 			},
 			{
