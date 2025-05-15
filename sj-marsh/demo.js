@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='font-size:.8em;line-height: .92em;'>San Joaquin Marsh Wildlife Sanctuary</h4><font style='line-height: 1em;' size=6>Irvine Ranch Water District</font>",
-				"text": "This hike takes you through a series of short trails on a marsh that used to be a duck hunting grounds in the 1940's. San Diego Creek runs through the marsh. The ponds on the marsh serve as a filter to treat the creek water before it reaches Newport Back Bay. The Irvine Ranch Water District made the land open to the public in 2009."
+				"text": "This hike takes you through a series of short trails on a marsh that used to be a duck hunting grounds in the 1940's. San Diego Creek runs into the marsh. The ponds on the marsh serve as a filter to treat the creek water before it reaches Newport Back Bay. The Irvine Ranch Water District made the land open to the public in 2009.<ul><font size='4.5'><b><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds, No shade</li><li>ADA Accessible</li></b></font></ul>"
 			}
 			},
 			{
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>1.2 mile loop</li><li>Flat & Open Hike Around Multiple Ponds</li><li>No Shade</li></ul></small>",
+				"headline": "Start Here",
 				"text": "Take this trail that leads to the lawn behind the Duck Club."
 			}
 			},
