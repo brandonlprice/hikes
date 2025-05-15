@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Niguel Botanical Preserve<small>Laguna Niguel, CA</small>",
-				"text": "This preserve is in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world. It remains a volunteer effort.<ul><font size='4.5'><li>.64 mile loop</li><li>Highly vegetated area with paved and dirt paths</li></font></ul>"
+				"text": "This preserve is in Laguna Niguel Crown Valley Park, adjacent to the Community Center. It started as a community vegetable garden in 1981, but now has plants from all over the world. It remains a volunteer effort.<ul><font size='4.5'><li>.64 mile loop</li><li>Highly vegetated area with both paved and dirt paths</li></font></ul>"
 			}
 			},
 			{
