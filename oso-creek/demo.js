@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Oso Creek Trail<br><font style='line-height: 1em;' size=6>Oso Viejo Community Park,<br>Mission Viejo, CA</font>",
-				"text": "This trail is maintained by the city of Mission Viejo and is regularly manicured it so it stays green year round. It's nice aesthetically, but not fully in wilderness. Even still, there have been mountain lion sightings so it's best to do the hike in groups."
+				"text": "This trail is maintained by the city of Mission Viejo and is regularly manicured it so it stays green year round. It's nice aesthetically, but not fully in wilderness. Even still, there have been mountain lion sightings so it's best to do the hike in groups.<ul><font size='4.5'><b><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li></b></font></ul>"
 			}
 			},
 			{
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small style='color:red;'><ul><li>1.4 mile loop</li><li>Well Shaded, partly paved, creekside trail</li></ul></small>",
+				"headline": "Starting Point",
 				"text": "Once parked, this is where you'll start. This isn't the official trail yet. Just an access route."
 			}
 			},
