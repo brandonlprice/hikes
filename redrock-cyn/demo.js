@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='font-size:1.25em;line-height: .92em;'>Hike to Red Rock Canyon</h4><small>Fothill Ranch, CA</small>",
-				"text": "The hike to Red Rock Canyon is one of the most popular hikes in Orange County due to its easy accessibility and wide ranging scenery. It goes through two different canyons, starting at Borrego Canyon and then switching to Red Rock Canyon. Borrego Canyon is green with a lot of trees whereas Red Rock Canyon is arid and rocky. The hike is a straight shot with very few turns other than when switching between canyons."
+				"text": "This hike is one of the most popular hikes in Orange County due to its easy accessibility and diverse scenery. It goes through two different canyons, starting at Borrego Canyon and then switching to Red Rock Canyon. Borrego Canyon is green and Red Rock Canyon is arid and rocky. The hike has very few turns overall."
 			}
 			},
 			{
