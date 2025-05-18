@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4><small>Foothill Ranch, CA</small>",
-				"text": "This hike has about 700 feet of elevation gain, starting at 800 feet above sea level then climbing to a 1500-foot lookout. The lookout has 360° views of Red Rock Canyon and the city below."
+				"text": "This hike has about 700 feet of elevation gain, starting at 800 feet above sea level then climbing to a 1500-foot lookout. The lookout has 360° views of Red Rock Canyon and the city below.<ul><font size='4.5'><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></font></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Starting Here",
 				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
