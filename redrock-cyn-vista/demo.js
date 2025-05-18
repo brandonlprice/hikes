@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='font-size:.97em;line-height: .92em;'>Red Rock Canyon Vista Lookout</h4><small>Foothill Ranch, CA</small>",
-				"text": "This hike has about 700 feet of elevation gain, starting at 800 feet above sea level then climbing to a 1500-foot lookout. The lookout has 360° views of Red Rock Canyon and the city below.<ul><font size='4.5'><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></font></ul>"
+				"text": "This hike has about 700 feet of elevation gain, starting at 800 feet above sea level then climbing to a 1500-foot lookout. The lookout has 360° views of Red Rock Canyon and the city below.<ul><font size='4.5'><b><li>4.75 miles (Out & Back)</li><li>Flat shaded trail followed by an unshaded uphill</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></b></font></ul>"
 			}
 			},
 			{
