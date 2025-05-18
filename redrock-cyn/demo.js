@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Hike to Red Rock Canyon<small>Foothill Ranch, CA</small>",
-				"text": "This hike is one of the most popular hikes in Orange County due to its accessibility and scenery. It goes through two canyons, starting at Borrego Canyon then switching to Red Rock Canyon. Borrego Canyon is green and Red Rock Canyon is arid and rocky. This hike has very few turns overall."
+				"text": "This hike is one of the most popular hikes in Orange County due to its accessibility and scenery. It goes through two canyons, starting at Borrego Canyon then switching to Red Rock Canyon. Borrego Canyon is green and Red Rock Canyon is arid and rocky. This hike has very few turns overall.<ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul>"
 			}
 			},
 			{
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Main Parking Lot <small><a href='https://maps.app.goo.gl/4k1yQeeWgv8XBBSN8' target='_blank'><i>26701 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
 				"text": "The parking lot is right next to the trail. A fee of $3 is required to park in this lot although there is an alternative free parking option a little farther away."
 			}
 			},
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Alternative Parking<br><small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA 92610↗</i></a></small>",
+				"headline": "Alternative Parking<br><small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Start Here",
 				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
