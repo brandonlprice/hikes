@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Hike to Red Rock Canyon<small>Foothill Ranch, CA</small>",
-				"text": "This hike is one of the most popular hikes in Orange County due to its accessibility and scenery. It goes through two canyons, starting at Borrego Canyon then switching to Red Rock Canyon. Borrego Canyon is green and Red Rock Canyon is arid and rocky. This hike has very few turns overall.<ul><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></ul>"
+				"text": "This hike is one of the most popular hikes in Orange County due to its accessibility and scenery. It goes through two canyons, starting at Borrego Canyon then switching to Red Rock Canyon. Borrego Canyon is green and Red Rock Canyon is arid and rocky. This hike has very few turns overall.<ul><font size='4.5'><li>4.25 miles (Out & Back)</li><li>Flat trails with both shaded and unshaded stretches</li><li><a href='https://ocparks.com/parks-trails/whiting-ranch-wilderness-park' target='_blank'><i>Check for Alerts↗</i></a></li></font></ul>"
 			}
 			},
 			{
