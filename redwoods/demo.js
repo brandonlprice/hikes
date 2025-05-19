@@ -29,7 +29,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "<h4 style='font-size:.9em;line-height: .92em;'>Hike to Redwood Grove</h4><small>Carbon Canyon Regional Park</small>",
-				"text": "The short trek to the Redwoods in Carbon Canyon Regional Park is flat and generally easy. Additionally, there is a second option that involves almost no trek at all. The trees have been growing here since the late 70's when the seeds were first planted. There is a fee of $3 on the weekdays and $5 on the weekends to enter the park.<ul><font size='4.5'><b><li>.75 miles (ADA Accessible)</li><li>Short Distance, Flat, No shade until reaching the Redwoods</li></b></font></ul>"
+				"text": "The short trek to the Redwoods in Carbon Canyon Regional Park is flat and generally easy. Additionally, there is a second option that involves almost no trek at all. The trees have been growing here since the late 70's when the seeds were first planted. There is a fee of $3 on the weekdays and $5 on the weekends to enter the park.<ul><font size='4.5'><b><li>.75 miles (ADA Accessible)</li><li>Flat, no shade until reaching the Redwoods</li></b></font></ul>"
 			}
 			},
 			{
