@@ -60,7 +60,7 @@
 				"lat": 33.50647916640752,  
 				"line": false,
 				"lon": -117.68687105185232,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Start Here",
@@ -78,7 +78,7 @@
 				"lat": 33.50647069633345, 
 				"line": false,
 				"lon": -117.68649700251835,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -96,7 +96,7 @@
 				"lat": 33.506804630290404, 
 				"line": false,
 				"lon": -117.68596028653057,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "San Juan Canyon",
@@ -114,7 +114,7 @@
 				"lat": 	33.50804322105247, 
 				"line": false,
 				"lon": -117.68696652049331,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Informational Signs",
@@ -132,7 +132,7 @@
 				"lat": 33.50882737465165, 
 				"line": false,
 				"lon": -117.68785190663432,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -150,7 +150,7 @@
 				"lat": 33.5104093913004, 
 				"line": false,
 				"lon": -117.69000427312578,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Going",
@@ -168,7 +168,7 @@
 				"lat": 33.51130915285404,  
 				"line": false,
 				"lon": -117.69115204279876, 
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -186,7 +186,7 @@
 				"lat": 33.51151102275922, 
 				"line": false,
 				"lon": -117.69160005180184,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Downhill",
@@ -204,7 +204,7 @@
 				"lat": 33.51180327473035, 
 				"line": false,
 				"lon": -117.69158709066143,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -222,7 +222,7 @@
 				"lat": 33.51148774266745, 
 				"line": false,
 				"lon": -117.69228983052504,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -240,7 +240,7 @@
 				"lat": 33.510313113358166, 
 				"line": false,
 				"lon": -117.69118701079091,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill",
@@ -258,7 +258,7 @@
 				"lat": 33.50877271052124,  
 				"line": false,
 				"lon": -117.6878968414313,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -276,7 +276,7 @@
 				"lat": 33.506804630290404, 
 				"line": false,
 				"lon": -117.68596028653057,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "The End",
