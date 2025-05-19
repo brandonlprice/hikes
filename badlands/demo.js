@@ -34,7 +34,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_9425_11zon.jpg",
+				"url": "images/badlands_park_parking_11zon.png",
 				"caption": "",
 				"credit": "PARK ON ISLE VISTA"
 			},
@@ -45,7 +45,7 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Parking<br><small><u><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'>31716-31626 Isle Vista Laguna Niguel, CA 92677↗</a></u></small>",
+				"headline": "Parking<br><small><u><a href='https://maps.app.goo.gl/YZHAAhFqjfUbBmGX9' target='_blank'>31626 Isle Vista Laguna Niguel, CA 92677↗</a></u></small>",
 				"text": "Street parking on Isle Vista. Head towards Badlands Park after parking. Two ADA parking spots available directly next to park."
 			}
 			},
