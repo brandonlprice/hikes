@@ -42,7 +42,7 @@ let demojs={
 				"lat":  33.65079776712016, 
 				"line": false,
 				"lon": -117.78376130679466,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Park at<br><small><a href='https://maps.app.goo.gl/vW6ESih8289cxUY46' target='_blank'><i>Quail Hill Community Center</i></a></small>",
@@ -60,7 +60,7 @@ let demojs={
 				"lat": 33.65077989172753,  
 				"line": false,
 				"lon": -117.7838807791778,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Starting Point",
@@ -78,7 +78,7 @@ let demojs={
 				"lat": 33.65035343494812, 
 				"line": false,
 				"lon": -117.78409669700305,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -96,7 +96,7 @@ let demojs={
 				"lat": 33.64964625296523, 
 				"line": false,
 				"lon": -117.78366411170632 ,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Headed West",
@@ -114,7 +114,7 @@ let demojs={
 				"lat": 	33.64709198372713, 
 				"line": false,
 				"lon": -117.77900435308544,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 	33.646508416749214, 
 				"line": false,
 				"lon": -117.77883586534979,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Trail Entrance",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.64533020747086, 
 				"line": false,
 				"lon": -117.77865579227442,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Uphill",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.64197848973868, 
 				"line": false,
 				"lon": -117.7794511109897,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Hilltop",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.63910012941399, 
 				"line": false,
 				"lon": -117.77871082130129,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.63628420051141, 
 				"line": false,
 				"lon": -117.77759502235119,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Bridge Crossing",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.63523239059661, 
 				"line": false,
 				"lon": -117.77391503158285,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.63489359057863,   
 				"line": false,
 				"lon": -117.77370289768203,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.63683466491393, 
 				"line": false,
 				"lon": -117.77243981662436,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.63869259581989, 
 				"line": false,
 				"lon": -117.77268657985324,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.63866133290613, 
 				"line": false,
 				"lon": -117.77323375049147,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Descend",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.639783441662814, 
 				"line": false,
 				"lon": -117.77388284507445,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exit Service Rd",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.63984819973013, 
 				"line": false,
 				"lon": -117.77391503158259,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Street",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.64002684242196, 
 				"line": false,
 				"lon": -117.77427712979916,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Sidewalk",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.6421548950239, 
 				"line": false,
 				"lon": -117.77462581697128,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Street",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.64234916373459,
 				"line": false,
 				"lon":  -117.77510325017676,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Paved Trail",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.64196062588757, 
 				"line": false,
 				"lon": -117.77589181962641,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Veer Right",
@@ -420,7 +420,7 @@ let demojs={
 				"lat": 33.64560477411654, 
 				"line": false,
 				"lon": -117.77747432294531,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Straight Away",
@@ -438,7 +438,7 @@ let demojs={
 				"lat": 33.64696621059285,  
 				"line": false,
 				"lon": -117.77887702356082,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
