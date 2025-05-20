@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Alternative Parking<small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
+				"headline": "Alternative Parking<br><small><a href='https://maps.app.goo.gl/cNBo8AtxM5htTmEQ8' target='_blank'><i>26642 Portola Pkwy, Lake Forest, CA↗</i></a></small>",
 				"text": "A free parking option is available here next to Outback Steakhouse across the street. Take the tunnel that goes under the street to get to the trail."
 			}
 			},
@@ -81,7 +81,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Here",
+				"headline": "Start Here",
 				"text": "Once parked, this is where you'll start, this is the Borrego Canyon Trail. Hike in groups. There are signs warning about mountain lions."
 			}
 			},
