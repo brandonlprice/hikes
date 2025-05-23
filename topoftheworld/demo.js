@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "West Ridge Trail to Top of the World<small>Laguna Beach, CA</small>",
-				"text": "This trail takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are four ways to get there: via the West Ridge Trail (like in this example), the Canyon Acres Trail, an unnamed trail off Park Ave, or driving there (most popular)."
+				"text": "This trail takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are multiple ways to get there, including simply by driving. This way takes the West Ridge Trail."
 			}
 			},
 			{
