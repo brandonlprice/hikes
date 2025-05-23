@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Spur Ridge Scenic Lookout<small>Laguna Beach, CA</small>",
-				"text": "This hike is in Laguna Coast Wilderness Park and goes up to a nice lookout of the city and beach below. It's only a little over 2 miles but a small workout is involved as you incline up a hill.<ul><font size='4.5'><b><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, No Shade</li></b></font></ul>"
+				"text": "This hike is in Laguna Coast Wilderness Park and goes up to a nice lookout of the city and beach below. It's only a little over 2 miles but a small workout is involved as you incline up a hill.<ul><font size='4.5'><b><li>2.1 miles (Out & Back)</li><li>Uphill climb to a lookout, Ocean Views, Unshaded</li></b></font></ul>"
 			}
 			},
 			{
