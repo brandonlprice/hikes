@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Spur Ridge Scenic Lookout<small>Laguna Beach, CA</small>",
-				"text": "This trail is in Laguna Coast Wilderness Park in Laguna Beach and ends at a nice lookout of the city and beach below. It is only a little over 2 miles but a small workout is involved as you incline up a hill."
+				"text": "This trail is in Laguna Coast Wilderness Park and goes to a nice lookout of the city and beach below. It is only a little over 2 miles but a small workout is involved as you incline up a hill."
 			}
 			},
 			{
