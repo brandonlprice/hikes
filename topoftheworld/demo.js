@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "West Ridge Trail to Top of the World<small>Laguna Beach, CA</small>",
-				"text": "This hike takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are others way to get there, including simply by driving, but the West Ridge Trail provides a nice hike with a good workout."
+				"text": "This hike takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are others way to get there, including simply by driving, but the West Ridge Trail provides a nice hike with a good workout.<ul><font size='4.5'><b><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></b></font></ul>"
 			}
 			},
 			{
@@ -63,7 +63,7 @@ let demojs={
 				"zoom": 19
 			},
 			"text": {
-				"headline": "Starting Point<small><ul><li>4 miles (Out and Back)</li><li>Duration: 1 hr 30 min</li><li>No shade and intermittent steep sections</li><li><a href='https://www.ocparks.com/alisowood' target='_blank'><i>Check for Alerts↗</i></a></li></ul></small>",
+				"headline": "Start Here",
 				"text": "Once parked, start at this access route at the beginning of the cul-de-sac."
 			}
 			},
