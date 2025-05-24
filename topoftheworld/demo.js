@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "West Ridge Trail to Top of the World<small>Laguna Beach, CA</small>",
-				"text": "This trail takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are multiple ways to get there, including simply by driving. This way takes the West Ridge Trail."
+				"text": "This trail takes you to one of the most visited viewpoints in Orange County called \"Top of the World\" in Laguna Beach. There are others way to get there, including simply by driving, but this way provides a nice hike with moderate effort."
 			}
 			},
 			{
