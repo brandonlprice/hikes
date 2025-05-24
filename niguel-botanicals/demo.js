@@ -34,7 +34,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/parking.jpeg",
+				"url": "images/IMG_1795_11zon.jpeg",
 				"caption": "Parking Area",
 				"credit": ""
 			},
