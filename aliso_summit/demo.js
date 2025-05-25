@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "https://x.com/OCParks/status/1925975049695023322",
+				"url": "",
 				"caption": "<i>Aliso Summit Trail, Laguna Niguel, Summer 2022</i>",
 				"credit": ""
 			},
