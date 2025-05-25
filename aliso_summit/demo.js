@@ -18,7 +18,7 @@ let demojs={
                 	},
 			"date": "Jan 2006",
 			"media": {
-				"url": "",
+				"url": "https://x.com/OCParks/status/1925975049695023322",
 				"caption": "<i>Aliso Summit Trail, Laguna Niguel, Summer 2022</i>",
 				"credit": ""
 			},
@@ -28,7 +28,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Aliso Summit Trail<small>Laguna Niguel, CA</small>",
-				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain.<hr><span class='vco-note'><b>5.2 miles (Out & Back)</b> | <b>No Shade, Gradual Elevation Gain, Ocean View</b> | <b>2 hours</b></span>"
+				"text": "This trail has excellent ocean views and gradually increases in elevation until reaching Seaview Park at 936 feet above sea level with about 350 feet of elevation gain.<hr><b>5.2 miles (Out & Back)</b> | <b>No Shade, Gradual Elevation Gain, Ocean View</b> | <b>2 hours</b>"
 			}
 			},
 			{
