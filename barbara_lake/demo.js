@@ -268,6 +268,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "images/barbaras lake_11zon.jpg",
+				"caption": "<i></i>",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.608729, 
+				"line": false,
+				"lon": -117.754066,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Approaching Lake",
+				"text": "Stay right. Multiple offshoot trails that dead end into cell towers on the descend. Turn around and resume the correct trail if you make a mistake."
+			}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_9851_11zon.jpg",
 				"caption": "<i></i>",
 				"credit": ""
