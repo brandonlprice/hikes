@@ -268,7 +268,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/barbaras lake_11zon.jpg",
+				"url": "images/barbaras lake.png",
 				"caption": "<i></i>",
 				"credit": ""
 			},
