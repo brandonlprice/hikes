@@ -42,7 +42,7 @@ let demojs={
 				"lat":  33.71131976683078,
 				"line": false,
 				"lon":  -118.06092157162293,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Start Here<small><ul><li>Park free at the interpretive center:<br><a href='https://maps.app.goo.gl/N55AGvyMibYhQ2gJ9' target='_blank'><i>3842 Warner Ave, Huntington Beach, CA 92649↗</i></a></li></ul></small>",
@@ -60,7 +60,7 @@ let demojs={
 				"lat":  33.71133668222209, 
 				"line": false,
 				"lon":  -118.0605841435743,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Bridge",
@@ -78,7 +78,7 @@ let demojs={
 				"lat":  33.71138353699105,  
 				"line": false,
 				"lon":  -118.05980898517166,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go South",
@@ -96,7 +96,7 @@ let demojs={
 				"lat":  33.710408427670004,   
 				"line": false,
 				"lon":  -118.05932423085163,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Continue Straight",
@@ -114,7 +114,7 @@ let demojs={
 				"lat":  33.709739640334206,    
 				"line": false,
 				"lon":  -118.05878078155214,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -132,7 +132,7 @@ let demojs={
 				"lat": 	33.70958533633435,  
 				"line": false,
 				"lon": -118.05890041194777,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the Views",
@@ -150,7 +150,7 @@ let demojs={
 				"lat": 33.70907658352291, 
 				"line": false,
 				"lon": -118.05739997803443,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Stay Straight",
@@ -168,7 +168,7 @@ let demojs={
 				"lat": 33.708023936460975,  
 				"line": false,
 				"lon": -118.05651306383993,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Second Viewpoint",
@@ -186,7 +186,7 @@ let demojs={
 				"lat": 33.70563371264455, 
 				"line": false,
 				"lon": -118.05423497139697,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Keep Going",
@@ -204,7 +204,7 @@ let demojs={
 				"lat": 33.70392038879573,   
 				"line": false,
 				"lon": -118.0528638717904,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Fourth Viewpoint",
@@ -222,7 +222,7 @@ let demojs={
 				"lat": 33.70387352995062,  
 				"line": false,
 				"lon": -118.05276731226805,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Take the Stairs",
@@ -240,7 +240,7 @@ let demojs={
 				"lat": 33.703616646432906,  
 				"line": false,
 				"lon": -118.05278080852675,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Cross the Bridge",
@@ -258,7 +258,7 @@ let demojs={
 				"lat": 33.70293495447233,  
 				"line": false,
 				"lon": -118.05167986917688,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Go Straight",
@@ -276,7 +276,7 @@ let demojs={
 				"lat": 33.70290443762287, 
 				"line": false,
 				"lon": -118.05138360832551,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Right",
@@ -294,7 +294,7 @@ let demojs={
 				"lat": 33.70223667189146, 
 				"line": false,
 				"lon": -118.05095247266338,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Turn Left",
@@ -312,7 +312,7 @@ let demojs={
 				"lat": 33.70242424263601, 
 				"line": false,
 				"lon": -118.05072043729774,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Headed Upwards",
@@ -330,7 +330,7 @@ let demojs={
 				"lat": 33.70270274072312, 
 				"line": false,
 				"lon": -118.05058975502516,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Hard Turn Left",
@@ -348,7 +348,7 @@ let demojs={
 				"lat": 33.70248555364462, 
 				"line": false,
 				"lon": -118.05081875208396,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Final Viewpoint",
@@ -366,7 +366,7 @@ let demojs={
 				"lat": 33.70271517604498, 
 				"line": false,
 				"lon": -118.05099132383972,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Final Viewpoint Continued",
@@ -384,7 +384,7 @@ let demojs={
 				"lat": 33.70276105870033, 
 				"line": false,
 				"lon": -118.05096824514153,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Exit Viewpoint",
@@ -402,7 +402,7 @@ let demojs={
 				"lat": 33.70288039906187, 
 				"line": false,
 				"lon": -118.05096306247088,
-				"zoom": 19
+				"zoom": 20
 			},
 			"text": {
 				"headline": "Enjoy the Hike Back",
