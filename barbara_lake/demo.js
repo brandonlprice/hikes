@@ -280,7 +280,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Approaching Lake",
-				"text": "Stay right. Multiple offshoot trails that dead end into cell towers on the descend. Turn around and resume the correct trail if you make a mistake."
+				"text": "The trail will veer left. Before it does, these will be the best view of the lake on the hike."
 			}
 			},
 			{
@@ -298,7 +298,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Barbara's Lake",
-				"text": "The trail will veer left. These are the best views at the base of the lake through the vegetation."
+				"text": "After veering left, the lake views will dissappear as the trail gets surrounded by vegetation obstructing the view."
 			}
 			},
 			{
