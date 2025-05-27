@@ -280,7 +280,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Approaching Lake",
-				"text": "The trail will veer left. Before it does, these will be the best view of the lake on the hike."
+				"text": "The trail will veer left. Before it does, these will be the best views of the lake on the hike."
 			}
 			},
 			{
