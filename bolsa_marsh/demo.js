@@ -394,6 +394,24 @@ let demojs={
 			{
 			"date": "",
 			"media": {
+				"url": "../bolsa_marsh_2/images/IMG_2310_11zon.jpg",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"lat": 33.702929001624035, 
+				"line": false,
+				"lon": -118.05158077872896,
+				"zoom": 20
+			},
+			"text": {
+				"headline": "Head Back",
+				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
+				}
+			},
+			{
+			"date": "",
+			"media": {
 				"url": "images/IMG_7199_11zon.jpg",
 				"caption": "",
 				"credit": ""
