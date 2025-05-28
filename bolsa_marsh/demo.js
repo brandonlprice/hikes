@@ -405,8 +405,8 @@ let demojs={
 				"zoom": 20
 			},
 			"text": {
-				"headline": "Head Back",
-				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
+				"headline": "Approaching Fence",
+				"text": "After you approach the wooden fence, proceed towards the opening in the fenceposts."
 				}
 			},
 			{
@@ -424,7 +424,7 @@ let demojs={
 			},
 			"text": {
 				"headline": "Head Back",
-				"text": "Turn right into the opening between the wooden fence boards. You then will be on the first narrow strip you took in the beginning. Take it back to the parking lot."
+				"text": "Go through opening in the fencing and take the path to the parking lot."
 			}
 			}
 		]
