@@ -394,7 +394,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "../bolsa_marsh_2/images/IMG_2310_11zon.jpg",
+				"url": "images/IMG_7199_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
@@ -412,7 +412,7 @@ let demojs={
 			{
 			"date": "",
 			"media": {
-				"url": "images/IMG_7199_11zon.jpg",
+				"url": "../bolsa_marsh_2/images/IMG_2310_11zon.jpg",
 				"caption": "",
 				"credit": ""
 			},
