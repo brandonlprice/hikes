@@ -171,7 +171,9 @@
   var stamen = new ol.layer.Tile({
     title: "OSM",
     baseLayer: true,
-    source: new ol.source.OSM()
+    source: new ol.source.XYZ({ // 2. Create XYZ source
+        url: 'https://mt1.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}'
+      })
   });
 
 
