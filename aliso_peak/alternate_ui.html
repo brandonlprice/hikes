@@ -508,6 +508,11 @@ i.icss-book:after {
     if (c) story.element.classList.add(c)
     window.dispatchEvent(new Event('resize'))
   }
+	  map.on('pointerdrag', function() { 
+  let centerPosArr = map.getView().getCenter();
+  let coords = ol.proj.toLonLat(centerPosArr, 'EPSG:3857');  
+  console.log(coords);
+});
   </script>
   
 </body>
