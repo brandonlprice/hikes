@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+  Copyright (c) 2015-2018 Jean-Marc VIGLINO,
+  released under CeCILL-B (french BSD like) licence: http://www.cecill.info/
+-->
+  <title>ol-ext: Storymap control</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <meta name="description" content="A control with scroll-driven navigation to create narrative maps." />
+  <meta name="keywords" content="ol, storymap, narration, control" />
+<link href="https://fonts.googleapis.com/css?family=Lato:100i,300i,400|Hepta+Slab:400,500,600,700,800,900|Ultra:400,500,700,800&amp;display=swap" rel="stylesheet">
+  <!-- jQuery -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+  <!-- Openlayers -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@latest/ol.css" />
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+
+  
+  <!-- ol-ext -->
+  <link rel="stylesheet" href="https://cdn.rawgit.com/Viglino/ol-ext/master/dist/ol-ext.min.css" />
+  <script type="text/javascript" src="https://cdn.rawgit.com/Viglino/ol-ext/master/dist/ol-ext.min.js"></script>
+  <!-- Pointer events polyfill for old browsers, see https://caniuse.com/#feat=pointer -->
+  <script src="https://unpkg.com/elm-pep"></script>
+
+ <!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/Viglino/ol-ext/refs/heads/master/examples/style.css" />-->
+
+  <style>
+    [data-fullscreen] #map {
+      position: fixed;
+      inset: 0;
+      margin: 0;
+      width: unset!important;
+      height: unset!important;
+      z-index: 10;
+    }
+    .ol-zoom {
+      left: auto;
+      right: .5em;
+    }
+
+    #story {
+      /*
+      height: 400px;
+      */
+    }
+    #story img {
+      display: block;
+      margin: auto;
+      max-width: 100%;
+    }
+    #story .chapter.ol-select {
+      /*
+      background-color: rgba(255,255,255,.8);
+      */
+    }
+    .options a {
+      cursor: pointer;
+    }
+	  /* github corner */
+a.icss-github-corner,
+a.icss-github-corner-left {
+  font-size: 2.5em;
+  position: fixed;
+  top:0;
+  right: 0;
+  z-index: 1000;
+  color: #fff;
+  background-color: #333;
+  padding: .5em 2em 0;
+  text-align: center;
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+  -webkit-transform-origin: 3.9em 3em;
+      -ms-transform-origin: 3.9em 3em;
+          transform-origin: 3.9em 3em;
+  overflow: hidden;
+}
+a.icss-github-corner-left {
+  left: 0;
+  right: auto;
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  -webkit-transform-origin: 1em 3.1em;
+      -ms-transform-origin: 1em 3.1em;
+          transform-origin: 1em 3.1em;
+}
+a.icss-github-corner:hover i,
+a.icss-github-corner-left:hover i{
+  -webkit-animation: vertical 2s ease;
+          animation: vertical 2s ease;
+}
+
+a.icss-github-corner i,
+a.icss-github-corner-left i,
+i.icss-github-corner {
+  color: #fff;
+  position: relative;
+  display:inline-block;
+  font-style: normal;
+  background-color:currentColor;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: middle;
+  width: .8em;
+  height: .6em;
+  -webkit-border-radius: 45% 45% 45% 45% / 50%;
+          border-radius: 45% 45% 45% 45% / 50%;
+  background-color: currentColor;
+  -webkit-box-shadow: 0 .35em 0 -.2em, 
+      0 .38em 0 -.2em,
+      0 .41em 0 -.2em,
+      0 .44em 0 -.2em,
+      0 .47em 0 -.2em;
+          box-shadow: 0 .35em 0 -.2em, 
+      0 .38em 0 -.2em,
+      0 .41em 0 -.2em,
+      0 .44em 0 -.2em,
+      0 .47em 0 -.2em;
+  margin: .12em .1em .23em;
+}
+a.icss-github-corner i:before,
+a.icss-github-corner-left i:before,
+i.icss-github-corner:before {
+  content: "";
+  border-width: 0; 
+  position: absolute;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-width: .15em .15em;
+  border-style: solid;
+  -webkit-border-radius: 0.02em 60% 100% 80%;
+          border-radius: 0.02em 60% 100% 80%;
+  left: 0;
+  top: -.07em;
+  -webkit-transform: rotate(20deg);
+      -ms-transform: rotate(20deg);
+          transform: rotate(20deg);
+}
+a.icss-github-corner i:after,
+a.icss-github-corner-left i:after,
+i.icss-github-corner:after {
+  content: "";
+  border-width: 0; 
+  position: absolute;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-width: .15em .15em;
+  border-style: solid;
+  -webkit-border-radius: 0.02em 80% 100% 60%;
+          border-radius: 0.02em 80% 100% 60%;
+  left: .5em;
+  top: -.07em;
+  -webkit-transform: rotate(65deg);
+      -ms-transform: rotate(65deg);
+          transform: rotate(65deg);
+}
+@-webkit-keyframes vertical {
+	0%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	4%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	8%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	12%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	16%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	20%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	22%,100%{-webkit-transform:translate(0,0);transform:translate(0,0)}
+}
+@keyframes vertical {
+	0%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	4%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	8%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	12%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	16%{-webkit-transform:translate(0,-3px);transform:translate(0,-3px)}
+	20%{-webkit-transform:translate(0,3px);transform:translate(0,3px)}
+	22%,100%{-webkit-transform:translate(0,0);transform:translate(0,0)}
+}
+/**/
+body {
+  font-family: 'Lucida Grande',Verdana,Geneva,Lucida,Arial,Helvetica,sans-serif;
+	font-size: 16px;
+}
+a, i, b {
+  color: #337ab7;
+	text-decoration: none;
+}
+button i {
+  color: #fff;
+}
+.ol-control button i,
+.ol-control.ol-bar .ol-control button i {
+  color: inherit;
+}
+a:hover {
+  text-decoration: underline;
+}
+a.title {
+  text-decoration: none;
+}
+h1 {
+  background: #333 url(https://openlayers.org/theme/img/logo-dark.svg) no-repeat scroll .3em center;
+  color: #fff;
+  font-size: 1.5em;
+  padding: .5em 0 .5em 2.1em;
+  margin: 0;
+  background-size: 1.5em;
+  text-decoration: none!important;
+}
+a:hover h1 {
+  color: #0af;
+}
+h2 {
+  color: #337ab7;
+	font-size:1.1em;
+	margin: 0.5em 0;
+}
+
+.info {
+  background:#f5f5f5;
+	padding:0.5em;
+	margin: 0.25em 0;
+}
+.info ul {
+  margin:0;
+}
+
+#map {
+  float:left;
+	margin-right:1em;
+  background:#ddd;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#map button {
+  /* outline: none; */
+}
+
+.ol-attribution img {
+  vertical-align:middle;
+}
+
+.layerSwitcher {
+  display:inline-block;
+	background:#cdf;
+	padding:0.5em;
+}
+.btn {
+  color:#fff;
+	background:#369;
+	padding:0.5em;
+	text-decoration:none;
+	cursor:pointer;
+	display:inline-block;
+	margin: .5em .5em 0 0;
+}
+
+.block,
+.options {
+  display: table;
+	margin: 0.5em;
+	position: relative;
+	z-index: 1;
+	margin:1em;
+}
+.options {
+  background: #def;
+	padding: 0.5em;
+}
+.options ul {
+  list-style: none;
+	padding-left: 0.5em;
+}
+
+i[class*="icss-"] {
+  position: relative;
+  display:inline-block;
+  font-style: normal;
+  background-color:currentColor;
+  box-sizing: border-box;
+  vertical-align: middle;
+  font-size: 1.5em;
+}
+i[class*="icss-"]:before, 
+i[class*="icss-"]:after {
+  content: "";
+  border-width: 0; 
+  position: absolute;
+}
+i.icss-book {
+  width:1em;
+  height:.8em;
+  background-color: transparent; 
+  margin: 0 .03em .08em 0;
+}
+i.icss-book:before {
+  height: .8em;
+  width: 0.7em;
+  box-shadow: inset 0 0 0 0.15em, 
+      inset 0 -.48em,
+      .07em .07em;
+  border: 0.07em solid transparent;
+  border-width: 0 0.07em .07em 0;
+  border-radius: .05em .15em .1em .1em / .05em .05em .1em .05em;
+  transform: skewX(-20deg);
+  left: 0.15em;
+}
+i.icss-book:after {
+  width: .2em;
+  height: .2em;
+  background-color: transparent;
+  border: 0.05em solid currentColor;
+  border-color: currentColor transparent transparent currentColor;
+  border-radius: 50%;
+  transform: rotate(-45deg);
+  top: 0.67em;
+  left: .018em;
+  box-shadow: .13em -.15em 0 -.05em,
+      .51em -.33em 0 -.05em;
+}
+.experimental {
+  color:#fff; 
+  background: #f91; 
+  padding:.2em .5em;
+  display: inline-block;
+  -webkit-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  margin: -1em 0;
+}
+
+.ol-attribution ul {
+  font-size: .8em;
+}
+  </style>
+
+</head>
+<body >
+  <a href="https://github.com/Viglino/ol-ext" class="icss-github-corner"><i></i></a>
+
+  <a href="../../index.html">
+    <h1>Hike Orange County: Aliso Peak</h1>
+  </a>
+  <div class="info">
+   <!--<hr>--><ul style='float:left;padding-right:3em;'><font size='3.5'><li><b>1.6 miles (Out & Back)</b></li> <li><b>Steep Sections, No Shade, Ocean View</b></li> <li><b>30-45 minutes</b></li></font></ul>
+	<p style='margin-top:0;'>Parking<br><small><a href='https://maps.app.goo.gl/JgMBBcKfTi4pfgKJ6' target='_blank'>22740 Talavera Dr, Laguna Niguel, CA↗</a></small></p>
+   <!-- <ul>
+      <li>
+        You can specify the story content using the <i>html</i> options as a string or a DOM Element.
+      </li><li>
+        You can also specify a <i>target</i> to use as story content
+      </li><li>
+        Use an element with a <i>chapter</i> class and a <i>name</i> to specify a new chapter in the story. 
+      </li><li>
+        The <i>setChapter()</i> method lets you move to a chapter given its name.
+      </li><li>
+        Listen to the <i>scrollto</i> event to get the current chapter.
+      </li><li>
+        You can set <i>data-lon</i>, <i>data-lat</i> and <i>data-zoom</i> global attributes to your chapter to get them back on <i>scrollto</i> event.
+        <br/>
+        Set a <i>data-animation="flyto"</i> attribute to fly to the position defined by this attributes when the chapter is reached.
+      </li><li>
+        Listen to the <i>clickimage</i> event to get warned when an image with <i>data-title</i> is clicked.
+      </li><li>
+        Use an element with a <i>ol-scroll-next</i> class in your story to scroll to the next chapter on click.
+      </li>
+      <li>
+        Use an element with a <i>ol-scroll-top</i> class in your story to scroll to the top of the story.
+      </li>
+    </ul>
+    <p>
+      <a href="map.control.storymap.2.html">See example with a story outside the map.</a>
+    </p>-->
+  </div>
+
+  <!-- Map div -->
+  <div id="map" style="width:878px; height:678px;"></div>
+  
+  <div class="options">
+	  <div>
+		Summary:<br>This hike takes you from Seaview Park to Aliso Peak. At 683 feet, this peak is one of the highest elevation points in proximity to the coastline. The trail is maintained by OC Parks and is part of Aliso & Wood Canyons Wilderness Park.
+	</div><br>
+    <label>ClassName: </label>
+    <select onchange="setClassName(this.value)">
+      <option value="">default</option>
+      <option value="scrollLine">scrollLine</option>
+      <option value="scrollBox">scrollBox</option>
+    </select>
+    <br/><br/>
+    Set chapters:
+    <ol>
+      <li>
+        <a onclick="story.setChapter('Paris')">Paris</a>
+      </li>
+      <li>
+        <a onclick="story.setChapter('London')">London</a>
+      </li>
+      <li>
+        <a onclick="story.setChapter('Berlin')">Berlin</a>
+      </li>
+    </ol>
+    <a onclick="document.body.dataset.fullscreen=''; map.updateSize();">Show fullscreen</a>
+    <br/>
+    Click on image to show it fullscreen.
+	
+  </div>
+
+  <div id="story">
+    <div class="chapter" name="start" data-lon="1.5600502550133257" data-lat="48.356243383667106" data-zoom="6" data-animation="flyto">
+      <h2>Tour</h2>
+      <p>
+        Seaview Park to Aliso Peak
+        <br/>
+        <span style="font-size: .8em;">
+          Laguna Niguel, CA
+        </span>
+      </p>
+      <div class="ol-scroll-next"><span>Start</span></div>
+    </div>
+    <div class="chapter" name="Paris" data-lon="2.351828" data-lat="48.856578" data-zoom="18" data-animation="flyto">
+      <h2>Paris</h2>
+      <img data-title="Paris" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Seine_and_Eiffel_Tower_from_Tour_Saint_Jacques_2013-08.JPG">
+      <p>
+        Paris is the capital and most populous city of France, with an area of 105 square kilometres (41 square miles) and a population of 2,206,488. Since the 17th century, Paris has been one of Europe's major centres of finance, commerce, fashion, science, and the arts.
+      </p>
+    </div>
+    <div class="chapter" name="London" data-lon="-0.1275" data-lat="51.507222" data-zoom="8" data-animation="flyto">
+      <h2>London</h2>
+      <img data-title="London" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/London_Montage_L.jpg">
+      <p>
+        London is the capital and largest city of both the United Kingdom and England. Standing on the River Thames in southeastern England, 50 miles (80 km) upstream from its estuary with the North Sea, London has been a major settlement for two millennia. Londinium was founded by the Romans. The City of London, London's ancient core − an area of just 1.12 square miles (2.9 km2) and colloquially known as the Square Mile − retains its medieval boundaries.
+      </p>
+    </div>
+    <div class="chapter" name="Berlin" data-lon="13.383333" data-lat="52.516667" data-zoom="7" data-animation="flyto">
+      <h2>Berlin</h2>
+      <img data-title="Berlin" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg">
+      <p>
+        Berlin is the capital and largest city of Germany by both area and population. Its 3,711,930 (2017) inhabitants make it the second most populous city proper of the European Union after London. The city is one of Germany's 16 federal states. It is surrounded by the state of Brandenburg and forms the center of the Berlin/Brandenburg Metropolitan Region, which is, with 6,004,857 (2015) inhabitants and area of 30,370 square km, Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.
+      </p>
+      <div class="ol-scroll-top"><span>Top</span></div>
+    </div>
+  </div>
+  
+  <script type="text/javascript">
+
+  // Two base layers
+  var stamen = new ol.layer.Tile({
+    title: "OSM",
+    baseLayer: true,
+    source: new ol.source.XYZ({ // 2. Create XYZ source
+        url: 'https://mt1.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}'
+      })
+  });
+
+
+  // The map
+  var map = new ol.Map ({
+    target: 'map',
+    view: new ol.View ({
+      zoom: 6,
+      center: [173664, 6166327],
+      padding: [0,0,0,210]
+    }),
+    layers: [stamen]
+  });
+
+  // Add placemark
+  var placemark = new ol.Overlay.Placemark();
+  map.addOverlay (placemark);
+
+  // The storymap
+  var story = new ol.control.Storymap({
+    html: document.getElementById('story'),
+    //target: document.getElementById('story')
+    minibar: true,
+    //className: 'scrollBox'
+  });
+
+  // Show image fullscreen on click
+	var fullscreen = new ol.control.Overlay ({ hideOnClick: true, className: 'zoom' });
+	map.addControl(fullscreen);
+  story.on('clickimage', function(e){
+    console.log(e)
+    fullscreen.showImage(e.img.src, e);
+  });
+
+  // Fly to the chapter on the map
+  story.on('scrollto', function(e){
+    if (e.name==='start') {
+      placemark.hide();
+    } else {
+      placemark.show(e.coordinate);
+    }
+  });
+  map.addControl (story);
+
+  function setClassName(c) {
+    console.log(c)
+    story.element.classList.remove('scrollLine')
+    story.element.classList.remove('scrollBox')
+    if (c) story.element.classList.add(c)
+    window.dispatchEvent(new Event('resize'))
+  }
+  </script>
+  
+</body>
+</html>
