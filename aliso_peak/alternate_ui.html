@@ -59,6 +59,14 @@
     .options a {
       cursor: pointer;
     }
+     /* Hide info for e on map */
+    .ol-control.ol-profile table {
+      display: none;
+    }
+    /* Customize cursor color */
+    .options .ol-profilebar, .options .ol-profilecursor::before {
+      background-color: blue;
+    }
 	  /* github corner */
 a.icss-github-corner,
 a.icss-github-corner-left {
@@ -508,6 +516,149 @@ i.icss-book:after {
     if (c) story.element.classList.add(c)
     window.dispatchEvent(new Event('resize'))
   }
+
+  var profile = new ol.control.Profile();
+  map.addControl(profile);
+  // New profile outside the map
+  var profile2 = new ol.control.Profile({
+    target: document.querySelector(".options"),
+    selectable: true,
+    // zoomable: true,
+    style: new ol.style.Style({
+      fill: new ol.style.Fill({ color: '#ccc' })
+    }),
+    width:400, height:200
+  });
+  map.addControl(profile2);
+
+  // Vector style
+  var style = [	
+    new ol.style.Style({
+      image: new ol.style.RegularShape({
+        radius: 10,
+        radius2: 5,
+        points: 5,
+        fill: new ol.style.Fill({ color: 'blue' })
+      }),
+      stroke: new ol.style.Stroke({
+        color: [255,0,0],
+        width: 2
+      })
+    })
+  ];
+  var selStyle = [	
+    new ol.style.Style({
+      stroke: new ol.style.Stroke({
+        color: [0,0,255],
+        width: 2
+      })
+    })
+  ];
+
+  // Vector layer
+  var source = new ol.source.Vector({
+    //url: '../data/192553.gpx',
+    url: 'aliso_peak.gpx',
+    format: new ol.format.GPX()
+  });
+  var vector = new ol.layer.Vector({
+    source: source,
+    style: function(f) {
+      return (f.get('select') ? selStyle : style);
+    }
+  });
+  map.addLayer(vector);
+
+  // Show feature profile when loaded
+  var pt, feature;
+  source.once('change',function(e) {
+    if (source.getState() === 'ready') {
+      feature = source.getFeatures()[0];
+      profile.setGeometry(feature);
+      profile2.setGeometry(feature, {
+        graduation:250,
+        amplitude:1000,
+        zmin:0
+      });
+      pt = new ol.Feature(new ol.geom.Point([0,0]));
+      pt.setStyle([]);
+      source.addFeature(pt);
+    }
+  });
+
+  // Draw a point on the map when mouse fly over profile
+  function drawPoint(e) {
+    if (!pt) return;
+    if (e.type=="over"){
+      // Show point at coord
+      pt.setGeometry(new ol.geom.Point(e.coord));
+      pt.setStyle(null);
+    } else {
+      // hide point
+      pt.setStyle([]);
+    }
+  };
+  // Show a popup on over
+  profile.on(["over","out"], function(e) {
+    if (e.type=="over") profile.popup(e.coord[2]+" m");
+    drawPoint(e);
+  });
+  // Just draw point
+  profile2.on(["over","out"], drawPoint);
+
+  // Show selection
+  var start = 0;
+  var selection;
+	profile2.on('click', function(e){
+    if (selection) {
+      source.removeFeature(selection);
+      selection = false;
+    }
+  });
+	profile2.on('dragstart', function(e){
+    start = e.index;
+  });
+	profile2.on(['dragend', 'dragging'], function(e){
+    var g = profile2.getSelection(start, e.index);
+    if (selection) {
+      selection.getGeometry().setCoordinates(g);
+    } else {
+      selection = new ol.Feature(new ol.geom.LineString(g));
+      selection.set('select', true);
+      source.addFeature(selection);
+    }
+  });
+  profile2.on('zoom', function(e) {
+    setTimeout(function() {
+      if (selection) source.removeFeature(selection);
+      if (e.geometry) {
+        selection = new ol.Feature(e.geometry);
+        selection.set('select', true);
+        source.addFeature(selection);
+      } else {
+        selection = null;
+      }
+    })
+  });
+
+  // Show on map over
+  var hover = new ol.interaction.Hover({ cursor: "pointer", hitTolerance:10 });
+  map.addInteraction(hover);
+  hover.on("hover", function(e) {
+    // Point on the line
+    var c = feature.getGeometry().getClosestPoint(e.coordinate)
+    drawPoint({ type: "over", coord: c });
+    // Show profile
+    var p = profile.showAt(e.coordinate);
+    profile.popup(p[2]+" m");
+    profile2.showAt(e.coordinate);
+  });
+  hover.on("leave", function(e) {
+    profile.popup();
+    profile.showAt();
+    profile2.showAt();
+    drawPoint({});
+  });
 	   
   </script>
   
