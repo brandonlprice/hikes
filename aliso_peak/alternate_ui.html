@@ -474,7 +474,7 @@ i.icss-book:after {
     target: 'map',
     view: new ol.View ({
       zoom: 16,
-      center: [-13106924.769658,3963324.171467],
+      center: [-13106949.088576214,3963329.162435403],
       padding: [0,0,0,210]
     }),
     layers: [stamen]
@@ -521,7 +521,7 @@ i.icss-book:after {
   var profile = new ol.control.Profile();
   map.addControl(profile);
   // New profile outside the map
-  var profile2 = new ol.control.Profile({
+ /* var profile2 = new ol.control.Profile({
     target: document.querySelector(".options"),
     selectable: true,
     // zoomable: true,
@@ -530,7 +530,7 @@ i.icss-book:after {
     }),
     width:400, height:200
   });
-  map.addControl(profile2);
+  map.addControl(profile2);*/
 
   // Vector style
   var style = [	
@@ -576,11 +576,11 @@ i.icss-book:after {
     if (source.getState() === 'ready') {
       feature = source.getFeatures()[0];
       profile.setGeometry(feature);
-      profile2.setGeometry(feature, {
+     /* profile2.setGeometry(feature, {
         graduation:250,
         amplitude:1000,
         zmin:0
-      });
+      });*/
       pt = new ol.Feature(new ol.geom.Point([0,0]));
       pt.setStyle([]);
       source.addFeature(pt);
@@ -605,12 +605,12 @@ i.icss-book:after {
     drawPoint(e);
   });
   // Just draw point
-  profile2.on(["over","out"], drawPoint);
+ // profile2.on(["over","out"], drawPoint);
 
   // Show selection
   var start = 0;
   var selection;
-	profile2.on('click', function(e){
+	/*profile2.on('click', function(e){
     if (selection) {
       source.removeFeature(selection);
       selection = false;
@@ -640,7 +640,7 @@ i.icss-book:after {
         selection = null;
       }
     })
-  });
+  });*/
 
   // Show on map over
   var hover = new ol.interaction.Hover({ cursor: "pointer", hitTolerance:10 });
@@ -652,12 +652,12 @@ i.icss-book:after {
     // Show profile
     var p = profile.showAt(e.coordinate);
     profile.popup(p[2]+" m");
-    profile2.showAt(e.coordinate);
+    //profile2.showAt(e.coordinate);
   });
   hover.on("leave", function(e) {
     profile.popup();
     profile.showAt();
-    profile2.showAt();
+    //profile2.showAt();
     drawPoint({});
   });
 	   
