@@ -470,9 +470,9 @@ i.icss-book:after {
 
    // Create a vector tile layer for the hybrid reference data
 var hybridLayer = new ol.layer.Tile({
-  source: new ol.source.VectorTile({
+  source: new ol.source.Vector({
     url: 'https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/tile/{z}/{y}/{x}',
-    format: new ol.format.VectorTile({
+    format: new ol.format.Vector({
       // Optional: Specify the feature types or layers you want to include
       //  e.g., 'roads', 'water', 'cities'
       //  For more complex customization, see the ArcGIS Vector Tile Style Editor: https://hub.arcgis.com/maps/esri::hybrid-reference-layer/about
@@ -480,6 +480,7 @@ var hybridLayer = new ol.layer.Tile({
   }),
   zIndex: 1, // Set to a higher value to overlay on the base imagery
 });
+	
   // The map
   var map = new ol.Map ({
     target: 'map',
