@@ -468,8 +468,20 @@ i.icss-book:after {
       })
   });
 
+  const parcelsSource = new ol.source.VectorTile({
+        format: new ol.format.MVT(),
+        url: `https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/tile/{z}/{y}/{x}.pbf`,
+
+        // Attribution text retrieved from https://arcgis.com/home/item.html?id=f0298e881b5b4743bbdf2c7d378acc84
+        attributions: ['| County of Los Angeles Office of the Assessor']
+
+      });
+
+	  const parcelsLayer = new ol.layer.VectorTile({
+        source: parcelsSource
+      });
    // Create a vector tile layer for the hybrid reference data
-var hybridLayer = new ol.layer.Tile({
+/*var hybridLayer = new ol.layer.Tile({
   source: new ol.source.Vector({
     url: 'https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/tile/{z}/{y}/{x}',
     format: new ol.format.Vector({
@@ -479,7 +491,7 @@ var hybridLayer = new ol.layer.Tile({
     }),
   }),
   zIndex: 1, // Set to a higher value to overlay on the base imagery
-});
+});*/
 	
   // The map
   var map = new ol.Map ({
@@ -489,7 +501,7 @@ var hybridLayer = new ol.layer.Tile({
       center: [-13106733.915968,3963462.952443],
       padding: [0,0,0,210]
     }),
-    layers: [stamen, hybridLayer]
+    layers: [stamen, parcelsLayer]
   });
 
   // Add placemark
