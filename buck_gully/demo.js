@@ -5,7 +5,7 @@ let demojs={
 		"call_to_action": false,
 		"show_history_line":false,
 		"zoomify": false,
-		"map_type": "https://nbgis.newportbeachca.gov/arcgis/rest/services/2020AerialsSCAG/MapServer/tile/{z}/{y}/{x}",
+		"map_type": "https://nbgis.newportbeachca.gov/arcgis/rest/services/2020AerialsSCAG/MapServer/tile/{z}/{y}/{x}?blankTile=false",
 		"call_to_action_text": "",
 		"map_as_image": false,
 		"map_subdomains":"xyz",
